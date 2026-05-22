@@ -1,0 +1,94 @@
+{
+  "id": "croatian-sheepdog",
+  "type": "dog",
+  "name": {
+    "en": "Croatian Sheepdog",
+    "zh": "Croatian Sheepdog"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/EtmEHVP7o1.jpg"
+  ],
+  "origin": {
+    "en": "Croatia",
+    "zh": "Croatia"
+  },
+  "history": {
+    "en": "Ancient herding breed believed to have descended from dogs brought by the Croats in the 7th century, developed in eastern regions of Slavonia as versatile farm and herding dog. Referenced in historical documents from 1374, systematic breeding program began in 1935 with FCI recognition granted in 1969.",
+    "zh": "Ancient herding breed believed to have descended from dogs brought by the Croats in the 7th century, developed in eastern regions of Slavonia as versatile farm and herding dog. Referenced in historical documents from 1374, systematic breeding program began in 1935 with FCI recognition granted in 1969."
+  },
+  "stats": {
+    "weight": {
+      "male": "13-20",
+      "female": "13-20"
+    },
+    "height": {
+      "male": "40-50",
+      "female": "40-50"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 80,
+    "loyalty": 75,
+    "intelligence": 66,
+    "friendliness": 65,
+    "energy": 67
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    }
+  ]
+}

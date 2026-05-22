@@ -1,0 +1,94 @@
+{
+  "id": "austrian-black-and-tan-hound",
+  "type": "dog",
+  "name": {
+    "en": "Austrian Black and Tan Hound",
+    "zh": "Austrian Black and Tan Hound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/yWdlGkbiQ.jpg"
+  ],
+  "origin": {
+    "en": "Austria",
+    "zh": "Austria"
+  },
+  "history": {
+    "en": "Descended from ancient Celtic Hounds (Keltenbracke), developed over centuries in Austria from Celtic Hounds and local hunting breeds. Modern form established in mid-19th century as a versatile and durable scenthound for tracking wounded game, primarily hare and fox, in high-altitude Alpine terrain.",
+    "zh": "Descended from ancient Celtic Hounds (Keltenbracke), developed over centuries in Austria from Celtic Hounds and local hunting breeds. Modern form established in mid-19th century as a versatile and durable scenthound for tracking wounded game, primarily hare and fox, in high-altitude Alpine terrain."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 22-27; Female: 20-25",
+      "female": "Male: 22-27; Female: 20-25"
+    },
+    "height": {
+      "male": "48-56",
+      "female": "48-56"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 76,
+    "temperament": 76,
+    "loyalty": 67,
+    "intelligence": 69,
+    "friendliness": 92,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

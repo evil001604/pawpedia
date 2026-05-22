@@ -1,0 +1,82 @@
+{
+  "id": "chausie",
+  "type": "cat",
+  "name": {
+    "en": "Chausie",
+    "zh": "Chausie"
+  },
+  "images": [
+    "/images/breeds/cats/chausie-1.jpg"
+  ],
+  "origin": {
+    "en": "Egypt",
+    "zh": "Egypt"
+  },
+  "history": {
+    "en": "For those owners who desire a feline capable of evoking the great outdoors, the strikingly beautiful Chausie retains a bit of the wild in its appearance but has the house manners of our friendly, familiar moggies. Very playful, this cat needs a large amount of space to be able to fully embrace its hunting instincts.",
+    "zh": "For those owners who desire a feline capable of evoking the great outdoors, the strikingly beautiful Chausie retains a bit of the wild in its appearance but has the house manners of our friendly, familiar moggies. Very playful, this cat needs a large amount of space to be able to fully embrace its hunting instincts."
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 7",
+      "female": "3 - 7"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 14",
+      "zh": "12 - 14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 65,
+    "loyalty": 84,
+    "intelligence": 82,
+    "friendliness": 86,
+    "energy": 53
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    }
+  ]
+}

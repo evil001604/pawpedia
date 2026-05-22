@@ -1,0 +1,94 @@
+{
+  "id": "canadian-eskimo-dog",
+  "type": "dog",
+  "name": {
+    "en": "Canadian Eskimo Dog",
+    "zh": "Canadian Eskimo Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/w1Cal_vrT.jpg"
+  ],
+  "origin": {
+    "en": "Canadian Arctic",
+    "zh": "Canadian Arctic"
+  },
+  "history": {
+    "en": "Ancient aboriginal breed used by the Inuit people of the Canadian Arctic for thousands of years as a multi-purpose working dog for sledding, transportation and hunting. Nearly extinct with introduction of snowmobiles but saved through dedicated preservation and revival efforts.",
+    "zh": "Ancient aboriginal breed used by the Inuit people of the Canadian Arctic for thousands of years as a multi-purpose working dog for sledding, transportation and hunting. Nearly extinct with introduction of snowmobiles but saved through dedicated preservation and revival efforts."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 30-40; Female: 18-30",
+      "female": "Male: 30-40; Female: 18-30"
+    },
+    "height": {
+      "male": "Male: 58-70; Female: 50-60",
+      "female": "Male: 58-70; Female: 50-60"
+    },
+    "lifespan": {
+      "en": "10-15",
+      "zh": "10-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 92,
+    "temperament": 71,
+    "loyalty": 80,
+    "intelligence": 80,
+    "friendliness": 65,
+    "energy": 69
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

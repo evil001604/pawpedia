@@ -1,0 +1,86 @@
+{
+  "id": "sphynx",
+  "type": "cat",
+  "name": {
+    "en": "Sphynx",
+    "zh": "Sphynx"
+  },
+  "images": [
+    "/images/breeds/cats/sphynx-1.jpg"
+  ],
+  "origin": {
+    "en": "Canada",
+    "zh": "Canada"
+  },
+  "history": {
+    "en": "The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.",
+    "zh": "The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression."
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 5",
+      "female": "3 - 5"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 14",
+      "zh": "12 - 14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 65,
+    "temperament": 84,
+    "loyalty": 65,
+    "intelligence": 84,
+    "friendliness": 62,
+    "energy": 74
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "Inquisitive",
+      "zh": "Inquisitive"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "Quiet",
+      "zh": "Quiet"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    }
+  ]
+}

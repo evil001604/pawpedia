@@ -1,0 +1,94 @@
+{
+  "id": "cairn-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Cairn Terrier",
+    "zh": "Cairn Terrier"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/0LJiOVlxp.jpg"
+  ],
+  "origin": {
+    "en": "Scotland",
+    "zh": "Scotland"
+  },
+  "history": {
+    "en": "Developed on the Isle of Skye in Scotland, one of the oldest terrier breeds. Originally used by farmers in the Scottish Highlands to hunt and flush out foxes and vermin from rock piles (cairns), which gave the breed its name. Recognized by the AKC in 1913.",
+    "zh": "Developed on the Isle of Skye in Scotland, one of the oldest terrier breeds. Originally used by farmers in the Scottish Highlands to hunt and flush out foxes and vermin from rock piles (cairns), which gave the breed its name. Recognized by the AKC in 1913."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 6-7.5; Female: 6-7",
+      "female": "Male: 6-7.5; Female: 6-7"
+    },
+    "height": {
+      "male": "Male: 25-28; Female: 24-27",
+      "female": "Male: 25-28; Female: 24-27"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 93,
+    "loyalty": 86,
+    "intelligence": 91,
+    "friendliness": 91,
+    "energy": 73
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    }
+  ]
+}

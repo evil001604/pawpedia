@@ -1,0 +1,90 @@
+{
+  "id": "barak-hound",
+  "type": "dog",
+  "name": {
+    "en": "Barak Hound",
+    "zh": "Barak Hound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/4WiUpv_4W.jpg"
+  ],
+  "origin": {
+    "en": "Bosnia and Herzegovina",
+    "zh": "Bosnia and Herzegovina"
+  },
+  "history": {
+    "en": "Descended from local hounds in the Balkans, developed for hunting wild boar and game in mountainous terrain. Recognized by FCI as the Bosnian Coarse-haired Hound (Bosanski Oštrodlaki Gonič – Barak)",
+    "zh": "Descended from local hounds in the Balkans, developed for hunting wild boar and game in mountainous terrain. Recognized by FCI as the Bosnian Coarse-haired Hound (Bosanski Oštrodlaki Gonič – Barak)"
+  },
+  "stats": {
+    "weight": {
+      "male": "17-25",
+      "female": "17-25"
+    },
+    "height": {
+      "male": "Male: 51-56; Female: 48-53",
+      "female": "Male: 51-56; Female: 48-53"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 88,
+    "temperament": 81,
+    "loyalty": 88,
+    "intelligence": 72,
+    "friendliness": 74,
+    "energy": 90
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    }
+  ]
+}

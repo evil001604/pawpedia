@@ -1,0 +1,94 @@
+{
+  "id": "bedlington-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Bedlington Terrier",
+    "zh": "Bedlington Terrier"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/BQX_0_22x.jpg"
+  ],
+  "origin": {
+    "en": "England (Northumberland)",
+    "zh": "England (Northumberland)"
+  },
+  "history": {
+    "en": "Developed in Bedlington, Northumberland in the early 19th century for hunting vermin in mines and farms. Known as the 'Gypsy Dog' due to use by poachers. Lineage includes Dandie Dinmont Terrier, Whippet, and Otterhound crosses. Recognized by The Kennel Club in 1877 and AKC in 1886.",
+    "zh": "Developed in Bedlington, Northumberland in the early 19th century for hunting vermin in mines and farms. Known as the 'Gypsy Dog' due to use by poachers. Lineage includes Dandie Dinmont Terrier, Whippet, and Otterhound crosses. Recognized by The Kennel Club in 1877 and AKC in 1886."
+  },
+  "stats": {
+    "weight": {
+      "male": "8-10",
+      "female": "8-10"
+    },
+    "height": {
+      "male": "Male: 41-44; Female: 38-42",
+      "female": "Male: 41-44; Female: 38-42"
+    },
+    "lifespan": {
+      "en": "11-16",
+      "zh": "11-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 70,
+    "temperament": 90,
+    "loyalty": 87,
+    "intelligence": 83,
+    "friendliness": 84,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "burmilla",
+  "type": "cat",
+  "name": {
+    "en": "Burmilla",
+    "zh": "Burmilla"
+  },
+  "images": [
+    "/images/breeds/cats/burmilla-1.jpg"
+  ],
+  "origin": {
+    "en": "United Kingdom",
+    "zh": "United Kingdom"
+  },
+  "history": {
+    "en": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
+    "zh": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company."
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 6",
+      "female": "3 - 6"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "10 - 15",
+      "zh": "10 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 81,
+    "temperament": 87,
+    "loyalty": 84,
+    "intelligence": 90,
+    "friendliness": 69,
+    "energy": 64
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Easy Going",
+      "zh": "Easy Going"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Lively",
+      "zh": "Lively"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    }
+  ]
+}

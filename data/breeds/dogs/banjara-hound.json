@@ -1,0 +1,90 @@
+{
+  "id": "banjara-hound",
+  "type": "dog",
+  "name": {
+    "en": "Banjara Hound",
+    "zh": "Banjara Hound"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/LZ3fo6EEPD.jpg"
+  ],
+  "origin": {
+    "en": "India",
+    "zh": "India"
+  },
+  "history": {
+    "en": "Ancient landrace sighthound developed by the Banjara nomadic tribes of India, primarily in the Maharashtra region. For centuries bred for hunting deer, hare, and medium game over open terrain, also serving as flock guardian and family protector. Not recognized by major international kennel clubs but established in regional registries.",
+    "zh": "Ancient landrace sighthound developed by the Banjara nomadic tribes of India, primarily in the Maharashtra region. For centuries bred for hunting deer, hare, and medium game over open terrain, also serving as flock guardian and family protector. Not recognized by major international kennel clubs but established in regional registries."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-35; Female: 22-30",
+      "female": "Male: 25-35; Female: 22-30"
+    },
+    "height": {
+      "male": "Male: 66-76; Female: 61-71",
+      "female": "Male: 66-76; Female: 61-71"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 73,
+    "temperament": 71,
+    "loyalty": 92,
+    "intelligence": 73,
+    "friendliness": 94,
+    "energy": 67
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    }
+  ]
+}

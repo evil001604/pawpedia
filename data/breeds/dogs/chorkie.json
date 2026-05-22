@@ -1,0 +1,98 @@
+{
+  "id": "chorkie",
+  "type": "dog",
+  "name": {
+    "en": "Chorkie",
+    "zh": "Chorkie"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/4NWunSWE1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Popular designer crossbreed developed in the late 20th century (likely 1990s) in the United States by intentionally crossing Chihuahua and Yorkshire Terrier to create a small, loyal companion dog with spirited temperament",
+    "zh": "Popular designer crossbreed developed in the late 20th century (likely 1990s) in the United States by intentionally crossing Chihuahua and Yorkshire Terrier to create a small, loyal companion dog with spirited temperament"
+  },
+  "stats": {
+    "weight": {
+      "male": "1.8-4.5",
+      "female": "1.8-4.5"
+    },
+    "height": {
+      "male": "15-23",
+      "female": "15-23"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 70,
+    "temperament": 71,
+    "loyalty": 78,
+    "intelligence": 86,
+    "friendliness": 82,
+    "energy": 92
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    }
+  ]
+}

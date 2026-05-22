@@ -1,0 +1,98 @@
+{
+  "id": "bearded-collie",
+  "type": "dog",
+  "name": {
+    "en": "Bearded Collie",
+    "zh": "Bearded Collie"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/6kOWrryau.jpg"
+  ],
+  "origin": {
+    "en": "Scotland",
+    "zh": "Scotland"
+  },
+  "history": {
+    "en": "Ancient Scottish herding breed developed to drive sheep and cattle in harsh Highland conditions, bred for hardiness, intelligence, and ability to work independently. Nearly extinct after World War II but revived through careful breeding programs. Recognized by Kennel Club in 1959 and AKC in 1977.",
+    "zh": "Ancient Scottish herding breed developed to drive sheep and cattle in harsh Highland conditions, bred for hardiness, intelligence, and ability to work independently. Nearly extinct after World War II but revived through careful breeding programs. Recognized by Kennel Club in 1959 and AKC in 1977."
+  },
+  "stats": {
+    "weight": {
+      "male": "20-25",
+      "female": "20-25"
+    },
+    "height": {
+      "male": "Male: 53-56; Female: 51-53",
+      "female": "Male: 53-56; Female: 51-53"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 87,
+    "temperament": 87,
+    "loyalty": 74,
+    "intelligence": 70,
+    "friendliness": 69,
+    "energy": 94
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    }
+  ]
+}

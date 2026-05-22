@@ -1,0 +1,94 @@
+{
+  "id": "black-norwegian-elkhound",
+  "type": "dog",
+  "name": {
+    "en": "Black Norwegian Elkhound",
+    "zh": "Black Norwegian Elkhound"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/4M5XlKU99y.jpg"
+  ],
+  "origin": {
+    "en": "Norway",
+    "zh": "Norway"
+  },
+  "history": {
+    "en": "Ancient Norwegian spitz breed developed over centuries as a versatile hunter of large game such as elk, moose, and bear in rugged Scandinavian terrain. Smaller and less common than the Gray Norwegian Elkhound, also served as a watchdog. Recognized by the FCI but not the AKC as of 2024.",
+    "zh": "Ancient Norwegian spitz breed developed over centuries as a versatile hunter of large game such as elk, moose, and bear in rugged Scandinavian terrain. Smaller and less common than the Gray Norwegian Elkhound, also served as a watchdog. Recognized by the FCI but not the AKC as of 2024."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-25; Female: 18-23",
+      "female": "Male: 20-25; Female: 18-23"
+    },
+    "height": {
+      "male": "Male: 46-50; Female: 43-47",
+      "female": "Male: 46-50; Female: 43-47"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 83,
+    "temperament": 73,
+    "loyalty": 83,
+    "intelligence": 72,
+    "friendliness": 84,
+    "energy": 82
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

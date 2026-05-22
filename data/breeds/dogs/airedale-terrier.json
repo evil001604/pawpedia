@@ -1,0 +1,94 @@
+{
+  "id": "airedale-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Airedale Terrier",
+    "zh": "Airedale Terrier"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/S1_8kx5Nm_1280.jpg"
+  ],
+  "origin": {
+    "en": "Yorkshire, England",
+    "zh": "Yorkshire, England"
+  },
+  "history": {
+    "en": "Developed in the Aire Valley of Yorkshire, England, by crossing Otterhounds with various terrier breeds. Originally bred by working-class fanciers to hunt otters and rats, their intelligence and courage led to their use as police dogs, war dogs, and all-around companions.",
+    "zh": "Developed in the Aire Valley of Yorkshire, England, by crossing Otterhounds with various terrier breeds. Originally bred by working-class fanciers to hunt otters and rats, their intelligence and courage led to their use as police dogs, war dogs, and all-around companions."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 23-32; Female: 18-25",
+      "female": "Male: 23-32; Female: 18-25"
+    },
+    "height": {
+      "male": "Male: 58-61; Female: 56-58",
+      "female": "Male: 58-61; Female: 56-58"
+    },
+    "lifespan": {
+      "en": "11-14",
+      "zh": "11-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 75,
+    "temperament": 68,
+    "loyalty": 83,
+    "intelligence": 90,
+    "friendliness": 92,
+    "energy": 83
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Confident",
+      "zh": "Confident"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    }
+  ]
+}

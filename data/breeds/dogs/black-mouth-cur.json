@@ -1,0 +1,94 @@
+{
+  "id": "black-mouth-cur",
+  "type": "dog",
+  "name": {
+    "en": "Black Mouth Cur",
+    "zh": "Black Mouth Cur"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/GxmoWNpZqN.jpg"
+  ],
+  "origin": {
+    "en": "Southern United States",
+    "zh": "Southern United States"
+  },
+  "history": {
+    "en": "Developed in the southern United States as versatile pioneer and farm dog for herding cattle and hogs protecting homestead and hunting variety of game from squirrels to bears valued for stamina and reliability",
+    "zh": "Developed in the southern United States as versatile pioneer and farm dog for herding cattle and hogs protecting homestead and hunting variety of game from squirrels to bears valued for stamina and reliability"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 18-43; Female: 16-36",
+      "female": "Male: 18-43; Female: 16-36"
+    },
+    "height": {
+      "male": "Male: 46-64; Female: 41-58",
+      "female": "Male: 46-64; Female: 41-58"
+    },
+    "lifespan": {
+      "en": "12-16",
+      "zh": "12-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 71,
+    "loyalty": 74,
+    "intelligence": 75,
+    "friendliness": 88,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ca-rater-mallorqu",
+  "type": "dog",
+  "name": {
+    "en": "Ca Rater Mallorquí",
+    "zh": "Ca Rater Mallorquí"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/cmVJgX9tx.jpg"
+  ],
+  "origin": {
+    "en": "Mallorca, Balearic Islands, Spain",
+    "zh": "Mallorca, Balearic Islands, Spain"
+  },
+  "history": {
+    "en": "Developed on the Spanish island of Mallorca specifically for controlling rats and other vermin in farms, stables, and households. Used for centuries due to its small size and agility to pursue prey into tight spaces. Provisionally recognized by the FCI and recognized as a native Spanish breed.",
+    "zh": "Developed on the Spanish island of Mallorca specifically for controlling rats and other vermin in farms, stables, and households. Used for centuries due to its small size and agility to pursue prey into tight spaces. Provisionally recognized by the FCI and recognized as a native Spanish breed."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 10-15; Female: 8-13",
+      "female": "Male: 10-15; Female: 8-13"
+    },
+    "height": {
+      "male": "Male: 30-38; Female: 29-36",
+      "female": "Male: 30-38; Female: 29-36"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 75,
+    "loyalty": 77,
+    "intelligence": 94,
+    "friendliness": 70,
+    "energy": 92
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    }
+  ]
+}

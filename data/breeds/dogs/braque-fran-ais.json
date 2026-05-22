@@ -1,0 +1,90 @@
+{
+  "id": "braque-fran-ais",
+  "type": "dog",
+  "name": {
+    "en": "Braque Français",
+    "zh": "Braque Français"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/BW9WnXl3E.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Ancient French pointing breed dating to 15th century with two distinct varieties: the larger Gascogne and smaller Pyrenean. Descended from one of the oldest pointing-type dogs prized as versatile and biddable hunting companion",
+    "zh": "Ancient French pointing breed dating to 15th century with two distinct varieties: the larger Gascogne and smaller Pyrenean. Descended from one of the oldest pointing-type dogs prized as versatile and biddable hunting companion"
+  },
+  "stats": {
+    "weight": {
+      "male": "18-25",
+      "female": "18-25"
+    },
+    "height": {
+      "male": "Male: 47-58; Female: 47-56",
+      "female": "Male: 47-58; Female: 47-56"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 94,
+    "temperament": 89,
+    "loyalty": 69,
+    "intelligence": 79,
+    "friendliness": 75,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

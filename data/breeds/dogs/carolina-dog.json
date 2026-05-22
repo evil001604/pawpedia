@@ -1,0 +1,94 @@
+{
+  "id": "carolina-dog",
+  "type": "dog",
+  "name": {
+    "en": "Carolina Dog",
+    "zh": "Carolina Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/XyPrtzWMn.jpg"
+  ],
+  "origin": {
+    "en": "Southeastern United States",
+    "zh": "Southeastern United States"
+  },
+  "history": {
+    "en": "Primitive landrace breed descended from ancient dogs that accompanied early human migrations across the Bering land bridge. Discovered living as free-roaming population in cypress swamps of South Carolina and Georgia by Dr. I. Lehr Brisbin Jr. Recognized by UKC and seeking AKC recognition.",
+    "zh": "Primitive landrace breed descended from ancient dogs that accompanied early human migrations across the Bering land bridge. Discovered living as free-roaming population in cypress swamps of South Carolina and Georgia by Dr. I. Lehr Brisbin Jr. Recognized by UKC and seeking AKC recognition."
+  },
+  "stats": {
+    "weight": {
+      "male": "14-25",
+      "female": "14-25"
+    },
+    "height": {
+      "male": "Male: 46-51; Female: 43-48",
+      "female": "Male: 46-51; Female: 43-48"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 76,
+    "loyalty": 90,
+    "intelligence": 69,
+    "friendliness": 82,
+    "energy": 69
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    }
+  ]
+}

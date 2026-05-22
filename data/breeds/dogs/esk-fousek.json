@@ -1,0 +1,94 @@
+{
+  "id": "esk-fousek",
+  "type": "dog",
+  "name": {
+    "en": "Český fousek",
+    "zh": "Český fousek"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/E_HPfvAnX.jpg"
+  ],
+  "origin": {
+    "en": "Czech Republic",
+    "zh": "Czech Republic"
+  },
+  "history": {
+    "en": "One of the oldest Czech hunting breeds, the Český fousek nearly became extinct after the World Wars but was restored in the 1960s through careful breeding programs using remaining typical specimens",
+    "zh": "One of the oldest Czech hunting breeds, the Český fousek nearly became extinct after the World Wars but was restored in the 1960s through careful breeding programs using remaining typical specimens"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 28-34; Female: 22-28",
+      "female": "Male: 28-34; Female: 22-28"
+    },
+    "height": {
+      "male": "Male: 60-66; Female: 57-62",
+      "female": "Male: 60-66; Female: 57-62"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 77,
+    "temperament": 76,
+    "loyalty": 82,
+    "intelligence": 87,
+    "friendliness": 67,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

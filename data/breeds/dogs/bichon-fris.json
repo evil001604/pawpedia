@@ -1,0 +1,94 @@
+{
+  "id": "bichon-fris",
+  "type": "dog",
+  "name": {
+    "en": "Bichon Frisé",
+    "zh": "Bichon Frisé"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/WsN7xOoRZ.jpg"
+  ],
+  "origin": {
+    "en": "France / Belgium",
+    "zh": "France / Belgium"
+  },
+  "history": {
+    "en": "Descended from the Barbet, a Mediterranean water spaniel. The breed was developed in France and became a popular companion dog for European nobility. The modern breed standard was established in France after World War I.",
+    "zh": "Descended from the Barbet, a Mediterranean water spaniel. The breed was developed in France and became a popular companion dog for European nobility. The modern breed standard was established in France after World War I."
+  },
+  "stats": {
+    "weight": {
+      "male": "5-8",
+      "female": "5-8"
+    },
+    "height": {
+      "male": "24-29",
+      "female": "24-29"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 86,
+    "temperament": 78,
+    "loyalty": 91,
+    "intelligence": 78,
+    "friendliness": 82,
+    "energy": 67
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Happy",
+      "zh": "Happy"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "berger-picard",
+  "type": "dog",
+  "name": {
+    "en": "Berger Picard",
+    "zh": "Berger Picard"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/LCIHIJJa7t.jpg"
+  ],
+  "origin": {
+    "en": "Picardy, France",
+    "zh": "Picardy, France"
+  },
+  "history": {
+    "en": "Ancient French herding breed from Picardy region, considered one of the oldest French sheepdogs. Nearly extinct after World Wars but restored by dedicated breeders.",
+    "zh": "Ancient French herding breed from Picardy region, considered one of the oldest French sheepdogs. Nearly extinct after World Wars but restored by dedicated breeders."
+  },
+  "stats": {
+    "weight": {
+      "male": "23-32",
+      "female": "23-32"
+    },
+    "height": {
+      "male": "Male: 60-65; Female: 55-60",
+      "female": "Male: 60-65; Female: 55-60"
+    },
+    "lifespan": {
+      "en": "12-13",
+      "zh": "12-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 80,
+    "loyalty": 72,
+    "intelligence": 72,
+    "friendliness": 83,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

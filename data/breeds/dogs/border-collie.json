@@ -1,0 +1,94 @@
+{
+  "id": "border-collie",
+  "type": "dog",
+  "name": {
+    "en": "Border Collie",
+    "zh": "Border Collie"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/M9euOJSBd.jpg"
+  ],
+  "origin": {
+    "en": "Anglo-Scottish border region",
+    "zh": "Anglo-Scottish border region"
+  },
+  "history": {
+    "en": "Developed by shepherds on the border of England and Scotland for herding sheep in hilly terrain, refined through selective breeding for working ability. The breed's lineage can be traced back to a single dog named Old Hemp, born in 1893.",
+    "zh": "Developed by shepherds on the border of England and Scotland for herding sheep in hilly terrain, refined through selective breeding for working ability. The breed's lineage can be traced back to a single dog named Old Hemp, born in 1893."
+  },
+  "stats": {
+    "weight": {
+      "male": "14-25",
+      "female": "14-25"
+    },
+    "height": {
+      "male": "Male: 48-56; Female: 46-53",
+      "female": "Male: 48-56; Female: 46-53"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 74,
+    "temperament": 86,
+    "loyalty": 79,
+    "intelligence": 68,
+    "friendliness": 65,
+    "energy": 85
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    }
+  ]
+}

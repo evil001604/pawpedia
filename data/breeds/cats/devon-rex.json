@@ -1,0 +1,86 @@
+{
+  "id": "devon-rex",
+  "type": "cat",
+  "name": {
+    "en": "Devon Rex",
+    "zh": "Devon Rex"
+  },
+  "images": [
+    "https://cdn2.thecatapi.com/images/4RzEwvyzz.jpg"
+  ],
+  "origin": {
+    "en": "United Kingdom",
+    "zh": "United Kingdom"
+  },
+  "history": {
+    "en": "The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike.",
+    "zh": "The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike."
+  },
+  "stats": {
+    "weight": {
+      "male": "2 - 5",
+      "female": "2 - 5"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "10 - 15",
+      "zh": "10 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 78,
+    "temperament": 82,
+    "loyalty": 78,
+    "intelligence": 89,
+    "friendliness": 71,
+    "energy": 53
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Highly interactive",
+      "zh": "Highly interactive"
+    },
+    {
+      "en": "Mischievous",
+      "zh": "Mischievous"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    }
+  ]
+}

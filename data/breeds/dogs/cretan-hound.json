@@ -1,0 +1,98 @@
+{
+  "id": "cretan-hound",
+  "type": "dog",
+  "name": {
+    "en": "Cretan Hound",
+    "zh": "Cretan Hound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/r1Ylge5Vm_1280.jpg"
+  ],
+  "origin": {
+    "en": "Crete, Greece",
+    "zh": "Crete, Greece"
+  },
+  "history": {
+    "en": "Ancient Hellenic breed native to the Greek island of Crete, with depictions dating back over 4,000 years. Developed for hunting hare and wild rabbits over harsh, rocky terrain. Regarded as one of the oldest European hounds and recognized provisionally by the FCI.",
+    "zh": "Ancient Hellenic breed native to the Greek island of Crete, with depictions dating back over 4,000 years. Developed for hunting hare and wild rabbits over harsh, rocky terrain. Regarded as one of the oldest European hounds and recognized provisionally by the FCI."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 15-25; Female: 15-23",
+      "female": "Male: 15-25; Female: 15-23"
+    },
+    "height": {
+      "male": "Male: 52-60; Female: 50-58",
+      "female": "Male: 52-60; Female: 50-58"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 78,
+    "loyalty": 86,
+    "intelligence": 92,
+    "friendliness": 77,
+    "energy": 92
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

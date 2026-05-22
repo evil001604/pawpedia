@@ -1,0 +1,90 @@
+{
+  "id": "dalmadoodle",
+  "type": "dog",
+  "name": {
+    "en": "Dalmadoodle",
+    "zh": "Dalmadoodle"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/mFiuFIyvhH.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Modern designer crossbreed developed by mixing a Dalmatian with a Standard Poodle to combine the Dalmatian's distinctive appearance and athletic ability with the Poodle's intelligence and potentially hypoallergenic coat. Not recognized by major kennel clubs.",
+    "zh": "Modern designer crossbreed developed by mixing a Dalmatian with a Standard Poodle to combine the Dalmatian's distinctive appearance and athletic ability with the Poodle's intelligence and potentially hypoallergenic coat. Not recognized by major kennel clubs."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-32; Female: 20-29",
+      "female": "Male: 20-32; Female: 20-29"
+    },
+    "height": {
+      "male": "Male: 51-61; Female: 48-58",
+      "female": "Male: 51-61; Female: 48-58"
+    },
+    "lifespan": {
+      "en": "11-15",
+      "zh": "11-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 71,
+    "temperament": 71,
+    "loyalty": 70,
+    "intelligence": 70,
+    "friendliness": 72,
+    "energy": 65
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

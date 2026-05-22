@@ -1,0 +1,94 @@
+{
+  "id": "briard",
+  "type": "dog",
+  "name": {
+    "en": "Briard",
+    "zh": "Briard"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/KlKFRG3Ko.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Ancient French herding breed developed for centuries to herd and guard flocks. Served as sentries, messengers, and pack animals for the French army during World War I. Nearly extinct after World War II but successfully revived. Recognized by the AKC in 1928.",
+    "zh": "Ancient French herding breed developed for centuries to herd and guard flocks. Served as sentries, messengers, and pack animals for the French army during World War I. Nearly extinct after World War II but successfully revived. Recognized by the AKC in 1928."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 32-45; Female: 23-29",
+      "female": "Male: 32-45; Female: 23-29"
+    },
+    "height": {
+      "male": "Male: 58-69; Female: 56-65",
+      "female": "Male: 58-69; Female: 56-65"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 72,
+    "temperament": 68,
+    "loyalty": 80,
+    "intelligence": 83,
+    "friendliness": 76,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    }
+  ]
+}

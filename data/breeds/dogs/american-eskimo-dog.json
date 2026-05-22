@@ -1,0 +1,94 @@
+{
+  "id": "american-eskimo-dog",
+  "type": "dog",
+  "name": {
+    "en": "American Eskimo Dog",
+    "zh": "American Eskimo Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/H1LsFdnrm_1280.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Descended from white German Spitz dogs brought to America by German immigrants. Name changed from German Spitz to American Eskimo Dog during World War I due to anti-German sentiment. Became popular circus performers in the 19th and early 20th centuries, recognized by AKC in 1994",
+    "zh": "Descended from white German Spitz dogs brought to America by German immigrants. Name changed from German Spitz to American Eskimo Dog during World War I due to anti-German sentiment. Became popular circus performers in the 19th and early 20th centuries, recognized by AKC in 1994"
+  },
+  "stats": {
+    "weight": {
+      "male": "3-16",
+      "female": "3-16"
+    },
+    "height": {
+      "male": "23-48",
+      "female": "23-48"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 65,
+    "temperament": 70,
+    "loyalty": 78,
+    "intelligence": 76,
+    "friendliness": 68,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "american-cocker-spaniel",
+  "type": "dog",
+  "name": {
+    "en": "American Cocker Spaniel",
+    "zh": "American Cocker Spaniel"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/YbXK-k96Y.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Developed in the United States from English Cocker Spaniels brought over in the late 1800s. American breeders selected for smaller size, more refined head, and heavier coat for woodcock hunting, leading to recognition as a separate breed by the AKC in 1946",
+    "zh": "Developed in the United States from English Cocker Spaniels brought over in the late 1800s. American breeders selected for smaller size, more refined head, and heavier coat for woodcock hunting, leading to recognition as a separate breed by the AKC in 1946"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 11-14; Female: 9-11",
+      "female": "Male: 11-14; Female: 9-11"
+    },
+    "height": {
+      "male": "Male: 37-39; Female: 34-37",
+      "female": "Male: 37-39; Female: 34-37"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 75,
+    "temperament": 81,
+    "loyalty": 70,
+    "intelligence": 76,
+    "friendliness": 77,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "smart",
+      "zh": "smart"
+    },
+    {
+      "en": "happy",
+      "zh": "happy"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

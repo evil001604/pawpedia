@@ -1,0 +1,90 @@
+{
+  "id": "cirneco-dell-etna",
+  "type": "dog",
+  "name": {
+    "en": "Cirneco dell'Etna",
+    "zh": "Cirneco dell'Etna"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/oSY0Rc4R3g.jpg"
+  ],
+  "origin": {
+    "en": "Sicily, Italy",
+    "zh": "Sicily, Italy"
+  },
+  "history": {
+    "en": "Ancient Sicilian breed developed for rabbit hunting on Mount Etna's rugged volcanic terrain for over 2,500 years. Nearly extinct, the breed was revived in the 20th century and is now recognized by FCI and AKC Foundation Stock Service.",
+    "zh": "Ancient Sicilian breed developed for rabbit hunting on Mount Etna's rugged volcanic terrain for over 2,500 years. Nearly extinct, the breed was revived in the 20th century and is now recognized by FCI and AKC Foundation Stock Service."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 10-12; Female: 8-10",
+      "female": "Male: 10-12; Female: 8-10"
+    },
+    "height": {
+      "male": "Male: 46-50; Female: 42-46",
+      "female": "Male: 46-50; Female: 42-46"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 86,
+    "temperament": 75,
+    "loyalty": 69,
+    "intelligence": 67,
+    "friendliness": 82,
+    "energy": 75
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    }
+  ]
+}

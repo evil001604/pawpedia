@@ -1,0 +1,90 @@
+{
+  "id": "catalan-sheepdog",
+  "type": "dog",
+  "name": {
+    "en": "Catalan Sheepdog",
+    "zh": "Catalan Sheepdog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/phlG3kw1K_1280.jpg"
+  ],
+  "origin": {
+    "en": "Catalonia, Spain",
+    "zh": "Catalonia, Spain"
+  },
+  "history": {
+    "en": "Ancient herding breed developed in the Catalan Pyrenees for managing sheep and goats. Used as messengers and sentinels during Spanish Civil War. Nearly extinct afterward but restored through dedicated breeding programs in the 1970s.",
+    "zh": "Ancient herding breed developed in the Catalan Pyrenees for managing sheep and goats. Used as messengers and sentinels during Spanish Civil War. Nearly extinct afterward but restored through dedicated breeding programs in the 1970s."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-28; Female: 17-21",
+      "female": "Male: 20-28; Female: 17-21"
+    },
+    "height": {
+      "male": "Male: 47-55; Female: 45-53",
+      "female": "Male: 47-55; Female: 45-53"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 82,
+    "temperament": 88,
+    "loyalty": 69,
+    "intelligence": 87,
+    "friendliness": 72,
+    "energy": 76
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    }
+  ]
+}

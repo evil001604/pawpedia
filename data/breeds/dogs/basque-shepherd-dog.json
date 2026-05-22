@@ -1,0 +1,94 @@
+{
+  "id": "basque-shepherd-dog",
+  "type": "dog",
+  "name": {
+    "en": "Basque Shepherd Dog",
+    "zh": "Basque Shepherd Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/S1FXVTpV7.gif"
+  ],
+  "origin": {
+    "en": "Basque Country (Spain and France)",
+    "zh": "Basque Country (Spain and France)"
+  },
+  "history": {
+    "en": "An ancient landrace breed developed by shepherds in the Basque region for herding and protecting livestock in mountainous terrain. Faced near extinction in the 20th century but was revived by dedicated breeders, leading to official recognition by the Real Sociedad Canina de España in 1995 and inclusion in AKC's Foundation Stock Service.",
+    "zh": "An ancient landrace breed developed by shepherds in the Basque region for herding and protecting livestock in mountainous terrain. Faced near extinction in the 20th century but was revived by dedicated breeders, leading to official recognition by the Real Sociedad Canina de España in 1995 and inclusion in AKC's Foundation Stock Service."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 18-36; Female: 17-30",
+      "female": "Male: 18-36; Female: 17-30"
+    },
+    "height": {
+      "male": "Male: 47-61; Female: 43-59",
+      "female": "Male: 47-61; Female: 43-59"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 88,
+    "temperament": 68,
+    "loyalty": 88,
+    "intelligence": 70,
+    "friendliness": 83,
+    "energy": 92
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    }
+  ]
+}

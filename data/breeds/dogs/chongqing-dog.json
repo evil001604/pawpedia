@@ -1,0 +1,90 @@
+{
+  "id": "chongqing-dog",
+  "type": "dog",
+  "name": {
+    "en": "Chongqing Dog",
+    "zh": "Chongqing Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/6QYAhbAWq.jpg"
+  ],
+  "origin": {
+    "en": "Chongqing, China",
+    "zh": "Chongqing, China"
+  },
+  "history": {
+    "en": "Ancient Chinese breed from Chongqing and Sichuan provinces, traditionally used for hunting and guard work. Nearly extinct but undergoing revival efforts, with breed standards established by regional Chinese registries.",
+    "zh": "Ancient Chinese breed from Chongqing and Sichuan provinces, traditionally used for hunting and guard work. Nearly extinct but undergoing revival efforts, with breed standards established by regional Chinese registries."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 15-25; Female: 12-20",
+      "female": "Male: 15-25; Female: 12-20"
+    },
+    "height": {
+      "male": "Male: 38-50; Female: 35-46",
+      "female": "Male: 38-50; Female: 35-46"
+    },
+    "lifespan": {
+      "en": "10-13",
+      "zh": "10-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 92,
+    "loyalty": 82,
+    "intelligence": 93,
+    "friendliness": 66,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Utility",
+      "zh": "Utility"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    }
+  ]
+}

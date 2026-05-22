@@ -1,0 +1,90 @@
+{
+  "id": "borzoi",
+  "type": "dog",
+  "name": {
+    "en": "Borzoi",
+    "zh": "Borzoi"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/h23HQAljB_1280.jpg"
+  ],
+  "origin": {
+    "en": "Russia",
+    "zh": "Russia"
+  },
+  "history": {
+    "en": "Developed by Russian aristocracy in the 17th century for coursing wolves and other game. Also known as Russian Wolfhound until 1936. Numbers dwindled after the Russian Revolution but were preserved by fanciers outside Russia.",
+    "zh": "Developed by Russian aristocracy in the 17th century for coursing wolves and other game. Also known as Russian Wolfhound until 1936. Numbers dwindled after the Russian Revolution but were preserved by fanciers outside Russia."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 34-48; Female: 27-39",
+      "female": "Male: 34-48; Female: 27-39"
+    },
+    "height": {
+      "male": "Male: 71-81; Female: 66-76",
+      "female": "Male: 71-81; Female: 66-76"
+    },
+    "lifespan": {
+      "en": "9-14",
+      "zh": "9-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 76,
+    "temperament": 90,
+    "loyalty": 76,
+    "intelligence": 94,
+    "friendliness": 73,
+    "energy": 65
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

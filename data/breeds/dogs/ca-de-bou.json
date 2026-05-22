@@ -1,0 +1,90 @@
+{
+  "id": "ca-de-bou",
+  "type": "dog",
+  "name": {
+    "en": "Ca de Bou",
+    "zh": "Ca de Bou"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/By4A-eqVX_1280.jpg"
+  ],
+  "origin": {
+    "en": "Majorca, Balearic Islands, Spain",
+    "zh": "Majorca, Balearic Islands, Spain"
+  },
+  "history": {
+    "en": "Ancient breed descended from Iberian Mastiff and English Bulldogs brought to the Balearic Islands. Originally used for bull-baiting and as a farm guard dog, the breed nearly faced extinction after blood sports were banned but was revived by dedicated Spanish breeders in the 20th century.",
+    "zh": "Ancient breed descended from Iberian Mastiff and English Bulldogs brought to the Balearic Islands. Originally used for bull-baiting and as a farm guard dog, the breed nearly faced extinction after blood sports were banned but was revived by dedicated Spanish breeders in the 20th century."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 35-38; Female: 30-34",
+      "female": "Male: 35-38; Female: 30-34"
+    },
+    "height": {
+      "male": "Male: 55-58; Female: 52-55",
+      "female": "Male: 55-58; Female: 52-55"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 79,
+    "loyalty": 93,
+    "intelligence": 77,
+    "friendliness": 72,
+    "energy": 74
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Calm",
+      "zh": "Calm"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    }
+  ]
+}

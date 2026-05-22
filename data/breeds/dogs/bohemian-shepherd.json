@@ -1,0 +1,102 @@
+{
+  "id": "bohemian-shepherd",
+  "type": "dog",
+  "name": {
+    "en": "Bohemian Shepherd",
+    "zh": "Bohemian Shepherd"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/8vgnFmYG8.jpg"
+  ],
+  "origin": {
+    "en": "Czech Republic",
+    "zh": "Czech Republic"
+  },
+  "history": {
+    "en": "Ancient herding breed from the Chodsko region of Bohemia, also known as Chodský pes, dating back to the 14th century. Bred as herding and guard dogs by the Chodové people, nearly extinct after WWII but revived in the 1980s. Received provisional FCI recognition in 2019 and is part of the AKC Foundation Stock Service.",
+    "zh": "Ancient herding breed from the Chodsko region of Bohemia, also known as Chodský pes, dating back to the 14th century. Bred as herding and guard dogs by the Chodové people, nearly extinct after WWII but revived in the 1980s. Received provisional FCI recognition in 2019 and is part of the AKC Foundation Stock Service."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 19-27; Female: 17-25",
+      "female": "Male: 19-27; Female: 17-25"
+    },
+    "height": {
+      "male": "Male: 52-57; Female: 49-55",
+      "female": "Male: 52-57; Female: 49-55"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 88,
+    "temperament": 77,
+    "loyalty": 90,
+    "intelligence": 81,
+    "friendliness": 69,
+    "energy": 69
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

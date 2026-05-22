@@ -1,0 +1,86 @@
+{
+  "id": "bombay",
+  "type": "cat",
+  "name": {
+    "en": "Bombay",
+    "zh": "Bombay"
+  },
+  "images": [
+    "/images/breeds/cats/bombay-1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.",
+    "zh": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder."
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 5",
+      "female": "3 - 5"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 16",
+      "zh": "12 - 16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 94,
+    "temperament": 93,
+    "loyalty": 59,
+    "intelligence": 74,
+    "friendliness": 89,
+    "energy": 67
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Dependent",
+      "zh": "Dependent"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    }
+  ]
+}

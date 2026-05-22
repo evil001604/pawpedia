@@ -1,0 +1,90 @@
+{
+  "id": "affenpinscher",
+  "type": "dog",
+  "name": {
+    "en": "Affenpinscher",
+    "zh": "Affenpinscher"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/eozcGYTjca.jpg"
+  ],
+  "origin": {
+    "en": "Germany",
+    "zh": "Germany"
+  },
+  "history": {
+    "en": "Originating in 17th-century Germany, bred down from larger terriers to be skilled ratters in homes, kitchens and stables. Refined in Munich and Berlin, recognized by AKC in 1936. Name translates to 'monkey-like terrier'.",
+    "zh": "Originating in 17th-century Germany, bred down from larger terriers to be skilled ratters in homes, kitchens and stables. Refined in Munich and Berlin, recognized by AKC in 1936. Name translates to 'monkey-like terrier'."
+  },
+  "stats": {
+    "weight": {
+      "male": "3.2-4.5",
+      "female": "3.2-4.5"
+    },
+    "height": {
+      "male": "23-29",
+      "female": "23-29"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 66,
+    "temperament": 83,
+    "loyalty": 72,
+    "intelligence": 94,
+    "friendliness": 92,
+    "energy": 79
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Toy",
+      "zh": "Toy"
+    },
+    {
+      "en": "Confident",
+      "zh": "Confident"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    }
+  ]
+}

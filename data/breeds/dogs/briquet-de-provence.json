@@ -1,0 +1,94 @@
+{
+  "id": "briquet-de-provence",
+  "type": "dog",
+  "name": {
+    "en": "Briquet de Provence",
+    "zh": "Briquet de Provence"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/ZtaezE1Cby.jpg"
+  ],
+  "origin": {
+    "en": "Provence, France",
+    "zh": "Provence, France"
+  },
+  "history": {
+    "en": "Ancient French scent hound from Provence region developed for hunting hare and small game. Faced near extinction after World War II but was reconstructed by M. Le Comte de Ravel and others, leading to breed club establishment in 1983 and official FCI recognition",
+    "zh": "Ancient French scent hound from Provence region developed for hunting hare and small game. Faced near extinction after World War II but was reconstructed by M. Le Comte de Ravel and others, leading to breed club establishment in 1983 and official FCI recognition"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-25; Female: 18-22",
+      "female": "Male: 20-25; Female: 18-22"
+    },
+    "height": {
+      "male": "Male: 48-56; Female: 47-53",
+      "female": "Male: 48-56; Female: 47-53"
+    },
+    "lifespan": {
+      "en": "11-14",
+      "zh": "11-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 65,
+    "temperament": 81,
+    "loyalty": 73,
+    "intelligence": 91,
+    "friendliness": 81,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

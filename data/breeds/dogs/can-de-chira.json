@@ -1,0 +1,90 @@
+{
+  "id": "can-de-chira",
+  "type": "dog",
+  "name": {
+    "en": "Can de Chira",
+    "zh": "Can de Chira"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/SkZY1e9NQ_1280.jpg"
+  ],
+  "origin": {
+    "en": "Aragon, Spain",
+    "zh": "Aragon, Spain"
+  },
+  "history": {
+    "en": "Traditional Aragonese shepherd dog from the Pyrenees mountains valued for cattle and sheep herding. Its name derives from herding 'chiras,' a local sheep breed. The breed faced near extinction but is undergoing recovery thanks to efforts by the Club del Can de Chira and recognition as a Canine Ethnic Group by the Real Sociedad Canina de España.",
+    "zh": "Traditional Aragonese shepherd dog from the Pyrenees mountains valued for cattle and sheep herding. Its name derives from herding 'chiras,' a local sheep breed. The breed faced near extinction but is undergoing recovery thanks to efforts by the Club del Can de Chira and recognition as a Canine Ethnic Group by the Real Sociedad Canina de España."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 16-20; Female: 12-16",
+      "female": "Male: 16-20; Female: 12-16"
+    },
+    "height": {
+      "male": "Male: 42-47; Female: 38-43",
+      "female": "Male: 42-47; Female: 38-43"
+    },
+    "lifespan": {
+      "en": "11-14",
+      "zh": "11-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 74,
+    "temperament": 88,
+    "loyalty": 69,
+    "intelligence": 71,
+    "friendliness": 93,
+    "energy": 82
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

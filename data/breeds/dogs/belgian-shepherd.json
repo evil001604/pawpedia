@@ -1,0 +1,94 @@
+{
+  "id": "belgian-shepherd",
+  "type": "dog",
+  "name": {
+    "en": "Belgian Shepherd",
+    "zh": "Belgian Shepherd"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/B35dV8-1_.jpg"
+  ],
+  "origin": {
+    "en": "Belgium",
+    "zh": "Belgium"
+  },
+  "history": {
+    "en": "Developed in late 1800s in Belgium as all-purpose herding and guard dogs. Professor Adolphe Reul of the Belgian School of Veterinary Science established the breed type in 1891, categorizing native dogs into four distinct varieties based on coat type and color",
+    "zh": "Developed in late 1800s in Belgium as all-purpose herding and guard dogs. Professor Adolphe Reul of the Belgian School of Veterinary Science established the breed type in 1891, categorizing native dogs into four distinct varieties based on coat type and color"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-34; Female: 20-27",
+      "female": "Male: 25-34; Female: 20-27"
+    },
+    "height": {
+      "male": "Male: 61-66; Female: 56-61",
+      "female": "Male: 61-66; Female: 56-61"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 66,
+    "temperament": 82,
+    "loyalty": 65,
+    "intelligence": 90,
+    "friendliness": 91,
+    "energy": 68
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "chukotka-sled-dog",
+  "type": "dog",
+  "name": {
+    "en": "Chukotka Sled Dog",
+    "zh": "Chukotka Sled Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Cr3YuxzEV.jpg"
+  ],
+  "origin": {
+    "en": "Chukotka Peninsula, Siberia",
+    "zh": "Chukotka Peninsula, Siberia"
+  },
+  "history": {
+    "en": "Ancient breed developed by the indigenous Chukchi people of northeastern Siberia for sledding, hunting, and survival in Arctic conditions. Traditional sled dog bred for centuries for transportation and endurance, considered the foundation breed for the Siberian Husky.",
+    "zh": "Ancient breed developed by the indigenous Chukchi people of northeastern Siberia for sledding, hunting, and survival in Arctic conditions. Traditional sled dog bred for centuries for transportation and endurance, considered the foundation breed for the Siberian Husky."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-25; Female: 18-22",
+      "female": "Male: 20-25; Female: 18-22"
+    },
+    "height": {
+      "male": "Male: 53-60; Female: 51-57",
+      "female": "Male: 53-60; Female: 51-57"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 89,
+    "temperament": 72,
+    "loyalty": 76,
+    "intelligence": 83,
+    "friendliness": 77,
+    "energy": 90
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Northern",
+      "zh": "Northern"
+    },
+    {
+      "en": "Hardy",
+      "zh": "Hardy"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "bordoodle",
+  "type": "dog",
+  "name": {
+    "en": "Bordoodle",
+    "zh": "Bordoodle"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/eXOAOSOt9e.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Developed in the late 20th/early 21st century by crossing Border Collies with Standard Poodles to create a highly intelligent, low-shedding companion. Part of the popular 'doodle' designer breed trend",
+    "zh": "Developed in the late 20th/early 21st century by crossing Border Collies with Standard Poodles to create a highly intelligent, low-shedding companion. Part of the popular 'doodle' designer breed trend"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 16-29; Female: 14-25",
+      "female": "Male: 16-29; Female: 14-25"
+    },
+    "height": {
+      "male": "Male: 46-64; Female: 43-56",
+      "female": "Male: 46-64; Female: 43-56"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 65,
+    "temperament": 84,
+    "loyalty": 81,
+    "intelligence": 77,
+    "friendliness": 78,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    }
+  ]
+}

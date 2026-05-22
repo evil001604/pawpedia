@@ -1,0 +1,106 @@
+{
+  "id": "american-wirehair",
+  "type": "cat",
+  "name": {
+    "en": "American Wirehair",
+    "zh": "American Wirehair"
+  },
+  "images": [
+    "/images/breeds/cats/american-wirehair-1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
+    "zh": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house."
+  },
+  "stats": {
+    "weight": {
+      "male": "4 - 7",
+      "female": "4 - 7"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "14 - 18",
+      "zh": "14 - 18"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 91,
+    "temperament": 69,
+    "loyalty": 55,
+    "intelligence": 65,
+    "friendliness": 64,
+    "energy": 62
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Curious",
+      "zh": "Curious"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Interactive",
+      "zh": "Interactive"
+    },
+    {
+      "en": "Lively",
+      "zh": "Lively"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Sensible",
+      "zh": "Sensible"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    }
+  ]
+}

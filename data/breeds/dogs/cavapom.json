@@ -1,0 +1,94 @@
+{
+  "id": "cavapom",
+  "type": "dog",
+  "name": {
+    "en": "Cavapom",
+    "zh": "Cavapom"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Bkf4Ea6NX.gif"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "A modern designer crossbreed developed in the United States by crossing a Cavalier King Charles Spaniel with Pomeranian to create a small companion dog combining the gentle nature of the Cavalier with the lively, fluffy appearance of the Pomeranian. Gained popularity in the late 20th and early 21st centuries",
+    "zh": "A modern designer crossbreed developed in the United States by crossing a Cavalier King Charles Spaniel with Pomeranian to create a small companion dog combining the gentle nature of the Cavalier with the lively, fluffy appearance of the Pomeranian. Gained popularity in the late 20th and early 21st centuries"
+  },
+  "stats": {
+    "weight": {
+      "male": "3-9",
+      "female": "3-9"
+    },
+    "height": {
+      "male": "18-33",
+      "female": "18-33"
+    },
+    "lifespan": {
+      "en": "12-16",
+      "zh": "12-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 79,
+    "temperament": 66,
+    "loyalty": 74,
+    "intelligence": 71,
+    "friendliness": 91,
+    "energy": 73
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

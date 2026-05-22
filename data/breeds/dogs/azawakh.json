@@ -1,0 +1,94 @@
+{
+  "id": "azawakh",
+  "type": "dog",
+  "name": {
+    "en": "Azawakh",
+    "zh": "Azawakh"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/B1YDzppN7.gif"
+  ],
+  "origin": {
+    "en": "West Africa (Sahel region: Mali, Niger, Burkina Faso)",
+    "zh": "West Africa (Sahel region: Mali, Niger, Burkina Faso)"
+  },
+  "history": {
+    "en": "Ancient sighthound breed developed by nomadic Tuareg peoples of the Sahel region for hunting gazelle and other game, protecting livestock, and serving as companions. Bred for speed and stamina in Saharan and Sahelian conditions",
+    "zh": "Ancient sighthound breed developed by nomadic Tuareg peoples of the Sahel region for hunting gazelle and other game, protecting livestock, and serving as companions. Bred for speed and stamina in Saharan and Sahelian conditions"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-25; Female: 15-20",
+      "female": "Male: 20-25; Female: 15-20"
+    },
+    "height": {
+      "male": "Male: 63-74; Female: 60-70",
+      "female": "Male: 63-74; Female: 60-70"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 90,
+    "temperament": 94,
+    "loyalty": 69,
+    "intelligence": 69,
+    "friendliness": 72,
+    "energy": 90
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "aloof",
+      "zh": "aloof"
+    }
+  ]
+}

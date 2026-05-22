@@ -1,0 +1,94 @@
+{
+  "id": "artois-hound",
+  "type": "dog",
+  "name": {
+    "en": "Artois Hound",
+    "zh": "Artois Hound"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/eocHx2wDrd.jpg"
+  ],
+  "origin": {
+    "en": "Artois, France",
+    "zh": "Artois, France"
+  },
+  "history": {
+    "en": "Ancient French scenthound from the Artois region dating back to the 15th century, descended from the St. Hubert Hound. Used by nobility for hunting, the breed faced near extinction after World War II but was revived in the 1970s by dedicated breeders following historical standards",
+    "zh": "Ancient French scenthound from the Artois region dating back to the 15th century, descended from the St. Hubert Hound. Used by nobility for hunting, the breed faced near extinction after World War II but was revived in the 1970s by dedicated breeders following historical standards"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-30; Female: 23-30",
+      "female": "Male: 25-30; Female: 23-30"
+    },
+    "height": {
+      "male": "Male: 53-61; Female: 51-58",
+      "female": "Male: 53-61; Female: 51-58"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 77,
+    "loyalty": 76,
+    "intelligence": 73,
+    "friendliness": 72,
+    "energy": 88
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "border-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Border Terrier",
+    "zh": "Border Terrier"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/Co9d1Ojqn6.jpg"
+  ],
+  "origin": {
+    "en": "Border regions between England and Scotland",
+    "zh": "Border regions between England and Scotland"
+  },
+  "history": {
+    "en": "Developed in the 18th century in the Cheviot Hills along the English-Scottish border by farmers and shepherds to hunt fox alongside foxhounds. Needed to be small enough to follow quarry into dens and burrows but tough enough to keep up with horses and work independently.",
+    "zh": "Developed in the 18th century in the Cheviot Hills along the English-Scottish border by farmers and shepherds to hunt fox alongside foxhounds. Needed to be small enough to follow quarry into dens and burrows but tough enough to keep up with horses and work independently."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 6-7; Female: 5-6.5",
+      "female": "Male: 6-7; Female: 5-6.5"
+    },
+    "height": {
+      "male": "Male: 33-41; Female: 28-36",
+      "female": "Male: 33-41; Female: 28-36"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 71,
+    "loyalty": 71,
+    "intelligence": 89,
+    "friendliness": 68,
+    "energy": 84
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

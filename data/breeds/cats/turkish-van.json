@@ -1,0 +1,86 @@
+{
+  "id": "turkish-van",
+  "type": "cat",
+  "name": {
+    "en": "Turkish Van",
+    "zh": "Turkish Van"
+  },
+  "images": [
+    "/images/breeds/cats/turkish-van-1.jpg"
+  ],
+  "origin": {
+    "en": "Turkey",
+    "zh": "Turkey"
+  },
+  "history": {
+    "en": "While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. ",
+    "zh": "While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. "
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 9",
+      "female": "3 - 9"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 17",
+      "zh": "12 - 17"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 83,
+    "temperament": 72,
+    "loyalty": 79,
+    "intelligence": 82,
+    "friendliness": 89,
+    "energy": 61
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Agile",
+      "zh": "Agile"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    }
+  ]
+}

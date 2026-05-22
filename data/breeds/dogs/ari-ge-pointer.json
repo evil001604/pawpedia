@@ -1,0 +1,94 @@
+{
+  "id": "ari-ge-pointer",
+  "type": "dog",
+  "name": {
+    "en": "Ariège Pointer",
+    "zh": "Ariège Pointer"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/uAzXRozxs.jpg"
+  ],
+  "origin": {
+    "en": "Ariège, France",
+    "zh": "Ariège, France"
+  },
+  "history": {
+    "en": "Originated in the Ariège region of southern France in the 19th century, descended from old French pointing breeds crossed with Spanish Pointer and other southern pointing breeds. Faced near extinction after World War II but was revived by passionate breeders in the 1990s.",
+    "zh": "Originated in the Ariège region of southern France in the 19th century, descended from old French pointing breeds crossed with Spanish Pointer and other southern pointing breeds. Faced near extinction after World War II but was revived by passionate breeders in the 1990s."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-30; Female: 22-27",
+      "female": "Male: 25-30; Female: 22-27"
+    },
+    "height": {
+      "male": "Male: 60-67; Female: 56-63",
+      "female": "Male: 60-67; Female: 56-63"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 83,
+    "loyalty": 68,
+    "intelligence": 83,
+    "friendliness": 73,
+    "energy": 83
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "docile",
+      "zh": "docile"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

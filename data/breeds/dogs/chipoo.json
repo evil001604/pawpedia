@@ -1,0 +1,94 @@
+{
+  "id": "chipoo",
+  "type": "dog",
+  "name": {
+    "en": "Chipoo",
+    "zh": "Chipoo"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/hKXTfH70r.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Modern designer crossbreed developed in the United States by crossing a Chihuahua with a Toy Poodle to combine the Poodle's intelligence and low-shedding coat with the Chihuahua's spirited personality and compact companion size",
+    "zh": "Modern designer crossbreed developed in the United States by crossing a Chihuahua with a Toy Poodle to combine the Poodle's intelligence and low-shedding coat with the Chihuahua's spirited personality and compact companion size"
+  },
+  "stats": {
+    "weight": {
+      "male": "2-7",
+      "female": "2-7"
+    },
+    "height": {
+      "male": "13-30",
+      "female": "13-30"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 74,
+    "temperament": 82,
+    "loyalty": 67,
+    "intelligence": 77,
+    "friendliness": 80,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

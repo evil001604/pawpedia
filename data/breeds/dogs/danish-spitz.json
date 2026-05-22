@@ -1,0 +1,90 @@
+{
+  "id": "danish-spitz",
+  "type": "dog",
+  "name": {
+    "en": "Danish Spitz",
+    "zh": "Danish Spitz"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/ByFQI6TVX.gif"
+  ],
+  "origin": {
+    "en": "Denmark",
+    "zh": "Denmark"
+  },
+  "history": {
+    "en": "An old Danish landrace breed used on farms as an all-purpose companion, watchdog, and vermin catcher. The breed faced near extinction in the 20th century but was revived by dedicated breeders and officially recognized by the Danish Kennel Club in 1988",
+    "zh": "An old Danish landrace breed used on farms as an all-purpose companion, watchdog, and vermin catcher. The breed faced near extinction in the 20th century but was revived by dedicated breeders and officially recognized by the Danish Kennel Club in 1988"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 12-18; Female: 10-15",
+      "female": "Male: 12-18; Female: 10-15"
+    },
+    "height": {
+      "male": "Male: 40-49; Female: 39-46",
+      "female": "Male: 40-49; Female: 39-46"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 91,
+    "temperament": 93,
+    "loyalty": 93,
+    "intelligence": 71,
+    "friendliness": 78,
+    "energy": 81
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

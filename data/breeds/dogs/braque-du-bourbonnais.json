@@ -1,0 +1,94 @@
+{
+  "id": "braque-du-bourbonnais",
+  "type": "dog",
+  "name": {
+    "en": "Braque du Bourbonnais",
+    "zh": "Braque du Bourbonnais"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/BkxcYOnHm_1280.jpg"
+  ],
+  "origin": {
+    "en": "Bourbonnais region, France",
+    "zh": "Bourbonnais region, France"
+  },
+  "history": {
+    "en": "One of the most ancient French pointing breeds, documented since the 16th century. Nearly extinct after World War II but successfully restored in the 1970s by dedicated breeders from remaining bloodlines following French and FCI standards.",
+    "zh": "One of the most ancient French pointing breeds, documented since the 16th century. Nearly extinct after World War II but successfully restored in the 1970s by dedicated breeders from remaining bloodlines following French and FCI standards."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 18-26; Female: 16-24",
+      "female": "Male: 18-26; Female: 16-24"
+    },
+    "height": {
+      "male": "Male: 50-57; Female: 47-56",
+      "female": "Male: 50-57; Female: 47-56"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 77,
+    "temperament": 80,
+    "loyalty": 91,
+    "intelligence": 83,
+    "friendliness": 76,
+    "energy": 82
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

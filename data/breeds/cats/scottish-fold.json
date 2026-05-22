@@ -1,0 +1,94 @@
+{
+  "id": "scottish-fold",
+  "type": "cat",
+  "name": {
+    "en": "Scottish Fold",
+    "zh": "Scottish Fold"
+  },
+  "images": [
+    "/images/breeds/cats/scottish-fold-1.jpg"
+  ],
+  "origin": {
+    "en": "United Kingdom",
+    "zh": "United Kingdom"
+  },
+  "history": {
+    "en": "The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the \"Buddha Position\".",
+    "zh": "The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the \"Buddha Position\"."
+  },
+  "stats": {
+    "weight": {
+      "male": "2 - 5",
+      "female": "2 - 5"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "11 - 14",
+      "zh": "11 - 14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 70,
+    "temperament": 72,
+    "loyalty": 82,
+    "intelligence": 76,
+    "friendliness": 77,
+    "energy": 59
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    },
+    {
+      "en": "Sweet",
+      "zh": "Sweet"
+    },
+    {
+      "en": "Loving",
+      "zh": "Loving"
+    }
+  ]
+}

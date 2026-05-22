@@ -1,0 +1,90 @@
+{
+  "id": "burgos-pointer",
+  "type": "dog",
+  "name": {
+    "en": "Burgos Pointer",
+    "zh": "Burgos Pointer"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/UDcVZlmJh9.jpg"
+  ],
+  "origin": {
+    "en": "Burgos, Castile and León, Spain",
+    "zh": "Burgos, Castile and León, Spain"
+  },
+  "history": {
+    "en": "Ancient Spanish pointer breed descended from old Spanish Pointer, developed over centuries in the Castile region for hunting feathered and small game in varied terrain. Lineage dates back to at least the 16th century and recognized by the FCI.",
+    "zh": "Ancient Spanish pointer breed descended from old Spanish Pointer, developed over centuries in the Castile region for hunting feathered and small game in varied terrain. Lineage dates back to at least the 16th century and recognized by the FCI."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-30; Female: 20-25",
+      "female": "Male: 25-30; Female: 20-25"
+    },
+    "height": {
+      "male": "Male: 61-67; Female: 58-64",
+      "female": "Male: 61-67; Female: 58-64"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 90,
+    "temperament": 65,
+    "loyalty": 67,
+    "intelligence": 73,
+    "friendliness": 69,
+    "energy": 71
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "docile",
+      "zh": "docile"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "american-water-spaniel",
+  "type": "dog",
+  "name": {
+    "en": "American Water Spaniel",
+    "zh": "American Water Spaniel"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/yKIPHbJick.jpg"
+  ],
+  "origin": {
+    "en": "Wisconsin, United States",
+    "zh": "Wisconsin, United States"
+  },
+  "history": {
+    "en": "Developed in the 19th century in the Fox and Wolf River valleys of Wisconsin as a compact, versatile hunter that could work from a skiff or boat. Ancestry likely includes Irish Water Spaniel and Curly-Coated Retriever. Named the state dog of Wisconsin in 1985 and foundation breed for the Boykin Spaniel, recognized by AKC in 1940.",
+    "zh": "Developed in the 19th century in the Fox and Wolf River valleys of Wisconsin as a compact, versatile hunter that could work from a skiff or boat. Ancestry likely includes Irish Water Spaniel and Curly-Coated Retriever. Named the state dog of Wisconsin in 1985 and foundation breed for the Boykin Spaniel, recognized by AKC in 1940."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 14-20; Female: 11-18",
+      "female": "Male: 14-20; Female: 11-18"
+    },
+    "height": {
+      "male": "38-46",
+      "female": "38-46"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 74,
+    "temperament": 77,
+    "loyalty": 78,
+    "intelligence": 65,
+    "friendliness": 77,
+    "energy": 89
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Eager to please",
+      "zh": "Eager to please"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "happy",
+      "zh": "happy"
+    }
+  ]
+}

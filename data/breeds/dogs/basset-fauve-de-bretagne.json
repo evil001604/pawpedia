@@ -1,0 +1,106 @@
+{
+  "id": "basset-fauve-de-bretagne",
+  "type": "dog",
+  "name": {
+    "en": "Basset Fauve de Bretagne",
+    "zh": "Basset Fauve de Bretagne"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/C-1H0CF1I.jpg"
+  ],
+  "origin": {
+    "en": "Brittany, France",
+    "zh": "Brittany, France"
+  },
+  "history": {
+    "en": "Developed in Brittany, France as a downsized version of the larger Grand Fauve de Bretagne (Griffon Fauve de Bretagne). Used for hunting small game like rabbit and hare. Nearly extinct after WWII but restored by crossing remaining dogs with breeds like Basset Griffon Vendeen.",
+    "zh": "Developed in Brittany, France as a downsized version of the larger Grand Fauve de Bretagne (Griffon Fauve de Bretagne). Used for hunting small game like rabbit and hare. Nearly extinct after WWII but restored by crossing remaining dogs with breeds like Basset Griffon Vendeen."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 12-18; Female: 12-17",
+      "female": "Male: 12-18; Female: 12-17"
+    },
+    "height": {
+      "male": "32-39",
+      "female": "32-39"
+    },
+    "lifespan": {
+      "en": "11-15",
+      "zh": "11-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 88,
+    "temperament": 65,
+    "loyalty": 70,
+    "intelligence": 73,
+    "friendliness": 87,
+    "energy": 92
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "happy",
+      "zh": "happy"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

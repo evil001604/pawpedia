@@ -1,0 +1,94 @@
+{
+  "id": "chinese-shar-pei",
+  "type": "dog",
+  "name": {
+    "en": "Chinese Shar-Pei",
+    "zh": "Chinese Shar-Pei"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/gZtRaSgnya.jpg"
+  ],
+  "origin": {
+    "en": "China",
+    "zh": "China"
+  },
+  "history": {
+    "en": "Ancient Chinese breed from southern provinces dating back to the Han Dynasty, originally used as all-purpose farm dog for hunting, herding, guarding, and farm work. Nearly extinct in mid-20th century but revived from very small population by dedicated breeders in 1970s",
+    "zh": "Ancient Chinese breed from southern provinces dating back to the Han Dynasty, originally used as all-purpose farm dog for hunting, herding, guarding, and farm work. Nearly extinct in mid-20th century but revived from very small population by dedicated breeders in 1970s"
+  },
+  "stats": {
+    "weight": {
+      "male": "20-27",
+      "female": "20-27"
+    },
+    "height": {
+      "male": "46-51",
+      "female": "46-51"
+    },
+    "lifespan": {
+      "en": "8-12",
+      "zh": "8-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 89,
+    "loyalty": 94,
+    "intelligence": 72,
+    "friendliness": 71,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    }
+  ]
+}

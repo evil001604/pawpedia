@@ -1,0 +1,90 @@
+{
+  "id": "bassador",
+  "type": "dog",
+  "name": {
+    "en": "Bassador",
+    "zh": "Bassador"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/t7FefmYNk.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Modern designer crossbreed developed in recent decades in North America by crossing Basset Hound and Labrador Retriever to combine friendly family-oriented traits with unique appearance and scenting abilities",
+    "zh": "Modern designer crossbreed developed in recent decades in North America by crossing Basset Hound and Labrador Retriever to combine friendly family-oriented traits with unique appearance and scenting abilities"
+  },
+  "stats": {
+    "weight": {
+      "male": "20-34",
+      "female": "20-34"
+    },
+    "height": {
+      "male": "33-51",
+      "female": "33-51"
+    },
+    "lifespan": {
+      "en": "10-13",
+      "zh": "10-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 70,
+    "temperament": 92,
+    "loyalty": 76,
+    "intelligence": 79,
+    "friendliness": 90,
+    "energy": 82
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    }
+  ]
+}

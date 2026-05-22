@@ -1,0 +1,94 @@
+{
+  "id": "danish-swedish-farmdog",
+  "type": "dog",
+  "name": {
+    "en": "Danish-Swedish Farmdog",
+    "zh": "Danish-Swedish Farmdog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/rJa29l9E7_1280.jpg"
+  ],
+  "origin": {
+    "en": "Denmark and Sweden",
+    "zh": "Denmark and Sweden"
+  },
+  "history": {
+    "en": "Ancient Scandinavian farm dog breed from eastern Denmark and southernmost Sweden, used as versatile all-purpose farm dog for ratting, herding, guarding, and companionship. Officially recognized in Denmark and Sweden in 1987, by FCI in 2008-2019, and The Kennel Club (UK) in 2019",
+    "zh": "Ancient Scandinavian farm dog breed from eastern Denmark and southernmost Sweden, used as versatile all-purpose farm dog for ratting, herding, guarding, and companionship. Officially recognized in Denmark and Sweden in 1987, by FCI in 2008-2019, and The Kennel Club (UK) in 2019"
+  },
+  "stats": {
+    "weight": {
+      "male": "7-11",
+      "female": "7-11"
+    },
+    "height": {
+      "male": "Male: 32-38; Female: 29-37",
+      "female": "Male: 32-38; Female: 29-37"
+    },
+    "lifespan": {
+      "en": "11-15",
+      "zh": "11-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 92,
+    "temperament": 68,
+    "loyalty": 75,
+    "intelligence": 68,
+    "friendliness": 82,
+    "energy": 87
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    }
+  ]
+}

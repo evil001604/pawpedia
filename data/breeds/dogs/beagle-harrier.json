@@ -1,0 +1,90 @@
+{
+  "id": "beagle-harrier",
+  "type": "dog",
+  "name": {
+    "en": "Beagle-Harrier",
+    "zh": "Beagle-Harrier"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/4yAqsHVUjE.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Developed in 19th century France by Baron Gérard, crossing English Beagles with French Harriers to create a medium-sized pack hound for hunting hare and other small game. Recognized by the FCI.",
+    "zh": "Developed in 19th century France by Baron Gérard, crossing English Beagles with French Harriers to create a medium-sized pack hound for hunting hare and other small game. Recognized by the FCI."
+  },
+  "stats": {
+    "weight": {
+      "male": "19-27",
+      "female": "19-27"
+    },
+    "height": {
+      "male": "45-50",
+      "female": "45-50"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 93,
+    "temperament": 83,
+    "loyalty": 70,
+    "intelligence": 65,
+    "friendliness": 77,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    }
+  ]
+}

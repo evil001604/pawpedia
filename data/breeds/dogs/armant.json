@@ -1,0 +1,90 @@
+{
+  "id": "armant",
+  "type": "dog",
+  "name": {
+    "en": "Armant",
+    "zh": "Armant"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/LY570N51o3.jpg"
+  ],
+  "origin": {
+    "en": "Egypt",
+    "zh": "Egypt"
+  },
+  "history": {
+    "en": "Named after the town of Armant along the Nile in Egypt, believed to have descended from European herding dogs, possibly Briards, brought by Napoleon's armies and crossed with native Egyptian dogs. Developed as versatile livestock guardians and herding dogs, officially recognized in Egypt as the national herding breed.",
+    "zh": "Named after the town of Armant along the Nile in Egypt, believed to have descended from European herding dogs, possibly Briards, brought by Napoleon's armies and crossed with native Egyptian dogs. Developed as versatile livestock guardians and herding dogs, officially recognized in Egypt as the national herding breed."
+  },
+  "stats": {
+    "weight": {
+      "male": "23-29",
+      "female": "23-29"
+    },
+    "height": {
+      "male": "53-58",
+      "female": "53-58"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 90,
+    "temperament": 80,
+    "loyalty": 94,
+    "intelligence": 78,
+    "friendliness": 73,
+    "energy": 88
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

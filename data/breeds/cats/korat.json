@@ -1,0 +1,86 @@
+{
+  "id": "korat",
+  "type": "cat",
+  "name": {
+    "en": "Korat",
+    "zh": "Korat"
+  },
+  "images": [
+    "https://cdn2.thecatapi.com/images/DbwiefiaY.jpg"
+  ],
+  "origin": {
+    "en": "Thailand",
+    "zh": "Thailand"
+  },
+  "history": {
+    "en": "The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.",
+    "zh": "The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby."
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 5",
+      "female": "3 - 5"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "10 - 15",
+      "zh": "10 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 87,
+    "temperament": 87,
+    "loyalty": 68,
+    "intelligence": 66,
+    "friendliness": 78,
+    "energy": 58
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Active",
+      "zh": "Active"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "highly intelligent",
+      "zh": "highly intelligent"
+    },
+    {
+      "en": "Expressive",
+      "zh": "Expressive"
+    },
+    {
+      "en": "Trainable",
+      "zh": "Trainable"
+    }
+  ]
+}

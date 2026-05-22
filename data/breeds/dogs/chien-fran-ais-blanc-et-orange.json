@@ -1,0 +1,94 @@
+{
+  "id": "chien-fran-ais-blanc-et-orange",
+  "type": "dog",
+  "name": {
+    "en": "Chien Français Blanc et Orange",
+    "zh": "Chien Français Blanc et Orange"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/ho6eDDtP2t.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Developed in France from old hounds of Saintonge and crosses with the Billy breed, rooted in various French hounds and English foxhounds. Created for pack hunting large game, recognized by FCI with official breed club founded in 1957.",
+    "zh": "Developed in France from old hounds of Saintonge and crosses with the Billy breed, rooted in various French hounds and English foxhounds. Created for pack hunting large game, recognized by FCI with official breed club founded in 1957."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 28-32; Female: 25-30",
+      "female": "Male: 28-32; Female: 25-30"
+    },
+    "height": {
+      "male": "Male: 62-70; Female: 60-66",
+      "female": "Male: 62-70; Female: 60-66"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 69,
+    "temperament": 83,
+    "loyalty": 91,
+    "intelligence": 79,
+    "friendliness": 82,
+    "energy": 90
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

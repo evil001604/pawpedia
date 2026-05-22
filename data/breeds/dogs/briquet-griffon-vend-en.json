@@ -1,0 +1,94 @@
+{
+  "id": "briquet-griffon-vend-en",
+  "type": "dog",
+  "name": {
+    "en": "Briquet Griffon Vendéen",
+    "zh": "Briquet Griffon Vendéen"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/uEPB98jBS.jpg"
+  ],
+  "origin": {
+    "en": "Vendée, France",
+    "zh": "Vendée, France"
+  },
+  "history": {
+    "en": "Developed in the Vendée region of France before World War I from the larger Grand Griffon Vendéen. Selectively bred down in size by the Comte d'Elva to create a smaller faster hound for hunting medium game like hare and fox. Nearly decimated by World Wars but carefully restored",
+    "zh": "Developed in the Vendée region of France before World War I from the larger Grand Griffon Vendéen. Selectively bred down in size by the Comte d'Elva to create a smaller faster hound for hunting medium game like hare and fox. Nearly decimated by World Wars but carefully restored"
+  },
+  "stats": {
+    "weight": {
+      "male": "22-24",
+      "female": "22-24"
+    },
+    "height": {
+      "male": "48-56",
+      "female": "48-56"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 74,
+    "temperament": 79,
+    "loyalty": 69,
+    "intelligence": 75,
+    "friendliness": 93,
+    "energy": 86
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Courageous",
+      "zh": "Courageous"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    }
+  ]
+}

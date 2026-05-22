@@ -1,0 +1,94 @@
+{
+  "id": "australian-shepherd",
+  "type": "dog",
+  "name": {
+    "en": "Australian Shepherd",
+    "zh": "Australian Shepherd"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/TGB2APNbS.jpg"
+  ],
+  "origin": {
+    "en": "Western United States",
+    "zh": "Western United States"
+  },
+  "history": {
+    "en": "Despite its name, the Australian Shepherd was developed in the American West in the 19th century from Basque shepherd dogs brought by immigrants from the Pyrenees region. The breed's intelligence and versatility made it popular on the rodeo circuit and for ranching work.",
+    "zh": "Despite its name, the Australian Shepherd was developed in the American West in the 19th century from Basque shepherd dogs brought by immigrants from the Pyrenees region. The breed's intelligence and versatility made it popular on the rodeo circuit and for ranching work."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 23-29; Female: 18-25",
+      "female": "Male: 23-29; Female: 18-25"
+    },
+    "height": {
+      "male": "Male: 51-58; Female: 46-53",
+      "female": "Male: 51-58; Female: 46-53"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 72,
+    "temperament": 89,
+    "loyalty": 79,
+    "intelligence": 91,
+    "friendliness": 90,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    }
+  ]
+}

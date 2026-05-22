@@ -1,0 +1,94 @@
+{
+  "id": "savannah",
+  "type": "cat",
+  "name": {
+    "en": "Savannah",
+    "zh": "Savannah"
+  },
+  "images": [
+    "/images/breeds/cats/savannah-1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.",
+    "zh": "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved."
+  },
+  "stats": {
+    "weight": {
+      "male": "4 - 11",
+      "female": "4 - 11"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "17 - 20",
+      "zh": "17 - 20"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 73,
+    "temperament": 86,
+    "loyalty": 78,
+    "intelligence": 65,
+    "friendliness": 75,
+    "energy": 51
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Curious",
+      "zh": "Curious"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "Outgoing",
+      "zh": "Outgoing"
+    },
+    {
+      "en": "Adventurous",
+      "zh": "Adventurous"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    }
+  ]
+}

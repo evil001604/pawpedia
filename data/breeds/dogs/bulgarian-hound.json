@@ -1,0 +1,94 @@
+{
+  "id": "bulgarian-hound",
+  "type": "dog",
+  "name": {
+    "en": "Bulgarian Hound",
+    "zh": "Bulgarian Hound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/NaMI1H-PZ.jpg"
+  ],
+  "origin": {
+    "en": "Bulgaria",
+    "zh": "Bulgaria"
+  },
+  "history": {
+    "en": "Traditional Bulgarian scent hound, known locally as 'Barak' or 'Bulgarsko Gonche', descended from scenthounds brought to the Balkan region by the Slavs who interbred them with local hounds. Developed and bred for centuries for hunting wild boar and other game in the Balkans, the breed has been preserved in its current form and is highly valued for its hunting abilities in Bulgaria.",
+    "zh": "Traditional Bulgarian scent hound, known locally as 'Barak' or 'Bulgarsko Gonche', descended from scenthounds brought to the Balkan region by the Slavs who interbred them with local hounds. Developed and bred for centuries for hunting wild boar and other game in the Balkans, the breed has been preserved in its current form and is highly valued for its hunting abilities in Bulgaria."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 18-25; Female: 16-23",
+      "female": "Male: 18-25; Female: 16-23"
+    },
+    "height": {
+      "male": "Male: 48-58; Female: 46-54",
+      "female": "Male: 48-58; Female: 46-54"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 90,
+    "temperament": 80,
+    "loyalty": 71,
+    "intelligence": 66,
+    "friendliness": 78,
+    "energy": 82
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

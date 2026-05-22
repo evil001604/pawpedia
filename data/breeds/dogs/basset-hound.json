@@ -1,0 +1,94 @@
+{
+  "id": "basset-hound",
+  "type": "dog",
+  "name": {
+    "en": "Basset Hound",
+    "zh": "Basset Hound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/YbXK-k96Y.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Developed by French aristocrats from hounds bred at the Abbey of St. Hubert for hunting small game in dense cover. Low-slung body perfected for trailing rabbits and hare, later refined in England for pack hunting.",
+    "zh": "Developed by French aristocrats from hounds bred at the Abbey of St. Hubert for hunting small game in dense cover. Low-slung body perfected for trailing rabbits and hare, later refined in England for pack hunting."
+  },
+  "stats": {
+    "weight": {
+      "male": "18-30",
+      "female": "18-30"
+    },
+    "height": {
+      "male": "33-38",
+      "female": "33-38"
+    },
+    "lifespan": {
+      "en": "12-13",
+      "zh": "12-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 83,
+    "temperament": 92,
+    "loyalty": 83,
+    "intelligence": 70,
+    "friendliness": 92,
+    "energy": 90
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    }
+  ]
+}

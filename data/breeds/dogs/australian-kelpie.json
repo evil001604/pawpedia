@@ -1,0 +1,90 @@
+{
+  "id": "australian-kelpie",
+  "type": "dog",
+  "name": {
+    "en": "Australian Kelpie",
+    "zh": "Australian Kelpie"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/aBlkZ0fo0.jpg"
+  ],
+  "origin": {
+    "en": "Australia",
+    "zh": "Australia"
+  },
+  "history": {
+    "en": "Developed in Australia during the late 19th century from crosses of imported Scottish Collies with Dingoes and other working dogs to create the ultimate sheep herding dog capable of working independently over vast distances in harsh climates",
+    "zh": "Developed in Australia during the late 19th century from crosses of imported Scottish Collies with Dingoes and other working dogs to create the ultimate sheep herding dog capable of working independently over vast distances in harsh climates"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 14-21; Female: 12-18",
+      "female": "Male: 14-21; Female: 12-18"
+    },
+    "height": {
+      "male": "Male: 43-51; Female: 41-48",
+      "female": "Male: 43-51; Female: 41-48"
+    },
+    "lifespan": {
+      "en": "12-16",
+      "zh": "12-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 65,
+    "loyalty": 72,
+    "intelligence": 79,
+    "friendliness": 90,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

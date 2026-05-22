@@ -1,0 +1,90 @@
+{
+  "id": "havana-brown",
+  "type": "cat",
+  "name": {
+    "en": "Havana Brown",
+    "zh": "Havana Brown"
+  },
+  "images": [
+    "/images/breeds/cats/havana-brown-1.jpg"
+  ],
+  "origin": {
+    "en": "United Kingdom",
+    "zh": "United Kingdom"
+  },
+  "history": {
+    "en": "The Havana Brown is human oriented, playful, and curious. She has a strong desire to spend time with her people and involve herself in everything they do. Being naturally inquisitive, the Havana Brown reaches out with a paw to touch and feel when investigating curiosities in its environment. They are truly sensitive by nature and frequently gently touch their human companions as if they are extending a paw of friendship.",
+    "zh": "The Havana Brown is human oriented, playful, and curious. She has a strong desire to spend time with her people and involve herself in everything they do. Being naturally inquisitive, the Havana Brown reaches out with a paw to touch and feel when investigating curiosities in its environment. They are truly sensitive by nature and frequently gently touch their human companions as if they are extending a paw of friendship."
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 5",
+      "female": "3 - 5"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "10 - 15",
+      "zh": "10 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 81,
+    "temperament": 67,
+    "loyalty": 80,
+    "intelligence": 87,
+    "friendliness": 63,
+    "energy": 51
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Curious",
+      "zh": "Curious"
+    },
+    {
+      "en": "Demanding",
+      "zh": "Demanding"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    }
+  ]
+}

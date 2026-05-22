@@ -1,0 +1,90 @@
+{
+  "id": "boykin-spaniel",
+  "type": "dog",
+  "name": {
+    "en": "Boykin Spaniel",
+    "zh": "Boykin Spaniel"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/GZeDDro7-.jpg"
+  ],
+  "origin": {
+    "en": "South Carolina, United States",
+    "zh": "South Carolina, United States"
+  },
+  "history": {
+    "en": "Developed in early 1900s in South Carolina by L. Whitaker Boykin. Foundation sire was a small stray spaniel-type dog named 'Dumpy' who showed great hunting aptitude. Bred by crossing Chesapeake Bay Retrievers, Springer Spaniels, Cocker Spaniels, and American Water Spaniels for hunting in South Carolina swamps, particularly the Wateree River Swamp. Recognized as the state dog of South Carolina.",
+    "zh": "Developed in early 1900s in South Carolina by L. Whitaker Boykin. Foundation sire was a small stray spaniel-type dog named 'Dumpy' who showed great hunting aptitude. Bred by crossing Chesapeake Bay Retrievers, Springer Spaniels, Cocker Spaniels, and American Water Spaniels for hunting in South Carolina swamps, particularly the Wateree River Swamp. Recognized as the state dog of South Carolina."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 14-18; Female: 11-16",
+      "female": "Male: 14-18; Female: 11-16"
+    },
+    "height": {
+      "male": "Male: 39-46; Female: 36-42",
+      "female": "Male: 39-46; Female: 36-42"
+    },
+    "lifespan": {
+      "en": "10-15",
+      "zh": "10-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 91,
+    "temperament": 83,
+    "loyalty": 83,
+    "intelligence": 92,
+    "friendliness": 75,
+    "energy": 82
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "dachshund",
+  "type": "dog",
+  "name": {
+    "en": "Dachshund",
+    "zh": "Dachshund"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/FRKm6nX5x3.jpg"
+  ],
+  "origin": {
+    "en": "Germany",
+    "zh": "Germany"
+  },
+  "history": {
+    "en": "Developed in Germany over 300 years ago (records date to 15th century) specifically for hunting badgers in their burrows. The name 'Dachshund' translates to 'badger dog' in German. Wirehaired varieties were developed by crossing with terriers for work in thorny terrain, while longhaired varieties were created using spaniels for colder climates.",
+    "zh": "Developed in Germany over 300 years ago (records date to 15th century) specifically for hunting badgers in their burrows. The name 'Dachshund' translates to 'badger dog' in German. Wirehaired varieties were developed by crossing with terriers for work in thorny terrain, while longhaired varieties were created using spaniels for colder climates."
+  },
+  "stats": {
+    "weight": {
+      "male": "7-14.5",
+      "female": "7-14.5"
+    },
+    "height": {
+      "male": "20-23",
+      "female": "20-23"
+    },
+    "lifespan": {
+      "en": "12-16",
+      "zh": "12-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 89,
+    "temperament": 85,
+    "loyalty": 80,
+    "intelligence": 69,
+    "friendliness": 73,
+    "energy": 89
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Courageous",
+      "zh": "Courageous"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    }
+  ]
+}

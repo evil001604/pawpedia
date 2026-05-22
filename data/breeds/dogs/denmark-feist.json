@@ -1,0 +1,90 @@
+{
+  "id": "denmark-feist",
+  "type": "dog",
+  "name": {
+    "en": "Denmark Feist",
+    "zh": "Denmark Feist"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/-lue5tDMo.jpg"
+  ],
+  "origin": {
+    "en": "Denmark, Tennessee, United States",
+    "zh": "Denmark, Tennessee, United States"
+  },
+  "history": {
+    "en": "The Denmark Feist is a specific line of Treeing Feist developed by the Slade family in Denmark, Tennessee, originating from dogs brought to the area in 1917. Developed from terrier and hound crosses, these historic American hunting dogs were prized by early settlers for their vermin-hunting and treeing abilities.",
+    "zh": "The Denmark Feist is a specific line of Treeing Feist developed by the Slade family in Denmark, Tennessee, originating from dogs brought to the area in 1917. Developed from terrier and hound crosses, these historic American hunting dogs were prized by early settlers for their vermin-hunting and treeing abilities."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 9-16; Female: 7-11",
+      "female": "Male: 9-16; Female: 7-11"
+    },
+    "height": {
+      "male": "38-46",
+      "female": "38-46"
+    },
+    "lifespan": {
+      "en": "12-18",
+      "zh": "12-18"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 87,
+    "temperament": 86,
+    "loyalty": 89,
+    "intelligence": 80,
+    "friendliness": 92,
+    "energy": 80
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Scenthound",
+      "zh": "Scenthound"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

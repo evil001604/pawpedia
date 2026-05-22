@@ -1,0 +1,94 @@
+{
+  "id": "bolognese",
+  "type": "dog",
+  "name": {
+    "en": "Bolognese",
+    "zh": "Bolognese"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/B1bCOd3SX_1280.jpg"
+  ],
+  "origin": {
+    "en": "Bologna, Italy",
+    "zh": "Bologna, Italy"
+  },
+  "history": {
+    "en": "An ancient noble breed of the Bichon family, originating in Bologna, Italy, dating to 11th-12th centuries. Prized companions to royalty and aristocracy from the Roman era through the Renaissance, favored as palace companions.",
+    "zh": "An ancient noble breed of the Bichon family, originating in Bologna, Italy, dating to 11th-12th centuries. Prized companions to royalty and aristocracy from the Roman era through the Renaissance, favored as palace companions."
+  },
+  "stats": {
+    "weight": {
+      "male": "2.5-4",
+      "female": "2.5-4"
+    },
+    "height": {
+      "male": "25-30",
+      "female": "25-30"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 82,
+    "loyalty": 82,
+    "intelligence": 72,
+    "friendliness": 89,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Toy",
+      "zh": "Toy"
+    },
+    {
+      "en": "Calm",
+      "zh": "Calm"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

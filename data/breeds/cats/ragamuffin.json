@@ -1,0 +1,82 @@
+{
+  "id": "ragamuffin",
+  "type": "cat",
+  "name": {
+    "en": "Ragamuffin",
+    "zh": "Ragamuffin"
+  },
+  "images": [
+    "/images/breeds/cats/ragamuffin-1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.",
+    "zh": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature."
+  },
+  "stats": {
+    "weight": {
+      "male": "4 - 9",
+      "female": "4 - 9"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 16",
+      "zh": "12 - 16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 76,
+    "temperament": 79,
+    "loyalty": 83,
+    "intelligence": 73,
+    "friendliness": 64,
+    "energy": 67
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "Calm",
+      "zh": "Calm"
+    }
+  ]
+}

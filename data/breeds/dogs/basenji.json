@@ -1,0 +1,94 @@
+{
+  "id": "basenji",
+  "type": "dog",
+  "name": {
+    "en": "Basenji",
+    "zh": "Basenji"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/LvKF3cSkb.jpg"
+  ],
+  "origin": {
+    "en": "Central Africa",
+    "zh": "Central Africa"
+  },
+  "history": {
+    "en": "Ancient breed originating in Central Africa, depicted in Egyptian and Babylonian art. Prized by Pygmy tribes and Congo region tribes as versatile hunters for their speed and silence. Brought to England in the 1930s and established in the West.",
+    "zh": "Ancient breed originating in Central Africa, depicted in Egyptian and Babylonian art. Prized by Pygmy tribes and Congo region tribes as versatile hunters for their speed and silence. Brought to England in the 1930s and established in the West."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 10-12; Female: 9-11",
+      "female": "Male: 10-12; Female: 9-11"
+    },
+    "height": {
+      "male": "Male: 41-44.5; Female: 38-42",
+      "female": "Male: 41-44.5; Female: 38-42"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 73,
+    "temperament": 67,
+    "loyalty": 82,
+    "intelligence": 73,
+    "friendliness": 84,
+    "energy": 81
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "curious",
+      "zh": "curious"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

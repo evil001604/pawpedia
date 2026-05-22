@@ -1,0 +1,90 @@
+{
+  "id": "bull-arab",
+  "type": "dog",
+  "name": {
+    "en": "Bull Arab",
+    "zh": "Bull Arab"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/SLDsIjTd-.jpg"
+  ],
+  "origin": {
+    "en": "Australia",
+    "zh": "Australia"
+  },
+  "history": {
+    "en": "Developed in Australia in the 1970s by Mike Hodgens crossing Bull Terrier for tenacity, Greyhound for speed, and German Shorthaired Pointer for scenting ability and endurance to create the ultimate pig-hunting dog",
+    "zh": "Developed in Australia in the 1970s by Mike Hodgens crossing Bull Terrier for tenacity, Greyhound for speed, and German Shorthaired Pointer for scenting ability and endurance to create the ultimate pig-hunting dog"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 32-43; Female: 27-40",
+      "female": "Male: 32-43; Female: 27-40"
+    },
+    "height": {
+      "male": "Male: 61-69; Female: 61-66",
+      "female": "Male: 61-69; Female: 61-66"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 93,
+    "temperament": 67,
+    "loyalty": 87,
+    "intelligence": 72,
+    "friendliness": 74,
+    "energy": 81
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "bassettoodle",
+  "type": "dog",
+  "name": {
+    "en": "Bassettoodle",
+    "zh": "Bassettoodle"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/r1ZfomsN7.gif"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Modern designer crossbreed developed in the United States by combining Basset Hound and Standard Poodle, aiming to create a companion dog with the Poodle's intelligence and hypoallergenic coat combined with the Basset's friendly, easygoing temperament",
+    "zh": "Modern designer crossbreed developed in the United States by combining Basset Hound and Standard Poodle, aiming to create a companion dog with the Poodle's intelligence and hypoallergenic coat combined with the Basset's friendly, easygoing temperament"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 11-32; Female: 9-32",
+      "female": "Male: 11-32; Female: 9-32"
+    },
+    "height": {
+      "male": "Male: 30-41; Female: 30-38",
+      "female": "Male: 30-41; Female: 30-38"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 83,
+    "temperament": 87,
+    "loyalty": 73,
+    "intelligence": 73,
+    "friendliness": 90,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

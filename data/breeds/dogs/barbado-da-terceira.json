@@ -1,0 +1,98 @@
+{
+  "id": "barbado-da-terceira",
+  "type": "dog",
+  "name": {
+    "en": "Barbado da Terceira",
+    "zh": "Barbado da Terceira"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/ihTQ9wvul.jpg"
+  ],
+  "origin": {
+    "en": "Terceira Island, Azores, Portugal",
+    "zh": "Terceira Island, Azores, Portugal"
+  },
+  "history": {
+    "en": "Ancient indigenous breed developed on Terceira Island in the Azores by Portuguese settlers for herding and guarding cattle. Nearly faced extinction in the 20th century before conservation and revival efforts in the 1990s led to its preservation and recognition",
+    "zh": "Ancient indigenous breed developed on Terceira Island in the Azores by Portuguese settlers for herding and guarding cattle. Nearly faced extinction in the 20th century before conservation and revival efforts in the 1990s led to its preservation and recognition"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-30; Female: 21-26",
+      "female": "Male: 25-30; Female: 21-26"
+    },
+    "height": {
+      "male": "Male: 52-56; Female: 48-54",
+      "female": "Male: 52-56; Female: 48-54"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 72,
+    "temperament": 73,
+    "loyalty": 69,
+    "intelligence": 79,
+    "friendliness": 91,
+    "energy": 81
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "docile",
+      "zh": "docile"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "dandie-dinmont-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Dandie Dinmont Terrier",
+    "zh": "Dandie Dinmont Terrier"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/HJd0XecNX_1280.jpg"
+  ],
+  "origin": {
+    "en": "Scottish Borders",
+    "zh": "Scottish Borders"
+  },
+  "history": {
+    "en": "Developed in the 18th century in the border region between Scotland and England for hunting badgers and otters. Named after a character in Sir Walter Scott's 1815 novel 'Guy Mannering'. Recognized by The Kennel Club (UK) in 1875 and AKC in 1886.",
+    "zh": "Developed in the 18th century in the border region between Scotland and England for hunting badgers and otters. Named after a character in Sir Walter Scott's 1815 novel 'Guy Mannering'. Recognized by The Kennel Club (UK) in 1875 and AKC in 1886."
+  },
+  "stats": {
+    "weight": {
+      "male": "8-11",
+      "female": "8-11"
+    },
+    "height": {
+      "male": "20-28",
+      "female": "20-28"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 70,
+    "loyalty": 70,
+    "intelligence": 94,
+    "friendliness": 69,
+    "energy": 74
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    }
+  ]
+}

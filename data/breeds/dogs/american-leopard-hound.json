@@ -1,0 +1,94 @@
+{
+  "id": "american-leopard-hound",
+  "type": "dog",
+  "name": {
+    "en": "American Leopard Hound",
+    "zh": "American Leopard Hound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/ArfAUoqnI.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "One of the oldest American tree hound breeds, developed in North Carolina from dogs brought by Spanish conquistadors crossed with other scent hounds. Officially recognized by United Kennel Club in 1960s, bred for exceptional trailing and treeing abilities on variety of game.",
+    "zh": "One of the oldest American tree hound breeds, developed in North Carolina from dogs brought by Spanish conquistadors crossed with other scent hounds. Officially recognized by United Kennel Club in 1960s, bred for exceptional trailing and treeing abilities on variety of game."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-34; Female: 16-29",
+      "female": "Male: 20-34; Female: 16-29"
+    },
+    "height": {
+      "male": "Male: 53-69; Female: 53-64",
+      "female": "Male: 53-69; Female: 53-64"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 69,
+    "temperament": 77,
+    "loyalty": 75,
+    "intelligence": 77,
+    "friendliness": 79,
+    "energy": 76
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    }
+  ]
+}

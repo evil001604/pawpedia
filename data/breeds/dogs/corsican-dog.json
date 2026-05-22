@@ -1,0 +1,90 @@
+{
+  "id": "corsican-dog",
+  "type": "dog",
+  "name": {
+    "en": "Corsican Dog",
+    "zh": "Corsican Dog"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/4xSi03c0uC.jpg"
+  ],
+  "origin": {
+    "en": "Corsica, France",
+    "zh": "Corsica, France"
+  },
+  "history": {
+    "en": "Ancient multi-purpose breed native to Corsica, used for hunting wild boar, herding livestock, and property protection. Nearly extinct in the 20th century but revived by enthusiasts starting in 1989. Recognized by French Kennel Club and provisionally by FCI as the Cursinu.",
+    "zh": "Ancient multi-purpose breed native to Corsica, used for hunting wild boar, herding livestock, and property protection. Nearly extinct in the 20th century but revived by enthusiasts starting in 1989. Recognized by French Kennel Club and provisionally by FCI as the Cursinu."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 15-29; Female: 13-25",
+      "female": "Male: 15-29; Female: 13-25"
+    },
+    "height": {
+      "male": "Male: 46-58; Female: 43-56",
+      "female": "Male: 46-58; Female: 43-56"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 75,
+    "temperament": 87,
+    "loyalty": 81,
+    "intelligence": 80,
+    "friendliness": 67,
+    "energy": 65
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    }
+  ]
+}

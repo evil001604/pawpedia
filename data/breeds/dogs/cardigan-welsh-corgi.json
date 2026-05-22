@@ -1,0 +1,90 @@
+{
+  "id": "cardigan-welsh-corgi",
+  "type": "dog",
+  "name": {
+    "en": "Cardigan Welsh Corgi",
+    "zh": "Cardigan Welsh Corgi"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/aZCddydGBk.jpg"
+  ],
+  "origin": {
+    "en": "Cardiganshire, Wales",
+    "zh": "Cardiganshire, Wales"
+  },
+  "history": {
+    "en": "One of the oldest herding breeds, believed brought to Wales by Celtic tribes around 1200 BC, developed as versatile farm dogs for cattle herding and property guarding",
+    "zh": "One of the oldest herding breeds, believed brought to Wales by Celtic tribes around 1200 BC, developed as versatile farm dogs for cattle herding and property guarding"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 14-17; Female: 11-15",
+      "female": "Male: 14-17; Female: 11-15"
+    },
+    "height": {
+      "male": "27-32",
+      "female": "27-32"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 87,
+    "loyalty": 80,
+    "intelligence": 71,
+    "friendliness": 86,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

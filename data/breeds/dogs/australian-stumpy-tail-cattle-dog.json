@@ -1,0 +1,98 @@
+{
+  "id": "australian-stumpy-tail-cattle-dog",
+  "type": "dog",
+  "name": {
+    "en": "Australian Stumpy Tail Cattle Dog",
+    "zh": "Australian Stumpy Tail Cattle Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Q72V090BS.jpg"
+  ],
+  "origin": {
+    "en": "Australia",
+    "zh": "Australia"
+  },
+  "history": {
+    "en": "Developed in the early-to-mid 1800s by Australian cattlemen crossing British herding dogs (such as the Smithfield) with native Australian dingo-type dogs. Bred specifically for working ability and natural bob-tail, developing parallel to the Australian Cattle Dog as an independent herding breed.",
+    "zh": "Developed in the early-to-mid 1800s by Australian cattlemen crossing British herding dogs (such as the Smithfield) with native Australian dingo-type dogs. Bred specifically for working ability and natural bob-tail, developing parallel to the Australian Cattle Dog as an independent herding breed."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 16-23; Female: 14.5-20.5",
+      "female": "Male: 16-23; Female: 14.5-20.5"
+    },
+    "height": {
+      "male": "Male: 46-51; Female: 43-48",
+      "female": "Male: 46-51; Female: 43-48"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 89,
+    "temperament": 65,
+    "loyalty": 66,
+    "intelligence": 94,
+    "friendliness": 84,
+    "energy": 68
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

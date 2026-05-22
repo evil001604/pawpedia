@@ -1,0 +1,94 @@
+{
+  "id": "alaskan-husky",
+  "type": "dog",
+  "name": {
+    "en": "Alaskan Husky",
+    "zh": "Alaskan Husky"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/r1rrWe5Em_1280.jpg"
+  ],
+  "origin": {
+    "en": "Alaska, United States",
+    "zh": "Alaska, United States"
+  },
+  "history": {
+    "en": "Developed in Alaska as a purpose-bred sled dog through selective breeding of various northern breeds (Siberian Husky, Alaskan Malamute, Inuit dogs) with European breeds like Pointers, Greyhounds, and Salukis to create the ideal combination of speed, endurance, and work ethic for sled racing",
+    "zh": "Developed in Alaska as a purpose-bred sled dog through selective breeding of various northern breeds (Siberian Husky, Alaskan Malamute, Inuit dogs) with European breeds like Pointers, Greyhounds, and Salukis to create the ideal combination of speed, endurance, and work ethic for sled racing"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 17-27; Female: 16-25",
+      "female": "Male: 17-27; Female: 16-25"
+    },
+    "height": {
+      "male": "Male: 53-66; Female: 51-64",
+      "female": "Male: 53-66; Female: 51-64"
+    },
+    "lifespan": {
+      "en": "10-15",
+      "zh": "10-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 92,
+    "temperament": 76,
+    "loyalty": 82,
+    "intelligence": 93,
+    "friendliness": 71,
+    "energy": 93
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    }
+  ]
+}

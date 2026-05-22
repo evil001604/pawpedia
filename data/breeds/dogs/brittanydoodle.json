@@ -1,0 +1,90 @@
+{
+  "id": "brittanydoodle",
+  "type": "dog",
+  "name": {
+    "en": "Brittanydoodle",
+    "zh": "Brittanydoodle"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/NPwhpJnSe.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Modern crossbreed developed in the United States as part of the 'doodle' trend. Created by crossing athletic Brittany sporting dogs with Standard Poodles to produce a versatile family and sporting companion with reduced shedding. Not recognized by major kennel clubs; standards vary by breeder.",
+    "zh": "Modern crossbreed developed in the United States as part of the 'doodle' trend. Created by crossing athletic Brittany sporting dogs with Standard Poodles to produce a versatile family and sporting companion with reduced shedding. Not recognized by major kennel clubs; standards vary by breeder."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 16-30; Female: 14-25",
+      "female": "Male: 16-30; Female: 14-25"
+    },
+    "height": {
+      "male": "Male: 44-64; Female: 44-58",
+      "female": "Male: 44-64; Female: 44-58"
+    },
+    "lifespan": {
+      "en": "11-16",
+      "zh": "11-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 87,
+    "temperament": 80,
+    "loyalty": 78,
+    "intelligence": 77,
+    "friendliness": 92,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

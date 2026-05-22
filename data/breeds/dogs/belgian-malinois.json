@@ -1,0 +1,98 @@
+{
+  "id": "belgian-malinois",
+  "type": "dog",
+  "name": {
+    "en": "Belgian Malinois",
+    "zh": "Belgian Malinois"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/fjKm1CMZDK.jpg"
+  ],
+  "origin": {
+    "en": "Belgium",
+    "zh": "Belgium"
+  },
+  "history": {
+    "en": "Developed in the area around Malines, Belgium, in the late 19th century as one of four varieties of Belgian Shepherd dogs. Originally bred for herding ability and strong work ethic, quickly adopted by police forces and militaries worldwide. AKC recognized as distinct breed in 1959.",
+    "zh": "Developed in the area around Malines, Belgium, in the late 19th century as one of four varieties of Belgian Shepherd dogs. Originally bred for herding ability and strong work ethic, quickly adopted by police forces and militaries worldwide. AKC recognized as distinct breed in 1959."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 27-36; Female: 18-27",
+      "female": "Male: 27-36; Female: 18-27"
+    },
+    "height": {
+      "male": "Male: 61-66; Female: 56-61",
+      "female": "Male: 61-66; Female: 56-61"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 93,
+    "temperament": 79,
+    "loyalty": 88,
+    "intelligence": 80,
+    "friendliness": 73,
+    "energy": 86
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    }
+  ]
+}

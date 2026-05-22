@@ -1,0 +1,94 @@
+{
+  "id": "alaskan-klee-kai",
+  "type": "dog",
+  "name": {
+    "en": "Alaskan Klee Kai",
+    "zh": "Alaskan Klee Kai"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/lq5gBjy4s.jpg"
+  ],
+  "origin": {
+    "en": "Wasilla, Alaska, United States",
+    "zh": "Wasilla, Alaska, United States"
+  },
+  "history": {
+    "en": "Developed in the 1970s by Linda S. Spurlin in Alaska to create a companion-sized version of the Alaskan Husky. Foundation stock included Siberian and Alaskan Huskies, with potential crosses of Schipperke and American Eskimo Dog to reduce size. Recognized by UKC but not currently AKC recognized.",
+    "zh": "Developed in the 1970s by Linda S. Spurlin in Alaska to create a companion-sized version of the Alaskan Husky. Foundation stock included Siberian and Alaskan Huskies, with potential crosses of Schipperke and American Eskimo Dog to reduce size. Recognized by UKC but not currently AKC recognized."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 7-10.4; Female: 4.5-8.2",
+      "female": "Male: 7-10.4; Female: 4.5-8.2"
+    },
+    "height": {
+      "male": "Male: 38-43; Female: 33-38",
+      "female": "Male: 38-43; Female: 33-38"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 76,
+    "temperament": 87,
+    "loyalty": 75,
+    "intelligence": 89,
+    "friendliness": 76,
+    "energy": 76
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "curious",
+      "zh": "curious"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    }
+  ]
+}

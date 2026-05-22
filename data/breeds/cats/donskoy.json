@@ -1,0 +1,82 @@
+{
+  "id": "donskoy",
+  "type": "cat",
+  "name": {
+    "en": "Donskoy",
+    "zh": "Donskoy"
+  },
+  "images": [
+    "/images/breeds/cats/donskoy-1.jpg"
+  ],
+  "origin": {
+    "en": "Russia",
+    "zh": "Russia"
+  },
+  "history": {
+    "en": "Donskoy are affectionate, intelligent, and easy-going. They demand lots of attention and interaction. The Donskoy also gets along well with other pets. It is now thought the same gene that causes degrees of hairlessness in the Donskoy also causes alterations in cat personality, making them calmer the less hair they have.",
+    "zh": "Donskoy are affectionate, intelligent, and easy-going. They demand lots of attention and interaction. The Donskoy also gets along well with other pets. It is now thought the same gene that causes degrees of hairlessness in the Donskoy also causes alterations in cat personality, making them calmer the less hair they have."
+  },
+  "stats": {
+    "weight": {
+      "male": "5 - 6",
+      "female": "5 - 6"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 15",
+      "zh": "12 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 93,
+    "temperament": 67,
+    "loyalty": 71,
+    "intelligence": 80,
+    "friendliness": 82,
+    "energy": 67
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "social",
+      "zh": "social"
+    }
+  ]
+}

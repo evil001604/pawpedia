@@ -1,0 +1,102 @@
+{
+  "id": "colombian-fino-hound",
+  "type": "dog",
+  "name": {
+    "en": "Colombian Fino Hound",
+    "zh": "Colombian Fino Hound"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/gjnoCK7T4G.jpg"
+  ],
+  "origin": {
+    "en": "Colombia",
+    "zh": "Colombia"
+  },
+  "history": {
+    "en": "Traditional Colombian scent hound descended from European and North American scenthounds brought to Colombia, adapted over centuries to local terrain and climate. Developed by rural hunters for tenacity and scenting skills from local and Spanish scent hounds. Officially recognized in Colombia in early 2000s and received provisional FCI recognition in 2014.",
+    "zh": "Traditional Colombian scent hound descended from European and North American scenthounds brought to Colombia, adapted over centuries to local terrain and climate. Developed by rural hunters for tenacity and scenting skills from local and Spanish scent hounds. Officially recognized in Colombia in early 2000s and received provisional FCI recognition in 2014."
+  },
+  "stats": {
+    "weight": {
+      "male": "15-25",
+      "female": "15-25"
+    },
+    "height": {
+      "male": "Male: 40-50; Female: 38-48",
+      "female": "Male: 40-50; Female: 38-48"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 70,
+    "loyalty": 77,
+    "intelligence": 92,
+    "friendliness": 81,
+    "energy": 89
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Scent Hound",
+      "zh": "Scent Hound"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "docile",
+      "zh": "docile"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

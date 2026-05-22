@@ -1,0 +1,98 @@
+{
+  "id": "coton-de-tulear",
+  "type": "dog",
+  "name": {
+    "en": "Coton de Tulear",
+    "zh": "Coton de Tulear"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/4RCSX1i1yE.jpg"
+  ],
+  "origin": {
+    "en": "Madagascar",
+    "zh": "Madagascar"
+  },
+  "history": {
+    "en": "Originated as royal dog and companion to nobles in Madagascar, developed from small white dogs brought by traders. Named for city of Tuléar and recognized by FCI and AKC as beloved adaptable companion breed",
+    "zh": "Originated as royal dog and companion to nobles in Madagascar, developed from small white dogs brought by traders. Named for city of Tuléar and recognized by FCI and AKC as beloved adaptable companion breed"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 4-7; Female: 3.5-6",
+      "female": "Male: 4-7; Female: 3.5-6"
+    },
+    "height": {
+      "male": "Male: 25-28; Female: 23-25",
+      "female": "Male: 25-28; Female: 23-25"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 82,
+    "temperament": 71,
+    "loyalty": 77,
+    "intelligence": 91,
+    "friendliness": 71,
+    "energy": 74
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Happy",
+      "zh": "Happy"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

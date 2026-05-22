@@ -1,0 +1,86 @@
+{
+  "id": "york-chocolate",
+  "type": "cat",
+  "name": {
+    "en": "York Chocolate",
+    "zh": "York Chocolate"
+  },
+  "images": [
+    "/images/breeds/cats/york-chocolate-1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "York Chocolate cats are known to be true lap cats with a sweet temperament. They love to be cuddled and petted. Their curious nature makes them follow you all the time and participate in almost everything you do, even if it's related to water: unlike many other cats, York Chocolates love it.",
+    "zh": "York Chocolate cats are known to be true lap cats with a sweet temperament. They love to be cuddled and petted. Their curious nature makes them follow you all the time and participate in almost everything you do, even if it's related to water: unlike many other cats, York Chocolates love it."
+  },
+  "stats": {
+    "weight": {
+      "male": "5 - 8",
+      "female": "5 - 8"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "13 - 15",
+      "zh": "13 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 77,
+    "temperament": 93,
+    "loyalty": 67,
+    "intelligence": 67,
+    "friendliness": 63,
+    "energy": 52
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Curious",
+      "zh": "Curious"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "belgian-laekenois",
+  "type": "dog",
+  "name": {
+    "en": "Belgian Laekenois",
+    "zh": "Belgian Laekenois"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/72Ttvx0Iz.jpg"
+  ],
+  "origin": {
+    "en": "Belgium",
+    "zh": "Belgium"
+  },
+  "history": {
+    "en": "One of four Belgian Shepherd varieties and the rarest, developed in late 1800s around Laeken near the Royal Castle of Laeken. Originally bred to guard flocks and the drying linen fields near Antwerp. Nearly extinct after WWII but preserved by dedicated breeders.",
+    "zh": "One of four Belgian Shepherd varieties and the rarest, developed in late 1800s around Laeken near the Royal Castle of Laeken. Originally bred to guard flocks and the drying linen fields near Antwerp. Nearly extinct after WWII but preserved by dedicated breeders."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-30; Female: 20-27",
+      "female": "Male: 25-30; Female: 20-27"
+    },
+    "height": {
+      "male": "Male: 61-66; Female: 56-61",
+      "female": "Male: 61-66; Female: 56-61"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 82,
+    "temperament": 81,
+    "loyalty": 74,
+    "intelligence": 67,
+    "friendliness": 81,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

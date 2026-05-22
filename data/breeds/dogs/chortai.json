@@ -1,0 +1,90 @@
+{
+  "id": "chortai",
+  "type": "dog",
+  "name": {
+    "en": "Chortai",
+    "zh": "Chortai"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/5piuRzRMc3.jpg"
+  ],
+  "origin": {
+    "en": "Southern Russia/Central Asia",
+    "zh": "Southern Russia/Central Asia"
+  },
+  "history": {
+    "en": "Ancient sighthound breed developed in the steppe regions of Kazakhstan and southern Russia for hunting hare, fox, and larger game. Bred purely for function—speed, stamina, and hunting ability—across vast steppes. Nearly extinct after Russian Revolution but preserved by enthusiasts.",
+    "zh": "Ancient sighthound breed developed in the steppe regions of Kazakhstan and southern Russia for hunting hare, fox, and larger game. Bred purely for function—speed, stamina, and hunting ability—across vast steppes. Nearly extinct after Russian Revolution but preserved by enthusiasts."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-35; Female: 23-32",
+      "female": "Male: 25-35; Female: 23-32"
+    },
+    "height": {
+      "male": "Male: 64-74; Female: 61-71",
+      "female": "Male: 64-74; Female: 61-71"
+    },
+    "lifespan": {
+      "en": "11-13",
+      "zh": "11-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 87,
+    "temperament": 88,
+    "loyalty": 79,
+    "intelligence": 77,
+    "friendliness": 94,
+    "energy": 86
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    }
+  ]
+}

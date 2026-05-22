@@ -1,0 +1,94 @@
+{
+  "id": "czechoslovakian-wolfdog",
+  "type": "dog",
+  "name": {
+    "en": "Czechoslovakian Wolfdog",
+    "zh": "Czechoslovakian Wolfdog"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/xqSZ5QgaTA.jpg"
+  ],
+  "origin": {
+    "en": "Czechoslovakia",
+    "zh": "Czechoslovakia"
+  },
+  "history": {
+    "en": "Developed in 1955 in Czechoslovakia through biological experiment crossing German Shepherd Dogs with Carpathian wolves. Goal was to blend trainability of German Shepherd with stamina and pack instinct of wolf for military border patrol use. Officially recognized by FCI in 1989.",
+    "zh": "Developed in 1955 in Czechoslovakia through biological experiment crossing German Shepherd Dogs with Carpathian wolves. Goal was to blend trainability of German Shepherd with stamina and pack instinct of wolf for military border patrol use. Officially recognized by FCI in 1989."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-34; Female: 20-27",
+      "female": "Male: 25-34; Female: 20-27"
+    },
+    "height": {
+      "male": "Male: 61-71; Female: 60-66",
+      "female": "Male: 61-71; Female: 60-66"
+    },
+    "lifespan": {
+      "en": "12-16",
+      "zh": "12-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 91,
+    "temperament": 77,
+    "loyalty": 89,
+    "intelligence": 68,
+    "friendliness": 79,
+    "energy": 78
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    }
+  ]
+}

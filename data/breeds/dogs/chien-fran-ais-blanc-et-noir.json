@@ -1,0 +1,90 @@
+{
+  "id": "chien-fran-ais-blanc-et-noir",
+  "type": "dog",
+  "name": {
+    "en": "Chien Français Blanc et Noir",
+    "zh": "Chien Français Blanc et Noir"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/SbgZjfjVs.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Developed in 19th century France from crosses of Gascon-Saintongeois and the now-extinct Montaimboeuf hounds, with English Foxhounds. Meticulously created as a powerful and enduring pack hound specialized for hunting roe deer and large game",
+    "zh": "Developed in 19th century France from crosses of Gascon-Saintongeois and the now-extinct Montaimboeuf hounds, with English Foxhounds. Meticulously created as a powerful and enduring pack hound specialized for hunting roe deer and large game"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 30-35; Female: 28-33",
+      "female": "Male: 30-35; Female: 28-33"
+    },
+    "height": {
+      "male": "Male: 65-72; Female: 62-68",
+      "female": "Male: 65-72; Female: 62-68"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 93,
+    "temperament": 67,
+    "loyalty": 93,
+    "intelligence": 72,
+    "friendliness": 68,
+    "energy": 76
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Courageous",
+      "zh": "Courageous"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

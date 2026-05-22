@@ -1,0 +1,90 @@
+{
+  "id": "chinook",
+  "type": "dog",
+  "name": {
+    "en": "Chinook",
+    "zh": "Chinook"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/LdMEnAqSQo.jpg"
+  ],
+  "origin": {
+    "en": "New Hampshire, United States",
+    "zh": "New Hampshire, United States"
+  },
+  "history": {
+    "en": "Developed in the early 20th century by polar explorer Arthur Treadwell Walden by crossing Mastiff-type dogs with Huskies and Belgian Shepherds. Named after the foundation male 'Chinook', bred to be an ideal sled dog for New England conditions. Recognized by the AKC in 2013.",
+    "zh": "Developed in the early 20th century by polar explorer Arthur Treadwell Walden by crossing Mastiff-type dogs with Huskies and Belgian Shepherds. Named after the foundation male 'Chinook', bred to be an ideal sled dog for New England conditions. Recognized by the AKC in 2013."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-41; Female: 23-32",
+      "female": "Male: 25-41; Female: 23-32"
+    },
+    "height": {
+      "male": "Male: 58-66; Female: 53-64",
+      "female": "Male: 58-66; Female: 53-64"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 78,
+    "loyalty": 76,
+    "intelligence": 90,
+    "friendliness": 93,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    }
+  ]
+}

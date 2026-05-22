@@ -1,0 +1,90 @@
+{
+  "id": "american-english-coonhound",
+  "type": "dog",
+  "name": {
+    "en": "American English Coonhound",
+    "zh": "American English Coonhound"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/q7VUELb6Ub.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Descended from English Foxhounds brought to American colonies in the 17th and 18th centuries. Developed by breeders in the American South for hunting raccoons and foxes in rougher terrain, recognized by AKC in 2011",
+    "zh": "Descended from English Foxhounds brought to American colonies in the 17th and 18th centuries. Developed by breeders in the American South for hunting raccoons and foxes in rougher terrain, recognized by AKC in 2011"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-30; Female: 18-27",
+      "female": "Male: 20-30; Female: 18-27"
+    },
+    "height": {
+      "male": "Male: 61-66; Female: 58-64",
+      "female": "Male: 61-66; Female: 58-64"
+    },
+    "lifespan": {
+      "en": "11-12",
+      "zh": "11-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 83,
+    "temperament": 94,
+    "loyalty": 80,
+    "intelligence": 79,
+    "friendliness": 76,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

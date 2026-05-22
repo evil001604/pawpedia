@@ -1,0 +1,90 @@
+{
+  "id": "basset-art-sien-normand",
+  "type": "dog",
+  "name": {
+    "en": "Basset Artésien Normand",
+    "zh": "Basset Artésien Normand"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/yddakJGig.jpg"
+  ],
+  "origin": {
+    "en": "Artois and Normandy regions, France",
+    "zh": "Artois and Normandy regions, France"
+  },
+  "history": {
+    "en": "Developed in France from the older Basset d'Artois and Basset Normand breeds, standardized around 1924 by Léon Verrier for hunting small game like rabbit and hare either alone or in packs",
+    "zh": "Developed in France from the older Basset d'Artois and Basset Normand breeds, standardized around 1924 by Léon Verrier for hunting small game like rabbit and hare either alone or in packs"
+  },
+  "stats": {
+    "weight": {
+      "male": "15-20",
+      "female": "15-20"
+    },
+    "height": {
+      "male": "30-36",
+      "female": "30-36"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 82,
+    "temperament": 76,
+    "loyalty": 87,
+    "intelligence": 94,
+    "friendliness": 80,
+    "energy": 87
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    }
+  ]
+}

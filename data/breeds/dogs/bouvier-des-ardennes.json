@@ -1,0 +1,94 @@
+{
+  "id": "bouvier-des-ardennes",
+  "type": "dog",
+  "name": {
+    "en": "Bouvier des Ardennes",
+    "zh": "Bouvier des Ardennes"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/C3KfxN2DG.jpg"
+  ],
+  "origin": {
+    "en": "Ardennes region, Belgium",
+    "zh": "Ardennes region, Belgium"
+  },
+  "history": {
+    "en": "Ancient Belgian herding breed from the Ardennes region, traditionally used to drove cattle and pigs. Nearly extinct after the World Wars due to mechanization of farming but successfully revived by enthusiasts in the late 1980s",
+    "zh": "Ancient Belgian herding breed from the Ardennes region, traditionally used to drove cattle and pigs. Nearly extinct after the World Wars due to mechanization of farming but successfully revived by enthusiasts in the late 1980s"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 27-34; Female: 23-29",
+      "female": "Male: 27-34; Female: 23-29"
+    },
+    "height": {
+      "male": "Male: 56-61; Female: 52-56",
+      "female": "Male: 56-61; Female: 52-56"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 89,
+    "temperament": 89,
+    "loyalty": 72,
+    "intelligence": 82,
+    "friendliness": 65,
+    "energy": 69
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Courageous",
+      "zh": "Courageous"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

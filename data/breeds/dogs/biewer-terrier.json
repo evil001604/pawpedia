@@ -1,0 +1,90 @@
+{
+  "id": "biewer-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Biewer Terrier",
+    "zh": "Biewer Terrier"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/PJvRHYfs1.jpg"
+  ],
+  "origin": {
+    "en": "Hunsruck, Germany",
+    "zh": "Hunsruck, Germany"
+  },
+  "history": {
+    "en": "Developed in Germany in 1984 by Werner and Gertrud Biewer from a piebald genetic mutation in their Yorkshire Terrier breeding program. Through selective breeding, they established this distinct tri-colored toy breed. AKC recognized in 2021.",
+    "zh": "Developed in Germany in 1984 by Werner and Gertrud Biewer from a piebald genetic mutation in their Yorkshire Terrier breeding program. Through selective breeding, they established this distinct tri-colored toy breed. AKC recognized in 2021."
+  },
+  "stats": {
+    "weight": {
+      "male": "1.8-3.6",
+      "female": "1.8-3.6"
+    },
+    "height": {
+      "male": "18-28",
+      "female": "18-28"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 66,
+    "temperament": 89,
+    "loyalty": 80,
+    "intelligence": 66,
+    "friendliness": 89,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Toy",
+      "zh": "Toy"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    }
+  ]
+}

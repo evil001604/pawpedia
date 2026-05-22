@@ -1,0 +1,90 @@
+{
+  "id": "afghan-hound",
+  "type": "dog",
+  "name": {
+    "en": "Afghan Hound",
+    "zh": "Afghan Hound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/ehW1aS16H.jpg"
+  ],
+  "origin": {
+    "en": "Afghanistan",
+    "zh": "Afghanistan"
+  },
+  "history": {
+    "en": "Ancient sighthound originating in the mountainous regions of Afghanistan, where they were prized for hunting large prey like gazelles and leopards. Valued for their speed, stamina, and problem-solving intelligence over rugged terrain. Introduced to the Western world by British officers in the early 20th century.",
+    "zh": "Ancient sighthound originating in the mountainous regions of Afghanistan, where they were prized for hunting large prey like gazelles and leopards. Valued for their speed, stamina, and problem-solving intelligence over rugged terrain. Introduced to the Western world by British officers in the early 20th century."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-30; Female: 20-25",
+      "female": "Male: 25-30; Female: 20-25"
+    },
+    "height": {
+      "male": "Male: 69-74; Female: 63-69",
+      "female": "Male: 69-74; Female: 63-69"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 85,
+    "loyalty": 78,
+    "intelligence": 71,
+    "friendliness": 77,
+    "energy": 93
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "dignified",
+      "zh": "dignified"
+    },
+    {
+      "en": "aloof",
+      "zh": "aloof"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "british-shorthair",
+  "type": "cat",
+  "name": {
+    "en": "British Shorthair",
+    "zh": "British Shorthair"
+  },
+  "images": [
+    "/images/breeds/cats/british-shorthair-1.jpg"
+  ],
+  "origin": {
+    "en": "United Kingdom",
+    "zh": "United Kingdom"
+  },
+  "history": {
+    "en": "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.",
+    "zh": "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people."
+  },
+  "stats": {
+    "weight": {
+      "male": "5 - 9",
+      "female": "5 - 9"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 17",
+      "zh": "12 - 17"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 78,
+    "loyalty": 58,
+    "intelligence": 65,
+    "friendliness": 82,
+    "energy": 60
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Easy Going",
+      "zh": "Easy Going"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "Patient",
+      "zh": "Patient"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "dragon-li",
+  "type": "cat",
+  "name": {
+    "en": "Dragon Li",
+    "zh": "Dragon Li"
+  },
+  "images": [
+    "/images/breeds/cats/dragon-li-1.jpg"
+  ],
+  "origin": {
+    "en": "China",
+    "zh": "China"
+  },
+  "history": {
+    "en": "The Dragon Li is loyal, but not particularly affectionate. They are known to be very intelligent, and their natural breed status means that they're very active. She is is gentle with people, and has a reputation as a talented hunter of rats and other vermin.",
+    "zh": "The Dragon Li is loyal, but not particularly affectionate. They are known to be very intelligent, and their natural breed status means that they're very active. She is is gentle with people, and has a reputation as a talented hunter of rats and other vermin."
+  },
+  "stats": {
+    "weight": {
+      "male": "4 - 6",
+      "female": "4 - 6"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 15",
+      "zh": "12 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 77,
+    "temperament": 89,
+    "loyalty": 72,
+    "intelligence": 87,
+    "friendliness": 62,
+    "energy": 80
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "Loving",
+      "zh": "Loving"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "cimarr-n-uruguayo",
+  "type": "dog",
+  "name": {
+    "en": "Cimarrón Uruguayo",
+    "zh": "Cimarrón Uruguayo"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/S1fFlx5Em_1280.jpg"
+  ],
+  "origin": {
+    "en": "Uruguay",
+    "zh": "Uruguay"
+  },
+  "history": {
+    "en": "Descended from dogs brought by Spanish and Portuguese colonizers, developed as a feral breed then shaped by natural selection in the wild. Used for herding cattle, guarding property, and hunting large game. Officially recognized in Uruguay in 1989 and recognized by the FCI.",
+    "zh": "Descended from dogs brought by Spanish and Portuguese colonizers, developed as a feral breed then shaped by natural selection in the wild. Used for herding cattle, guarding property, and hunting large game. Officially recognized in Uruguay in 1989 and recognized by the FCI."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 38-45; Female: 33-40",
+      "female": "Male: 38-45; Female: 33-40"
+    },
+    "height": {
+      "male": "Male: 58-61; Female: 55-58",
+      "female": "Male: 58-61; Female: 55-58"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 74,
+    "temperament": 86,
+    "loyalty": 78,
+    "intelligence": 87,
+    "friendliness": 70,
+    "energy": 74
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Courageous",
+      "zh": "Courageous"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

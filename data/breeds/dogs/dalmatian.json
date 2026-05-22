@@ -1,0 +1,90 @@
+{
+  "id": "dalmatian",
+  "type": "dog",
+  "name": {
+    "en": "Dalmatian",
+    "zh": "Dalmatian"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/n0VCtOCK10.jpg"
+  ],
+  "origin": {
+    "en": "Dalmatia, Croatia",
+    "zh": "Dalmatia, Croatia"
+  },
+  "history": {
+    "en": "Ancient breed with roots in Dalmatia, Croatia, originally bred as carriage dogs to run for miles alongside horse-drawn coaches, guarding horses and coaches. Also served as circus performers and iconic firehouse mascots, particularly associated with American fire departments. Recognized by AKC in 1888.",
+    "zh": "Ancient breed with roots in Dalmatia, Croatia, originally bred as carriage dogs to run for miles alongside horse-drawn coaches, guarding horses and coaches. Also served as circus performers and iconic firehouse mascots, particularly associated with American fire departments. Recognized by AKC in 1888."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-32; Female: 20-27",
+      "female": "Male: 25-32; Female: 20-27"
+    },
+    "height": {
+      "male": "Male: 58-61; Female: 56-58",
+      "female": "Male: 58-61; Female: 56-58"
+    },
+    "lifespan": {
+      "en": "11-13",
+      "zh": "11-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 94,
+    "loyalty": 93,
+    "intelligence": 82,
+    "friendliness": 74,
+    "energy": 69
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    }
+  ]
+}

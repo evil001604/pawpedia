@@ -1,0 +1,94 @@
+{
+  "id": "calupoh",
+  "type": "dog",
+  "name": {
+    "en": "Calupoh",
+    "zh": "Calupoh"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/xqSZ5QgaTA.jpg"
+  ],
+  "origin": {
+    "en": "Mexico",
+    "zh": "Mexico"
+  },
+  "history": {
+    "en": "Developed in Mexico in the mid-1990s through controlled hybridization of Mexican Gray Wolves with domestic dogs, primarily German Shepherds and Alaskan Malamutes, to create a wolf-like companion breed that preserves cultural heritage while maintaining domestic dog temperament and trainability. Provisionally recognized by the FCI and the Federación Canófila Mexicana.",
+    "zh": "Developed in Mexico in the mid-1990s through controlled hybridization of Mexican Gray Wolves with domestic dogs, primarily German Shepherds and Alaskan Malamutes, to create a wolf-like companion breed that preserves cultural heritage while maintaining domestic dog temperament and trainability. Provisionally recognized by the FCI and the Federación Canófila Mexicana."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 31-45; Female: 27-40",
+      "female": "Male: 31-45; Female: 27-40"
+    },
+    "height": {
+      "male": "Male: 61-75; Female: 56-70",
+      "female": "Male: 61-75; Female: 56-70"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 65,
+    "temperament": 79,
+    "loyalty": 83,
+    "intelligence": 87,
+    "friendliness": 67,
+    "energy": 94
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

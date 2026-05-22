@@ -1,0 +1,94 @@
+{
+  "id": "anglo-fran-ais-de-petite-v-nerie",
+  "type": "dog",
+  "name": {
+    "en": "Anglo-Français de Petite Vénerie",
+    "zh": "Anglo-Français de Petite Vénerie"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Hyjcol947_1280.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Developed in France by crossing English Foxhounds and Harriers with various French scenthound breeds like the Poitevin and Porcelaine to create efficient pack hounds suited for 'petite vénerie' - the hunting of small game",
+    "zh": "Developed in France by crossing English Foxhounds and Harriers with various French scenthound breeds like the Poitevin and Porcelaine to create efficient pack hounds suited for 'petite vénerie' - the hunting of small game"
+  },
+  "stats": {
+    "weight": {
+      "male": "16-20",
+      "female": "16-20"
+    },
+    "height": {
+      "male": "48-56",
+      "female": "48-56"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 88,
+    "loyalty": 83,
+    "intelligence": 84,
+    "friendliness": 87,
+    "energy": 65
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    }
+  ]
+}

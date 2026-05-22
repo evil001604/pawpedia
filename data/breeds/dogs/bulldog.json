@@ -1,0 +1,90 @@
+{
+  "id": "bulldog",
+  "type": "dog",
+  "name": {
+    "en": "Bulldog",
+    "zh": "Bulldog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/VOmeXxwUp.jpg"
+  ],
+  "origin": {
+    "en": "England",
+    "zh": "England"
+  },
+  "history": {
+    "en": "Originally developed in medieval England for bull-baiting, descended from ancient mastiff-type dogs. After blood sports were outlawed in 1835, refined into the gentle companion breed known today",
+    "zh": "Originally developed in medieval England for bull-baiting, descended from ancient mastiff-type dogs. After blood sports were outlawed in 1835, refined into the gentle companion breed known today"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 23-25; Female: 18-23",
+      "female": "Male: 23-25; Female: 18-23"
+    },
+    "height": {
+      "male": "36-38",
+      "female": "36-38"
+    },
+    "lifespan": {
+      "en": "8-10",
+      "zh": "8-10"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 88,
+    "temperament": 85,
+    "loyalty": 67,
+    "intelligence": 91,
+    "friendliness": 75,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "docile",
+      "zh": "docile"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

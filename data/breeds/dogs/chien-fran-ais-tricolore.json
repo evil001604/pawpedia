@@ -1,0 +1,94 @@
+{
+  "id": "chien-fran-ais-tricolore",
+  "type": "dog",
+  "name": {
+    "en": "Chien Français Tricolore",
+    "zh": "Chien Français Tricolore"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Skx45T6EQ.gif"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Created in the mid-20th century by Henri de Falandre by crossing the Poitevin and the Gascon-Saintongeois for large game hunting particularly deer. Officially recognized by the FCI in 1957",
+    "zh": "Created in the mid-20th century by Henri de Falandre by crossing the Poitevin and the Gascon-Saintongeois for large game hunting particularly deer. Officially recognized by the FCI in 1957"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 28-35; Female: 25-30",
+      "female": "Male: 28-35; Female: 25-30"
+    },
+    "height": {
+      "male": "Male: 62-72; Female: 60-68",
+      "female": "Male: 62-72; Female: 60-68"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 78,
+    "temperament": 68,
+    "loyalty": 79,
+    "intelligence": 76,
+    "friendliness": 68,
+    "energy": 80
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Work-focused",
+      "zh": "Work-focused"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

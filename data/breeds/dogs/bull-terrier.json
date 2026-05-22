@@ -1,0 +1,90 @@
+{
+  "id": "bull-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Bull Terrier",
+    "zh": "Bull Terrier"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/HJy3uOnrm_1280.jpg"
+  ],
+  "origin": {
+    "en": "England",
+    "zh": "England"
+  },
+  "history": {
+    "en": "Developed in 19th-century England by crossing old English Bulldogs with various terriers, originally for bull-baiting and dog fighting. James Hinks is credited with standardizing the breed and creating the distinctive egg-shaped head, earning them the nickname 'The White Cavalier'.",
+    "zh": "Developed in 19th-century England by crossing old English Bulldogs with various terriers, originally for bull-baiting and dog fighting. James Hinks is credited with standardizing the breed and creating the distinctive egg-shaped head, earning them the nickname 'The White Cavalier'."
+  },
+  "stats": {
+    "weight": {
+      "male": "23-32",
+      "female": "23-32"
+    },
+    "height": {
+      "male": "53-56",
+      "female": "53-56"
+    },
+    "lifespan": {
+      "en": "12-13",
+      "zh": "12-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 87,
+    "loyalty": 81,
+    "intelligence": 72,
+    "friendliness": 65,
+    "energy": 71
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "mischievous",
+      "zh": "mischievous"
+    }
+  ]
+}

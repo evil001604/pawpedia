@@ -1,0 +1,94 @@
+{
+  "id": "bullmastiff",
+  "type": "dog",
+  "name": {
+    "en": "Bullmastiff",
+    "zh": "Bullmastiff"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/9QavaBx9AT.jpg"
+  ],
+  "origin": {
+    "en": "England",
+    "zh": "England"
+  },
+  "history": {
+    "en": "Developed in mid-19th century England by gamekeepers crossing English Mastiff with Old English Bulldog to create an effective estate guard dog for tracking poachers",
+    "zh": "Developed in mid-19th century England by gamekeepers crossing English Mastiff with Old English Bulldog to create an effective estate guard dog for tracking poachers"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 50-59; Female: 45-54",
+      "female": "Male: 50-59; Female: 45-54"
+    },
+    "height": {
+      "male": "Male: 64-69; Female: 61-66",
+      "female": "Male: 64-69; Female: 61-66"
+    },
+    "lifespan": {
+      "en": "7-9",
+      "zh": "7-9"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 90,
+    "temperament": 72,
+    "loyalty": 74,
+    "intelligence": 68,
+    "friendliness": 93,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

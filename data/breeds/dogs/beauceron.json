@@ -1,0 +1,90 @@
+{
+  "id": "beauceron",
+  "type": "dog",
+  "name": {
+    "en": "Beauceron",
+    "zh": "Beauceron"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/a4dzJ1h49.jpg"
+  ],
+  "origin": {
+    "en": "France",
+    "zh": "France"
+  },
+  "history": {
+    "en": "Ancient French herding breed also known as Berger de Beauce, developed in plains surrounding Paris for herding and protecting sheep and cattle. Shares ancestry with the Briard, nearly extinct after World War II but saved by dedicated breeders. Also used for military and police work.",
+    "zh": "Ancient French herding breed also known as Berger de Beauce, developed in plains surrounding Paris for herding and protecting sheep and cattle. Shares ancestry with the Briard, nearly extinct after World War II but saved by dedicated breeders. Also used for military and police work."
+  },
+  "stats": {
+    "weight": {
+      "male": "32-50",
+      "female": "32-50"
+    },
+    "height": {
+      "male": "Male: 65-70; Female: 61-68",
+      "female": "Male: 65-70; Female: 61-68"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 90,
+    "loyalty": 72,
+    "intelligence": 65,
+    "friendliness": 71,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

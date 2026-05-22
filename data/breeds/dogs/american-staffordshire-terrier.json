@@ -1,0 +1,90 @@
+{
+  "id": "american-staffordshire-terrier",
+  "type": "dog",
+  "name": {
+    "en": "American Staffordshire Terrier",
+    "zh": "American Staffordshire Terrier"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/B1YDzppN7.gif"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Developed in the 19th century from crosses of bulldogs and terriers brought to America in the 1800s. Originally bred for bull-baiting and pit fighting, later refined to be larger than English Staffordshire Bull Terriers and developed into all-purpose farm dogs and family companions. Recognized by the AKC in 1936.",
+    "zh": "Developed in the 19th century from crosses of bulldogs and terriers brought to America in the 1800s. Originally bred for bull-baiting and pit fighting, later refined to be larger than English Staffordshire Bull Terriers and developed into all-purpose farm dogs and family companions. Recognized by the AKC in 1936."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-32; Female: 18-25",
+      "female": "Male: 25-32; Female: 18-25"
+    },
+    "height": {
+      "male": "Male: 46-48; Female: 43-46",
+      "female": "Male: 46-48; Female: 43-46"
+    },
+    "lifespan": {
+      "en": "12-16",
+      "zh": "12-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 74,
+    "loyalty": 91,
+    "intelligence": 79,
+    "friendliness": 72,
+    "energy": 84
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Confident",
+      "zh": "Confident"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "smart",
+      "zh": "smart"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "alaskan-malamute",
+  "type": "dog",
+  "name": {
+    "en": "Alaskan Malamute",
+    "zh": "Alaskan Malamute"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/nzjOKufQGP.jpg"
+  ],
+  "origin": {
+    "en": "Alaska, United States",
+    "zh": "Alaska, United States"
+  },
+  "history": {
+    "en": "One of the oldest Arctic sled dogs, developed by the native Mahlemut Inuit tribe of northwestern Alaska. Essential for survival, used for hauling heavy freight across Arctic terrain, hunting large predators like seals and polar bears",
+    "zh": "One of the oldest Arctic sled dogs, developed by the native Mahlemut Inuit tribe of northwestern Alaska. Essential for survival, used for hauling heavy freight across Arctic terrain, hunting large predators like seals and polar bears"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 36-41; Female: 32-36",
+      "female": "Male: 36-41; Female: 32-36"
+    },
+    "height": {
+      "male": "Male: 61-66; Female: 56-61",
+      "female": "Male: 61-66; Female: 56-61"
+    },
+    "lifespan": {
+      "en": "10-14",
+      "zh": "10-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 75,
+    "temperament": 92,
+    "loyalty": 85,
+    "intelligence": 93,
+    "friendliness": 82,
+    "energy": 74
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    }
+  ]
+}

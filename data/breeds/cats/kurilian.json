@@ -1,0 +1,94 @@
+{
+  "id": "kurilian",
+  "type": "cat",
+  "name": {
+    "en": "Kurilian",
+    "zh": "Kurilian"
+  },
+  "images": [
+    "/images/breeds/cats/kurilian-1.jpg"
+  ],
+  "origin": {
+    "en": "Russia",
+    "zh": "Russia"
+  },
+  "history": {
+    "en": "The character of the Kurilian Bobtail is independent, highly intelligent, clever, inquisitive, sociable, playful, trainable, absent of aggression and very gentle. They are devoted to their humans and when allowed are either on the lap of or sleeping in bed with their owners.",
+    "zh": "The character of the Kurilian Bobtail is independent, highly intelligent, clever, inquisitive, sociable, playful, trainable, absent of aggression and very gentle. They are devoted to their humans and when allowed are either on the lap of or sleeping in bed with their owners."
+  },
+  "stats": {
+    "weight": {
+      "male": "4 - 7",
+      "female": "4 - 7"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "15 - 20",
+      "zh": "15 - 20"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 73,
+    "temperament": 73,
+    "loyalty": 55,
+    "intelligence": 76,
+    "friendliness": 64,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Independent",
+      "zh": "Independent"
+    },
+    {
+      "en": "highly intelligent",
+      "zh": "highly intelligent"
+    },
+    {
+      "en": "clever",
+      "zh": "clever"
+    },
+    {
+      "en": "inquisitive",
+      "zh": "inquisitive"
+    },
+    {
+      "en": "sociable",
+      "zh": "sociable"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "trainable",
+      "zh": "trainable"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "chow-chow",
+  "type": "dog",
+  "name": {
+    "en": "Chow Chow",
+    "zh": "Chow Chow"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/C3KfxN2DG.jpg"
+  ],
+  "origin": {
+    "en": "China",
+    "zh": "China"
+  },
+  "history": {
+    "en": "One of the oldest recognizable breeds with origins dating back over 2,000 years in northern China, where it served as hunting, herding, guarding, and companion dog. Refined during Tang Dynasty and recognized by AKC in 1903.",
+    "zh": "One of the oldest recognizable breeds with origins dating back over 2,000 years in northern China, where it served as hunting, herding, guarding, and companion dog. Refined during Tang Dynasty and recognized by AKC in 1903."
+  },
+  "stats": {
+    "weight": {
+      "male": "20-32",
+      "female": "20-32"
+    },
+    "height": {
+      "male": "43-51",
+      "female": "43-51"
+    },
+    "lifespan": {
+      "en": "8-12",
+      "zh": "8-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 89,
+    "temperament": 72,
+    "loyalty": 66,
+    "intelligence": 78,
+    "friendliness": 85,
+    "energy": 76
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Non-Sporting",
+      "zh": "Non-Sporting"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "aloof",
+      "zh": "aloof"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    }
+  ]
+}

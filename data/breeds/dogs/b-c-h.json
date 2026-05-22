@@ -1,0 +1,90 @@
+{
+  "id": "b-c-h",
+  "type": "dog",
+  "name": {
+    "en": "Bắc Hà",
+    "zh": "Bắc Hà"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/hOQCNqMDb.jpg"
+  ],
+  "origin": {
+    "en": "Bắc Hà District, Lào Cai Province, northern Vietnam",
+    "zh": "Bắc Hà District, Lào Cai Province, northern Vietnam"
+  },
+  "history": {
+    "en": "Indigenous spitz-type breed developed by ethnic minority groups, particularly the Hmong people, in the mountainous Bắc Hà region of northern Vietnam. Traditionally used for hunting, guarding, and companionship. Officially recognized by the Vietnam Kennel Association in 2019.",
+    "zh": "Indigenous spitz-type breed developed by ethnic minority groups, particularly the Hmong people, in the mountainous Bắc Hà region of northern Vietnam. Traditionally used for hunting, guarding, and companionship. Officially recognized by the Vietnam Kennel Association in 2019."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 18-25; Female: 16-22",
+      "female": "Male: 18-25; Female: 16-22"
+    },
+    "height": {
+      "male": "Male: 46-56; Female: 41-51",
+      "female": "Male: 46-56; Female: 41-51"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 78,
+    "loyalty": 74,
+    "intelligence": 67,
+    "friendliness": 93,
+    "energy": 66
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Spitz and Primitive Types",
+      "zh": "Spitz and Primitive Types"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "selkirk-rex",
+  "type": "cat",
+  "name": {
+    "en": "Selkirk Rex",
+    "zh": "Selkirk Rex"
+  },
+  "images": [
+    "/images/breeds/cats/selkirk-rex-1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. ",
+    "zh": "The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. "
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 7",
+      "female": "3 - 7"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "14 - 15",
+      "zh": "14 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 79,
+    "temperament": 84,
+    "loyalty": 75,
+    "intelligence": 88,
+    "friendliness": 55,
+    "energy": 68
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Active",
+      "zh": "Active"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Dependent",
+      "zh": "Dependent"
+    },
+    {
+      "en": "Gentle",
+      "zh": "Gentle"
+    },
+    {
+      "en": "Patient",
+      "zh": "Patient"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Quiet",
+      "zh": "Quiet"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    }
+  ]
+}

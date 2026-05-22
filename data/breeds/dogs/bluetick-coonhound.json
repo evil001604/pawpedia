@@ -1,0 +1,90 @@
+{
+  "id": "bluetick-coonhound",
+  "type": "dog",
+  "name": {
+    "en": "Bluetick Coonhound",
+    "zh": "Bluetick Coonhound"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/dU7w5jnMC1.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "Developed in Louisiana from French Grand Bleu de Gascogne hounds crossed with English Foxhounds, American Foxhounds, and other local coonhound breeds, perfected for raccoon hunting in American terrain",
+    "zh": "Developed in Louisiana from French Grand Bleu de Gascogne hounds crossed with English Foxhounds, American Foxhounds, and other local coonhound breeds, perfected for raccoon hunting in American terrain"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-36; Female: 20-29",
+      "female": "Male: 25-36; Female: 20-29"
+    },
+    "height": {
+      "male": "Male: 56-69; Female: 53-64",
+      "female": "Male: 56-69; Female: 53-64"
+    },
+    "lifespan": {
+      "en": "11-12",
+      "zh": "11-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 84,
+    "temperament": 68,
+    "loyalty": 92,
+    "intelligence": 65,
+    "friendliness": 86,
+    "energy": 81
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

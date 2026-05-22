@@ -1,0 +1,94 @@
+{
+  "id": "bull-terrier-miniature",
+  "type": "dog",
+  "name": {
+    "en": "Bull Terrier (Miniature)",
+    "zh": "Bull Terrier (Miniature)"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/KhXmgBorE.jpg"
+  ],
+  "origin": {
+    "en": "England",
+    "zh": "England"
+  },
+  "history": {
+    "en": "Developed in 19th-century England as a scaled-down version of the standard Bull Terrier, which was standardized by James Hinks. Created for fanciers who wanted a smaller companion version while maintaining the same characteristics and recognized as a separate breed by the AKC in 1991.",
+    "zh": "Developed in 19th-century England as a scaled-down version of the standard Bull Terrier, which was standardized by James Hinks. Created for fanciers who wanted a smaller companion version while maintaining the same characteristics and recognized as a separate breed by the AKC in 1991."
+  },
+  "stats": {
+    "weight": {
+      "male": "9-15",
+      "female": "9-15"
+    },
+    "height": {
+      "male": "25-36",
+      "female": "25-36"
+    },
+    "lifespan": {
+      "en": "11-13",
+      "zh": "11-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 91,
+    "temperament": 80,
+    "loyalty": 86,
+    "intelligence": 88,
+    "friendliness": 85,
+    "energy": 68
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    }
+  ]
+}

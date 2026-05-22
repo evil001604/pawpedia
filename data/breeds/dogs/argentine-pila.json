@@ -1,0 +1,90 @@
+{
+  "id": "argentine-pila",
+  "type": "dog",
+  "name": {
+    "en": "Argentine Pila",
+    "zh": "Argentine Pila"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Hy3H7g94X_1280.jpg"
+  ],
+  "origin": {
+    "en": "Argentina",
+    "zh": "Argentina"
+  },
+  "history": {
+    "en": "An ancient hairless breed native to Argentina, believed to have descended from dogs brought by pre-Incan peoples. Related to other South American hairless breeds and traditionally kept as a companion for perceived therapeutic warmth among indigenous peoples.",
+    "zh": "An ancient hairless breed native to Argentina, believed to have descended from dogs brought by pre-Incan peoples. Related to other South American hairless breeds and traditionally kept as a companion for perceived therapeutic warmth among indigenous peoples."
+  },
+  "stats": {
+    "weight": {
+      "male": "4-25",
+      "female": "4-25"
+    },
+    "height": {
+      "male": "25-51",
+      "female": "25-51"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 76,
+    "temperament": 69,
+    "loyalty": 88,
+    "intelligence": 74,
+    "friendliness": 90,
+    "energy": 84
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Spitz and Primitive Types",
+      "zh": "Spitz and Primitive Types"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    }
+  ]
+}

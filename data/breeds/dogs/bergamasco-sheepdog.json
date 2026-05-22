@@ -1,0 +1,94 @@
+{
+  "id": "bergamasco-sheepdog",
+  "type": "dog",
+  "name": {
+    "en": "Bergamasco Sheepdog",
+    "zh": "Bergamasco Sheepdog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/k0WvkHMmP.jpg"
+  ],
+  "origin": {
+    "en": "Italian Alps",
+    "zh": "Italian Alps"
+  },
+  "history": {
+    "en": "Ancient shepherding breed from the Italian Alps near Bergamo, valued for intelligence and protective flocked coat that developed to shield from harsh mountain weather and predators while herding sheep, recognized by AKC in 2015",
+    "zh": "Ancient shepherding breed from the Italian Alps near Bergamo, valued for intelligence and protective flocked coat that developed to shield from harsh mountain weather and predators while herding sheep, recognized by AKC in 2015"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 32-38; Female: 26-32",
+      "female": "Male: 32-38; Female: 26-32"
+    },
+    "height": {
+      "male": "Male: 60-62; Female: 56-60",
+      "female": "Male: 60-62; Female: 56-60"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 71,
+    "loyalty": 66,
+    "intelligence": 90,
+    "friendliness": 82,
+    "energy": 87
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    }
+  ]
+}

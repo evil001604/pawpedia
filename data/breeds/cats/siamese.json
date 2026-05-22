@@ -1,0 +1,90 @@
+{
+  "id": "siamese",
+  "type": "cat",
+  "name": {
+    "en": "Siamese",
+    "zh": "Siamese"
+  },
+  "images": [
+    "/images/breeds/cats/siamese-1.jpg"
+  ],
+  "origin": {
+    "en": "Thailand",
+    "zh": "Thailand"
+  },
+  "history": {
+    "en": "While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.",
+    "zh": "While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods."
+  },
+  "stats": {
+    "weight": {
+      "male": "4 - 7",
+      "female": "4 - 7"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "12 - 15",
+      "zh": "12 - 15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 86,
+    "temperament": 81,
+    "loyalty": 73,
+    "intelligence": 82,
+    "friendliness": 86,
+    "energy": 56
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Active",
+      "zh": "Active"
+    },
+    {
+      "en": "Agile",
+      "zh": "Agile"
+    },
+    {
+      "en": "Clever",
+      "zh": "Clever"
+    },
+    {
+      "en": "Sociable",
+      "zh": "Sociable"
+    },
+    {
+      "en": "Loving",
+      "zh": "Loving"
+    },
+    {
+      "en": "Energetic",
+      "zh": "Energetic"
+    }
+  ]
+}

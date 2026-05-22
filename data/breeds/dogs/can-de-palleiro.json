@@ -1,0 +1,90 @@
+{
+  "id": "can-de-palleiro",
+  "type": "dog",
+  "name": {
+    "en": "Can de Palleiro",
+    "zh": "Can de Palleiro"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/_8II0snsl.jpg"
+  ],
+  "origin": {
+    "en": "Galicia, Spain",
+    "zh": "Galicia, Spain"
+  },
+  "history": {
+    "en": "Ancient Iberian landrace breed from northwestern Spain, traditionally used as an all-purpose farm dog for herding cattle, guarding property, and livestock management. Maintained genetic purity through geographic isolation but faced near extinction by late 20th century. Subject of successful recovery program since late 1990s and recognized by Spain's royal kennel club (RSCE).",
+    "zh": "Ancient Iberian landrace breed from northwestern Spain, traditionally used as an all-purpose farm dog for herding cattle, guarding property, and livestock management. Maintained genetic purity through geographic isolation but faced near extinction by late 20th century. Subject of successful recovery program since late 1990s and recognized by Spain's royal kennel club (RSCE)."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 30-35; Female: 25-30",
+      "female": "Male: 30-35; Female: 25-30"
+    },
+    "height": {
+      "male": "Male: 58-65; Female: 53-61",
+      "female": "Male: 58-65; Female: 53-61"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 78,
+    "loyalty": 70,
+    "intelligence": 65,
+    "friendliness": 92,
+    "energy": 76
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

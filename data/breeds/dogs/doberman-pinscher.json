@@ -1,0 +1,90 @@
+{
+  "id": "doberman-pinscher",
+  "type": "dog",
+  "name": {
+    "en": "Doberman Pinscher",
+    "zh": "Doberman Pinscher"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/rJk6rpTEm.gif"
+  ],
+  "origin": {
+    "en": "Germany",
+    "zh": "Germany"
+  },
+  "history": {
+    "en": "Created in late 19th century by Karl Friedrich Louis Dobermann using breeds such as the Rottweiler, German Pinscher, and others for protection and companionship",
+    "zh": "Created in late 19th century by Karl Friedrich Louis Dobermann using breeds such as the Rottweiler, German Pinscher, and others for protection and companionship"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 34-45; Female: 27-41",
+      "female": "Male: 34-45; Female: 27-41"
+    },
+    "height": {
+      "male": "Male: 66-71; Female: 61-66",
+      "female": "Male: 66-71; Female: 61-66"
+    },
+    "lifespan": {
+      "en": "10-12",
+      "zh": "10-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 69,
+    "temperament": 70,
+    "loyalty": 84,
+    "intelligence": 72,
+    "friendliness": 76,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

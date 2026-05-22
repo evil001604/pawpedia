@@ -1,0 +1,90 @@
+{
+  "id": "cockapoo",
+  "type": "dog",
+  "name": {
+    "en": "Cockapoo",
+    "zh": "Cockapoo"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/LZ3fo6EEPD.jpg"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "One of the first 'designer breeds' with intentional breeding starting in the United States in the 1960s. Goal was to combine the outgoing, loving personality of the Cocker Spaniel with the low-shedding, intelligent nature of the Poodle to create a healthy companion dog",
+    "zh": "One of the first 'designer breeds' with intentional breeding starting in the United States in the 1960s. Goal was to combine the outgoing, loving personality of the Cocker Spaniel with the low-shedding, intelligent nature of the Poodle to create a healthy companion dog"
+  },
+  "stats": {
+    "weight": {
+      "male": "5-11",
+      "female": "5-11"
+    },
+    "height": {
+      "male": "25-38",
+      "female": "25-38"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 94,
+    "temperament": 66,
+    "loyalty": 78,
+    "intelligence": 67,
+    "friendliness": 78,
+    "energy": 79
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    }
+  ]
+}

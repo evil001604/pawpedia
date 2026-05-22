@@ -1,0 +1,94 @@
+{
+  "id": "chinese-crested",
+  "type": "dog",
+  "name": {
+    "en": "Chinese Crested",
+    "zh": "Chinese Crested"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/QDqJrzj0S.jpg"
+  ],
+  "origin": {
+    "en": "China",
+    "zh": "China"
+  },
+  "history": {
+    "en": "Ancient breed believed to have descended from African or Mexican hairless dogs and refined in China. Chinese mariners kept them on ships to hunt vermin and traded them among port cities worldwide. Served as companions to Chinese nobility and were believed to possess magical healing powers",
+    "zh": "Ancient breed believed to have descended from African or Mexican hairless dogs and refined in China. Chinese mariners kept them on ships to hunt vermin and traded them among port cities worldwide. Served as companions to Chinese nobility and were believed to possess magical healing powers"
+  },
+  "stats": {
+    "weight": {
+      "male": "3.6-5.4",
+      "female": "3.6-5.4"
+    },
+    "height": {
+      "male": "28-33",
+      "female": "28-33"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 78,
+    "loyalty": 74,
+    "intelligence": 94,
+    "friendliness": 80,
+    "energy": 65
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Toy",
+      "zh": "Toy"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "lively",
+      "zh": "lively"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    }
+  ]
+}

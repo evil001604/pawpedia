@@ -1,0 +1,94 @@
+{
+  "id": "carea-leon-s",
+  "type": "dog",
+  "name": {
+    "en": "Carea Leonés",
+    "zh": "Carea Leonés"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/UnSc5dMSae.jpg"
+  ],
+  "origin": {
+    "en": "León Province, Spain",
+    "zh": "León Province, Spain"
+  },
+  "history": {
+    "en": "Ancient traditional herding dog from León Province in northwest Spain, used for centuries to manage and guide flocks, particularly Merino sheep. Highly valued for hardiness, intelligence, and unwavering work ethic in mountainous terrain and rural environments.",
+    "zh": "Ancient traditional herding dog from León Province in northwest Spain, used for centuries to manage and guide flocks, particularly Merino sheep. Highly valued for hardiness, intelligence, and unwavering work ethic in mountainous terrain and rural environments."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 23-32; Female: 18-27",
+      "female": "Male: 23-32; Female: 18-27"
+    },
+    "height": {
+      "male": "Male: 51-61; Female: 46-56",
+      "female": "Male: 51-61; Female: 46-56"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 83,
+    "loyalty": 73,
+    "intelligence": 72,
+    "friendliness": 87,
+    "energy": 75
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    }
+  ]
+}

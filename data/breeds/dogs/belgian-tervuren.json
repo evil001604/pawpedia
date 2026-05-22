@@ -1,0 +1,90 @@
+{
+  "id": "belgian-tervuren",
+  "type": "dog",
+  "name": {
+    "en": "Belgian Tervuren",
+    "zh": "Belgian Tervuren"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/A3iocPBuU.jpg"
+  ],
+  "origin": {
+    "en": "Belgium",
+    "zh": "Belgium"
+  },
+  "history": {
+    "en": "One of four distinct Belgian sheepdog varieties developed in the late 1800s, named after the village of Tervuren. Originally used as a versatile herding and guard dog for flocks, prized for intelligence, trainability and work ethic",
+    "zh": "One of four distinct Belgian sheepdog varieties developed in the late 1800s, named after the village of Tervuren. Originally used as a versatile herding and guard dog for flocks, prized for intelligence, trainability and work ethic"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-34; Female: 20-27",
+      "female": "Male: 25-34; Female: 20-27"
+    },
+    "height": {
+      "male": "Male: 61-66; Female: 56-61",
+      "female": "Male: 61-66; Female: 56-61"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 69,
+    "temperament": 77,
+    "loyalty": 76,
+    "intelligence": 82,
+    "friendliness": 76,
+    "energy": 84
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    }
+  ]
+}

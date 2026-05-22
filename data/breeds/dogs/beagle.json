@@ -1,0 +1,94 @@
+{
+  "id": "beagle",
+  "type": "dog",
+  "name": {
+    "en": "Beagle",
+    "zh": "Beagle"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/BJa4kxc4X_1280.jpg"
+  ],
+  "origin": {
+    "en": "England",
+    "zh": "England"
+  },
+  "history": {
+    "en": "The modern Beagle was developed in Great Britain around the 1830s from various English hounds. Bred as 'foot hounds' for hare hunting, with hunters following on foot rather than horseback.",
+    "zh": "The modern Beagle was developed in Great Britain around the 1830s from various English hounds. Bred as 'foot hounds' for hare hunting, with hunters following on foot rather than horseback."
+  },
+  "stats": {
+    "weight": {
+      "male": "9-14",
+      "female": "9-14"
+    },
+    "height": {
+      "male": "Male: 33-41; Female: 33-38",
+      "female": "Male: 33-41; Female: 33-38"
+    },
+    "lifespan": {
+      "en": "10-15",
+      "zh": "10-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 90,
+    "temperament": 82,
+    "loyalty": 71,
+    "intelligence": 93,
+    "friendliness": 72,
+    "energy": 74
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "outgoing",
+      "zh": "outgoing"
+    },
+    {
+      "en": "curious",
+      "zh": "curious"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "africanis",
+  "type": "dog",
+  "name": {
+    "en": "Africanis",
+    "zh": "Africanis"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/6xVVeV0NwK.jpg"
+  ],
+  "origin": {
+    "en": "Southern Africa",
+    "zh": "Southern Africa"
+  },
+  "history": {
+    "en": "Ancient landrace breed indigenous to Southern Africa, naturally developed by African communities over thousands of years through natural selection rather than deliberate breeding. Recognized by the Kennel Union of Southern Africa as an emerging breed but not by major international kennel clubs.",
+    "zh": "Ancient landrace breed indigenous to Southern Africa, naturally developed by African communities over thousands of years through natural selection rather than deliberate breeding. Recognized by the Kennel Union of Southern Africa as an emerging breed but not by major international kennel clubs."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 25-34; Female: 20-32",
+      "female": "Male: 25-34; Female: 20-32"
+    },
+    "height": {
+      "male": "Male: 50-60; Female: 48-60",
+      "female": "Male: 50-60; Female: 48-60"
+    },
+    "lifespan": {
+      "en": "10-15",
+      "zh": "10-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 80,
+    "loyalty": 67,
+    "intelligence": 77,
+    "friendliness": 80,
+    "energy": 92
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Primitive",
+      "zh": "Primitive"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    }
+  ]
+}

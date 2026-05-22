@@ -1,0 +1,94 @@
+{
+  "id": "cantabrian-water-dog",
+  "type": "dog",
+  "name": {
+    "en": "Cantabrian Water Dog",
+    "zh": "Cantabrian Water Dog"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/8bzLyVs2dA.jpg"
+  ],
+  "origin": {
+    "en": "Cantabria, Spain",
+    "zh": "Cantabria, Spain"
+  },
+  "history": {
+    "en": "An ancient landrace breed from the coastal Cantabrian region of northern Spain, historically used by fishermen for water work, retrieving fish and gear, guarding boats, and assisting with nets. Nearly extinct but being revived through conservation efforts, officially recognized by the Real Sociedad Canina de España (RSCE) in 2011.",
+    "zh": "An ancient landrace breed from the coastal Cantabrian region of northern Spain, historically used by fishermen for water work, retrieving fish and gear, guarding boats, and assisting with nets. Nearly extinct but being revived through conservation efforts, officially recognized by the Real Sociedad Canina de España (RSCE) in 2011."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 15-23; Female: 12-20",
+      "female": "Male: 15-23; Female: 12-20"
+    },
+    "height": {
+      "male": "Male: 42-50; Female: 40-47",
+      "female": "Male: 42-50; Female: 40-47"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 67,
+    "temperament": 80,
+    "loyalty": 83,
+    "intelligence": 80,
+    "friendliness": 71,
+    "energy": 93
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    }
+  ]
+}

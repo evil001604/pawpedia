@@ -1,0 +1,86 @@
+{
+  "id": "aegean",
+  "type": "cat",
+  "name": {
+    "en": "Aegean",
+    "zh": "Aegean"
+  },
+  "images": [
+    "/images/breeds/cats/aegean-1.jpg"
+  ],
+  "origin": {
+    "en": "Greece",
+    "zh": "Greece"
+  },
+  "history": {
+    "en": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+    "zh": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children."
+  },
+  "stats": {
+    "weight": {
+      "male": "3 - 5",
+      "female": "3 - 5"
+    },
+    "height": {
+      "male": "N/A",
+      "female": "N/A"
+    },
+    "lifespan": {
+      "en": "9 - 12",
+      "zh": "9 - 12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 87,
+    "temperament": 69,
+    "loyalty": 66,
+    "intelligence": 74,
+    "friendliness": 87,
+    "energy": 69
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition and grooming"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食和梳理"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "Social",
+      "zh": "Social"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "Active",
+      "zh": "Active"
+    }
+  ]
+}

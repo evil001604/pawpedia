@@ -1,0 +1,98 @@
+{
+  "id": "aksaray-malaklisi",
+  "type": "dog",
+  "name": {
+    "en": "Aksaray Malaklisi",
+    "zh": "Aksaray Malaklisi"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Skd32PpN7.gif"
+  ],
+  "origin": {
+    "en": "Aksaray Province, Central Anatolia, Turkey",
+    "zh": "Aksaray Province, Central Anatolia, Turkey"
+  },
+  "history": {
+    "en": "Ancient Turkish breed developed as a landrace in the Aksaray region of central Turkey for livestock protection against large predators such as wolves and bears. Closely related to Turkish mastiff and guardian breeds, recognized by Turkish cynology organizations as distinct from the Kangal Shepherd Dog",
+    "zh": "Ancient Turkish breed developed as a landrace in the Aksaray region of central Turkey for livestock protection against large predators such as wolves and bears. Closely related to Turkish mastiff and guardian breeds, recognized by Turkish cynology organizations as distinct from the Kangal Shepherd Dog"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 55-90; Female: 50-70",
+      "female": "Male: 55-90; Female: 50-70"
+    },
+    "height": {
+      "male": "Male: 76-86; Female: 70-81",
+      "female": "Male: 76-86; Female: 70-81"
+    },
+    "lifespan": {
+      "en": "8-12",
+      "zh": "8-12"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 82,
+    "temperament": 67,
+    "loyalty": 77,
+    "intelligence": 82,
+    "friendliness": 94,
+    "energy": 69
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Protective",
+      "zh": "Protective"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "calm",
+      "zh": "calm"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    }
+  ]
+}

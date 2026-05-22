@@ -1,0 +1,90 @@
+{
+  "id": "australian-cattle-dog",
+  "type": "dog",
+  "name": {
+    "en": "Australian Cattle Dog",
+    "zh": "Australian Cattle Dog"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/cb5ROjCCNf.jpg"
+  ],
+  "origin": {
+    "en": "Australia",
+    "zh": "Australia"
+  },
+  "history": {
+    "en": "Developed in 19th century Australia by crossing British herding dogs including blue merle Collies with native Dingo, with later infusions of Dalmatian and Black and Tan Kelpie to create a hardy cattle herding dog for harsh Australian conditions",
+    "zh": "Developed in 19th century Australia by crossing British herding dogs including blue merle Collies with native Dingo, with later infusions of Dalmatian and Black and Tan Kelpie to create a hardy cattle herding dog for harsh Australian conditions"
+  },
+  "stats": {
+    "weight": {
+      "male": "16-23",
+      "female": "16-23"
+    },
+    "height": {
+      "male": "Male: 46-51; Female: 43-48",
+      "female": "Male: 46-51; Female: 43-48"
+    },
+    "lifespan": {
+      "en": "12-16",
+      "zh": "12-16"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 91,
+    "temperament": 88,
+    "loyalty": 91,
+    "intelligence": 65,
+    "friendliness": 89,
+    "energy": 81
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Herding",
+      "zh": "Herding"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    }
+  ]
+}

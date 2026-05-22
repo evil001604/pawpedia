@@ -1,0 +1,94 @@
+{
+  "id": "cavalier-king-charles-spaniel",
+  "type": "dog",
+  "name": {
+    "en": "Cavalier King Charles Spaniel",
+    "zh": "Cavalier King Charles Spaniel"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/Bk-WET6Em.gif"
+  ],
+  "origin": {
+    "en": "United Kingdom",
+    "zh": "United Kingdom"
+  },
+  "history": {
+    "en": "Named after King Charles II who favored the breed, descended from toy spaniels depicted in 16th-18th century British court paintings. The modern breed was revived in the 1920s by enthusiasts seeking to restore the longer-nosed type seen in old portraits",
+    "zh": "Named after King Charles II who favored the breed, descended from toy spaniels depicted in 16th-18th century British court paintings. The modern breed was revived in the 1920s by enthusiasts seeking to restore the longer-nosed type seen in old portraits"
+  },
+  "stats": {
+    "weight": {
+      "male": "6-8",
+      "female": "6-8"
+    },
+    "height": {
+      "male": "30-33",
+      "female": "30-33"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 85,
+    "temperament": 83,
+    "loyalty": 90,
+    "intelligence": 79,
+    "friendliness": 66,
+    "energy": 85
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Toy",
+      "zh": "Toy"
+    },
+    {
+      "en": "Affectionate",
+      "zh": "Affectionate"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    }
+  ]
+}

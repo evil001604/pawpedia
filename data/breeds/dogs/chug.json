@@ -1,0 +1,90 @@
+{
+  "id": "chug",
+  "type": "dog",
+  "name": {
+    "en": "Chug",
+    "zh": "Chug"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/BJ0dMpaEX.gif"
+  ],
+  "origin": {
+    "en": "United States",
+    "zh": "United States"
+  },
+  "history": {
+    "en": "A modern crossbreed developed in North America in the late 20th century by crossing a Pug with a Chihuahua. The goal was to create a small companion dog combining the affectionate nature of the Pug with the spirited personality of the Chihuahua. Not recognized by major kennel clubs.",
+    "zh": "A modern crossbreed developed in North America in the late 20th century by crossing a Pug with a Chihuahua. The goal was to create a small companion dog combining the affectionate nature of the Pug with the spirited personality of the Chihuahua. Not recognized by major kennel clubs."
+  },
+  "stats": {
+    "weight": {
+      "male": "4.5-9",
+      "female": "4.5-9"
+    },
+    "height": {
+      "male": "25-36",
+      "female": "25-36"
+    },
+    "lifespan": {
+      "en": "10-13",
+      "zh": "10-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 80,
+    "temperament": 72,
+    "loyalty": 83,
+    "intelligence": 65,
+    "friendliness": 81,
+    "energy": 82
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Mixed",
+      "zh": "Mixed"
+    },
+    {
+      "en": "Playful",
+      "zh": "Playful"
+    },
+    {
+      "en": "affectionate",
+      "zh": "affectionate"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    }
+  ]
+}

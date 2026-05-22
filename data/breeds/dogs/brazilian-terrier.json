@@ -1,0 +1,94 @@
+{
+  "id": "brazilian-terrier",
+  "type": "dog",
+  "name": {
+    "en": "Brazilian Terrier",
+    "zh": "Brazilian Terrier"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/6eetrxropw.jpg"
+  ],
+  "origin": {
+    "en": "Brazil",
+    "zh": "Brazil"
+  },
+  "history": {
+    "en": "Developed in the 19th and early 20th centuries from various European terriers, such as the Jack Russell and Fox Terrier, brought to Brazil by immigrants. These dogs were crossed with local Brazilian farm dogs, creating a unique breed adapted to the country's environment and standardized as a farm and small game terrier, recognized by the FCI.",
+    "zh": "Developed in the 19th and early 20th centuries from various European terriers, such as the Jack Russell and Fox Terrier, brought to Brazil by immigrants. These dogs were crossed with local Brazilian farm dogs, creating a unique breed adapted to the country's environment and standardized as a farm and small game terrier, recognized by the FCI."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 7-10; Female: 6-10",
+      "female": "Male: 7-10; Female: 6-10"
+    },
+    "height": {
+      "male": "Male: 35-40; Female: 33-38",
+      "female": "Male: 35-40; Female: 33-38"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 86,
+    "temperament": 85,
+    "loyalty": 83,
+    "intelligence": 74,
+    "friendliness": 77,
+    "energy": 71
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Terrier",
+      "zh": "Terrier"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "playful",
+      "zh": "playful"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    }
+  ]
+}

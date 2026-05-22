@@ -1,0 +1,90 @@
+{
+  "id": "bohemian-spotted-dog",
+  "type": "dog",
+  "name": {
+    "en": "Bohemian Spotted Dog",
+    "zh": "Bohemian Spotted Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/HJAFgxcNQ_1280.jpg"
+  ],
+  "origin": {
+    "en": "Czech Republic",
+    "zh": "Czech Republic"
+  },
+  "history": {
+    "en": "Created in the 1950s in Prague by cynologist František Horák for laboratory purposes. The breed's stable temperament and manageable size made them ideal subjects. After the research concluded, the dogs were made available to the public and developed into a beloved companion breed.",
+    "zh": "Created in the 1950s in Prague by cynologist František Horák for laboratory purposes. The breed's stable temperament and manageable size made them ideal subjects. After the research concluded, the dogs were made available to the public and developed into a beloved companion breed."
+  },
+  "stats": {
+    "weight": {
+      "male": "15-20",
+      "female": "15-20"
+    },
+    "height": {
+      "male": "Male: 45-53; Female: 43-53",
+      "female": "Male: 45-53; Female: 43-53"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 82,
+    "temperament": 73,
+    "loyalty": 88,
+    "intelligence": 87,
+    "friendliness": 74,
+    "energy": 70
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Companion",
+      "zh": "Companion"
+    },
+    {
+      "en": "Friendly",
+      "zh": "Friendly"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "adaptable",
+      "zh": "adaptable"
+    },
+    {
+      "en": "gentle",
+      "zh": "gentle"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    }
+  ]
+}

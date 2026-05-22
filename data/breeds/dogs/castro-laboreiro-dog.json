@@ -1,0 +1,94 @@
+{
+  "id": "castro-laboreiro-dog",
+  "type": "dog",
+  "name": {
+    "en": "Castro Laboreiro Dog",
+    "zh": "Castro Laboreiro Dog"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/HkRcZe547_1280.jpg"
+  ],
+  "origin": {
+    "en": "Castro Laboreiro region, Portugal",
+    "zh": "Castro Laboreiro region, Portugal"
+  },
+  "history": {
+    "en": "Ancient Portuguese livestock guardian breed from the Peneda-Gerês mountains of northern Portugal. Developed to protect herds from wolves and other predators, it is one of the oldest and rarest breeds on the Iberian Peninsula.",
+    "zh": "Ancient Portuguese livestock guardian breed from the Peneda-Gerês mountains of northern Portugal. Developed to protect herds from wolves and other predators, it is one of the oldest and rarest breeds on the Iberian Peninsula."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 30-40; Female: 25-35",
+      "female": "Male: 30-40; Female: 25-35"
+    },
+    "height": {
+      "male": "Male: 58-63; Female: 55-60",
+      "female": "Male: 58-63; Female: 55-60"
+    },
+    "lifespan": {
+      "en": "11-13",
+      "zh": "11-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 76,
+    "temperament": 81,
+    "loyalty": 76,
+    "intelligence": 88,
+    "friendliness": 69,
+    "energy": 72
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "independent",
+      "zh": "independent"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    }
+  ]
+}

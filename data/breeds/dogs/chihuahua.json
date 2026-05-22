@@ -1,0 +1,94 @@
+{
+  "id": "chihuahua",
+  "type": "dog",
+  "name": {
+    "en": "Chihuahua",
+    "zh": "Chihuahua"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/uHqxcSzA2Q.jpg"
+  ],
+  "origin": {
+    "en": "Mexico",
+    "zh": "Mexico"
+  },
+  "history": {
+    "en": "Ancient breed descended from Techichi dogs of the Toltec civilization, refined in Mexican state of Chihuahua and standardized in Mexico and the US. Recognized by AKC since 1904",
+    "zh": "Ancient breed descended from Techichi dogs of the Toltec civilization, refined in Mexican state of Chihuahua and standardized in Mexico and the US. Recognized by AKC since 1904"
+  },
+  "stats": {
+    "weight": {
+      "male": "1-3",
+      "female": "1-3"
+    },
+    "height": {
+      "male": "13-20",
+      "female": "13-20"
+    },
+    "lifespan": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 78,
+    "temperament": 94,
+    "loyalty": 65,
+    "intelligence": 70,
+    "friendliness": 84,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Toy",
+      "zh": "Toy"
+    },
+    {
+      "en": "Alert",
+      "zh": "Alert"
+    },
+    {
+      "en": "devoted",
+      "zh": "devoted"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "lively",
+      "zh": "lively"
+    }
+  ]
+}

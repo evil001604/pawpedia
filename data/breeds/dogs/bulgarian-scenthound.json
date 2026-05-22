@@ -1,0 +1,90 @@
+{
+  "id": "bulgarian-scenthound",
+  "type": "dog",
+  "name": {
+    "en": "Bulgarian Scenthound",
+    "zh": "Bulgarian Scenthound"
+  },
+  "images": [
+    "https://cdn2.thedogapi.com/images/HkNkxlqEX_1280.jpg"
+  ],
+  "origin": {
+    "en": "Bulgaria",
+    "zh": "Bulgaria"
+  },
+  "history": {
+    "en": "An ancient breed from the Balkans, believed brought to the region by the Slavs. Developed in Bulgaria for hunting in mountainous terrain, it's the most popular hunting dog in Bulgaria, prized for exceptional scent capabilities and endurance. Recognized by FCI as 'Bulgarian Hound (Barak)'",
+    "zh": "An ancient breed from the Balkans, believed brought to the region by the Slavs. Developed in Bulgaria for hunting in mountainous terrain, it's the most popular hunting dog in Bulgaria, prized for exceptional scent capabilities and endurance. Recognized by FCI as 'Bulgarian Hound (Barak)'"
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 20-25; Female: 18-23",
+      "female": "Male: 20-25; Female: 18-23"
+    },
+    "height": {
+      "male": "Male: 51-58; Female: 48-54",
+      "female": "Male: 51-58; Female: 48-54"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 90,
+    "temperament": 72,
+    "loyalty": 87,
+    "intelligence": 90,
+    "friendliness": 83,
+    "energy": 77
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    }
+  ]
+}

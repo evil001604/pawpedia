@@ -1,0 +1,94 @@
+{
+  "id": "brittany",
+  "type": "dog",
+  "name": {
+    "en": "Brittany",
+    "zh": "Brittany"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/ikOLxquC5T.jpg"
+  ],
+  "origin": {
+    "en": "Brittany (Bretagne), France",
+    "zh": "Brittany (Bretagne), France"
+  },
+  "history": {
+    "en": "Developed in the 17th-18th century in the Brittany province of France as a versatile hunting dog capable of pointing and retrieving on various terrain. Refined through crosses with English Setters and recognized by AKC in 1934.",
+    "zh": "Developed in the 17th-18th century in the Brittany province of France as a versatile hunting dog capable of pointing and retrieving on various terrain. Refined through crosses with English Setters and recognized by AKC in 1934."
+  },
+  "stats": {
+    "weight": {
+      "male": "14-18",
+      "female": "14-18"
+    },
+    "height": {
+      "male": "44-52",
+      "female": "44-52"
+    },
+    "lifespan": {
+      "en": "12-15",
+      "zh": "12-15"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 75,
+    "temperament": 89,
+    "loyalty": 78,
+    "intelligence": 77,
+    "friendliness": 66,
+    "energy": 68
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Sporting",
+      "zh": "Sporting"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    },
+    {
+      "en": "eager to please",
+      "zh": "eager to please"
+    },
+    {
+      "en": "friendly",
+      "zh": "friendly"
+    },
+    {
+      "en": "athletic",
+      "zh": "athletic"
+    },
+    {
+      "en": "happy",
+      "zh": "happy"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "alpine-dachsbracke",
+  "type": "dog",
+  "name": {
+    "en": "Alpine Dachsbracke",
+    "zh": "Alpine Dachsbracke"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/0qgmSrCbvZ.jpg"
+  ],
+  "origin": {
+    "en": "Austria",
+    "zh": "Austria"
+  },
+  "history": {
+    "en": "Developed in the Austrian Alps during the mid-19th century as a durable scent hound for tracking wounded deer, boar, and hare over rugged terrain. Descended from larger Austrian hounds crossed with Dachshunds, it was a favorite of Crown Prince Rudolf of Habsburg and is officially recognized by the FCI.",
+    "zh": "Developed in the Austrian Alps during the mid-19th century as a durable scent hound for tracking wounded deer, boar, and hare over rugged terrain. Descended from larger Austrian hounds crossed with Dachshunds, it was a favorite of Crown Prince Rudolf of Habsburg and is officially recognized by the FCI."
+  },
+  "stats": {
+    "weight": {
+      "male": "15-18",
+      "female": "15-18"
+    },
+    "height": {
+      "male": "34-42",
+      "female": "34-42"
+    },
+    "lifespan": {
+      "en": "12-14",
+      "zh": "12-14"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 68,
+    "temperament": 92,
+    "loyalty": 73,
+    "intelligence": 78,
+    "friendliness": 79,
+    "energy": 68
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Hound",
+      "zh": "Hound"
+    },
+    {
+      "en": "Intelligent",
+      "zh": "Intelligent"
+    },
+    {
+      "en": "courageous",
+      "zh": "courageous"
+    },
+    {
+      "en": "loyal",
+      "zh": "loyal"
+    },
+    {
+      "en": "work-focused",
+      "zh": "work-focused"
+    },
+    {
+      "en": "energetic",
+      "zh": "energetic"
+    }
+  ]
+}

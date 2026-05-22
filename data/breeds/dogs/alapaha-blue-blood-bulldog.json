@@ -1,0 +1,90 @@
+{
+  "id": "alapaha-blue-blood-bulldog",
+  "type": "dog",
+  "name": {
+    "en": "Alapaha Blue Blood Bulldog",
+    "zh": "Alapaha Blue Blood Bulldog"
+  },
+  "images": [
+    "https://cdn4.thedogapi.com/optimized/QI4c7HAR8G.jpg"
+  ],
+  "origin": {
+    "en": "Alapaha River region of southern Georgia, United States",
+    "zh": "Alapaha River region of southern Georgia, United States"
+  },
+  "history": {
+    "en": "Developed in the Alapaha River region of southern Georgia as a multi-purpose catch dog for working cattle and hogs, and as a family guardian. Descended from Old English Bulldogs and recreated the original plantation bulldogs of the 1800s, maintained by the Lane family.",
+    "zh": "Developed in the Alapaha River region of southern Georgia as a multi-purpose catch dog for working cattle and hogs, and as a family guardian. Descended from Old English Bulldogs and recreated the original plantation bulldogs of the 1800s, maintained by the Lane family."
+  },
+  "stats": {
+    "weight": {
+      "male": "Male: 32-41; Female: 25-34",
+      "female": "Male: 32-41; Female: 25-34"
+    },
+    "height": {
+      "male": "Male: 51-61; Female: 46-56",
+      "female": "Male: 51-61; Female: 46-56"
+    },
+    "lifespan": {
+      "en": "12-13",
+      "zh": "12-13"
+    },
+    "coatLength": {
+      "en": "N/A",
+      "zh": "N/A"
+    },
+    "colors": []
+  },
+  "traits": {
+    "personality": 79,
+    "temperament": 83,
+    "loyalty": 80,
+    "intelligence": 84,
+    "friendliness": 76,
+    "energy": 80
+  },
+  "health": {
+    "shedding": {
+      "en": "Moderate",
+      "zh": "中等"
+    },
+    "sheddingLevel": 3,
+    "diseases": [],
+    "careTips": {
+      "en": [
+        "Regular veterinary checkups",
+        "Proper nutrition"
+      ],
+      "zh": [
+        "定期兽医检查",
+        "合理饮食"
+      ]
+    }
+  },
+  "tags": [
+    {
+      "en": "Working",
+      "zh": "Working"
+    },
+    {
+      "en": "Loyal",
+      "zh": "Loyal"
+    },
+    {
+      "en": "protective",
+      "zh": "protective"
+    },
+    {
+      "en": "intelligent",
+      "zh": "intelligent"
+    },
+    {
+      "en": "confident",
+      "zh": "confident"
+    },
+    {
+      "en": "alert",
+      "zh": "alert"
+    }
+  ]
+}

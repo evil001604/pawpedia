@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://petpedia.vercel.app/sitemap.xml
+Sitemap: https://pawpedia.xyz/sitemap.xml

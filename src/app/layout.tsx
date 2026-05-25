@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || "https://petpedia.vercel.app"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || "https://pawpedia.xyz"),
   title: { default: "PetPedia — AI Pet Breed Encyclopedia", template: "%s | PetPedia" },
   description: "Explore 266+ dog and cat breeds with radar charts, health guides, AI diagnosis, and product picks. Bilingual EN/ZH.",
   openGraph: {

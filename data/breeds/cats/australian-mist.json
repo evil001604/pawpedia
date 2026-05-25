@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Australian Mist",
-    "zh": "Australian Mist"
+    "zh": "澳大利亚雾猫"
   },
   "images": [
     "/images/breeds/cats/australian-mist-1.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets.",
-    "zh": "The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets."
+    "zh": "澳大利亚雾猫依赖人类陪伴。即使对最年幼的孩子也很宽容，这些友好的猫喜欢玩游戏，并成为忙碌家庭的一部分。它们为所有年龄段的人提供有趣的陪伴，并乐于在黄昏到黎明之间待在室内，或完全成为室内宠物。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Fun-loving",
-      "zh": "Fun-loving"
+      "zh": "爱玩"
     },
     {
       "en": "Relaxed",
-      "zh": "Relaxed"
+      "zh": "放松"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     }
   ]
 }

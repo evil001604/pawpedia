@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Basset Bleu de Gascogne",
-    "zh": "Basset Bleu de Gascogne"
+    "zh": "加斯科涅蓝巴塞特犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/ygzwOZd_L.jpg"
   ],
   "origin": {
     "en": "Gascony, France",
-    "zh": "Gascony, France"
+    "zh": "法国加斯科涅"
   },
   "history": {
     "en": "Descended from the larger Grand Bleu de Gascogne developed in medieval Gascony region for hunting small game. Nearly extinct but revived in early 20th century by breeder Alain Bourbon",
-    "zh": "Descended from the larger Grand Bleu de Gascogne developed in medieval Gascony region for hunting small game. Nearly extinct but revived in early 20th century by breeder Alain Bourbon"
+    "zh": "源自中世纪加斯科涅地区为狩猎小型猎物培育的大型蓝色加斯科涅犬。曾濒临灭绝，20世纪初由繁育者阿兰·波旁复兴。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

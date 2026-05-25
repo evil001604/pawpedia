@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Belgian Shepherd",
-    "zh": "Belgian Shepherd"
+    "zh": "比利时牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/B35dV8-1_.jpg"
   ],
   "origin": {
     "en": "Belgium",
-    "zh": "Belgium"
+    "zh": "比利时"
   },
   "history": {
     "en": "Developed in late 1800s in Belgium as all-purpose herding and guard dogs. Professor Adolphe Reul of the Belgian School of Veterinary Science established the breed type in 1891, categorizing native dogs into four distinct varieties based on coat type and color",
-    "zh": "Developed in late 1800s in Belgium as all-purpose herding and guard dogs. Professor Adolphe Reul of the Belgian School of Veterinary Science established the breed type in 1891, categorizing native dogs into four distinct varieties based on coat type and color"
+    "zh": "19世纪末在比利时培育的多用途牧羊犬和护卫犬。比利时兽医科学学院的阿道夫·鲁尔教授于1891年确立了该犬种类型，根据被毛类型和颜色将本地犬分为四个不同的变种。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

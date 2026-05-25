@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Cornish Rex",
-    "zh": "Cornish Rex"
+    "zh": "康沃尔雷克斯猫"
   },
   "images": [
     "/images/breeds/cats/cornish-rex-1.jpg"
   ],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
-    "zh": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. "
+    "zh": "这是一种自信的猫咪，热爱人类，会跟随他们，等待任何机会坐在膝盖上或给一个吻。它们喜欢被抚摸，这使得带它们去看兽医或训练它们进行治疗工作变得容易。康沃尔雷克斯猫一生大部分时间都保持小猫模式，直到老年。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

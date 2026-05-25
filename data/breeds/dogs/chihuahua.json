@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chihuahua",
-    "zh": "Chihuahua"
+    "zh": "吉娃娃"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/uHqxcSzA2Q.jpg"
   ],
   "origin": {
     "en": "Mexico",
-    "zh": "Mexico"
+    "zh": "墨西哥"
   },
   "history": {
     "en": "Ancient breed descended from Techichi dogs of the Toltec civilization, refined in Mexican state of Chihuahua and standardized in Mexico and the US. Recognized by AKC since 1904",
-    "zh": "Ancient breed descended from Techichi dogs of the Toltec civilization, refined in Mexican state of Chihuahua and standardized in Mexico and the US. Recognized by AKC since 1904"
+    "zh": "古老犬种，源自托尔特克文明的特奇奇犬，在墨西哥奇瓦瓦州改良，并在墨西哥和美国标准化。自1904年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Toy",
-      "zh": "Toy"
+      "zh": "玩具犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "奉献"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "lively",
-      "zh": "lively"
+      "zh": "活泼"
     }
   ]
 }

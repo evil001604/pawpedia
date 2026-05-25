@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bulgarian Hound",
-    "zh": "Bulgarian Hound"
+    "zh": "保加利亚猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/NaMI1H-PZ.jpg"
   ],
   "origin": {
     "en": "Bulgaria",
-    "zh": "Bulgaria"
+    "zh": "保加利亚"
   },
   "history": {
     "en": "Traditional Bulgarian scent hound, known locally as 'Barak' or 'Bulgarsko Gonche', descended from scenthounds brought to the Balkan region by the Slavs who interbred them with local hounds. Developed and bred for centuries for hunting wild boar and other game in the Balkans, the breed has been preserved in its current form and is highly valued for its hunting abilities in Bulgaria.",
-    "zh": "Traditional Bulgarian scent hound, known locally as 'Barak' or 'Bulgarsko Gonche', descended from scenthounds brought to the Balkan region by the Slavs who interbred them with local hounds. Developed and bred for centuries for hunting wild boar and other game in the Balkans, the breed has been preserved in its current form and is highly valued for its hunting abilities in Bulgaria."
+    "zh": "保加利亚传统嗅觉猎犬，当地称“巴拉克”或“保加利亚猎犬”，源自斯拉夫人带入巴尔干地区的嗅觉猎犬与当地猎犬杂交。数世纪培育用于猎野猪等猎物，以现有形态保存，在保加利亚因其狩猎能力备受珍视。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

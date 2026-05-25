@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Ariégeois",
-    "zh": "Ariégeois"
+    "zh": "阿列日犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/-Lbz7P9jl.jpg"
   ],
   "origin": {
     "en": "Ariège, France",
-    "zh": "Ariège, France"
+    "zh": "法国阿列日"
   },
   "history": {
     "en": "Developed in the Ariège region of southern France in the early 20th century by crossing local briquet hounds with Grand Bleu de Gascogne and Grand Gascon-Saintongeois to create a versatile and durable pack hound for hunting hare",
-    "zh": "Developed in the Ariège region of southern France in the early 20th century by crossing local briquet hounds with Grand Bleu de Gascogne and Grand Gascon-Saintongeois to create a versatile and durable pack hound for hunting hare"
+    "zh": "20世纪初在法国南部的阿列日地区培育而成，通过将当地的布里凯猎犬与大蓝加斯科涅犬和大加斯科涅-圣东日犬杂交，创造出一种多功能且耐用的群猎犬，用于猎兔。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     }
   ]
 }

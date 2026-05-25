@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Beagle-Harrier",
-    "zh": "Beagle-Harrier"
+    "zh": "比格-哈里犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/4yAqsHVUjE.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Developed in 19th century France by Baron Gérard, crossing English Beagles with French Harriers to create a medium-sized pack hound for hunting hare and other small game. Recognized by the FCI.",
-    "zh": "Developed in 19th century France by Baron Gérard, crossing English Beagles with French Harriers to create a medium-sized pack hound for hunting hare and other small game. Recognized by the FCI."
+    "zh": "19世纪在法国由杰拉德男爵培育，通过将英国比格犬与法国猎犬杂交，创造一种中型群猎犬，用于猎兔和其他小型猎物。得到FCI认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

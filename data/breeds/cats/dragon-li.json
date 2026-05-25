@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Dragon Li",
-    "zh": "Dragon Li"
+    "zh": "中国狸花猫"
   },
   "images": [
     "/images/breeds/cats/dragon-li-1.jpg"
   ],
   "origin": {
     "en": "China",
-    "zh": "China"
+    "zh": "中国"
   },
   "history": {
     "en": "The Dragon Li is loyal, but not particularly affectionate. They are known to be very intelligent, and their natural breed status means that they're very active. She is is gentle with people, and has a reputation as a talented hunter of rats and other vermin.",
-    "zh": "The Dragon Li is loyal, but not particularly affectionate. They are known to be very intelligent, and their natural breed status means that they're very active. She is is gentle with people, and has a reputation as a talented hunter of rats and other vermin."
+    "zh": "中国狸花猫忠诚，但并非特别深情。它们以非常聪明著称，其自然品种地位意味着它们非常活跃。它对人类温和，并以擅长捕捉老鼠和其他害虫而闻名。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Loving",
-      "zh": "Loving"
+      "zh": "有爱"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     }
   ]
 }

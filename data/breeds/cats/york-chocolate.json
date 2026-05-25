@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "York Chocolate",
-    "zh": "York Chocolate"
+    "zh": "约克巧克力猫"
   },
   "images": [
     "/images/breeds/cats/york-chocolate-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "York Chocolate cats are known to be true lap cats with a sweet temperament. They love to be cuddled and petted. Their curious nature makes them follow you all the time and participate in almost everything you do, even if it's related to water: unlike many other cats, York Chocolates love it.",
-    "zh": "York Chocolate cats are known to be true lap cats with a sweet temperament. They love to be cuddled and petted. Their curious nature makes them follow you all the time and participate in almost everything you do, even if it's related to water: unlike many other cats, York Chocolates love it."
+    "zh": "约克巧克力猫被认为是真正的膝上猫，性格甜美。它们喜欢被拥抱和抚摸。好奇的天性使它们总是跟随你，参与你做的几乎所有事情，甚至包括与水有关的事情：与许多其他猫不同，约克巧克力猫喜欢水。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友好"
     }
   ]
 }

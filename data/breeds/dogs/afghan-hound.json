@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Afghan Hound",
-    "zh": "Afghan Hound"
+    "zh": "阿富汗猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/ehW1aS16H.jpg"
   ],
   "origin": {
     "en": "Afghanistan",
-    "zh": "Afghanistan"
+    "zh": "阿富汗"
   },
   "history": {
     "en": "Ancient sighthound originating in the mountainous regions of Afghanistan, where they were prized for hunting large prey like gazelles and leopards. Valued for their speed, stamina, and problem-solving intelligence over rugged terrain. Introduced to the Western world by British officers in the early 20th century.",
-    "zh": "Ancient sighthound originating in the mountainous regions of Afghanistan, where they were prized for hunting large prey like gazelles and leopards. Valued for their speed, stamina, and problem-solving intelligence over rugged terrain. Introduced to the Western world by British officers in the early 20th century."
+    "zh": "古老的视觉猎犬，原产于阿富汗多山地区，因狩猎瞪羚和豹子等大型猎物而备受珍视。凭借其速度、耐力和在崎岖地形中的解决问题能力而受到重视。20世纪初由英国军官引入西方世界。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "dignified",
-      "zh": "dignified"
+      "zh": "高贵"
     },
     {
       "en": "aloof",
-      "zh": "aloof"
+      "zh": "冷漠"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

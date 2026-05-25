@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Turkish Angora",
-    "zh": "Turkish Angora"
+    "zh": "土耳其安哥拉猫"
   },
   "images": [
     "/images/breeds/cats/turkish-angora-1.jpg"
   ],
   "origin": {
     "en": "Turkey",
-    "zh": "Turkey"
+    "zh": "土耳其"
   },
   "history": {
     "en": "This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to",
-    "zh": "This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to"
+    "zh": "这是一种聪明且智慧的猫，能与人类建立良好关系。凭借其深情和爱玩的性格，安哥拉猫是家庭的首选。它们能与其他宠物和睦相处，但会明确谁才是主人，房子属于谁。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Clever",
-      "zh": "Clever"
+      "zh": "聪明"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

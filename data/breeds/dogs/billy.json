@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Billy",
-    "zh": "Billy"
+    "zh": "比利犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/5BVhG81gSe.jpg"
   ],
   "origin": {
     "en": "Haut-Poitou, France",
-    "zh": "Haut-Poitou, France"
+    "zh": "法国上普瓦图"
   },
   "history": {
     "en": "Developed in 19th century France by Gaston Hublot du Rivault at Château de Billy by crossing Montaimboeuf, Céris, and Larye breeds (now extinct). Nearly vanished after World War II but was revived by du Rivault's son. Recognized by FCI in Group 6.",
-    "zh": "Developed in 19th century France by Gaston Hublot du Rivault at Château de Billy by crossing Montaimboeuf, Céris, and Larye breeds (now extinct). Nearly vanished after World War II but was revived by du Rivault's son. Recognized by FCI in Group 6."
+    "zh": "19世纪由加斯顿·于布洛·杜·里沃在法国比利城堡通过杂交蒙坦博、塞里斯和拉里耶（现已灭绝）培育而成。二战后几乎消失，但由杜·里沃的儿子复兴。被FCI列入第6组。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

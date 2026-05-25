@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bakharwal Dog",
-    "zh": "Bakharwal Dog"
+    "zh": "巴卡瓦尔犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/iqgu213n3B.jpg"
   ],
   "origin": {
     "en": "Jammu and Kashmir, India",
-    "zh": "Jammu and Kashmir, India"
+    "zh": "印度查谟和克什米尔"
   },
   "history": {
     "en": "Ancient livestock guardian of the Bakharwal and Gujjar tribes, used for centuries in the Himalayas for flock protection",
-    "zh": "Ancient livestock guardian of the Bakharwal and Gujjar tribes, used for centuries in the Himalayas for flock protection"
+    "zh": "巴哈瓦尔和古贾尔部落的古老牲畜护卫犬，几个世纪以来在喜马拉雅山区用于保护羊群。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

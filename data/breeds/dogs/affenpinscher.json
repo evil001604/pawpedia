@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Affenpinscher",
-    "zh": "Affenpinscher"
+    "zh": "猴面梗"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/eozcGYTjca.jpg"
   ],
   "origin": {
     "en": "Germany",
-    "zh": "Germany"
+    "zh": "德国"
   },
   "history": {
     "en": "Originating in 17th-century Germany, bred down from larger terriers to be skilled ratters in homes, kitchens and stables. Refined in Munich and Berlin, recognized by AKC in 1936. Name translates to 'monkey-like terrier'.",
-    "zh": "Originating in 17th-century Germany, bred down from larger terriers to be skilled ratters in homes, kitchens and stables. Refined in Munich and Berlin, recognized by AKC in 1936. Name translates to 'monkey-like terrier'."
+    "zh": "起源于17世纪的德国，由较大的梗犬培育而成，擅长在家庭、厨房和马厩中捕鼠。在慕尼黑和柏林得到改良，于1936年获得美国养犬俱乐部（AKC）认可。其名称意为“像猴子的梗犬”。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Toy",
-      "zh": "Toy"
+      "zh": "玩具犬"
     },
     {
       "en": "Confident",
-      "zh": "Confident"
+      "zh": "自信"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "活泼"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

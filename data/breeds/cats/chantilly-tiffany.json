@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Chantilly-Tiffany",
-    "zh": "Chantilly-Tiffany"
+    "zh": "香缇-蒂芙尼猫"
   },
   "images": [
     "/images/breeds/cats/chantilly-tiffany-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will \"chirp\" and \"talk\" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.",
-    "zh": "The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will \"chirp\" and \"talk\" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped."
+    "zh": "尚蒂伊猫是一个忠诚的伴侣，更喜欢陪伴而不是独处。虽然尚蒂伊猫不苛求，但它们会“啾啾”叫和“说话”，仿佛在交谈。这个品种深情，性情甜美。它可以长时间保持不动，愉快地躺在所爱之人的膝盖上。这种品质使蒂芙尼猫成为理想的旅行伴侣，以及老年人和身体残疾者的理想家庭伴侣。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Demanding",
-      "zh": "Demanding"
+      "zh": "要求高"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     }
   ]
 }

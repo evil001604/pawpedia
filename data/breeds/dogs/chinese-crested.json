@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chinese Crested",
-    "zh": "Chinese Crested"
+    "zh": "中国冠毛犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/QDqJrzj0S.jpg"
   ],
   "origin": {
     "en": "China",
-    "zh": "China"
+    "zh": "中国"
   },
   "history": {
     "en": "Ancient breed believed to have descended from African or Mexican hairless dogs and refined in China. Chinese mariners kept them on ships to hunt vermin and traded them among port cities worldwide. Served as companions to Chinese nobility and were believed to possess magical healing powers",
-    "zh": "Ancient breed believed to have descended from African or Mexican hairless dogs and refined in China. Chinese mariners kept them on ships to hunt vermin and traded them among port cities worldwide. Served as companions to Chinese nobility and were believed to possess magical healing powers"
+    "zh": "古老犬种，被认为源自非洲或墨西哥无毛犬，在中国改良。中国水手将其养在船上捕鼠，并在全球港口城市交易。作为中国贵族的伴侣犬，被认为具有神奇治愈能力。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Toy",
-      "zh": "Toy"
+      "zh": "玩具犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "lively",
-      "zh": "lively"
+      "zh": "活泼"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bullmastiff",
-    "zh": "Bullmastiff"
+    "zh": "斗牛獒"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/9QavaBx9AT.jpg"
   ],
   "origin": {
     "en": "England",
-    "zh": "England"
+    "zh": "英格兰"
   },
   "history": {
     "en": "Developed in mid-19th century England by gamekeepers crossing English Mastiff with Old English Bulldog to create an effective estate guard dog for tracking poachers",
-    "zh": "Developed in mid-19th century England by gamekeepers crossing English Mastiff with Old English Bulldog to create an effective estate guard dog for tracking poachers"
+    "zh": "19世纪中期由英国猎场看守人通过杂交英国獒犬和英国老式斗牛犬培育而成，旨在创造一种有效的庄园护卫犬，用于追踪偷猎者。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

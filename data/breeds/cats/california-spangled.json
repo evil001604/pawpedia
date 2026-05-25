@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "California Spangled",
-    "zh": "California Spangled"
+    "zh": "加州闪亮猫"
   },
   "images": [
     "/images/breeds/cats/california-spangled-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Perhaps the only thing about the California spangled cat that isn’t wild-like is its personality. Known to be affectionate, gentle and sociable, this breed enjoys spending a great deal of time with its owners. They are very playful, often choosing to perch in high locations and show off their acrobatic skills.",
-    "zh": "Perhaps the only thing about the California spangled cat that isn’t wild-like is its personality. Known to be affectionate, gentle and sociable, this breed enjoys spending a great deal of time with its owners. They are very playful, often choosing to perch in high locations and show off their acrobatic skills."
+    "zh": "也许加州闪亮猫唯一不野性的是它的性格。以深情、温和、善于社交而闻名，这个品种喜欢花大量时间与主人在一起。它们非常爱玩，经常选择栖息在高处，展示它们的杂技技巧。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

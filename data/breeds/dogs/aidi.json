@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Aidi",
-    "zh": "Aidi"
+    "zh": "阿伊迪犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/EgYuu3djMg.jpg"
   ],
   "origin": {
     "en": "Atlas Mountains, Morocco",
-    "zh": "Atlas Mountains, Morocco"
+    "zh": "摩洛哥阿特拉斯山脉"
   },
   "history": {
     "en": "Ancient Berber breed from the Atlas Mountains of Morocco, used for centuries by Berber tribes as a livestock guardian protecting herds of sheep and goats from predators. Valued for its courage, adaptability, and keen senses in protecting property and tents.",
-    "zh": "Ancient Berber breed from the Atlas Mountains of Morocco, used for centuries by Berber tribes as a livestock guardian protecting herds of sheep and goats from predators. Valued for its courage, adaptability, and keen senses in protecting property and tents."
+    "zh": "来自摩洛哥阿特拉斯山脉的古老柏柏尔品种，几个世纪以来被柏柏尔部落用作牲畜护卫犬，保护羊群免受捕食者侵害。因其勇气、适应性和保护财产及帐篷的敏锐感官而受到重视。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护性"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

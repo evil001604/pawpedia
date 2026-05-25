@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Ariège Pointer",
-    "zh": "Ariège Pointer"
+    "zh": "阿列日指示犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/uAzXRozxs.jpg"
   ],
   "origin": {
     "en": "Ariège, France",
-    "zh": "Ariège, France"
+    "zh": "法国阿列日"
   },
   "history": {
     "en": "Originated in the Ariège region of southern France in the 19th century, descended from old French pointing breeds crossed with Spanish Pointer and other southern pointing breeds. Faced near extinction after World War II but was revived by passionate breeders in the 1990s.",
-    "zh": "Originated in the Ariège region of southern France in the 19th century, descended from old French pointing breeds crossed with Spanish Pointer and other southern pointing breeds. Faced near extinction after World War II but was revived by passionate breeders in the 1990s."
+    "zh": "起源于19世纪法国南部的阿列日地区，由古老的法国指示犬与西班牙指示犬及其他南方指示犬杂交而成。二战后濒临灭绝，但在20世纪90年代由热情的繁育者复兴。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "docile",
-      "zh": "docile"
+      "zh": "温顺"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

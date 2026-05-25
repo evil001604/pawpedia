@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Akita",
-    "zh": "Akita"
+    "zh": "秋田犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/8vgnFmYG8.jpg"
   ],
   "origin": {
     "en": "Japan",
-    "zh": "Japan"
+    "zh": "日本"
   },
   "history": {
     "en": "Ancient Japanese breed developed in the mountainous Akita prefecture for hunting large game including wild boar and bear. Revered in Japanese culture as a symbol of health, happiness, and good fortune. The breed was nearly lost after World War II but was preserved by dedicated breeders and designated as a national treasure in Japan.",
-    "zh": "Ancient Japanese breed developed in the mountainous Akita prefecture for hunting large game including wild boar and bear. Revered in Japanese culture as a symbol of health, happiness, and good fortune. The breed was nearly lost after World War II but was preserved by dedicated breeders and designated as a national treasure in Japan."
+    "zh": "古老的日本品种，在秋田县多山地区培育用于狩猎大型猎物，包括野猪和熊。在日本文化中被尊为健康、幸福和好运的象征。该品种在二战后几乎消失，但通过专注的繁育者得以保存，并被指定为日本国宝。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Courageous",
-      "zh": "Courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "dignified",
-      "zh": "dignified"
+      "zh": "高贵"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护性"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

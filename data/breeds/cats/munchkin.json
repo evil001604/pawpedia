@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Munchkin",
-    "zh": "Munchkin"
+    "zh": "曼基康猫"
   },
   "images": [
     "/images/breeds/cats/munchkin-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.",
-    "zh": "The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities."
+    "zh": "芒奇金猫是一种外向的猫，喜欢被抚摸。它精力充沛，比看起来更快更敏捷。它们腿短似乎并不影响奔跑和跳跃的能力。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Easy Going",
-      "zh": "Easy Going"
+      "zh": "随和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

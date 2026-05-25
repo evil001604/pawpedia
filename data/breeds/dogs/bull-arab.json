@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bull Arab",
-    "zh": "Bull Arab"
+    "zh": "阿拉伯斗犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/SLDsIjTd-.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Developed in Australia in the 1970s by Mike Hodgens crossing Bull Terrier for tenacity, Greyhound for speed, and German Shorthaired Pointer for scenting ability and endurance to create the ultimate pig-hunting dog",
-    "zh": "Developed in Australia in the 1970s by Mike Hodgens crossing Bull Terrier for tenacity, Greyhound for speed, and German Shorthaired Pointer for scenting ability and endurance to create the ultimate pig-hunting dog"
+    "zh": "1970年代在澳大利亚由迈克·霍金斯培育，通过牛头梗（坚韧）、灵缇（速度）和德国短毛指示犬（嗅觉与耐力）杂交，创造终极猎猪犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

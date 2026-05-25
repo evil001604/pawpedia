@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Alaskan Malamute",
-    "zh": "Alaskan Malamute"
+    "zh": "阿拉斯加雪橇犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/nzjOKufQGP.jpg"
   ],
   "origin": {
     "en": "Alaska, United States",
-    "zh": "Alaska, United States"
+    "zh": "美国阿拉斯加"
   },
   "history": {
     "en": "One of the oldest Arctic sled dogs, developed by the native Mahlemut Inuit tribe of northwestern Alaska. Essential for survival, used for hauling heavy freight across Arctic terrain, hunting large predators like seals and polar bears",
-    "zh": "One of the oldest Arctic sled dogs, developed by the native Mahlemut Inuit tribe of northwestern Alaska. Essential for survival, used for hauling heavy freight across Arctic terrain, hunting large predators like seals and polar bears"
+    "zh": "最古老的北极雪橇犬之一，由阿拉斯加西北部的原住民马勒缪特因纽特部落培育。对生存至关重要，用于在北极地形上拖运重物、狩猎海豹和北极熊等大型捕食者。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "活泼"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     }
   ]
 }

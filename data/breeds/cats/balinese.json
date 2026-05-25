@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Balinese",
-    "zh": "Balinese"
+    "zh": "巴厘猫"
   },
   "images": [
     "/images/breeds/cats/balinese-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. ",
-    "zh": "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. "
+    "zh": "巴厘猫好奇、外向、聪明，具有出色的沟通技巧。它们以健谈的性格而闻名，总是渴望告诉你它们对生活、爱情以及你为它们准备的晚餐的看法。"
   },
   "stats": {
     "weight": {
@@ -64,15 +64,15 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Castro Laboreiro Dog",
-    "zh": "Castro Laboreiro Dog"
+    "zh": "卡斯特罗拉博雷罗犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/HkRcZe547_1280.jpg"
   ],
   "origin": {
     "en": "Castro Laboreiro region, Portugal",
-    "zh": "Castro Laboreiro region, Portugal"
+    "zh": "葡萄牙卡斯特罗拉博雷罗地区"
   },
   "history": {
     "en": "Ancient Portuguese livestock guardian breed from the Peneda-Gerês mountains of northern Portugal. Developed to protect herds from wolves and other predators, it is one of the oldest and rarest breeds on the Iberian Peninsula.",
-    "zh": "Ancient Portuguese livestock guardian breed from the Peneda-Gerês mountains of northern Portugal. Developed to protect herds from wolves and other predators, it is one of the oldest and rarest breeds on the Iberian Peninsula."
+    "zh": "来自葡萄牙北部佩内达-热雷什山脉的古老葡萄牙牲畜护卫犬。为保护畜群免受狼和其他捕食者侵害而培育，是伊比利亚半岛最古老和最稀有的品种之一。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

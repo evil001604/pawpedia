@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Carea Leonés",
-    "zh": "Carea Leonés"
+    "zh": "莱昂牧羊犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/UnSc5dMSae.jpg"
   ],
   "origin": {
     "en": "León Province, Spain",
-    "zh": "León Province, Spain"
+    "zh": "西班牙莱昂省"
   },
   "history": {
     "en": "Ancient traditional herding dog from León Province in northwest Spain, used for centuries to manage and guide flocks, particularly Merino sheep. Highly valued for hardiness, intelligence, and unwavering work ethic in mountainous terrain and rural environments.",
-    "zh": "Ancient traditional herding dog from León Province in northwest Spain, used for centuries to manage and guide flocks, particularly Merino sheep. Highly valued for hardiness, intelligence, and unwavering work ethic in mountainous terrain and rural environments."
+    "zh": "来自西班牙西北部莱昂省的古老传统牧羊犬，几个世纪以来用于管理和引导羊群，特别是美利奴羊。因其在山区和农村环境中的耐寒性、智慧和不懈的工作精神而备受重视。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "运动型"
     }
   ]
 }

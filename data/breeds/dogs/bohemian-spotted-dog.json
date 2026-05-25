@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bohemian Spotted Dog",
-    "zh": "Bohemian Spotted Dog"
+    "zh": "波西米亚斑点犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/HJAFgxcNQ_1280.jpg"
   ],
   "origin": {
     "en": "Czech Republic",
-    "zh": "Czech Republic"
+    "zh": "捷克共和国"
   },
   "history": {
     "en": "Created in the 1950s in Prague by cynologist František Horák for laboratory purposes. The breed's stable temperament and manageable size made them ideal subjects. After the research concluded, the dogs were made available to the public and developed into a beloved companion breed.",
-    "zh": "Created in the 1950s in Prague by cynologist František Horák for laboratory purposes. The breed's stable temperament and manageable size made them ideal subjects. After the research concluded, the dogs were made available to the public and developed into a beloved companion breed."
+    "zh": "20世纪50年代由犬类学家弗朗基塞克·霍拉克在布拉格为实验室用途培育。该品种稳定的性情和可控的体型使其成为理想实验对象。研究结束后，这些犬被提供给公众，并发展成深受喜爱的伴侣犬品种。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Companion",
-      "zh": "Companion"
+      "zh": "伴侣犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

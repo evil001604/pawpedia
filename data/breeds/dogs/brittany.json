@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Brittany",
-    "zh": "Brittany"
+    "zh": "布列塔尼犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/ikOLxquC5T.jpg"
   ],
   "origin": {
     "en": "Brittany (Bretagne), France",
-    "zh": "Brittany (Bretagne), France"
+    "zh": "法国布列塔尼"
   },
   "history": {
     "en": "Developed in the 17th-18th century in the Brittany province of France as a versatile hunting dog capable of pointing and retrieving on various terrain. Refined through crosses with English Setters and recognized by AKC in 1934.",
-    "zh": "Developed in the 17th-18th century in the Brittany province of France as a versatile hunting dog capable of pointing and retrieving on various terrain. Refined through crosses with English Setters and recognized by AKC in 1934."
+    "zh": "17-18世纪在法国布列塔尼省培育的多功能猎犬，能在各种地形指示和寻回猎物。通过英国雪达犬杂交改良，1934年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "运动型"
     },
     {
       "en": "happy",
-      "zh": "happy"
+      "zh": "快乐"
     }
   ]
 }

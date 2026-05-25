@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bassador",
-    "zh": "Bassador"
+    "zh": "巴塞特拉布拉多犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/t7FefmYNk.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed developed in recent decades in North America by crossing Basset Hound and Labrador Retriever to combine friendly family-oriented traits with unique appearance and scenting abilities",
-    "zh": "Modern designer crossbreed developed in recent decades in North America by crossing Basset Hound and Labrador Retriever to combine friendly family-oriented traits with unique appearance and scenting abilities"
+    "zh": "现代设计型混种犬，近几十年在北美通过巴吉度猎犬与拉布拉多寻回犬杂交培育，旨在结合友善的家庭犬特质与独特外观及嗅觉能力。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     }
   ]
 }

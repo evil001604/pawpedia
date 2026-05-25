@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chiweenie",
-    "zh": "Chiweenie"
+    "zh": "奇维尼犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/DJ_glutgg.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Designer crossbreed that gained popularity in the late 1990s in North America, developed by crossing Chihuahua and Dachshund breeds to create a small companion dog",
-    "zh": "Designer crossbreed that gained popularity in the late 1990s in North America, developed by crossing Chihuahua and Dachshund breeds to create a small companion dog"
+    "zh": "设计混种犬，1990年代末在北美流行，通过吉娃娃与腊肠犬杂交培育，创造出小型伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

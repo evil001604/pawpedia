@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Basset Fauve de Bretagne",
-    "zh": "Basset Fauve de Bretagne"
+    "zh": "布列塔尼黄褐色巴塞特犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/C-1H0CF1I.jpg"
   ],
   "origin": {
     "en": "Brittany, France",
-    "zh": "Brittany, France"
+    "zh": "法国布列塔尼"
   },
   "history": {
     "en": "Developed in Brittany, France as a downsized version of the larger Grand Fauve de Bretagne (Griffon Fauve de Bretagne). Used for hunting small game like rabbit and hare. Nearly extinct after WWII but restored by crossing remaining dogs with breeds like Basset Griffon Vendeen.",
-    "zh": "Developed in Brittany, France as a downsized version of the larger Grand Fauve de Bretagne (Griffon Fauve de Bretagne). Used for hunting small game like rabbit and hare. Nearly extinct after WWII but restored by crossing remaining dogs with breeds like Basset Griffon Vendeen."
+    "zh": "在法国布列塔尼地区作为大型布列塔尼黄褐色犬（格里芬黄褐色布列塔尼犬）的小型版本培育。用于狩猎兔子、野兔等小型猎物。二战后几近灭绝，通过将剩余犬只与旺代巴吉度格里芬犬等品种杂交得以恢复。"
   },
   "stats": {
     "weight": {
@@ -64,43 +64,43 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "happy",
-      "zh": "happy"
+      "zh": "快乐"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

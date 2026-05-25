@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Chausie",
-    "zh": "Chausie"
+    "zh": "乔西猫"
   },
   "images": [
     "/images/breeds/cats/chausie-1.jpg"
   ],
   "origin": {
     "en": "Egypt",
-    "zh": "Egypt"
+    "zh": "埃及"
   },
   "history": {
     "en": "For those owners who desire a feline capable of evoking the great outdoors, the strikingly beautiful Chausie retains a bit of the wild in its appearance but has the house manners of our friendly, familiar moggies. Very playful, this cat needs a large amount of space to be able to fully embrace its hunting instincts.",
-    "zh": "For those owners who desire a feline capable of evoking the great outdoors, the strikingly beautiful Chausie retains a bit of the wild in its appearance but has the house manners of our friendly, familiar moggies. Very playful, this cat needs a large amount of space to be able to fully embrace its hunting instincts."
+    "zh": "对于那些渴望拥有一只能唤起户外风情的猫咪的主人来说，引人注目的查西猫在外观上保留了一点野性，但具有我们友好、熟悉的猫咪的家居礼仪。非常爱玩，这种猫需要大量的空间来充分释放其狩猎本能。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

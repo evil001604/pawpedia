@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Catahoula Leopard Dog",
-    "zh": "Catahoula Leopard Dog"
+    "zh": "卡塔霍拉豹犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/wgwRfjm7ZK.jpg"
   ],
   "origin": {
     "en": "Louisiana, United States",
-    "zh": "Louisiana, United States"
+    "zh": "美国路易斯安那州"
   },
   "history": {
     "en": "Developed in Northern Louisiana from Native American dogs crossed with Spanish and French settlers' dogs for hunting feral hogs and herding cattle. Named after Catahoula Parish and designated as the official state dog of Louisiana.",
-    "zh": "Developed in Northern Louisiana from Native American dogs crossed with Spanish and French settlers' dogs for hunting feral hogs and herding cattle. Named after Catahoula Parish and designated as the official state dog of Louisiana."
+    "zh": "在北路易斯安那州培育，由美洲原住民犬与西班牙和法国定居者的犬杂交而成，用于猎杀野猪和牧牛。以卡塔胡拉教区命名，并被指定为路易斯安那州的官方州犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

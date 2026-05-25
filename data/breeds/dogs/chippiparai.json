@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chippiparai",
-    "zh": "Chippiparai"
+    "zh": "奇皮帕莱犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/61EkhCUeNb.jpg"
   ],
   "origin": {
     "en": "Tamil Nadu, India",
-    "zh": "Tamil Nadu, India"
+    "zh": "印度泰米尔纳德邦"
   },
   "history": {
     "en": "Ancient sighthound breed developed by royalty in the Chippiparai region near Madurai in Tamil Nadu, India. Traditionally used by royal families and aristocrats for hunting wild boar, deer, and hare. The breed is prized for its speed, endurance, hunting prowess, and robust health adapted to the local climate.",
-    "zh": "Ancient sighthound breed developed by royalty in the Chippiparai region near Madurai in Tamil Nadu, India. Traditionally used by royal families and aristocrats for hunting wild boar, deer, and hare. The breed is prized for its speed, endurance, hunting prowess, and robust health adapted to the local climate."
+    "zh": "古老视觉猎犬品种，由印度泰米尔纳德邦马杜赖附近奇皮帕拉伊地区的皇室培育。传统上被皇室和贵族用于猎捕野猪、鹿和野兔。该品种以速度、耐力、狩猎能力和适应本地气候的强健体魄而著称。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sighthound",
-      "zh": "Sighthound"
+      "zh": "视觉猎犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "健壮"
     }
   ]
 }

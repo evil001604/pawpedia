@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Austrian Pinscher",
-    "zh": "Austrian Pinscher"
+    "zh": "奥地利宾莎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/YmGPWuI_w.jpg"
   ],
   "origin": {
     "en": "Austria",
-    "zh": "Austria"
+    "zh": "奥地利"
   },
   "history": {
     "en": "Descended from old Austrian farm dogs of the 18th century, developed as versatile all-purpose farm dog for guarding livestock and controlling vermin. Systematic breeding began in 1921 with official recognition in 1928. Nearly extinct post-WWII and by the 1970s, saved through dedicated breeding programs using remaining bloodlines.",
-    "zh": "Descended from old Austrian farm dogs of the 18th century, developed as versatile all-purpose farm dog for guarding livestock and controlling vermin. Systematic breeding began in 1921 with official recognition in 1928. Nearly extinct post-WWII and by the 1970s, saved through dedicated breeding programs using remaining bloodlines."
+    "zh": "源自18世纪古老的奥地利农场犬，发展为多功能的全能农场犬，用于护卫家畜和控制害虫。系统繁育始于1921年，1928年获得正式认可。二战后及20世纪70年代濒临灭绝，通过使用剩余血统的专注繁育计划得以拯救。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

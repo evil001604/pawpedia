@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Broholmer",
-    "zh": "Broholmer"
+    "zh": "布罗霍尔默犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/28pSRwqLJd.jpg"
   ],
   "origin": {
     "en": "Denmark",
-    "zh": "Denmark"
+    "zh": "丹麦"
   },
   "history": {
     "en": "Ancient Danish breed descended from mastiffs of the Middle Ages, originally used for stag hunting and later as estate guardian for large farms and manors. Standardized and named in 18th century by Count Sehested of Broholm. Nearly extinct after WWII but revived in 1970s through dedicated effort by Danish enthusiasts.",
-    "zh": "Ancient Danish breed descended from mastiffs of the Middle Ages, originally used for stag hunting and later as estate guardian for large farms and manors. Standardized and named in 18th century by Count Sehested of Broholm. Nearly extinct after WWII but revived in 1970s through dedicated effort by Danish enthusiasts."
+    "zh": "古老丹麦犬种，源自中世纪獒犬，最初用于猎鹿，后成为大型农庄护卫犬。18世纪由布罗霍尔姆伯爵标准化并命名。二战后几近灭绝，1970年代经丹麦爱好者努力复兴。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     }
   ]
 }

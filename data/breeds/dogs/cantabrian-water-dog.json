@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cantabrian Water Dog",
-    "zh": "Cantabrian Water Dog"
+    "zh": "坎塔布里亚水犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/8bzLyVs2dA.jpg"
   ],
   "origin": {
     "en": "Cantabria, Spain",
-    "zh": "Cantabria, Spain"
+    "zh": "西班牙坎塔布里亚"
   },
   "history": {
     "en": "An ancient landrace breed from the coastal Cantabrian region of northern Spain, historically used by fishermen for water work, retrieving fish and gear, guarding boats, and assisting with nets. Nearly extinct but being revived through conservation efforts, officially recognized by the Real Sociedad Canina de España (RSCE) in 2011.",
-    "zh": "An ancient landrace breed from the coastal Cantabrian region of northern Spain, historically used by fishermen for water work, retrieving fish and gear, guarding boats, and assisting with nets. Nearly extinct but being revived through conservation efforts, officially recognized by the Real Sociedad Canina de España (RSCE) in 2011."
+    "zh": "来自西班牙北部沿海坎塔布里亚地区的古老地方品种，历史上被渔民用于水上工作，如取回鱼和渔具、看守船只以及协助渔网。几乎灭绝，但通过保护努力正在复兴，于2011年由西班牙皇家犬业协会（RSCE）正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

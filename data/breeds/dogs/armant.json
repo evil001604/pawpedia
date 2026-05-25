@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Armant",
-    "zh": "Armant"
+    "zh": "阿曼特犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/LY570N51o3.jpg"
   ],
   "origin": {
     "en": "Egypt",
-    "zh": "Egypt"
+    "zh": "埃及"
   },
   "history": {
     "en": "Named after the town of Armant along the Nile in Egypt, believed to have descended from European herding dogs, possibly Briards, brought by Napoleon's armies and crossed with native Egyptian dogs. Developed as versatile livestock guardians and herding dogs, officially recognized in Egypt as the national herding breed.",
-    "zh": "Named after the town of Armant along the Nile in Egypt, believed to have descended from European herding dogs, possibly Briards, brought by Napoleon's armies and crossed with native Egyptian dogs. Developed as versatile livestock guardians and herding dogs, officially recognized in Egypt as the national herding breed."
+    "zh": "以埃及尼罗河畔的阿尔曼特镇命名，据信源自拿破仑军队带来的欧洲牧羊犬（可能是布里牧犬）与当地埃及犬杂交而成。发展为多功能的家畜护卫和牧羊犬，在埃及被正式认定为国宝牧羊犬种。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

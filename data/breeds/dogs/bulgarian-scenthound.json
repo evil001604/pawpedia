@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bulgarian Scenthound",
-    "zh": "Bulgarian Scenthound"
+    "zh": "保加利亚嗅觉猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/HkNkxlqEX_1280.jpg"
   ],
   "origin": {
     "en": "Bulgaria",
-    "zh": "Bulgaria"
+    "zh": "保加利亚"
   },
   "history": {
     "en": "An ancient breed from the Balkans, believed brought to the region by the Slavs. Developed in Bulgaria for hunting in mountainous terrain, it's the most popular hunting dog in Bulgaria, prized for exceptional scent capabilities and endurance. Recognized by FCI as 'Bulgarian Hound (Barak)'",
-    "zh": "An ancient breed from the Balkans, believed brought to the region by the Slavs. Developed in Bulgaria for hunting in mountainous terrain, it's the most popular hunting dog in Bulgaria, prized for exceptional scent capabilities and endurance. Recognized by FCI as 'Bulgarian Hound (Barak)'"
+    "zh": "古老巴尔干犬种，据信由斯拉夫人带入该地区。在保加利亚培育用于山地狩猎，是保加利亚最受欢迎的猎犬，以卓越嗅觉和耐力著称。FCI认可为“保加利亚猎犬（巴拉克）”。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Manx",
-    "zh": "Manx"
+    "zh": "马恩岛猫"
   },
   "images": [
     "/images/breeds/cats/manx-1.jpg"
   ],
   "origin": {
     "en": "Isle of Man",
-    "zh": "Isle of Man"
+    "zh": "马恩岛"
   },
   "history": {
     "en": "The Manx is a placid, sweet cat that is gentle and playful. She never seems to get too upset about anything. She is a loving companion and adores being with people.",
-    "zh": "The Manx is a placid, sweet cat that is gentle and playful. She never seems to get too upset about anything. She is a loving companion and adores being with people."
+    "zh": "曼克斯猫是一种温顺、甜美的猫，温柔且爱玩。它似乎从不会对任何事情过于烦恼。它是一个充满爱意的伴侣，喜欢与人相处。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Easy Going",
-      "zh": "Easy Going"
+      "zh": "随和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

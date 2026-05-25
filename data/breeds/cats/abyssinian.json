@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Abyssinian",
-    "zh": "Abyssinian"
+    "zh": "阿比西尼亚猫"
   },
   "images": [
     "/images/breeds/cats/abyssinian-1.jpg"
   ],
   "origin": {
     "en": "Egypt",
-    "zh": "Egypt"
+    "zh": "埃及"
   },
   "history": {
     "en": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
-    "zh": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals."
+    "zh": "阿比西尼亚猫易于照料，是家中的快乐源泉。它们感情丰富，喜爱人类和其他动物。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     }
   ]
 }

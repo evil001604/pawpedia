@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bavarian Mountain Hound",
-    "zh": "Bavarian Mountain Hound"
+    "zh": "巴伐利亚山地猎犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/06xiPKwn6r.jpg"
   ],
   "origin": {
     "en": "Bavaria, Germany",
-    "zh": "Bavaria, Germany"
+    "zh": "德国巴伐利亚"
   },
   "history": {
     "en": "Developed in 19th century Bavaria by crossing Hanoverian Scenthounds with Alpine hunting dogs and local mountain dogs to create a lighter, more agile dog capable of tracking wounded game on cold trails through difficult mountainous terrain",
-    "zh": "Developed in 19th century Bavaria by crossing Hanoverian Scenthounds with Alpine hunting dogs and local mountain dogs to create a lighter, more agile dog capable of tracking wounded game on cold trails through difficult mountainous terrain"
+    "zh": "19世纪在巴伐利亚通过将汉诺威寻血猎犬与高山猎犬及当地山地犬杂交培育而成，旨在创造一种更轻便、更敏捷的犬种，能够在寒冷的地形中追踪受伤的猎物。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

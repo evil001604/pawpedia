@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Black Norwegian Elkhound",
-    "zh": "Black Norwegian Elkhound"
+    "zh": "黑色挪威猎犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/4M5XlKU99y.jpg"
   ],
   "origin": {
     "en": "Norway",
-    "zh": "Norway"
+    "zh": "挪威"
   },
   "history": {
     "en": "Ancient Norwegian spitz breed developed over centuries as a versatile hunter of large game such as elk, moose, and bear in rugged Scandinavian terrain. Smaller and less common than the Gray Norwegian Elkhound, also served as a watchdog. Recognized by the FCI but not the AKC as of 2024.",
-    "zh": "Ancient Norwegian spitz breed developed over centuries as a versatile hunter of large game such as elk, moose, and bear in rugged Scandinavian terrain. Smaller and less common than the Gray Norwegian Elkhound, also served as a watchdog. Recognized by the FCI but not the AKC as of 2024."
+    "zh": "古老的挪威斯皮茨犬种，经过几个世纪培育，成为在崎岖斯堪的纳维亚地形中狩猎大型猎物（如麋鹿、驼鹿和熊）的多功能猎犬。比灰色挪威猎麋犬体型更小且更少见，也用作看门犬。截至2024年，已获FCI认可但未获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

@@ -4,7 +4,7 @@ import * as path from 'path'
 import { Breed } from './types'
 
 const DATA_DIR = path.resolve(__dirname, '../../data/breeds/dogs')
-const API_KEY = 'live_0IIyvu1gPsBRpqMjPy2wmF2lONt8UJGJICxynvRcKdCkuquMlAQmCd6YpOfoL7Bj'
+const API_KEY = process.env.DOG_API_KEY || ''
 const API_BASE = 'https://api.thedogapi.com/v1'
 
 function slugify(text: string): string {

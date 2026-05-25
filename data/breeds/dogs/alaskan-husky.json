@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Alaskan Husky",
-    "zh": "Alaskan Husky"
+    "zh": "阿拉斯加哈士奇"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/r1rrWe5Em_1280.jpg"
   ],
   "origin": {
     "en": "Alaska, United States",
-    "zh": "Alaska, United States"
+    "zh": "美国阿拉斯加"
   },
   "history": {
     "en": "Developed in Alaska as a purpose-bred sled dog through selective breeding of various northern breeds (Siberian Husky, Alaskan Malamute, Inuit dogs) with European breeds like Pointers, Greyhounds, and Salukis to create the ideal combination of speed, endurance, and work ethic for sled racing",
-    "zh": "Developed in Alaska as a purpose-bred sled dog through selective breeding of various northern breeds (Siberian Husky, Alaskan Malamute, Inuit dogs) with European breeds like Pointers, Greyhounds, and Salukis to create the ideal combination of speed, endurance, and work ethic for sled racing"
+    "zh": "在阿拉斯加培育，作为专门繁育的雪橇犬，通过选择性杂交多种北方品种（西伯利亚哈士奇、阿拉斯加雪橇犬、因纽特犬）与欧洲品种如指示犬、灵缇犬和萨路基猎犬，创造出速度、耐力和工作精神理想结合的雪橇赛犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "运动型"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

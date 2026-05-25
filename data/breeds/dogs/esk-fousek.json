@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Český fousek",
-    "zh": "Český fousek"
+    "zh": "捷克粗毛犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/E_HPfvAnX.jpg"
   ],
   "origin": {
     "en": "Czech Republic",
-    "zh": "Czech Republic"
+    "zh": "捷克共和国"
   },
   "history": {
     "en": "One of the oldest Czech hunting breeds, the Český fousek nearly became extinct after the World Wars but was restored in the 1960s through careful breeding programs using remaining typical specimens",
-    "zh": "One of the oldest Czech hunting breeds, the Český fousek nearly became extinct after the World Wars but was restored in the 1960s through careful breeding programs using remaining typical specimens"
+    "zh": "捷克最古老的狩猎犬种之一，波西米亚硬毛指示犬在两次世界大战后几乎灭绝，但通过20世纪60年代利用剩余典型标本的精心繁殖计划得以恢复。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

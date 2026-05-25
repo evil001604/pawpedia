@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bully Kutta",
-    "zh": "Bully Kutta"
+    "zh": "布尔库塔犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/DbcfkQrav.jpg"
   ],
   "origin": {
     "en": "Indian subcontinent (Pakistan/India)",
-    "zh": "Indian subcontinent (Pakistan/India)"
+    "zh": "印度次大陆（巴基斯坦/印度）"
   },
   "history": {
     "en": "Ancient landrace breed with origins in the Punjab region of the Indian subcontinent. Descended from mastiff-type dogs, historically used by royalty and landowners for hunting large game and later bred for guarding, fighting, and estate protection. Not recognized by major international kennel clubs but standards exist in Pakistani and Indian breed registries",
-    "zh": "Ancient landrace breed with origins in the Punjab region of the Indian subcontinent. Descended from mastiff-type dogs, historically used by royalty and landowners for hunting large game and later bred for guarding, fighting, and estate protection. Not recognized by major international kennel clubs but standards exist in Pakistani and Indian breed registries"
+    "zh": "源自印度次大陆旁遮普地区的古老原生犬种。由獒犬型犬类演化而来，历史上被皇室和地主用于大型猎物狩猎，后来被培育用于护卫、斗犬和庄园保护。未被主要国际犬业俱乐部认可，但在巴基斯坦和印度犬种登记机构中存在标准。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Protective",
-      "zh": "Protective"
+      "zh": "保护欲强"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

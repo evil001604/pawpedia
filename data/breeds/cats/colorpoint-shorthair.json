@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Colorpoint Shorthair",
-    "zh": "Colorpoint Shorthair"
+    "zh": "色点短毛猫"
   },
   "images": [
     "/images/breeds/cats/colorpoint-shorthair-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.",
-    "zh": "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground."
+    "zh": "重点色短毛猫是一种深情的品种，对主人忠诚且忠心。它们对主人的情绪敏感，在你心情不好时，它们非常乐意坐在你身边或你的膝盖上，用呼噜声给予鼓励。它们会不断寻找你的膝盖，只要膝盖空着，当膝盖被占用时，它们会伸展身体躺在阳光充足的地面上。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

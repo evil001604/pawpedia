@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Leopard Hound",
-    "zh": "American Leopard Hound"
+    "zh": "美国豹犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/ArfAUoqnI.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "One of the oldest American tree hound breeds, developed in North Carolina from dogs brought by Spanish conquistadors crossed with other scent hounds. Officially recognized by United Kennel Club in 1960s, bred for exceptional trailing and treeing abilities on variety of game.",
-    "zh": "One of the oldest American tree hound breeds, developed in North Carolina from dogs brought by Spanish conquistadors crossed with other scent hounds. Officially recognized by United Kennel Club in 1960s, bred for exceptional trailing and treeing abilities on variety of game."
+    "zh": "最古老的美国树猎犬品种之一，在北卡罗来纳州由西班牙征服者带来的犬只与其他嗅觉猎犬杂交培育而成。20世纪60年代获联合犬业俱乐部正式认可，以出色的追踪和上树能力著称，适用于多种猎物。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护性"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "运动型"
     }
   ]
 }

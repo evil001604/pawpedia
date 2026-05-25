@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Basque Shepherd Dog",
-    "zh": "Basque Shepherd Dog"
+    "zh": "巴斯克牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/S1FXVTpV7.gif"
   ],
   "origin": {
     "en": "Basque Country (Spain and France)",
-    "zh": "Basque Country (Spain and France)"
+    "zh": "巴斯克地区（西班牙和法国）"
   },
   "history": {
     "en": "An ancient landrace breed developed by shepherds in the Basque region for herding and protecting livestock in mountainous terrain. Faced near extinction in the 20th century but was revived by dedicated breeders, leading to official recognition by the Real Sociedad Canina de España in 1995 and inclusion in AKC's Foundation Stock Service.",
-    "zh": "An ancient landrace breed developed by shepherds in the Basque region for herding and protecting livestock in mountainous terrain. Faced near extinction in the 20th century but was revived by dedicated breeders, leading to official recognition by the Real Sociedad Canina de España in 1995 and inclusion in AKC's Foundation Stock Service."
+    "zh": "古老的土种犬，由巴斯克地区的牧羊人培育，用于在山区地形放牧和保护牲畜。20世纪曾濒临灭绝，经专注的繁育者复兴后，于1995年获得西班牙皇家犬业协会正式认可，并纳入AKC基础服务项目。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "奉献"
     }
   ]
 }

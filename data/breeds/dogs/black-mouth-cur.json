@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Black Mouth Cur",
-    "zh": "Black Mouth Cur"
+    "zh": "黑嘴犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/GxmoWNpZqN.jpg"
   ],
   "origin": {
     "en": "Southern United States",
-    "zh": "Southern United States"
+    "zh": "美国南部"
   },
   "history": {
     "en": "Developed in the southern United States as versatile pioneer and farm dog for herding cattle and hogs protecting homestead and hunting variety of game from squirrels to bears valued for stamina and reliability",
-    "zh": "Developed in the southern United States as versatile pioneer and farm dog for herding cattle and hogs protecting homestead and hunting variety of game from squirrels to bears valued for stamina and reliability"
+    "zh": "在美国南部培育，作为多功能拓荒和农场犬，用于放牧牛猪、保护家园以及狩猎从松鼠到熊的各种猎物，以耐力和可靠性著称。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

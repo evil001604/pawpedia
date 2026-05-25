@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Foxhound",
-    "zh": "American Foxhound"
+    "zh": "美国猎狐犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/qh7cGcv83.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Developed from English Foxhounds imported to Colonial America in the 1650s, refined for American terrain and fox hunting. George Washington was a key figure in the breed's development, breeding them to be lighter, taller, and faster for hunting American red fox over varied terrain.",
-    "zh": "Developed from English Foxhounds imported to Colonial America in the 1650s, refined for American terrain and fox hunting. George Washington was a key figure in the breed's development, breeding them to be lighter, taller, and faster for hunting American red fox over varied terrain."
+    "zh": "源自1650年代进口到殖民地美国的英国猎狐犬，为适应美国地形和狐狸狩猎而改良。乔治·华盛顿是该品种发展的关键人物，将其培育得更轻、更高、更快，以在不同地形上猎捕美国赤狐。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Calupoh",
-    "zh": "Calupoh"
+    "zh": "卡卢波犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/xqSZ5QgaTA.jpg"
   ],
   "origin": {
     "en": "Mexico",
-    "zh": "Mexico"
+    "zh": "墨西哥"
   },
   "history": {
     "en": "Developed in Mexico in the mid-1990s through controlled hybridization of Mexican Gray Wolves with domestic dogs, primarily German Shepherds and Alaskan Malamutes, to create a wolf-like companion breed that preserves cultural heritage while maintaining domestic dog temperament and trainability. Provisionally recognized by the FCI and the Federación Canófila Mexicana.",
-    "zh": "Developed in Mexico in the mid-1990s through controlled hybridization of Mexican Gray Wolves with domestic dogs, primarily German Shepherds and Alaskan Malamutes, to create a wolf-like companion breed that preserves cultural heritage while maintaining domestic dog temperament and trainability. Provisionally recognized by the FCI and the Federación Canófila Mexicana."
+    "zh": "20世纪90年代中期在墨西哥通过墨西哥灰狼与家犬（主要是德国牧羊犬和阿拉斯加雪橇犬）的受控杂交培育而成，旨在创造一种保留文化遗产、同时具备家犬性情和可训练性的狼形伴侣犬。获FCI和墨西哥犬业联合会临时认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

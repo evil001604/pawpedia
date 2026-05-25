@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Borzoi",
-    "zh": "Borzoi"
+    "zh": "波索犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/h23HQAljB_1280.jpg"
   ],
   "origin": {
     "en": "Russia",
-    "zh": "Russia"
+    "zh": "俄罗斯"
   },
   "history": {
     "en": "Developed by Russian aristocracy in the 17th century for coursing wolves and other game. Also known as Russian Wolfhound until 1936. Numbers dwindled after the Russian Revolution but were preserved by fanciers outside Russia.",
-    "zh": "Developed by Russian aristocracy in the 17th century for coursing wolves and other game. Also known as Russian Wolfhound until 1936. Numbers dwindled after the Russian Revolution but were preserved by fanciers outside Russia."
+    "zh": "17世纪由俄罗斯贵族培育，用于追捕狼及其他猎物。1936年前也被称为俄罗斯狼犬。俄罗斯革命后数量锐减，但由国外爱好者得以保存。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

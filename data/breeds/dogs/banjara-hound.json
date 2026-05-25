@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Banjara Hound",
-    "zh": "Banjara Hound"
+    "zh": "班贾拉猎犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/LZ3fo6EEPD.jpg"
   ],
   "origin": {
     "en": "India",
-    "zh": "India"
+    "zh": "印度"
   },
   "history": {
     "en": "Ancient landrace sighthound developed by the Banjara nomadic tribes of India, primarily in the Maharashtra region. For centuries bred for hunting deer, hare, and medium game over open terrain, also serving as flock guardian and family protector. Not recognized by major international kennel clubs but established in regional registries.",
-    "zh": "Ancient landrace sighthound developed by the Banjara nomadic tribes of India, primarily in the Maharashtra region. For centuries bred for hunting deer, hare, and medium game over open terrain, also serving as flock guardian and family protector. Not recognized by major international kennel clubs but established in regional registries."
+    "zh": "古老的土种视觉猎犬，由印度班贾拉游牧部落培育，主要分布于马哈拉施特拉地区。几个世纪以来用于在开阔地形狩猎鹿、野兔等中型猎物，同时担任羊群护卫和家庭守护者。未被主要国际犬业俱乐部认可，但已列入地区性注册体系。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

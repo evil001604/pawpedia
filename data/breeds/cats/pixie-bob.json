@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Pixie-bob",
-    "zh": "Pixie-bob"
+    "zh": "精灵猫"
   },
   "images": [
     "/images/breeds/cats/pixie-bob-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Companionable and affectionate, the Pixie-bob wants to be an integral part of the family. The Pixie-Bob’s ability to bond with their humans along with their patient personas make them excellent companions for children.",
-    "zh": "Companionable and affectionate, the Pixie-bob wants to be an integral part of the family. The Pixie-Bob’s ability to bond with their humans along with their patient personas make them excellent companions for children."
+    "zh": "精灵猫善于交际且深情，希望成为家庭不可或缺的一部分。精灵猫与人类建立纽带的能力以及耐心的性格，使它们成为孩子的好伴侣。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     }
   ]
 }

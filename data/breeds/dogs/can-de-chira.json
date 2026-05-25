@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Can de Chira",
-    "zh": "Can de Chira"
+    "zh": "奇拉犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/SkZY1e9NQ_1280.jpg"
   ],
   "origin": {
     "en": "Aragon, Spain",
-    "zh": "Aragon, Spain"
+    "zh": "西班牙阿拉贡"
   },
   "history": {
     "en": "Traditional Aragonese shepherd dog from the Pyrenees mountains valued for cattle and sheep herding. Its name derives from herding 'chiras,' a local sheep breed. The breed faced near extinction but is undergoing recovery thanks to efforts by the Club del Can de Chira and recognition as a Canine Ethnic Group by the Real Sociedad Canina de España.",
-    "zh": "Traditional Aragonese shepherd dog from the Pyrenees mountains valued for cattle and sheep herding. Its name derives from herding 'chiras,' a local sheep breed. The breed faced near extinction but is undergoing recovery thanks to efforts by the Club del Can de Chira and recognition as a Canine Ethnic Group by the Real Sociedad Canina de España."
+    "zh": "来自比利牛斯山脉的传统阿拉贡牧羊犬，用于放牧牛和羊。其名称源自牧放当地绵羊品种“chiras”。该犬种曾濒临灭绝，但通过Can de Chira俱乐部的努力以及被西班牙皇家犬业协会认定为犬种族群而正在恢复。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

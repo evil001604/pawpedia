@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Basset Artésien Normand",
-    "zh": "Basset Artésien Normand"
+    "zh": "阿图瓦诺曼底巴塞特犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/yddakJGig.jpg"
   ],
   "origin": {
     "en": "Artois and Normandy regions, France",
-    "zh": "Artois and Normandy regions, France"
+    "zh": "法国阿图瓦和诺曼底地区"
   },
   "history": {
     "en": "Developed in France from the older Basset d'Artois and Basset Normand breeds, standardized around 1924 by Léon Verrier for hunting small game like rabbit and hare either alone or in packs",
-    "zh": "Developed in France from the older Basset d'Artois and Basset Normand breeds, standardized around 1924 by Léon Verrier for hunting small game like rabbit and hare either alone or in packs"
+    "zh": "在法国由古老的阿图瓦巴吉度犬和诺曼底巴吉度犬培育而成，1924年左右由莱昂·韦里耶标准化，用于单独或成群狩猎兔子、野兔等小型猎物。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     }
   ]
 }

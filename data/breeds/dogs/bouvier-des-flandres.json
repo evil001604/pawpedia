@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bouvier des Flandres",
-    "zh": "Bouvier des Flandres"
+    "zh": "弗兰德牧牛犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/aiSMxnHmD1.jpg"
   ],
   "origin": {
     "en": "Belgium (Flanders region)",
-    "zh": "Belgium (Flanders region)"
+    "zh": "比利时（弗兰德地区）"
   },
   "history": {
     "en": "Developed by monks in the Flanders region of medieval Europe as cattle herding and all-purpose farm dog. Used to drive cattle, pull carts, and serve as a watchdog. Nearly extinct after World War I but revived by dedicated breeders.",
-    "zh": "Developed by monks in the Flanders region of medieval Europe as cattle herding and all-purpose farm dog. Used to drive cattle, pull carts, and serve as a watchdog. Nearly extinct after World War I but revived by dedicated breeders."
+    "zh": "中世纪欧洲佛兰德斯地区的僧侣培育而成，作为牧牛犬和全能农场犬。用于驱赶牛群、拉车和看门。第一次世界大战后几乎灭绝，但由专注的繁育者复兴。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bugg",
-    "zh": "Bugg"
+    "zh": "巴哥犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/hYsMv3NQi.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Designer crossbreed developed in the late 20th/early 21st century by crossing Boston Terrier and Pug to create a compact companion dog combining the friendly alertness of the Boston Terrier with the charming affectionate personality of the Pug",
-    "zh": "Designer crossbreed developed in the late 20th/early 21st century by crossing Boston Terrier and Pug to create a compact companion dog combining the friendly alertness of the Boston Terrier with the charming affectionate personality of the Pug"
+    "zh": "20世纪末21世纪初设计的杂交犬种，通过波士顿梗与巴哥犬杂交培育出紧凑型伴侣犬，兼具波士顿梗的友善机敏与巴哥犬的迷人亲和。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

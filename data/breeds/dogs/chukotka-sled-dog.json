@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chukotka Sled Dog",
-    "zh": "Chukotka Sled Dog"
+    "zh": "楚科奇雪橇犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Cr3YuxzEV.jpg"
   ],
   "origin": {
     "en": "Chukotka Peninsula, Siberia",
-    "zh": "Chukotka Peninsula, Siberia"
+    "zh": "西伯利亚楚科奇半岛"
   },
   "history": {
     "en": "Ancient breed developed by the indigenous Chukchi people of northeastern Siberia for sledding, hunting, and survival in Arctic conditions. Traditional sled dog bred for centuries for transportation and endurance, considered the foundation breed for the Siberian Husky.",
-    "zh": "Ancient breed developed by the indigenous Chukchi people of northeastern Siberia for sledding, hunting, and survival in Arctic conditions. Traditional sled dog bred for centuries for transportation and endurance, considered the foundation breed for the Siberian Husky."
+    "zh": "由西伯利亚东北部土著楚科奇人培育的古老犬种，用于雪橇运输、狩猎和在北极环境中生存。作为传统雪橇犬，数世纪以来为运输和耐力而培育，被认为是西伯利亚哈士奇的奠基品种。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Northern",
-      "zh": "Northern"
+      "zh": "北方犬"
     },
     {
       "en": "Hardy",
-      "zh": "Hardy"
+      "zh": "耐寒"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Kurilian",
-    "zh": "Kurilian"
+    "zh": "库利尔猫"
   },
   "images": [
     "/images/breeds/cats/kurilian-1.jpg"
   ],
   "origin": {
     "en": "Russia",
-    "zh": "Russia"
+    "zh": "俄罗斯"
   },
   "history": {
     "en": "The character of the Kurilian Bobtail is independent, highly intelligent, clever, inquisitive, sociable, playful, trainable, absent of aggression and very gentle. They are devoted to their humans and when allowed are either on the lap of or sleeping in bed with their owners.",
-    "zh": "The character of the Kurilian Bobtail is independent, highly intelligent, clever, inquisitive, sociable, playful, trainable, absent of aggression and very gentle. They are devoted to their humans and when allowed are either on the lap of or sleeping in bed with their owners."
+    "zh": "千岛短尾猫的性格独立、高度聪明、机灵、好奇、善于社交、爱玩、可训练、无攻击性且非常温柔。它们忠于人类，在允许的情况下，要么躺在主人腿上，要么与主人一起睡在床上。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "highly intelligent",
-      "zh": "highly intelligent"
+      "zh": "高智商"
     },
     {
       "en": "clever",
-      "zh": "clever"
+      "zh": "聪明"
     },
     {
       "en": "inquisitive",
-      "zh": "inquisitive"
+      "zh": "好奇"
     },
     {
       "en": "sociable",
-      "zh": "sociable"
+      "zh": "社交"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "trainable",
-      "zh": "trainable"
+      "zh": "可训练"
     }
   ]
 }

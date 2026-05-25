@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chinook",
-    "zh": "Chinook"
+    "zh": "奇努克犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/LdMEnAqSQo.jpg"
   ],
   "origin": {
     "en": "New Hampshire, United States",
-    "zh": "New Hampshire, United States"
+    "zh": "美国新罕布什尔州"
   },
   "history": {
     "en": "Developed in the early 20th century by polar explorer Arthur Treadwell Walden by crossing Mastiff-type dogs with Huskies and Belgian Shepherds. Named after the foundation male 'Chinook', bred to be an ideal sled dog for New England conditions. Recognized by the AKC in 2013.",
-    "zh": "Developed in the early 20th century by polar explorer Arthur Treadwell Walden by crossing Mastiff-type dogs with Huskies and Belgian Shepherds. Named after the foundation male 'Chinook', bred to be an ideal sled dog for New England conditions. Recognized by the AKC in 2013."
+    "zh": "20世纪早期由极地探险家Arthur Treadwell Walden培育，通过獒犬型犬与哈士奇及比利时牧羊犬杂交。以创始公犬“Chinook”命名，培育为适应新英格兰条件的理想雪橇犬。2013年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "奉献"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "乐于取悦"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Canaan Dog",
-    "zh": "Canaan Dog"
+    "zh": "迦南犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/B13NtuhSm_1280.jpg"
   ],
   "origin": {
     "en": "Israel",
-    "zh": "Israel"
+    "zh": "以色列"
   },
   "history": {
     "en": "Ancient pariah dog from the land of Canaan that survived for thousands of years in the wild. In the 1930s, Dr. Rudolphina Menzel began redomesticating them for use as guard and service dogs. Recognized by AKC in 1997 and is the national dog of Israel.",
-    "zh": "Ancient pariah dog from the land of Canaan that survived for thousands of years in the wild. In the 1930s, Dr. Rudolphina Menzel began redomesticating them for use as guard and service dogs. Recognized by AKC in 1997 and is the national dog of Israel."
+    "zh": "来自迦南地的古老流浪犬，在野外生存了数千年。20世纪30年代，鲁道夫娜·门泽尔博士开始重新驯化它们，用作护卫犬和服务犬。1997年获AKC认可，是以色列的国犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "警觉"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

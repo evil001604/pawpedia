@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Himalayan",
-    "zh": "Himalayan"
+    "zh": "喜马拉雅猫"
   },
   "images": [
     "/images/breeds/cats/himalayan-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.",
-    "zh": "Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood."
+    "zh": "喜马拉雅猫冷静而忠诚，是极好的伴侣，尽管它们更喜欢安静的家。它们以一种沉稳的方式玩耍，喜欢拥有各种玩具。喜马拉雅猫会伸展身体躺在你旁边，睡在你的床上，甚至在有心情时坐在你的腿上。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Dependent",
-      "zh": "Dependent"
+      "zh": "依赖"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

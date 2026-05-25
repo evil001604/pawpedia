@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Australian Silky Terrier",
-    "zh": "Australian Silky Terrier"
+    "zh": "澳大利亚丝毛梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Byz6mgqEQ_1280.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Developed in Australia in the late 19th century by crossing Yorkshire Terriers with Australian Terriers to create a small companion dog with a long, silky coat, combining hardiness with refined features and vermin hunting ability",
-    "zh": "Developed in Australia in the late 19th century by crossing Yorkshire Terriers with Australian Terriers to create a small companion dog with a long, silky coat, combining hardiness with refined features and vermin hunting ability"
+    "zh": "19世纪末在澳大利亚培育而成，通过约克夏梗与澳大利亚梗杂交，创造出一种体型小巧、拥有长丝滑被毛的伴侣犬，结合了坚韧性与精致特征及捕鼠能力。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Toy",
-      "zh": "Toy"
+      "zh": "玩具犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chinese Shar-Pei",
-    "zh": "Chinese Shar-Pei"
+    "zh": "中国沙皮犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/gZtRaSgnya.jpg"
   ],
   "origin": {
     "en": "China",
-    "zh": "China"
+    "zh": "中国"
   },
   "history": {
     "en": "Ancient Chinese breed from southern provinces dating back to the Han Dynasty, originally used as all-purpose farm dog for hunting, herding, guarding, and farm work. Nearly extinct in mid-20th century but revived from very small population by dedicated breeders in 1970s",
-    "zh": "Ancient Chinese breed from southern provinces dating back to the Han Dynasty, originally used as all-purpose farm dog for hunting, herding, guarding, and farm work. Nearly extinct in mid-20th century but revived from very small population by dedicated breeders in 1970s"
+    "zh": "古老中国犬种，源自南方省份，可追溯至汉朝，最初作为多功能农场犬用于狩猎、放牧、守卫和农活。20世纪中期濒临灭绝，但1970年代由专注的育种者从极小种群中复兴。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "护主"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

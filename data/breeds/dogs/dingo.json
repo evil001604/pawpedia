@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Dingo",
-    "zh": "Dingo"
+    "zh": "澳洲野犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/4Wdkl66Mlp.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Ancient wild canid that arrived in Australia approximately 3,500-4,000 years ago, establishing itself as the continent's apex predator and adapting to diverse harsh Australian environments",
-    "zh": "Ancient wild canid that arrived in Australia approximately 3,500-4,000 years ago, establishing itself as the continent's apex predator and adapting to diverse harsh Australian environments"
+    "zh": "古老野生犬科动物，约3500-4000年前抵达澳大利亚，成为该大陆顶级捕食者，适应了多样严酷的澳大利亚环境。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Primitive/Wild Canid",
-      "zh": "Primitive/Wild Canid"
+      "zh": "原始/野生犬科"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

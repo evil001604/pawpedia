@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Continental Bulldog",
-    "zh": "Continental Bulldog"
+    "zh": "大陆斗牛犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/auctqItKBg.jpg"
   ],
   "origin": {
     "en": "Switzerland",
-    "zh": "Switzerland"
+    "zh": "瑞士"
   },
   "history": {
     "en": "Developed in Switzerland in the early 2000s by breeder Imelda Angehrn to create a healthier more athletic bulldog with fewer respiratory issues by crossing English Bulldogs with Olde English Bulldogges, provisionally recognized by FCI in 2022",
-    "zh": "Developed in Switzerland in the early 2000s by breeder Imelda Angehrn to create a healthier more athletic bulldog with fewer respiratory issues by crossing English Bulldogs with Olde English Bulldogges, provisionally recognized by FCI in 2022"
+    "zh": "2000年代初在瑞士由繁育者伊梅尔达·安格恩培育，通过杂交英国斗牛犬与老式英国斗牛犬，创造更健康、更具运动能力且呼吸问题更少的斗牛犬，2022年获FCI临时认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应力强"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

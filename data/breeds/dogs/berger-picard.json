@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Berger Picard",
-    "zh": "Berger Picard"
+    "zh": "皮卡迪牧羊犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/LCIHIJJa7t.jpg"
   ],
   "origin": {
     "en": "Picardy, France",
-    "zh": "Picardy, France"
+    "zh": "法国皮卡迪"
   },
   "history": {
     "en": "Ancient French herding breed from Picardy region, considered one of the oldest French sheepdogs. Nearly extinct after World Wars but restored by dedicated breeders.",
-    "zh": "Ancient French herding breed from Picardy region, considered one of the oldest French sheepdogs. Nearly extinct after World Wars but restored by dedicated breeders."
+    "zh": "来自法国皮卡第地区的古老牧羊犬种，被认为是最古老的法国牧羊犬之一。两次世界大战后几乎灭绝，但被热心的育种者恢复。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Oriental",
-    "zh": "Oriental"
+    "zh": "东方猫"
   },
   "images": [
     "/images/breeds/cats/oriental-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.",
-    "zh": "Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways."
+    "zh": "东方猫对生活中的人充满热情。它们对人类极其依恋，所以要做好终身承诺的准备。当你无法陪伴它时，东方猫会通过跳上冰箱顶部、打开抽屉、寻找新的藏身之处来转移注意力。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     }
   ]
 }

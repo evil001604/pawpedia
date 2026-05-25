@@ -12,7 +12,8 @@
     "scrape:cats": "npx ts-node scripts/scraper/index.ts cats",
     "scrape:images": "npx ts-node scripts/scraper/index.ts images",
     "scrape:dogs:limit": "npx ts-node scripts/scraper/index.ts dogs 5",
-    "scrape:cats:limit": "npx ts-node scripts/scraper/index.ts cats 5"
+    "scrape:cats:limit": "npx ts-node scripts/scraper/index.ts cats 5",
+    "translate": "node scripts/translate.js"
   },
   "keywords": [],
   "author": "",

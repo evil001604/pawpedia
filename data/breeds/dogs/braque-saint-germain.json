@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Braque Saint-Germain",
-    "zh": "Braque Saint-Germain"
+    "zh": "圣日耳曼布拉可犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/2xUswk2y8.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Developed in the 1830s at the royal kennels of Compiègne, France, from crossings between English Pointers and French Braque breeds, believed to involve an English Pointer gifted to King Charles X. Named after the Saint-Germain-en-Laye region and recognized by the FCI as a versatile gundog",
-    "zh": "Developed in the 1830s at the royal kennels of Compiègne, France, from crossings between English Pointers and French Braque breeds, believed to involve an English Pointer gifted to King Charles X. Named after the Saint-Germain-en-Laye region and recognized by the FCI as a versatile gundog"
+    "zh": "19世纪30年代在法国贡比涅皇家犬舍培育而成，通过杂交英国指示犬与法国布拉克犬，据信涉及一只赠予查理十世国王的英国指示犬。以圣日耳曼昂莱地区命名，获FCI认可为多功能猎犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

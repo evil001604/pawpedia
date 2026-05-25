@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bucovina Shepherd Dog",
-    "zh": "Bucovina Shepherd Dog"
+    "zh": "布科维纳牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/BJa4kxc4X_1280.jpg"
   ],
   "origin": {
     "en": "Bucovina region, Carpathian Mountains, Romania",
-    "zh": "Bucovina region, Carpathian Mountains, Romania"
+    "zh": "罗马尼亚喀尔巴阡山脉布科维纳地区"
   },
   "history": {
     "en": "Ancient natural breed developed over centuries in the Carpathian Mountains of Romania by shepherds to guard livestock and property against large predators like bears and wolves. First breed standard written in 1982, officially recognized by FCI in 2019.",
-    "zh": "Ancient natural breed developed over centuries in the Carpathian Mountains of Romania by shepherds to guard livestock and property against large predators like bears and wolves. First breed standard written in 1982, officially recognized by FCI in 2019."
+    "zh": "古老自然犬种，在罗马尼亚喀尔巴阡山脉由牧羊人数世纪培育，用于守护牲畜和财产抵御熊狼等大型掠食者。1982年制定首个犬种标准，2019年获FCI正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

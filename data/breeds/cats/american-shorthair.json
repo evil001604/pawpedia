@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "American Shorthair",
-    "zh": "American Shorthair"
+    "zh": "美国短毛猫"
   },
   "images": [
     "/images/breeds/cats/american-shorthair-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
-    "zh": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets."
+    "zh": "美国短毛猫以长寿、健康、美丽的外表、甜美的性格以及对儿童、狗和其他宠物的友善而闻名。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Easy Going",
-      "zh": "Easy Going"
+      "zh": "随和"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     }
   ]
 }

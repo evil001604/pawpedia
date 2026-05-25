@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Croatian Sheepdog",
-    "zh": "Croatian Sheepdog"
+    "zh": "克罗地亚牧羊犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/EtmEHVP7o1.jpg"
   ],
   "origin": {
     "en": "Croatia",
-    "zh": "Croatia"
+    "zh": "克罗地亚"
   },
   "history": {
     "en": "Ancient herding breed believed to have descended from dogs brought by the Croats in the 7th century, developed in eastern regions of Slavonia as versatile farm and herding dog. Referenced in historical documents from 1374, systematic breeding program began in 1935 with FCI recognition granted in 1969.",
-    "zh": "Ancient herding breed believed to have descended from dogs brought by the Croats in the 7th century, developed in eastern regions of Slavonia as versatile farm and herding dog. Referenced in historical documents from 1374, systematic breeding program began in 1935 with FCI recognition granted in 1969."
+    "zh": "古老牧羊犬种，据信源自7世纪克罗地亚人带来的犬种，在斯拉沃尼亚东部地区发展为多功能农场犬和牧羊犬。1374年的历史文献中已有记载，1935年开始系统繁育计划，1969年获FCI认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     }
   ]
 }

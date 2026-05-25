@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bull Terrier",
-    "zh": "Bull Terrier"
+    "zh": "牛头梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/HJy3uOnrm_1280.jpg"
   ],
   "origin": {
     "en": "England",
-    "zh": "England"
+    "zh": "英格兰"
   },
   "history": {
     "en": "Developed in 19th-century England by crossing old English Bulldogs with various terriers, originally for bull-baiting and dog fighting. James Hinks is credited with standardizing the breed and creating the distinctive egg-shaped head, earning them the nickname 'The White Cavalier'.",
-    "zh": "Developed in 19th-century England by crossing old English Bulldogs with various terriers, originally for bull-baiting and dog fighting. James Hinks is credited with standardizing the breed and creating the distinctive egg-shaped head, earning them the nickname 'The White Cavalier'."
+    "zh": "19世纪英格兰通过老式英国斗牛犬与多种梗犬杂交培育，最初用于斗牛和斗狗。詹姆斯·欣克斯标准化该犬种并创造独特蛋形头部，获称“白色骑士”。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "mischievous",
-      "zh": "mischievous"
+      "zh": "调皮"
     }
   ]
 }

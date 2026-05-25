@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Danish Spitz",
-    "zh": "Danish Spitz"
+    "zh": "丹麦斯皮茨犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/ByFQI6TVX.gif"
   ],
   "origin": {
     "en": "Denmark",
-    "zh": "Denmark"
+    "zh": "丹麦"
   },
   "history": {
     "en": "An old Danish landrace breed used on farms as an all-purpose companion, watchdog, and vermin catcher. The breed faced near extinction in the 20th century but was revived by dedicated breeders and officially recognized by the Danish Kennel Club in 1988",
-    "zh": "An old Danish landrace breed used on farms as an all-purpose companion, watchdog, and vermin catcher. The breed faced near extinction in the 20th century but was revived by dedicated breeders and officially recognized by the Danish Kennel Club in 1988"
+    "zh": "古老丹麦土种犬，在农场用作多功能伴侣犬、看门犬和捕鼠犬。20世纪濒临灭绝，但经专注繁育者复兴，1988年获丹麦养犬俱乐部正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

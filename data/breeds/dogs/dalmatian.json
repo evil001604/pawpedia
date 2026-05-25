@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Dalmatian",
-    "zh": "Dalmatian"
+    "zh": "大麦町犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/n0VCtOCK10.jpg"
   ],
   "origin": {
     "en": "Dalmatia, Croatia",
-    "zh": "Dalmatia, Croatia"
+    "zh": "克罗地亚达尔马提亚"
   },
   "history": {
     "en": "Ancient breed with roots in Dalmatia, Croatia, originally bred as carriage dogs to run for miles alongside horse-drawn coaches, guarding horses and coaches. Also served as circus performers and iconic firehouse mascots, particularly associated with American fire departments. Recognized by AKC in 1888.",
-    "zh": "Ancient breed with roots in Dalmatia, Croatia, originally bred as carriage dogs to run for miles alongside horse-drawn coaches, guarding horses and coaches. Also served as circus performers and iconic firehouse mascots, particularly associated with American fire departments. Recognized by AKC in 1888."
+    "zh": "古老犬种，原产于克罗地亚达尔马提亚，最初作为马车犬培育，可随马车奔跑数英里，护卫马匹和车辆。也曾作为马戏团表演犬和标志性消防站吉祥物，尤其与美国消防部门相关。1888年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "健壮"
     }
   ]
 }

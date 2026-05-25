@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bull Terrier (Miniature)",
-    "zh": "Bull Terrier (Miniature)"
+    "zh": "迷你牛头梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/KhXmgBorE.jpg"
   ],
   "origin": {
     "en": "England",
-    "zh": "England"
+    "zh": "英格兰"
   },
   "history": {
     "en": "Developed in 19th-century England as a scaled-down version of the standard Bull Terrier, which was standardized by James Hinks. Created for fanciers who wanted a smaller companion version while maintaining the same characteristics and recognized as a separate breed by the AKC in 1991.",
-    "zh": "Developed in 19th-century England as a scaled-down version of the standard Bull Terrier, which was standardized by James Hinks. Created for fanciers who wanted a smaller companion version while maintaining the same characteristics and recognized as a separate breed by the AKC in 1991."
+    "zh": "19世纪英格兰培育的标准牛头梗缩小版，由詹姆斯·欣克斯标准化。为喜爱小型伴侣犬的爱好者创造，保持相同特征，1991年获AKC认可为独立犬种。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     }
   ]
 }

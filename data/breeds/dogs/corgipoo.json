@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Corgipoo",
-    "zh": "Corgipoo"
+    "zh": "柯基普犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/uHgHH6y4h.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed developed in the United States by combining the Cardigan Welsh Corgi with a Miniature Poodle. The aim was to create an intelligent companion dog with the low-shedding coat of the Poodle and the sturdy, affectionate nature of the Corgi. Not formally recognized by major kennel clubs.",
-    "zh": "Modern designer crossbreed developed in the United States by combining the Cardigan Welsh Corgi with a Miniature Poodle. The aim was to create an intelligent companion dog with the low-shedding coat of the Poodle and the sturdy, affectionate nature of the Corgi. Not formally recognized by major kennel clubs."
+    "zh": "在美国培育的现代设计混种犬，结合卡迪根威尔士柯基犬与迷你贵宾犬。目标是创造一种聪明、低脱毛的伴侣犬，兼具贵宾犬的毛发特性和柯基犬的结实、深情性格。未获主要犬业俱乐部正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

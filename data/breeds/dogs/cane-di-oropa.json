@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cane di Oropa",
-    "zh": "Cane di Oropa"
+    "zh": "奥罗帕犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/A09F4c1qP.jpg"
   ],
   "origin": {
     "en": "Biellese Alps, Piedmont (Oropa Valley), Italy",
-    "zh": "Biellese Alps, Piedmont (Oropa Valley), Italy"
+    "zh": "意大利皮埃蒙特比耶莱塞阿尔卑斯山（奥罗帕谷）"
   },
   "history": {
     "en": "Ancient pastoral dog native to the Biellese Alps and Oropa Valley in Italy's Piedmont region. Traditionally used by local shepherds for centuries to manage sheep and cattle in mountain terrain. The breed faced extinction before preservation efforts by the Associazione Amici del Cane di Oropa breed club.",
-    "zh": "Ancient pastoral dog native to the Biellese Alps and Oropa Valley in Italy's Piedmont region. Traditionally used by local shepherds for centuries to manage sheep and cattle in mountain terrain. The breed faced extinction before preservation efforts by the Associazione Amici del Cane di Oropa breed club."
+    "zh": "原产于意大利皮埃蒙特地区比耶莱塞阿尔卑斯山和奥罗帕山谷的古老牧羊犬。几个世纪以来，当地牧羊人传统上使用它们在山地地形中管理绵羊和牛群。该品种在奥罗帕犬之友协会的保护努力下免于灭绝。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

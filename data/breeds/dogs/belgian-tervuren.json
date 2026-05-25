@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Belgian Tervuren",
-    "zh": "Belgian Tervuren"
+    "zh": "比利时特伏丹犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/A3iocPBuU.jpg"
   ],
   "origin": {
     "en": "Belgium",
-    "zh": "Belgium"
+    "zh": "比利时"
   },
   "history": {
     "en": "One of four distinct Belgian sheepdog varieties developed in the late 1800s, named after the village of Tervuren. Originally used as a versatile herding and guard dog for flocks, prized for intelligence, trainability and work ethic",
-    "zh": "One of four distinct Belgian sheepdog varieties developed in the late 1800s, named after the village of Tervuren. Originally used as a versatile herding and guard dog for flocks, prized for intelligence, trainability and work ethic"
+    "zh": "四种不同的比利时牧羊犬变种之一，于19世纪末培育，以特弗伦村命名。最初用作多用途的牧羊犬和羊群护卫犬，以其聪明、可训练性和职业道德而备受珍视。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

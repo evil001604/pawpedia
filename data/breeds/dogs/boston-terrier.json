@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Boston Terrier",
-    "zh": "Boston Terrier"
+    "zh": "波士顿梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/nwpd32sdl.jpg"
   ],
   "origin": {
     "en": "Boston, Massachusetts, United States",
-    "zh": "Boston, Massachusetts, United States"
+    "zh": "美国马萨诸塞州波士顿"
   },
   "history": {
     "en": "Developed in Boston in the 1870s from crossing English Bulldog with the now-extinct White English Terrier. Refined in the late 19th century and became one of the first American-developed breeds recognized by the AKC.",
-    "zh": "Developed in Boston in the 1870s from crossing English Bulldog with the now-extinct White English Terrier. Refined in the late 19th century and became one of the first American-developed breeds recognized by the AKC."
+    "zh": "19世纪70年代在波士顿通过杂交英国斗牛犬与现已灭绝的白英格兰梗培育而成。19世纪末期得到改良，成为最早获得美国养犬俱乐部（AKC）认可的美国本土犬种之一。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     }
   ]
 }

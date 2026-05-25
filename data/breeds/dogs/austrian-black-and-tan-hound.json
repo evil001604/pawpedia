@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Austrian Black and Tan Hound",
-    "zh": "Austrian Black and Tan Hound"
+    "zh": "奥地利黑褐猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/yWdlGkbiQ.jpg"
   ],
   "origin": {
     "en": "Austria",
-    "zh": "Austria"
+    "zh": "奥地利"
   },
   "history": {
     "en": "Descended from ancient Celtic Hounds (Keltenbracke), developed over centuries in Austria from Celtic Hounds and local hunting breeds. Modern form established in mid-19th century as a versatile and durable scenthound for tracking wounded game, primarily hare and fox, in high-altitude Alpine terrain.",
-    "zh": "Descended from ancient Celtic Hounds (Keltenbracke), developed over centuries in Austria from Celtic Hounds and local hunting breeds. Modern form established in mid-19th century as a versatile and durable scenthound for tracking wounded game, primarily hare and fox, in high-altitude Alpine terrain."
+    "zh": "源自古代凯尔特猎犬（Keltenbracke），在奥地利经过几个世纪由凯尔特猎犬和当地猎犬品种发展而来。现代形态在19世纪中期确立，成为一种多功能且耐用的嗅觉猎犬，用于在高海拔阿尔卑斯地形追踪受伤猎物，主要是野兔和狐狸。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

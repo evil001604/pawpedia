@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Boykin Spaniel",
-    "zh": "Boykin Spaniel"
+    "zh": "博伊金猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/GZeDDro7-.jpg"
   ],
   "origin": {
     "en": "South Carolina, United States",
-    "zh": "South Carolina, United States"
+    "zh": "美国南卡罗来纳州"
   },
   "history": {
     "en": "Developed in early 1900s in South Carolina by L. Whitaker Boykin. Foundation sire was a small stray spaniel-type dog named 'Dumpy' who showed great hunting aptitude. Bred by crossing Chesapeake Bay Retrievers, Springer Spaniels, Cocker Spaniels, and American Water Spaniels for hunting in South Carolina swamps, particularly the Wateree River Swamp. Recognized as the state dog of South Carolina.",
-    "zh": "Developed in early 1900s in South Carolina by L. Whitaker Boykin. Foundation sire was a small stray spaniel-type dog named 'Dumpy' who showed great hunting aptitude. Bred by crossing Chesapeake Bay Retrievers, Springer Spaniels, Cocker Spaniels, and American Water Spaniels for hunting in South Carolina swamps, particularly the Wateree River Swamp. Recognized as the state dog of South Carolina."
+    "zh": "20世纪初由L. 惠特克·博伊金在南卡罗来纳州培育。基础种犬是一只名为“邓皮”的小型流浪猎犬型犬，展现出极佳的狩猎天赋。通过杂交切萨皮克湾寻回犬、史宾格犬、可卡犬和美国水猎犬培育而成，用于在南卡罗来纳州沼泽地（特别是沃特里河沼泽）狩猎。被认定为南卡罗来纳州州犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

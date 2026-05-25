@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Cyprus",
-    "zh": "Cyprus"
+    "zh": "塞浦路斯猫"
   },
   "images": [
     "/images/breeds/cats/cyprus-1.jpg"
   ],
   "origin": {
     "en": "Cyprus",
-    "zh": "Cyprus"
+    "zh": "塞浦路斯"
   },
   "history": {
     "en": "Loving, loyal, social and inquisitive, the Cyprus cat forms strong ties with their families and love nothing more than to be involved in everything that goes on in their surroundings. They are not overly active by nature which makes them the perfect companion for people who would like to share their homes with a laid-back relaxed feline companion. ",
-    "zh": "Loving, loyal, social and inquisitive, the Cyprus cat forms strong ties with their families and love nothing more than to be involved in everything that goes on in their surroundings. They are not overly active by nature which makes them the perfect companion for people who would like to share their homes with a laid-back relaxed feline companion. "
+    "zh": "塞浦路斯猫充满爱心、忠诚、善于社交且好奇，与家人建立牢固的联系，最喜欢参与周围发生的一切。它们天生不太活跃，这使它们成为那些希望与悠闲放松的猫咪伴侣共享家园的人的完美伙伴。"
   },
   "stats": {
     "weight": {
@@ -64,11 +64,11 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

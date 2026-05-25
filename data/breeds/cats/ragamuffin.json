@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Ragamuffin",
-    "zh": "Ragamuffin"
+    "zh": "拉加马芬猫"
   },
   "images": [
     "/images/breeds/cats/ragamuffin-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.",
-    "zh": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature."
+    "zh": "褴褛猫冷静、性情温和，与所有家庭成员相处融洽。日常生活的变化通常不会让它烦恼。由于它耐心的天性，它是公寓居民和有孩子家庭的理想伴侣。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友好"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     }
   ]
 }

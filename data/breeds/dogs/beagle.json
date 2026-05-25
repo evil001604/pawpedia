@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Beagle",
-    "zh": "Beagle"
+    "zh": "比格犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/BJa4kxc4X_1280.jpg"
   ],
   "origin": {
     "en": "England",
-    "zh": "England"
+    "zh": "英格兰"
   },
   "history": {
     "en": "The modern Beagle was developed in Great Britain around the 1830s from various English hounds. Bred as 'foot hounds' for hare hunting, with hunters following on foot rather than horseback.",
-    "zh": "The modern Beagle was developed in Great Britain around the 1830s from various English hounds. Bred as 'foot hounds' for hare hunting, with hunters following on foot rather than horseback."
+    "zh": "现代比格犬于19世纪30年代左右在英国由多种英国猎犬培育而成。作为“步行猎犬”用于猎兔，猎人步行跟随而非骑马。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "curious",
-      "zh": "curious"
+      "zh": "好奇"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

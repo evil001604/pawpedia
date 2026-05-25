@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Briard",
-    "zh": "Briard"
+    "zh": "布里牧犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/KlKFRG3Ko.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Ancient French herding breed developed for centuries to herd and guard flocks. Served as sentries, messengers, and pack animals for the French army during World War I. Nearly extinct after World War II but successfully revived. Recognized by the AKC in 1928.",
-    "zh": "Ancient French herding breed developed for centuries to herd and guard flocks. Served as sentries, messengers, and pack animals for the French army during World War I. Nearly extinct after World War II but successfully revived. Recognized by the AKC in 1928."
+    "zh": "古老的法国家畜护卫犬种，历经数世纪培育用于放牧和守护羊群。第一次世界大战期间曾担任法军的哨兵、信使和驮畜。二战后几近灭绝但成功复兴。1928年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

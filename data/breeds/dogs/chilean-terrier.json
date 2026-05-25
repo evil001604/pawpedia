@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chilean Terrier",
-    "zh": "Chilean Terrier"
+    "zh": "智利梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/HJq5ke5Nm_1280.jpg"
   ],
   "origin": {
     "en": "Chile",
-    "zh": "Chile"
+    "zh": "智利"
   },
   "history": {
     "en": "Descended from Fox Terriers and other European terrier breeds brought to Chile by immigrants in the 18th and 19th centuries. Developed as a distinct breed for hunting vermin on farms and estates, becoming Chile's first recognized native breed, though not yet recognized by major international kennel clubs.",
-    "zh": "Descended from Fox Terriers and other European terrier breeds brought to Chile by immigrants in the 18th and 19th centuries. Developed as a distinct breed for hunting vermin on farms and estates, becoming Chile's first recognized native breed, though not yet recognized by major international kennel clubs."
+    "zh": "源自18-19世纪移民带入智利的猎狐梗及其他欧洲梗犬品种。被培育为农场和庄园的独特捕鼠犬，成为智利首个获认可的本土犬种，但尚未获主要国际犬业俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应力强"
     }
   ]
 }

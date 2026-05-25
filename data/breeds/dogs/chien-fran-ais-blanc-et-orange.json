@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chien Français Blanc et Orange",
-    "zh": "Chien Français Blanc et Orange"
+    "zh": "法国白橙猎犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/ho6eDDtP2t.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Developed in France from old hounds of Saintonge and crosses with the Billy breed, rooted in various French hounds and English foxhounds. Created for pack hunting large game, recognized by FCI with official breed club founded in 1957.",
-    "zh": "Developed in France from old hounds of Saintonge and crosses with the Billy breed, rooted in various French hounds and English foxhounds. Created for pack hunting large game, recognized by FCI with official breed club founded in 1957."
+    "zh": "法国培育，源自圣东日古老猎犬与比利犬杂交，根基包括多种法国猎犬和英国猎狐犬。为群猎大型猎物而培育，1957年成立官方犬种俱乐部并获FCI认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Danish-Swedish Farmdog",
-    "zh": "Danish-Swedish Farmdog"
+    "zh": "丹麦瑞典农场犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/rJa29l9E7_1280.jpg"
   ],
   "origin": {
     "en": "Denmark and Sweden",
-    "zh": "Denmark and Sweden"
+    "zh": "丹麦和瑞典"
   },
   "history": {
     "en": "Ancient Scandinavian farm dog breed from eastern Denmark and southernmost Sweden, used as versatile all-purpose farm dog for ratting, herding, guarding, and companionship. Officially recognized in Denmark and Sweden in 1987, by FCI in 2008-2019, and The Kennel Club (UK) in 2019",
-    "zh": "Ancient Scandinavian farm dog breed from eastern Denmark and southernmost Sweden, used as versatile all-purpose farm dog for ratting, herding, guarding, and companionship. Officially recognized in Denmark and Sweden in 1987, by FCI in 2008-2019, and The Kennel Club (UK) in 2019"
+    "zh": "古老斯堪的纳维亚农场犬种，来自丹麦东部和瑞典最南部，用作多功能农场犬，用于捕鼠、牧羊、守卫和陪伴。1987年在丹麦和瑞典获正式认可，2008-2019年获FCI认可，2019年获英国养犬俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     }
   ]
 }

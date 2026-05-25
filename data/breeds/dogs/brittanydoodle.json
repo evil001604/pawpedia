@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Brittanydoodle",
-    "zh": "Brittanydoodle"
+    "zh": "布列塔尼贵宾犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/NPwhpJnSe.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern crossbreed developed in the United States as part of the 'doodle' trend. Created by crossing athletic Brittany sporting dogs with Standard Poodles to produce a versatile family and sporting companion with reduced shedding. Not recognized by major kennel clubs; standards vary by breeder.",
-    "zh": "Modern crossbreed developed in the United States as part of the 'doodle' trend. Created by crossing athletic Brittany sporting dogs with Standard Poodles to produce a versatile family and sporting companion with reduced shedding. Not recognized by major kennel clubs; standards vary by breeder."
+    "zh": "美国现代杂交犬种，属“贵宾混血”潮流产物。通过运动型布列塔尼犬与标准贵宾犬杂交，培育出掉毛少的多功能家庭伴侣犬。未获主要犬业俱乐部认可，标准因繁殖者而异。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

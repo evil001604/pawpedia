@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Maine Coon",
-    "zh": "Maine Coon"
+    "zh": "缅因猫"
   },
   "images": [
     "/images/breeds/cats/maine-coon-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.",
-    "zh": "They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers."
+    "zh": "缅因猫以其体型和奢华的长毛而闻名，被认为是温柔的巨人。性格温和、友善的缅因猫能很好地适应许多生活方式和个性。它喜欢与人在一起，并有跟随他们四处走动的习惯，但并非依赖。大多数缅因猫喜欢水，并且可以成为相当好的游泳者。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Adaptable",
-      "zh": "Adaptable"
+      "zh": "适应性强"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loving",
-      "zh": "Loving"
+      "zh": "有爱"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     }
   ]
 }

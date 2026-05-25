@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Basset Hound",
-    "zh": "Basset Hound"
+    "zh": "巴塞特猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/YbXK-k96Y.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Developed by French aristocrats from hounds bred at the Abbey of St. Hubert for hunting small game in dense cover. Low-slung body perfected for trailing rabbits and hare, later refined in England for pack hunting.",
-    "zh": "Developed by French aristocrats from hounds bred at the Abbey of St. Hubert for hunting small game in dense cover. Low-slung body perfected for trailing rabbits and hare, later refined in England for pack hunting."
+    "zh": "由法国贵族用圣休伯特修道院培育的猎犬培育而成，用于在茂密植被中狩猎小型猎物。低矮身形专为追踪兔子和野兔优化，后经英国改良用于群猎。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "奉献"
     }
   ]
 }

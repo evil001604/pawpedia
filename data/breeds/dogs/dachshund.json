@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Dachshund",
-    "zh": "Dachshund"
+    "zh": "腊肠犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/FRKm6nX5x3.jpg"
   ],
   "origin": {
     "en": "Germany",
-    "zh": "Germany"
+    "zh": "德国"
   },
   "history": {
     "en": "Developed in Germany over 300 years ago (records date to 15th century) specifically for hunting badgers in their burrows. The name 'Dachshund' translates to 'badger dog' in German. Wirehaired varieties were developed by crossing with terriers for work in thorny terrain, while longhaired varieties were created using spaniels for colder climates.",
-    "zh": "Developed in Germany over 300 years ago (records date to 15th century) specifically for hunting badgers in their burrows. The name 'Dachshund' translates to 'badger dog' in German. Wirehaired varieties were developed by crossing with terriers for work in thorny terrain, while longhaired varieties were created using spaniels for colder climates."
+    "zh": "300多年前在德国培育（记录可追溯至15世纪），专门用于在獾穴中猎捕獾。其名“Dachshund”在德语中意为“獾犬”。刚毛变种通过与梗犬杂交以适应多刺地形，长毛变种则使用西班牙猎犬培育以适应寒冷气候。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Courageous",
-      "zh": "Courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bluetick Coonhound",
-    "zh": "Bluetick Coonhound"
+    "zh": "蓝斑猎浣熊犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/dU7w5jnMC1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Developed in Louisiana from French Grand Bleu de Gascogne hounds crossed with English Foxhounds, American Foxhounds, and other local coonhound breeds, perfected for raccoon hunting in American terrain",
-    "zh": "Developed in Louisiana from French Grand Bleu de Gascogne hounds crossed with English Foxhounds, American Foxhounds, and other local coonhound breeds, perfected for raccoon hunting in American terrain"
+    "zh": "在路易斯安那州由法国大蓝加斯科涅猎犬与英国猎狐犬、美国猎狐犬及其他当地浣熊猎犬杂交培育而成，专为在美国地形中猎浣熊而优化。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

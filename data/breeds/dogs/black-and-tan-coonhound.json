@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Black and Tan Coonhound",
-    "zh": "Black and Tan Coonhound"
+    "zh": "黑褐猎浣熊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/1r8EXEh4d_1280.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Developed in the American South by frontiersmen in the 18th century, descending from English Foxhound, Bloodhound, and Talbot Hound crosses for raccoon hunting and tracking over rugged Appalachian terrain",
-    "zh": "Developed in the American South by frontiersmen in the 18th century, descending from English Foxhound, Bloodhound, and Talbot Hound crosses for raccoon hunting and tracking over rugged Appalachian terrain"
+    "zh": "18世纪由美国南部的拓荒者培育，源自英国猎狐犬、寻血猎犬和塔尔博特猎犬的杂交，用于在崎岖的阿巴拉契亚山脉追踪浣熊和狩猎。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     },
     {
       "en": "easygoing",
-      "zh": "easygoing"
+      "zh": "随和"
     }
   ]
 }

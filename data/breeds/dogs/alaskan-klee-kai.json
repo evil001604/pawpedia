@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Alaskan Klee Kai",
-    "zh": "Alaskan Klee Kai"
+    "zh": "阿拉斯加克利凯犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/lq5gBjy4s.jpg"
   ],
   "origin": {
     "en": "Wasilla, Alaska, United States",
-    "zh": "Wasilla, Alaska, United States"
+    "zh": "美国阿拉斯加瓦西拉"
   },
   "history": {
     "en": "Developed in the 1970s by Linda S. Spurlin in Alaska to create a companion-sized version of the Alaskan Husky. Foundation stock included Siberian and Alaskan Huskies, with potential crosses of Schipperke and American Eskimo Dog to reduce size. Recognized by UKC but not currently AKC recognized.",
-    "zh": "Developed in the 1970s by Linda S. Spurlin in Alaska to create a companion-sized version of the Alaskan Husky. Foundation stock included Siberian and Alaskan Huskies, with potential crosses of Schipperke and American Eskimo Dog to reduce size. Recognized by UKC but not currently AKC recognized."
+    "zh": "20世纪70年代由琳达·S·斯普林在阿拉斯加培育，旨在创造伴侣犬大小的阿拉斯加哈士奇版本。基础犬群包括西伯利亚哈士奇和阿拉斯加哈士奇，可能通过雪纳瑞犬和美国爱斯基摩犬杂交以减小体型。获得联合犬业俱乐部（UKC）认可，但尚未被AKC承认。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "curious",
-      "zh": "curious"
+      "zh": "好奇"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "活泼"
     }
   ]
 }

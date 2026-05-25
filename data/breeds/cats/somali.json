@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Somali",
-    "zh": "Somali"
+    "zh": "索马里猫"
   },
   "images": [
     "/images/breeds/cats/somali-1.jpg"
   ],
   "origin": {
     "en": "Somalia",
-    "zh": "Somalia"
+    "zh": "索马里"
   },
   "history": {
     "en": "The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.",
-    "zh": "The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals."
+    "zh": "索马里猫尽情享受生活。它们爬得更高、跳得更远、玩得更尽兴。没有什么能逃过这种高度聪明和好奇的猫的注意。索马里猫喜欢人类和其他动物的陪伴。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mischievous",
-      "zh": "Mischievous"
+      "zh": "调皮"
     },
     {
       "en": "Tenacious",
-      "zh": "Tenacious"
+      "zh": "坚韧"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     }
   ]
 }

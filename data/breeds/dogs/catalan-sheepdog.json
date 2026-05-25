@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Catalan Sheepdog",
-    "zh": "Catalan Sheepdog"
+    "zh": "加泰罗尼亚牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/phlG3kw1K_1280.jpg"
   ],
   "origin": {
     "en": "Catalonia, Spain",
-    "zh": "Catalonia, Spain"
+    "zh": "西班牙加泰罗尼亚"
   },
   "history": {
     "en": "Ancient herding breed developed in the Catalan Pyrenees for managing sheep and goats. Used as messengers and sentinels during Spanish Civil War. Nearly extinct afterward but restored through dedicated breeding programs in the 1970s.",
-    "zh": "Ancient herding breed developed in the Catalan Pyrenees for managing sheep and goats. Used as messengers and sentinels during Spanish Civil War. Nearly extinct afterward but restored through dedicated breeding programs in the 1970s."
+    "zh": "在加泰罗尼亚比利牛斯山脉培育的古老牧羊犬种，用于管理绵羊和山羊。在西班牙内战期间被用作信使和哨兵。战后几乎灭绝，但通过20世纪70年代的专门育种计划得以恢复。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

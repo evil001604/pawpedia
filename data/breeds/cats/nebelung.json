@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Nebelung",
-    "zh": "Nebelung"
+    "zh": "内贝隆猫"
   },
   "images": [
     "/images/breeds/cats/nebelung-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.",
-    "zh": "The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved."
+    "zh": "尼伯龙猫可能性格内敛，但它喜欢玩耍（特别喜欢捡东西），并且喜欢跳到高处，在那里它可以悠闲地观察人和情况，然后决定是否要参与其中。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     },
     {
       "en": "Shy",
-      "zh": "Shy"
+      "zh": "害羞"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bruno Jura Hound",
-    "zh": "Bruno Jura Hound"
+    "zh": "侏罗猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/ERP03yUnq.jpg"
   ],
   "origin": {
     "en": "Jura Mountains, Switzerland",
-    "zh": "Jura Mountains, Switzerland"
+    "zh": "瑞士侏罗山脉"
   },
   "history": {
     "en": "Ancient Swiss breed and variety of the Schweizer Laufhund, developed over centuries in the Jura Mountains for hunting hare, roe deer, and fox in challenging terrain. One of four Swiss running hound varieties recognized by FCI, with modern standard established in early 20th century.",
-    "zh": "Ancient Swiss breed and variety of the Schweizer Laufhund, developed over centuries in the Jura Mountains for hunting hare, roe deer, and fox in challenging terrain. One of four Swiss running hound varieties recognized by FCI, with modern standard established in early 20th century."
+    "zh": "古老瑞士犬种，为瑞士猎犬变种之一，在侏罗山脉历经数世纪培育用于在复杂地形猎兔、狍和狐。FCI认可的四种瑞士猎犬之一，现代标准20世纪初确立。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

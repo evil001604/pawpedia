@@ -3,16 +3,16 @@
   "type": "cat",
   "name": {
     "en": "Malayan",
-    "zh": "Malayan"
+    "zh": "马来猫"
   },
   "images": [],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "Malayans love to explore and even enjoy traveling by way of a cat carrier. They are quite a talkative and rather loud cat with an apparent strong will. These cats will make sure that you give it the attention it seeks and always seem to want to be held and hugged. They will constantly interact with people, even strangers. They love to play and cuddle.",
-    "zh": "Malayans love to explore and even enjoy traveling by way of a cat carrier. They are quite a talkative and rather loud cat with an apparent strong will. These cats will make sure that you give it the attention it seeks and always seem to want to be held and hugged. They will constantly interact with people, even strangers. They love to play and cuddle."
+    "zh": "马来猫热爱探索，甚至喜欢乘坐猫包旅行。它们相当健谈且声音响亮，意志明显坚强。这些猫会确保你给予它们所寻求的关注，并且似乎总是想要被抱抱。它们会不断与人互动，即使是陌生人。它们喜欢玩耍和依偎。"
   },
   "stats": {
     "weight": {
@@ -62,19 +62,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

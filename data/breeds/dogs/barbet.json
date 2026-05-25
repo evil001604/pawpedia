@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Barbet",
-    "zh": "Barbet"
+    "zh": "法国水犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/ZrUZGKHJZq.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Ancient French water dog dating to 16th century, used for centuries to locate, flush and retrieve waterfowl in marshes and rivers. The breed's name derives from 'barbe' meaning beard. Nearly extinct after WWI but revived through dedicated breeding programs. Considered ancestor to several modern breeds including the Poodle and Briard. Officially recognized by the AKC in 2020.",
-    "zh": "Ancient French water dog dating to 16th century, used for centuries to locate, flush and retrieve waterfowl in marshes and rivers. The breed's name derives from 'barbe' meaning beard. Nearly extinct after WWI but revived through dedicated breeding programs. Considered ancestor to several modern breeds including the Poodle and Briard. Officially recognized by the AKC in 2020."
+    "zh": "源自16世纪的古老法国水犬，几个世纪以来用于在沼泽和河流中定位、惊起并寻回水禽。品种名称源自“barbe”（意为胡须）。一战后几近灭绝，通过专项繁育计划得以复兴。被认为是贵宾犬和布里犬等多个现代品种的祖先。2020年获得AKC正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "运动能力强"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "奉献"
     }
   ]
 }

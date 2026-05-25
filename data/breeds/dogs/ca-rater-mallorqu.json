@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Ca Rater Mallorquí",
-    "zh": "Ca Rater Mallorquí"
+    "zh": "马略卡捕鼠犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/cmVJgX9tx.jpg"
   ],
   "origin": {
     "en": "Mallorca, Balearic Islands, Spain",
-    "zh": "Mallorca, Balearic Islands, Spain"
+    "zh": "西班牙巴利阿里群岛马略卡岛"
   },
   "history": {
     "en": "Developed on the Spanish island of Mallorca specifically for controlling rats and other vermin in farms, stables, and households. Used for centuries due to its small size and agility to pursue prey into tight spaces. Provisionally recognized by the FCI and recognized as a native Spanish breed.",
-    "zh": "Developed on the Spanish island of Mallorca specifically for controlling rats and other vermin in farms, stables, and households. Used for centuries due to its small size and agility to pursue prey into tight spaces. Provisionally recognized by the FCI and recognized as a native Spanish breed."
+    "zh": "专门在西班牙马略卡岛培育，用于控制农场、马厩和家庭中的老鼠及其他害虫。因其体型小、敏捷，能追捕猎物进入狭小空间，被使用了几个世纪。获FCI临时认可，并被认定为西班牙本土犬种。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "警觉"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

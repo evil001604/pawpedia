@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Boerboel",
-    "zh": "Boerboel"
+    "zh": "南非獒"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/ptECgf9IVi.jpg"
   ],
   "origin": {
     "en": "South Africa",
-    "zh": "South Africa"
+    "zh": "南非"
   },
   "history": {
     "en": "Developed by Dutch and other European settlers in South Africa starting in the 1600s from European mastiff breeds and native dogs. Bred as all-purpose farm dogs for protecting homesteads from predators.",
-    "zh": "Developed by Dutch and other European settlers in South Africa starting in the 1600s from European mastiff breeds and native dogs. Bred as all-purpose farm dogs for protecting homesteads from predators."
+    "zh": "17世纪起由荷兰及其他欧洲定居者在南非从欧洲獒犬品种和本地犬培育而成。作为多功能农场犬，用于保护家园免受捕食者侵害。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Confident",
-      "zh": "Confident"
+      "zh": "自信"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     }
   ]
 }

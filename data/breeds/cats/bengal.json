@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Bengal",
-    "zh": "Bengal"
+    "zh": "孟加拉猫"
   },
   "images": [
     "https://cdn2.thecatapi.com/images/O3btzLlsO.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.",
-    "zh": "Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it."
+    "zh": "孟加拉猫很有趣，但绝对不适合所有人，也不适合初次养猫的人。它们极其聪明、好奇和活跃，需要大量的互动，不提供这些的主人将面临麻烦。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "Demanding",
-      "zh": "Demanding"
+      "zh": "要求高"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     }
   ]
 }

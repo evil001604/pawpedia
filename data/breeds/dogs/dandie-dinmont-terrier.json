@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Dandie Dinmont Terrier",
-    "zh": "Dandie Dinmont Terrier"
+    "zh": "丹迪丁蒙梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/HJd0XecNX_1280.jpg"
   ],
   "origin": {
     "en": "Scottish Borders",
-    "zh": "Scottish Borders"
+    "zh": "苏格兰边境"
   },
   "history": {
     "en": "Developed in the 18th century in the border region between Scotland and England for hunting badgers and otters. Named after a character in Sir Walter Scott's 1815 novel 'Guy Mannering'. Recognized by The Kennel Club (UK) in 1875 and AKC in 1886.",
-    "zh": "Developed in the 18th century in the border region between Scotland and England for hunting badgers and otters. Named after a character in Sir Walter Scott's 1815 novel 'Guy Mannering'. Recognized by The Kennel Club (UK) in 1875 and AKC in 1886."
+    "zh": "18世纪在苏格兰与英格兰边境地区培育，用于猎捕獾和水獭。以沃尔特·司各特爵士1815年小说《盖伊·曼纳林》中角色命名。1875年获英国养犬俱乐部认可，1886年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     }
   ]
 }

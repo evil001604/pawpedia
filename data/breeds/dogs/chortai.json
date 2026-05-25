@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chortai",
-    "zh": "Chortai"
+    "zh": "乔泰犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/5piuRzRMc3.jpg"
   ],
   "origin": {
     "en": "Southern Russia/Central Asia",
-    "zh": "Southern Russia/Central Asia"
+    "zh": "南俄罗斯/中亚"
   },
   "history": {
     "en": "Ancient sighthound breed developed in the steppe regions of Kazakhstan and southern Russia for hunting hare, fox, and larger game. Bred purely for function—speed, stamina, and hunting ability—across vast steppes. Nearly extinct after Russian Revolution but preserved by enthusiasts.",
-    "zh": "Ancient sighthound breed developed in the steppe regions of Kazakhstan and southern Russia for hunting hare, fox, and larger game. Bred purely for function—speed, stamina, and hunting ability—across vast steppes. Nearly extinct after Russian Revolution but preserved by enthusiasts."
+    "zh": "在哈萨克斯坦和俄罗斯南部草原地区培育的古老视觉猎犬，用于猎捕野兔、狐狸及大型猎物。纯为功能而培育——速度、耐力和狩猎能力——适应广阔草原。俄国革命后几乎灭绝，但由爱好者保存下来。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "健壮"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     }
   ]
 }

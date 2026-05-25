@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Hairless Terrier",
-    "zh": "American Hairless Terrier"
+    "zh": "美国无毛梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/lcsQYiWMN.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Originated in Louisiana in 1972 when a hairless puppy named Josephine was born in a litter of Rat Terriers. Developed by Edwin and Willie Scott, recognized by UKC in 1999 and AKC in 2016",
-    "zh": "Originated in Louisiana in 1972 when a hairless puppy named Josephine was born in a litter of Rat Terriers. Developed by Edwin and Willie Scott, recognized by UKC in 1999 and AKC in 2016"
+    "zh": "1972年起源于路易斯安那州，当时一只名为约瑟芬的无毛幼犬出生在一窝老鼠梗中。由埃德温·威利和威利·斯科特培育，1999年获联合犬业俱乐部认可，2016年获美国养犬俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "活泼"
     },
     {
       "en": "curious",
-      "zh": "curious"
+      "zh": "好奇"
     }
   ]
 }

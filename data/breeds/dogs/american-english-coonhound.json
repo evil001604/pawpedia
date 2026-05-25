@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American English Coonhound",
-    "zh": "American English Coonhound"
+    "zh": "美国英国猎浣熊犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/q7VUELb6Ub.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Descended from English Foxhounds brought to American colonies in the 17th and 18th centuries. Developed by breeders in the American South for hunting raccoons and foxes in rougher terrain, recognized by AKC in 2011",
-    "zh": "Descended from English Foxhounds brought to American colonies in the 17th and 18th centuries. Developed by breeders in the American South for hunting raccoons and foxes in rougher terrain, recognized by AKC in 2011"
+    "zh": "源自17、18世纪带到美国殖民地的英国猎狐犬。由美国南部的繁育者在更崎岖地形上培育用于猎浣熊和狐狸，2011年获美国养犬俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

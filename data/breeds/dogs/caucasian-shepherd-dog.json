@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Caucasian Shepherd Dog",
-    "zh": "Caucasian Shepherd Dog"
+    "zh": "高加索牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/-c6didgTY.jpg"
   ],
   "origin": {
     "en": "Caucasus Mountains",
-    "zh": "Caucasus Mountains"
+    "zh": "高加索山脉"
   },
   "history": {
     "en": "Ancient breed developed in the Caucasus Mountain region to protect flocks from large predators like wolves and bears, as well as human thieves. Selectively bred by shepherds for protection ability, later utilized by the Soviet Union as military and prison guard dogs",
-    "zh": "Ancient breed developed in the Caucasus Mountain region to protect flocks from large predators like wolves and bears, as well as human thieves. Selectively bred by shepherds for protection ability, later utilized by the Soviet Union as military and prison guard dogs"
+    "zh": "在高加索山脉地区培育的古老品种，用于保护畜群免受狼和熊等大型捕食者以及人类盗贼的侵害。由牧羊人选择性培育以增强保护能力，后来被苏联用作军犬和监狱守卫犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Protective",
-      "zh": "Protective"
+      "zh": "保护欲强"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     }
   ]
 }

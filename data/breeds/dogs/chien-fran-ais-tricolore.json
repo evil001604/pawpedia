@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chien Français Tricolore",
-    "zh": "Chien Français Tricolore"
+    "zh": "法国三色猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Skx45T6EQ.gif"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Created in the mid-20th century by Henri de Falandre by crossing the Poitevin and the Gascon-Saintongeois for large game hunting particularly deer. Officially recognized by the FCI in 1957",
-    "zh": "Created in the mid-20th century by Henri de Falandre by crossing the Poitevin and the Gascon-Saintongeois for large game hunting particularly deer. Officially recognized by the FCI in 1957"
+    "zh": "20世纪中期由Henri de Falandre通过普瓦特文犬与加斯科涅-圣东日犬杂交培育，用于大型猎物（尤其是鹿）狩猎。1957年获FCI正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Work-focused",
-      "zh": "Work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "健壮"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

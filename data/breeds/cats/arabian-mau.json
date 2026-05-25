@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Arabian Mau",
-    "zh": "Arabian Mau"
+    "zh": "阿拉伯猫"
   },
   "images": [
     "/images/breeds/cats/arabian-mau-1.jpg"
   ],
   "origin": {
     "en": "United Arab Emirates",
-    "zh": "United Arab Emirates"
+    "zh": "阿拉伯联合酋长国"
   },
   "history": {
     "en": "Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime, attention and interaction from their owners. These kitties are friendly, intelligent, and adaptable, and will even get along well with other pets and children.",
-    "zh": "Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime, attention and interaction from their owners. These kitties are friendly, intelligent, and adaptable, and will even get along well with other pets and children."
+    "zh": "阿拉伯猫社交且精力充沛。由于精力旺盛，这些猫最适合那些能提供充足游戏时间、关注和互动的家庭。它们友好、聪明、适应性强，甚至能与其他宠物和孩子相处融洽。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     }
   ]
 }

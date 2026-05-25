@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Briquet Griffon Vendéen",
-    "zh": "Briquet Griffon Vendéen"
+    "zh": "旺代格里芬犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/uEPB98jBS.jpg"
   ],
   "origin": {
     "en": "Vendée, France",
-    "zh": "Vendée, France"
+    "zh": "法国旺代"
   },
   "history": {
     "en": "Developed in the Vendée region of France before World War I from the larger Grand Griffon Vendéen. Selectively bred down in size by the Comte d'Elva to create a smaller faster hound for hunting medium game like hare and fox. Nearly decimated by World Wars but carefully restored",
-    "zh": "Developed in the Vendée region of France before World War I from the larger Grand Griffon Vendéen. Selectively bred down in size by the Comte d'Elva to create a smaller faster hound for hunting medium game like hare and fox. Nearly decimated by World Wars but carefully restored"
+    "zh": "一战前在法国旺代地区由大型旺代格里芬犬培育而成。经埃尔瓦伯爵选择性小型化选育，创造更小更快的猎犬用于猎兔狐等中型猎物。两次世界大战中几乎灭绝但经精心恢复。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Courageous",
-      "zh": "Courageous"
+      "zh": "勇敢"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

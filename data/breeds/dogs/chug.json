@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chug",
-    "zh": "Chug"
+    "zh": "查格犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/BJ0dMpaEX.gif"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "A modern crossbreed developed in North America in the late 20th century by crossing a Pug with a Chihuahua. The goal was to create a small companion dog combining the affectionate nature of the Pug with the spirited personality of the Chihuahua. Not recognized by major kennel clubs.",
-    "zh": "A modern crossbreed developed in North America in the late 20th century by crossing a Pug with a Chihuahua. The goal was to create a small companion dog combining the affectionate nature of the Pug with the spirited personality of the Chihuahua. Not recognized by major kennel clubs."
+    "zh": "20世纪末在北美培育的现代混种犬，由巴哥犬与吉娃娃杂交而成。目标是创造一种小型伴侣犬，兼具巴哥犬的深情与吉娃娃的活泼个性。未获主要犬业俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

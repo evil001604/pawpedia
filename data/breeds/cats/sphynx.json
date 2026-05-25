@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Sphynx",
-    "zh": "Sphynx"
+    "zh": "斯芬克斯猫"
   },
   "images": [
     "/images/breeds/cats/sphynx-1.jpg"
   ],
   "origin": {
     "en": "Canada",
-    "zh": "Canada"
+    "zh": "加拿大"
   },
   "history": {
     "en": "The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.",
-    "zh": "The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression."
+    "zh": "斯芬克斯猫是一种聪明、好奇、极其友好且以人为中心的品种。它们常常在门口迎接主人，表现出明显的兴奋和快乐。它们有一种意想不到的幽默感，常常与它们严肃的表情形成对比。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Inquisitive",
-      "zh": "Inquisitive"
+      "zh": "好奇"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友好"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     }
   ]
 }

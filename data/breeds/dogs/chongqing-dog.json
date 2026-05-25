@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chongqing Dog",
-    "zh": "Chongqing Dog"
+    "zh": "重庆犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/6QYAhbAWq.jpg"
   ],
   "origin": {
     "en": "Chongqing, China",
-    "zh": "Chongqing, China"
+    "zh": "中国重庆"
   },
   "history": {
     "en": "Ancient Chinese breed from Chongqing and Sichuan provinces, traditionally used for hunting and guard work. Nearly extinct but undergoing revival efforts, with breed standards established by regional Chinese registries.",
-    "zh": "Ancient Chinese breed from Chongqing and Sichuan provinces, traditionally used for hunting and guard work. Nearly extinct but undergoing revival efforts, with breed standards established by regional Chinese registries."
+    "zh": "源自重庆和四川地区的古老中国犬种，传统上用于狩猎和护卫工作。曾濒临灭绝，但通过复兴努力得以恢复，并由中国地方犬业协会制定了品种标准。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Utility",
-      "zh": "Utility"
+      "zh": "实用犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "护主"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

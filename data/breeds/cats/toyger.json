@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Toyger",
-    "zh": "Toyger"
+    "zh": "玩具虎猫"
   },
   "images": [
     "/images/breeds/cats/toyger-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.",
-    "zh": "The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs."
+    "zh": "玩具虎猫性格甜美、冷静，通常很友好。它们足够外向，可以牵着散步；精力充沛，可以玩捡球和其他互动游戏；自信十足，能与其他猫和友好的狗相处。"
   },
   "stats": {
     "weight": {
@@ -64,15 +64,15 @@
   "tags": [
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     }
   ]
 }

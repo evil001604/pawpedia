@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Havana Brown",
-    "zh": "Havana Brown"
+    "zh": "哈瓦那棕猫"
   },
   "images": [
     "/images/breeds/cats/havana-brown-1.jpg"
   ],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "The Havana Brown is human oriented, playful, and curious. She has a strong desire to spend time with her people and involve herself in everything they do. Being naturally inquisitive, the Havana Brown reaches out with a paw to touch and feel when investigating curiosities in its environment. They are truly sensitive by nature and frequently gently touch their human companions as if they are extending a paw of friendship.",
-    "zh": "The Havana Brown is human oriented, playful, and curious. She has a strong desire to spend time with her people and involve herself in everything they do. Being naturally inquisitive, the Havana Brown reaches out with a paw to touch and feel when investigating curiosities in its environment. They are truly sensitive by nature and frequently gently touch their human companions as if they are extending a paw of friendship."
+    "zh": "哈瓦那棕猫以人类为导向，爱玩且好奇。它强烈渴望与家人共度时光，并参与他们所做的每一件事。由于天生好奇，哈瓦那棕猫在调查环境中的新奇事物时会伸出爪子触摸和感受。它们天生敏感，经常轻轻触碰人类同伴，仿佛伸出友谊之爪。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Demanding",
-      "zh": "Demanding"
+      "zh": "要求高"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

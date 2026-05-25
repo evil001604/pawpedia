@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Egyptian Mau",
-    "zh": "Egyptian Mau"
+    "zh": "埃及猫"
   },
   "images": [
     "/images/breeds/cats/egyptian-mau-1.jpg"
   ],
   "origin": {
     "en": "Egypt",
-    "zh": "Egypt"
+    "zh": "埃及"
   },
   "history": {
     "en": "The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.",
-    "zh": "The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events."
+    "zh": "埃及猫温柔而矜持。它热爱家人，渴望得到他们的关注和爱抚，但对其他人保持警惕。早期持续的社会化对这种敏感且有时害羞的猫至关重要，特别是如果你计划展示或带它旅行。否则，它很容易被意外的噪音或事件惊吓到。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Dependent",
-      "zh": "Dependent"
+      "zh": "依赖"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

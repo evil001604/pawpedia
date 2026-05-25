@@ -3,16 +3,16 @@
   "type": "cat",
   "name": {
     "en": "European Burmese",
-    "zh": "European Burmese"
+    "zh": "欧洲缅甸猫"
   },
   "images": [],
   "origin": {
     "en": "Burma",
-    "zh": "Burma"
+    "zh": "缅甸"
   },
   "history": {
     "en": "The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. ",
-    "zh": "The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. "
+    "zh": "欧洲缅甸猫是一种非常深情、聪明且忠诚的猫。它们喜欢陪伴，会想和你在一起，参与你做的每一件事。虽然它们可能会挑选一个最喜欢的家庭成员，但它们很可能会与家里的每个人以及来访的客人互动。它们好奇且爱玩，即使成年后也是如此。"
   },
   "stats": {
     "weight": {
@@ -62,15 +62,15 @@
   "tags": [
     {
       "en": "Sweet",
-      "zh": "Sweet"
+      "zh": "甜美"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     }
   ]
 }

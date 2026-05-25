@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Ocicat",
-    "zh": "Ocicat"
+    "zh": "奥西猫"
   },
   "images": [
     "/images/breeds/cats/ocicat-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. ",
-    "zh": "Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. "
+    "zh": "奥西猫忠诚且忠于主人，聪明、自信、外向，似乎具有许多狗的特质。它们可以被训练去捡玩具、牵引行走、学会“说话”、被叫时过来以及遵循其他命令。"
   },
   "stats": {
     "weight": {
@@ -64,39 +64,39 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Demanding",
-      "zh": "Demanding"
+      "zh": "要求高"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友好"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

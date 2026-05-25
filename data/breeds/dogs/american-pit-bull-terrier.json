@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Pit Bull Terrier",
-    "zh": "American Pit Bull Terrier"
+    "zh": "美国比特犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/_Qf9nfRzL.png"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Developed in the late 19th century from English bull-and-terrier breeds brought to America. Originally bred for bull-baiting and later refined as all-around farm dogs and loyal family companions. First recognized by the United Kennel Club in 1898.",
-    "zh": "Developed in the late 19th century from English bull-and-terrier breeds brought to America. Originally bred for bull-baiting and later refined as all-around farm dogs and loyal family companions. First recognized by the United Kennel Club in 1898."
+    "zh": "19世纪末由带到美国的英国牛头梗培育而成。最初用于斗牛，后改良为多用途农场犬和忠诚的家庭伴侣。1898年首次获联合犬业俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Confident",
-      "zh": "Confident"
+      "zh": "自信"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

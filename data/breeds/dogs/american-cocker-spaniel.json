@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Cocker Spaniel",
-    "zh": "American Cocker Spaniel"
+    "zh": "美国可卡犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/YbXK-k96Y.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Developed in the United States from English Cocker Spaniels brought over in the late 1800s. American breeders selected for smaller size, more refined head, and heavier coat for woodcock hunting, leading to recognition as a separate breed by the AKC in 1946",
-    "zh": "Developed in the United States from English Cocker Spaniels brought over in the late 1800s. American breeders selected for smaller size, more refined head, and heavier coat for woodcock hunting, leading to recognition as a separate breed by the AKC in 1946"
+    "zh": "源自19世纪末带到美国的英国可卡犬。美国繁育者选择体型更小、头部更精致、被毛更浓密的个体用于猎捕山鹬，1946年获美国养犬俱乐部认可为独立品种。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "smart",
-      "zh": "smart"
+      "zh": "聪明"
     },
     {
       "en": "happy",
-      "zh": "happy"
+      "zh": "快乐"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

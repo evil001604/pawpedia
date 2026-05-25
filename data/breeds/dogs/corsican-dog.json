@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Corsican Dog",
-    "zh": "Corsican Dog"
+    "zh": "科西嘉犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/4xSi03c0uC.jpg"
   ],
   "origin": {
     "en": "Corsica, France",
-    "zh": "Corsica, France"
+    "zh": "法国科西嘉岛"
   },
   "history": {
     "en": "Ancient multi-purpose breed native to Corsica, used for hunting wild boar, herding livestock, and property protection. Nearly extinct in the 20th century but revived by enthusiasts starting in 1989. Recognized by French Kennel Club and provisionally by FCI as the Cursinu.",
-    "zh": "Ancient multi-purpose breed native to Corsica, used for hunting wild boar, herding livestock, and property protection. Nearly extinct in the 20th century but revived by enthusiasts starting in 1989. Recognized by French Kennel Club and provisionally by FCI as the Cursinu."
+    "zh": "科西嘉岛本土的古老多功能犬种，用于猎野猪、牧畜和财产保护。20世纪几乎灭绝，但自1989年起由爱好者复兴。获法国犬业俱乐部认可，并获FCI临时承认，名为Cursinu。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "护主"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

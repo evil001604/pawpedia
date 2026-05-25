@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Ragdoll",
-    "zh": "Ragdoll"
+    "zh": "布偶猫"
   },
   "images": [
     "/images/breeds/cats/ragdoll-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.",
-    "zh": "Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them."
+    "zh": "布偶猫热爱它们的主人，会在门口迎接，跟随主人在房子里走动，一有机会就跳上膝盖或依偎在床上。它们是典型的膝上猫，喜欢被抱着，并倒在任何抱着它们的人怀里。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友好"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     },
     {
       "en": "Easygoing",
-      "zh": "Easygoing"
+      "zh": "随和"
     }
   ]
 }

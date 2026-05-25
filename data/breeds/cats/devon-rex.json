@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Devon Rex",
-    "zh": "Devon Rex"
+    "zh": "德文雷克斯猫"
   },
   "images": [
     "https://cdn2.thecatapi.com/images/4RzEwvyzz.jpg"
   ],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike.",
-    "zh": "The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike."
+    "zh": "德文卷毛猫最喜欢的栖息位置就在头部高度，即它最爱的人的肩膀上。它对周围发生的一切都充满兴趣，拒绝被排除在任何活动之外。可以指望它尽可能贴近你，偶尔用轻柔的声音表达自己的意见。它热爱人类，同样欢迎朋友和家人的关注。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Highly interactive",
-      "zh": "Highly interactive"
+      "zh": "高度互动"
     },
     {
       "en": "Mischievous",
-      "zh": "Mischievous"
+      "zh": "淘气"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

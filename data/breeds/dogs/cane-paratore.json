@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cane Paratore",
-    "zh": "Cane Paratore"
+    "zh": "帕拉托雷犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/eN73desofw.jpg"
   ],
   "origin": {
     "en": "Piedmont Alps, Italy",
-    "zh": "Piedmont Alps, Italy"
+    "zh": "意大利皮埃蒙特阿尔卑斯山"
   },
   "history": {
     "en": "A landrace breed developed over centuries by shepherds in the western Italian Alps (Piedmont) to manage sheep and cattle in mountainous terrain. Valued for its hardiness and working ability, the breed is undergoing official recognition by the Italian Kennel Club (ENCI). Also known as the Pastore d'Oropa.",
-    "zh": "A landrace breed developed over centuries by shepherds in the western Italian Alps (Piedmont) to manage sheep and cattle in mountainous terrain. Valued for its hardiness and working ability, the breed is undergoing official recognition by the Italian Kennel Club (ENCI). Also known as the Pastore d'Oropa."
+    "zh": "一种地方品种，由意大利西部阿尔卑斯山（皮埃蒙特）的牧羊人经过几个世纪培育而成，用于在山地地形中管理绵羊和牛群。因其耐寒性和工作能力而受到重视，目前正在接受意大利犬业俱乐部（ENCI）的官方认证。也称为Pastore d'Oropa。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bulldog",
-    "zh": "Bulldog"
+    "zh": "斗牛犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/VOmeXxwUp.jpg"
   ],
   "origin": {
     "en": "England",
-    "zh": "England"
+    "zh": "英格兰"
   },
   "history": {
     "en": "Originally developed in medieval England for bull-baiting, descended from ancient mastiff-type dogs. After blood sports were outlawed in 1835, refined into the gentle companion breed known today",
-    "zh": "Originally developed in medieval England for bull-baiting, descended from ancient mastiff-type dogs. After blood sports were outlawed in 1835, refined into the gentle companion breed known today"
+    "zh": "最初在中世纪英格兰培育用于斗牛，源自古代獒犬。1835年血腥运动被禁后，改良为今日温顺的伴侣犬种。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "docile",
-      "zh": "docile"
+      "zh": "温顺"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

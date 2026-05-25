@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Campeiro Bulldog",
-    "zh": "Campeiro Bulldog"
+    "zh": "坎佩罗斗牛犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/GZbsnFkqD.jpg"
   ],
   "origin": {
     "en": "Brazil",
-    "zh": "Brazil"
+    "zh": "巴西"
   },
   "history": {
     "en": "Descended from Old English Bulldogs brought to southern Brazil by European immigrants in the 19th century. Developed for ranch work, specifically for subduing and controlling cattle. After facing near extinction, the breed was revived through dedicated conservation efforts.",
-    "zh": "Descended from Old English Bulldogs brought to southern Brazil by European immigrants in the 19th century. Developed for ranch work, specifically for subduing and controlling cattle. After facing near extinction, the breed was revived through dedicated conservation efforts."
+    "zh": "源自19世纪欧洲移民带到巴西南部的英国老式斗牛犬。为牧场工作培育，专门用于制服和控制牛群。在濒临灭绝后，通过专注的保护努力得以复兴。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

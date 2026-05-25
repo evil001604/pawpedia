@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Belgian Laekenois",
-    "zh": "Belgian Laekenois"
+    "zh": "比利时拉肯诺犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/72Ttvx0Iz.jpg"
   ],
   "origin": {
     "en": "Belgium",
-    "zh": "Belgium"
+    "zh": "比利时"
   },
   "history": {
     "en": "One of four Belgian Shepherd varieties and the rarest, developed in late 1800s around Laeken near the Royal Castle of Laeken. Originally bred to guard flocks and the drying linen fields near Antwerp. Nearly extinct after WWII but preserved by dedicated breeders.",
-    "zh": "One of four Belgian Shepherd varieties and the rarest, developed in late 1800s around Laeken near the Royal Castle of Laeken. Originally bred to guard flocks and the drying linen fields near Antwerp. Nearly extinct after WWII but preserved by dedicated breeders."
+    "zh": "四种比利时牧羊犬变种之一，也是最稀有的，于19世纪末在拉肯皇家城堡附近的拉肯地区培育。最初用于守护羊群和安特卫普附近的晾晒亚麻田。二战后几乎灭绝，但被热心的育种者保存下来。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

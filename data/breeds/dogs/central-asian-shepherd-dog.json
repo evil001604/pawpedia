@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Central Asian Shepherd Dog",
-    "zh": "Central Asian Shepherd Dog"
+    "zh": "中亚牧羊犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/ifO0hUoW3G.jpg"
   ],
   "origin": {
     "en": "Central Asia",
-    "zh": "Central Asia"
+    "zh": "中亚"
   },
   "history": {
     "en": "Ancient breed originating over 5,000 years ago in the geographical area between the Ural Mountains, the Caspian Sea, Asia Minor, and Northwest China. Shaped by natural selection in harsh climates and constant struggle against predators, developed to guard livestock and property across Central Asian regions.",
-    "zh": "Ancient breed originating over 5,000 years ago in the geographical area between the Ural Mountains, the Caspian Sea, Asia Minor, and Northwest China. Shaped by natural selection in harsh climates and constant struggle against predators, developed to guard livestock and property across Central Asian regions."
+    "zh": "古老犬种，起源于5000多年前乌拉尔山脉、里海、小亚细亚与中国西北之间的地理区域。在严酷气候与持续对抗捕食者的自然选择中形成，被培育用于在中亚地区守护牲畜和财产。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "护主"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     }
   ]
 }

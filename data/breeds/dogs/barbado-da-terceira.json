@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Barbado da Terceira",
-    "zh": "Barbado da Terceira"
+    "zh": "特塞拉岛牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/ihTQ9wvul.jpg"
   ],
   "origin": {
     "en": "Terceira Island, Azores, Portugal",
-    "zh": "Terceira Island, Azores, Portugal"
+    "zh": "葡萄牙亚速尔群岛特塞拉岛"
   },
   "history": {
     "en": "Ancient indigenous breed developed on Terceira Island in the Azores by Portuguese settlers for herding and guarding cattle. Nearly faced extinction in the 20th century before conservation and revival efforts in the 1990s led to its preservation and recognition",
-    "zh": "Ancient indigenous breed developed on Terceira Island in the Azores by Portuguese settlers for herding and guarding cattle. Nearly faced extinction in the 20th century before conservation and revival efforts in the 1990s led to its preservation and recognition"
+    "zh": "古老的本土品种，由葡萄牙定居者在亚速尔群岛的特塞拉岛培育，用于放牧和护卫牛群。20世纪曾濒临灭绝，1990年代的保护和复兴努力使其得以保存并获得认可。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "docile",
-      "zh": "docile"
+      "zh": "温顺"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

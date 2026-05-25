@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "American Curl",
-    "zh": "American Curl"
+    "zh": "美国卷耳猫"
   },
   "images": [
     "/images/breeds/cats/american-curl-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
-    "zh": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations."
+    "zh": "以真正独特的耳朵为特征，耳朵向后卷曲成优雅的弧线，展现出警觉、活泼、惊喜的表情，让人第一次看到卷耳猫时不禁露出灿烂的笑容。卷耳猫非常以人为中心，忠诚、深情，能迅速适应其他宠物、儿童和新环境。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动性强"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

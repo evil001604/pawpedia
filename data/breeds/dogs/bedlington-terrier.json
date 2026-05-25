@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bedlington Terrier",
-    "zh": "Bedlington Terrier"
+    "zh": "贝德灵顿梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/BQX_0_22x.jpg"
   ],
   "origin": {
     "en": "England (Northumberland)",
-    "zh": "England (Northumberland)"
+    "zh": "英格兰（诺森伯兰郡）"
   },
   "history": {
     "en": "Developed in Bedlington, Northumberland in the early 19th century for hunting vermin in mines and farms. Known as the 'Gypsy Dog' due to use by poachers. Lineage includes Dandie Dinmont Terrier, Whippet, and Otterhound crosses. Recognized by The Kennel Club in 1877 and AKC in 1886.",
-    "zh": "Developed in Bedlington, Northumberland in the early 19th century for hunting vermin in mines and farms. Known as the 'Gypsy Dog' due to use by poachers. Lineage includes Dandie Dinmont Terrier, Whippet, and Otterhound crosses. Recognized by The Kennel Club in 1877 and AKC in 1886."
+    "zh": "19世纪初在诺森伯兰郡的贝德灵顿培育，用于在矿井和农场猎捕害兽。因被偷猎者使用而被称为“吉普赛犬”。血统包括丹迪丁蒙梗、惠比特犬和水獭猎犬的杂交。1877年得到英国养犬俱乐部认可，1886年得到AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

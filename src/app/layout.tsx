@@ -1,19 +1,31 @@
-import type { Metadata } from "next";
-import "./globals.css";
+import type { Metadata } from "next"
+import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Pet Breed Encyclopedia | AI Pet Health",
-  description: "Explore 266+ dog and cat breeds. Radar charts, health info, AI diagnosis, and pet product recommendations.",
-};
+  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || "https://petpedia.vercel.app"),
+  title: { default: "PetPedia — AI Pet Breed Encyclopedia", template: "%s | PetPedia" },
+  description: "Explore 266+ dog and cat breeds with radar charts, health guides, AI diagnosis, and product picks. Bilingual EN/ZH.",
+  openGraph: {
+    title: "PetPedia — AI Pet Breed Encyclopedia",
+    description: "Explore 266+ dog and cat breeds with radar charts, health guides, and AI diagnosis.",
+    siteName: "PetPedia",
+    type: "website",
+  },
+  robots: "index, follow",
+}
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8406737735428048"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="min-h-screen bg-stone-50 text-stone-900 antialiased">{children}</body>
     </html>
-  );
+  )
 }

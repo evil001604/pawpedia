@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cavalier King Charles Spaniel",
-    "zh": "Cavalier King Charles Spaniel"
+    "zh": "骑士查理王小猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Bk-WET6Em.gif"
   ],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "Named after King Charles II who favored the breed, descended from toy spaniels depicted in 16th-18th century British court paintings. The modern breed was revived in the 1920s by enthusiasts seeking to restore the longer-nosed type seen in old portraits",
-    "zh": "Named after King Charles II who favored the breed, descended from toy spaniels depicted in 16th-18th century British court paintings. The modern breed was revived in the 1920s by enthusiasts seeking to restore the longer-nosed type seen in old portraits"
+    "zh": "以偏爱该品种的查理二世国王命名，源自16至18世纪英国宫廷画作中描绘的玩具西班牙猎犬。现代品种于20世纪20年代由爱好者复兴，旨在恢复旧肖像中看到的较长鼻型。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Toy",
-      "zh": "Toy"
+      "zh": "玩具犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

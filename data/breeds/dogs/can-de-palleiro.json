@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Can de Palleiro",
-    "zh": "Can de Palleiro"
+    "zh": "帕莱罗犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/_8II0snsl.jpg"
   ],
   "origin": {
     "en": "Galicia, Spain",
-    "zh": "Galicia, Spain"
+    "zh": "西班牙加利西亚"
   },
   "history": {
     "en": "Ancient Iberian landrace breed from northwestern Spain, traditionally used as an all-purpose farm dog for herding cattle, guarding property, and livestock management. Maintained genetic purity through geographic isolation but faced near extinction by late 20th century. Subject of successful recovery program since late 1990s and recognized by Spain's royal kennel club (RSCE).",
-    "zh": "Ancient Iberian landrace breed from northwestern Spain, traditionally used as an all-purpose farm dog for herding cattle, guarding property, and livestock management. Maintained genetic purity through geographic isolation but faced near extinction by late 20th century. Subject of successful recovery program since late 1990s and recognized by Spain's royal kennel club (RSCE)."
+    "zh": "来自西班牙西北部的古老伊比利亚原生犬种，传统上用作多功能农场犬，用于放牧牛群、护卫财产和牲畜管理。通过地理隔离保持了基因纯度，但到20世纪末濒临灭绝。自20世纪90年代末起成为成功恢复计划的对象，并获西班牙皇家犬业协会认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     }
   ]
 }

@@ -1,0 +1,250 @@
+{
+  "site": {
+    "title": "PetPedia - AI宠物大百科",
+    "description": "全面的狗和猫品种百科，AI智能健康诊断"
+  },
+  "nav": {
+    "home": "首页",
+    "dogs": "狗",
+    "cats": "猫",
+    "compare": "对比",
+    "quiz": "找宠物"
+  },
+  "footer": {
+    "copyright": "2026 PetPedia. 保留所有权利。",
+    "disclaimer": "非医疗建议。健康问题请咨询兽医。",
+    "about": "关于我们",
+    "privacy": "隐私政策",
+    "diagnosis": "AI诊断",
+    "dataSource": "数据来源：TheDogAPI & TheCatAPI"
+  },
+  "home": {
+    "hero": "探索宠物的世界",
+    "subtitle": "全面的狗和猫品种百科，配备AI智能健康诊断",
+    "exploreDogs": "探索狗品种",
+    "exploreCats": "探索猫品种",
+    "breedCount": "{count} 个品种",
+    "tryDiagnosis": "试试AI诊断",
+    "diagnosisDesc": "选择你的宠物类型和症状，获取初步健康分析。",
+    "features": {
+      "traits": { "title": "性格特征", "desc": "详细的雷达图，展示性格、脾气、忠诚度、智商等" },
+      "health": { "title": "健康指南", "desc": "每个品种的常见疾病、掉毛程度和护理建议" },
+      "diagnosis": { "title": "AI诊断", "desc": "选择症状，获取初步健康状况分析" },
+      "products": { "title": "用品推荐", "desc": "根据品种需求精选的宠物用品" }
+    }
+  },
+  "breeds": {
+    "dogs": "狗品种",
+    "cats": "猫品种",
+    "breedCount": "{count} 个品种",
+    "searchPlaceholder": "搜索品种名称...",
+    "noResults": "未找到匹配的品种。",
+    "weight": "体重",
+    "lifespan": "寿命"
+  },
+  "detail": {
+    "allDogs": "所有狗品种",
+    "allCats": "所有猫品种",
+    "history": "品种由来与历史",
+    "traits": "性格特征",
+    "health": "健康信息",
+    "products": "推荐用品",
+    "shedding": "掉毛程度",
+    "diseases": "常见健康问题",
+    "symptoms": "症状",
+    "prevention": "预防",
+    "careTips": "护理建议",
+    "noHistory": "暂无历史资料。",
+    "chat": "品种聊天室",
+    "chatPlaceholder": "关于这个品种，说点什么吧...",
+    "chatSend": "发送",
+    "chatEmpty": "还没有留言，快来第一个分享！",
+    "chatNamePlaceholder": "你的昵称（可选）",
+    "chatAnonymous": "匿名用户",
+    "diagnoseCTA": "担心宠物健康？",
+    "diagnoseButton": "用AI诊断分析品种健康"
+  },
+  "health": {
+    "title": "健康百科",
+    "subtitle": "了解常见健康问题、护理指南和预防措施。",
+    "generalTips": "通用护理建议",
+    "byBreed": "按品种查看健康信息",
+    "viewDogs": "查看所有狗品种的健康信息",
+    "viewCats": "查看所有猫品种的健康信息",
+    "dogBreeds": "狗品种（{count}）",
+    "catBreeds": "猫品种（{count}）"
+  },
+  "diagnose": {
+    "title": "AI宠物健康诊断",
+    "subtitle": "选择你的宠物类型和症状，获取初步健康分析。",
+    "stepType": "第一步：选择宠物类型",
+    "stepSymptoms": "第二步：选择症状",
+    "stepResult": "诊断结果",
+    "dog": "狗",
+    "cat": "猫",
+    "selectSymptoms": "请选择至少一个症状以继续。",
+    "selectSymptomsHint": "点击你的宠物正在经历的症状：",
+    "startDiagnosis": "开始诊断",
+    "restart": "重新开始",
+    "diagnosisSuggestions": "诊断建议",
+    "resultsBasedOn": "根据你选择的症状，以下是可能的健康状况：",
+    "probability": "可能性",
+    "recommendedActions": "建议行动",
+    "noResults": "未找到匹配的病症。请咨询兽医。",
+    "symptomCategories": {
+      "skin": "皮肤与毛发",
+      "digestive": "消化系统",
+      "respiratory": "呼吸系统",
+      "behavior": "行为",
+      "mobility": "行动能力",
+      "general": "综合症状"
+    }
+  },
+  "products": {
+    "title": "推荐用品",
+    "for": "适合 {breed}"
+  },
+  "about": {
+    "title": "关于 PetPedia",
+    "subtitle": "您值得信赖的AI驱动宠物百科",
+    "mission": {
+      "title": "我们的使命",
+      "content": "PetPedia 致力于为全球用户提供全面、准确、易获取的犬猫品种信息。我们利用AI技术帮助宠物主人做出明智的养宠决策。"
+    },
+    "operator": {
+      "title": "运营方信息",
+      "name": "hellessy",
+      "role": "平台运营者",
+      "email": "xiaojuntang80@gmail.com",
+      "emailLabel": "联系邮箱"
+    },
+    "dataSources": {
+      "title": "数据来源",
+      "description": "我们从权威API聚合和整理数据以确保准确性：",
+      "dogApi": {
+        "name": "TheDogAPI",
+        "url": "https://thedogapi.com",
+        "description": "全面的犬种数据库，包含图像、性情和特征信息"
+      },
+      "catApi": {
+        "name": "TheCatAPI",
+        "url": "https://thecatapi.com",
+        "description": "广泛的猫品种数据，包括性格特征和健康信息"
+      }
+    },
+    "features": {
+      "title": "我们提供的服务",
+      "encyclopedia": { "title": "品种百科", "desc": "266+犬猫品种详细档案" },
+      "comparison": { "title": "品种对比", "desc": "10个专业维度的并排对比分析" },
+      "quiz": { "title": "智能推荐", "desc": "AI驱动的问卷帮您找到完美匹配" },
+      "diagnosis": { "title": "健康诊断", "desc": "基于症状的初步AI健康分析" }
+    },
+    "disclaimer": "所有提供的信息仅供教育用途，不能替代专业兽医建议。",
+    "lastUpdated": "最后更新：2026年5月"
+  },
+  "compare": {
+    "title": "品种对比",
+    "subtitle": "从10个专业维度并排对比两个品种",
+    "selectBreedA": "选择第一个品种",
+    "selectBreedB": "选择第二个品种",
+    "sameSpeciesRequired": "两个品种必须是同类物种（都是狗或都是猫）",
+    "startComparison": "开始对比",
+    "vs": "VS",
+    "totalScore": "总分",
+    "winner": "胜出方",
+    "tie": "平局",
+    "strengths": "优势项",
+    "backToSelection": "返回选择",
+    "dimensions": {
+      "energy": "精力水平",
+      "energyDesc": "品种的活跃程度和能量水平",
+      "intelligence": "智力水平",
+      "intelligenceDesc": "学习能力和解决问题的技巧",
+      "trainability": "可训练度",
+      "trainabilityDesc": "训练难易度和服从性",
+      "grooming": "打理需求",
+      "groomingDesc": "毛发护理所需的时间和精力",
+      "shedding": "掉毛程度",
+      "sheddingDesc": "品种掉毛量的多少",
+      "friendliness": "友善度",
+      "friendlinessDesc": "对陌生人的社交性和友好程度",
+      "goodWithKids": "适合儿童",
+      "goodWithKidsDesc": "对有儿童家庭的适应性",
+      "adaptability": "适应能力",
+      "adaptabilityDesc": "对不同环境的适应能力",
+      "health": "健康状况",
+      "healthDesc": "整体健康水平和寿命潜力",
+      "size": "体型大小",
+      "sizeDesc": "从小型（3）到巨型（9）的体型分类"
+    },
+    "scoreLabels": {
+      "1": "很低",
+      "3": "较低",
+      "5": "中等",
+      "7": "较高",
+      "9": "很高",
+      "10": "优秀"
+    },
+    "noBreedSelected": "请选择一个品种",
+    "error": {
+      "sameSpecies": "无法对比不同物种。请选择两只狗或两只猫。"
+    }
+  },
+  "quiz": {
+    "title": "找到您的完美宠物",
+    "subtitle": "回答10个问题，我们将为您推荐最合适的品种",
+    "start": "开始测试",
+    "next": "下一题",
+    "previous": "上一题",
+    "restart": "重新开始",
+    "question": "第 {current} 题，共 {total} 题",
+    "selectPetType": "您对哪种宠物感兴趣？",
+    "dog": "🐕 狗狗",
+    "cat": "🐈 猫咪",
+    "resultTitle": "您的Top 3匹配结果",
+    "resultSubtitle": "根据您的回答，以下是最适合您的品种",
+    "matchScore": "匹配度",
+    "viewDetails": "查看详情",
+    "compareSelected": "对比这些品种",
+    "reasons": "为什么这个品种适合您",
+    "noResults": "未找到匹配。请尝试调整答案。",
+    "reasonsLabel": {
+      "energy_high": "高能量水平匹配您活跃的生活方式",
+      "energy_low": "安静性格适合您放松的家庭氛围",
+      "friendly": "非常友善和社交化",
+      "trainable": "易于训练 - 适合您的经验水平",
+      "low_grooming": "低打理需求符合您的偏好",
+      "compact_size": "体型紧凑适合您的居住空间",
+      "adaptable": "高度适应各种环境",
+      "healthy": "整体健康，健康问题较少"
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "overview": {
+      "title": "概述",
+      "content": "PetPedia（由 hellessy 运营）尊重您的隐私。本政策说明我们收集哪些信息、如何使用信息以及您对数据的权利。"
+    },
+    "dataCollection": {
+      "title": "数据收集",
+      "content": "我们使用 Google Analytics 了解访客如何使用我们的网站（访问页面、停留时间、大致位置）。我们不收集个人信息，如姓名、邮箱或付款信息。我们的品种数据来源于 TheDogAPI 和 TheCatAPI。"
+    },
+    "cookies": {
+      "title": "Cookie 与追踪",
+      "content": "我们使用 Cookie 用于 Google Analytics 和 Google AdSense，以投放相关广告和分析流量。您可以在浏览器设置中禁用 Cookie。继续使用本网站即表示您同意我们使用 Cookie。"
+    },
+    "thirdParty": {
+      "title": "第三方服务",
+      "content": "我们使用 Google AdSense 展示广告。Google 可能使用 Cookie 根据您之前访问本网站或其他网站的记录来投放广告。我们还使用 TheDogAPI 和 TheCatAPI 作为品种信息的数据来源。"
+    },
+    "contact": {
+      "title": "联系方式",
+      "content": "如果您对本隐私政策有任何疑问，请通过以下方式联系我们："
+    }
+  },
+  "common": {
+    "male": "公",
+    "female": "母"
+  }
+}

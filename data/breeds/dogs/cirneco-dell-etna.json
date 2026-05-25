@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cirneco dell'Etna",
-    "zh": "Cirneco dell'Etna"
+    "zh": "西西里灵缇"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/oSY0Rc4R3g.jpg"
   ],
   "origin": {
     "en": "Sicily, Italy",
-    "zh": "Sicily, Italy"
+    "zh": "意大利西西里岛"
   },
   "history": {
     "en": "Ancient Sicilian breed developed for rabbit hunting on Mount Etna's rugged volcanic terrain for over 2,500 years. Nearly extinct, the breed was revived in the 20th century and is now recognized by FCI and AKC Foundation Stock Service.",
-    "zh": "Ancient Sicilian breed developed for rabbit hunting on Mount Etna's rugged volcanic terrain for over 2,500 years. Nearly extinct, the breed was revived in the 20th century and is now recognized by FCI and AKC Foundation Stock Service."
+    "zh": "古老的西西里犬种，在埃特纳火山崎岖的火山地形上用于猎兔超过2500年。曾濒临灭绝，20世纪得以复兴，现获FCI和AKC基础品种服务认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

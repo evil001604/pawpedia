@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bulloxer",
-    "zh": "Bulloxer"
+    "zh": "斗牛拳师犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/EAOmB1oGAh.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed developed in recent decades in the United States to combine the athletic, playful nature of the Boxer with the loyal, courageous temperament of the English Bulldog, while potentially reducing breathing issues common in English Bulldogs. Not recognized by major kennel clubs.",
-    "zh": "Modern designer crossbreed developed in recent decades in the United States to combine the athletic, playful nature of the Boxer with the loyal, courageous temperament of the English Bulldog, while potentially reducing breathing issues common in English Bulldogs. Not recognized by major kennel clubs."
+    "zh": "近几十年来在美国培育的现代设计师混种犬，旨在结合拳师犬的运动、活泼天性与英国斗牛犬的忠诚、勇敢气质，同时可能减少英国斗牛犬常见的呼吸问题。未被主要犬业俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

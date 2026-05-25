@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bracco Italiano",
-    "zh": "Bracco Italiano"
+    "zh": "意大利布拉可犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/ryZb6D6NQ.gif"
   ],
   "origin": {
     "en": "Italy",
-    "zh": "Italy"
+    "zh": "意大利"
   },
   "history": {
     "en": "One of the oldest pointing breeds in Europe with ancient origins dating back to the 4th-5th century BC. Developed as a versatile hunting dog for bird hunting in Italian terrain, adept at pointing and retrieving. The modern breed is thought to be a cross of the Piedmontese Pointer and the Lombard Pointer.",
-    "zh": "One of the oldest pointing breeds in Europe with ancient origins dating back to the 4th-5th century BC. Developed as a versatile hunting dog for bird hunting in Italian terrain, adept at pointing and retrieving. The modern breed is thought to be a cross of the Piedmontese Pointer and the Lombard Pointer."
+    "zh": "欧洲最古老的指示犬种之一，起源可追溯至公元前4-5世纪。培育为适应意大利地形的多功能猎鸟犬，擅长指示和寻回。现代品种被认为是皮埃蒙特指示犬与伦巴第指示犬的杂交后代。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "docile",
-      "zh": "docile"
+      "zh": "温顺"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

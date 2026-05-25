@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Braque Français",
-    "zh": "Braque Français"
+    "zh": "法国布拉可犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/BW9WnXl3E.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Ancient French pointing breed dating to 15th century with two distinct varieties: the larger Gascogne and smaller Pyrenean. Descended from one of the oldest pointing-type dogs prized as versatile and biddable hunting companion",
-    "zh": "Ancient French pointing breed dating to 15th century with two distinct varieties: the larger Gascogne and smaller Pyrenean. Descended from one of the oldest pointing-type dogs prized as versatile and biddable hunting companion"
+    "zh": "可追溯至15世纪的古老法国指示犬种，有两个明显变种：较大的加斯科涅型和较小的比利牛斯型。源自最古老的指示型犬种之一，被视为多功能且顺从的狩猎伴侣。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

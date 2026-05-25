@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Border Collie",
-    "zh": "Border Collie"
+    "zh": "边境牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/M9euOJSBd.jpg"
   ],
   "origin": {
     "en": "Anglo-Scottish border region",
-    "zh": "Anglo-Scottish border region"
+    "zh": "英苏边境地区"
   },
   "history": {
     "en": "Developed by shepherds on the border of England and Scotland for herding sheep in hilly terrain, refined through selective breeding for working ability. The breed's lineage can be traced back to a single dog named Old Hemp, born in 1893.",
-    "zh": "Developed by shepherds on the border of England and Scotland for herding sheep in hilly terrain, refined through selective breeding for working ability. The breed's lineage can be traced back to a single dog named Old Hemp, born in 1893."
+    "zh": "由英格兰和苏格兰边境的牧羊人为在丘陵地带牧羊而培育，通过选择性繁殖优化工作能力。该品种的血统可追溯至一只名为“老赫普”的犬，生于1893年。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     }
   ]
 }

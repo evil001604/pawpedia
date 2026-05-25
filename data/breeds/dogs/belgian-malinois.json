@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Belgian Malinois",
-    "zh": "Belgian Malinois"
+    "zh": "比利时马林诺斯犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/fjKm1CMZDK.jpg"
   ],
   "origin": {
     "en": "Belgium",
-    "zh": "Belgium"
+    "zh": "比利时"
   },
   "history": {
     "en": "Developed in the area around Malines, Belgium, in the late 19th century as one of four varieties of Belgian Shepherd dogs. Originally bred for herding ability and strong work ethic, quickly adopted by police forces and militaries worldwide. AKC recognized as distinct breed in 1959.",
-    "zh": "Developed in the area around Malines, Belgium, in the late 19th century as one of four varieties of Belgian Shepherd dogs. Originally bred for herding ability and strong work ethic, quickly adopted by police forces and militaries worldwide. AKC recognized as distinct breed in 1959."
+    "zh": "19世纪末在比利时马林斯地区培育，是四种比利时牧羊犬变种之一。最初以其牧羊能力和强烈的职业道德培育，很快被世界各地的警察和军队采用。1959年AKC将其认定为独立犬种。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     }
   ]
 }

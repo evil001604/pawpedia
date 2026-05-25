@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "American Bobtail",
-    "zh": "American Bobtail"
+    "zh": "美国短尾猫"
   },
   "images": [
     "/images/breeds/cats/american-bobtail-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
-    "zh": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion."
+    "zh": "美国短尾猫充满爱心且极其聪明，拥有独特的野性外观。它们极具互动性，与人类家庭建立深厚的感情纽带。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动性强"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Sensitive",
-      "zh": "Sensitive"
+      "zh": "敏感"
     }
   ]
 }

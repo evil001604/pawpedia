@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Barak Hound",
-    "zh": "Barak Hound"
+    "zh": "巴拉克猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/4WiUpv_4W.jpg"
   ],
   "origin": {
     "en": "Bosnia and Herzegovina",
-    "zh": "Bosnia and Herzegovina"
+    "zh": "波斯尼亚和黑塞哥维那"
   },
   "history": {
     "en": "Descended from local hounds in the Balkans, developed for hunting wild boar and game in mountainous terrain. Recognized by FCI as the Bosnian Coarse-haired Hound (Bosanski Oštrodlaki Gonič – Barak)",
-    "zh": "Descended from local hounds in the Balkans, developed for hunting wild boar and game in mountainous terrain. Recognized by FCI as the Bosnian Coarse-haired Hound (Bosanski Oštrodlaki Gonič – Barak)"
+    "zh": "源自巴尔干地区的本地猎犬，为在山区地形狩猎野猪等猎物而培育。被FCI认可为波斯尼亚粗毛猎犬（Bosanski Oštrodlaki Gonič – Barak）。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

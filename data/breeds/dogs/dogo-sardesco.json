@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Dogo Sardesco",
-    "zh": "Dogo Sardesco"
+    "zh": "萨丁尼亚杜高犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/lhpcfYROeC.jpg"
   ],
   "origin": {
     "en": "Sardinia, Italy",
-    "zh": "Sardinia, Italy"
+    "zh": "意大利撒丁岛"
   },
   "history": {
     "en": "Ancient landrace breed from Sardinia used for centuries as a fierce guardian of flocks and property against predators and thieves. Provisionally recognized by the FCI as the Pastore Fonnese, though not recognized by major international kennel clubs.",
-    "zh": "Ancient landrace breed from Sardinia used for centuries as a fierce guardian of flocks and property against predators and thieves. Provisionally recognized by the FCI as the Pastore Fonnese, though not recognized by major international kennel clubs."
+    "zh": "来自撒丁岛的古老原生犬种，几个世纪以来一直被用作抵御捕食者和盗贼的凶猛护卫犬，保护畜群和财产。被FCI临时认可为Pastore Fonnese，但未被主要国际犬业俱乐部承认。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Protective",
-      "zh": "Protective"
+      "zh": "保护欲强"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

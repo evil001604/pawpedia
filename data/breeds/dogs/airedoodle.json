@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Airedoodle",
-    "zh": "Airedoodle"
+    "zh": "万能贵宾犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/QcMf5Iv8um.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed developed in the US by crossing the versatile, courageous Airedale Terrier with the intelligent Standard Poodle. The goal was to combine the Poodle's intelligence and low-shedding coat with the Airedale's confidence and sturdiness. Not recognized by major kennel clubs",
-    "zh": "Modern designer crossbreed developed in the US by crossing the versatile, courageous Airedale Terrier with the intelligent Standard Poodle. The goal was to combine the Poodle's intelligence and low-shedding coat with the Airedale's confidence and sturdiness. Not recognized by major kennel clubs"
+    "zh": "现代设计型杂交犬，在美国通过将多才多艺、勇敢的艾尔代尔梗犬与聪明的标准贵宾犬杂交培育而成。目标是结合贵宾犬的智慧和低脱毛被毛与艾尔代尔梗犬的自信和健壮。未被主要养犬俱乐部承认。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cavapoo",
-    "zh": "Cavapoo"
+    "zh": "卡瓦普犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/jUq0L6Kgjq.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Modern designer crossbreed first intentionally developed in Australia in the 1990s by crossing Cavalier King Charles Spaniel with Poodle, aiming to create a friendly family companion with low-shedding coat suitable for allergy sufferers",
-    "zh": "Modern designer crossbreed first intentionally developed in Australia in the 1990s by crossing Cavalier King Charles Spaniel with Poodle, aiming to create a friendly family companion with low-shedding coat suitable for allergy sufferers"
+    "zh": "现代设计师杂交犬，于20世纪90年代在澳大利亚首次有意培育，通过将卡瓦利尔国王查理士猎犬与贵宾犬杂交，旨在创造一种对过敏患者友好的低脱毛被毛的友好家庭伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     }
   ]
 }

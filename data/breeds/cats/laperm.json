@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "LaPerm",
-    "zh": "LaPerm"
+    "zh": "拉波猫"
   },
   "images": [
     "/images/breeds/cats/laperm-1.jpg"
   ],
   "origin": {
     "en": "Thailand",
-    "zh": "Thailand"
+    "zh": "泰国"
   },
   "history": {
     "en": "LaPerms are gentle and affectionate but also very active. Unlike many active breeds, the LaPerm is also quite content to be a lap cat. The LaPerm will often follow your lead; that is, if they are busy playing and you decide to sit and relax, simply pick up your LaPerm and sit down with it, and it will stay in your lap, devouring the attention you give it.",
-    "zh": "LaPerms are gentle and affectionate but also very active. Unlike many active breeds, the LaPerm is also quite content to be a lap cat. The LaPerm will often follow your lead; that is, if they are busy playing and you decide to sit and relax, simply pick up your LaPerm and sit down with it, and it will stay in your lap, devouring the attention you give it."
+    "zh": "拉波猫温柔而深情，但也非常活跃。与许多活跃品种不同，拉波猫也非常满足于做一只膝上猫。拉波猫通常会跟随你的引导；也就是说，如果它们正忙于玩耍而你决定坐下来放松，只需抱起你的拉波猫并坐下，它就会留在你的腿上，尽情享受你给予的关注。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     }
   ]
 }

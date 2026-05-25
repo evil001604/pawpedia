@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chorkie",
-    "zh": "Chorkie"
+    "zh": "乔基犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/4NWunSWE1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Popular designer crossbreed developed in the late 20th century (likely 1990s) in the United States by intentionally crossing Chihuahua and Yorkshire Terrier to create a small, loyal companion dog with spirited temperament",
-    "zh": "Popular designer crossbreed developed in the late 20th century (likely 1990s) in the United States by intentionally crossing Chihuahua and Yorkshire Terrier to create a small, loyal companion dog with spirited temperament"
+    "zh": "20世纪末（可能为1990年代）在美国培育的流行设计混种犬，通过有意杂交吉娃娃和约克夏梗，培育出体型小巧、忠诚且性情活泼的伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

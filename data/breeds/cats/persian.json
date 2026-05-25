@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Persian",
-    "zh": "Persian"
+    "zh": "波斯猫"
   },
   "images": [
     "/images/breeds/cats/persian-1.jpg"
   ],
   "origin": {
     "en": "Iran (Persia)",
-    "zh": "Iran (Persia)"
+    "zh": "伊朗（波斯）"
   },
   "history": {
     "en": "Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.",
-    "zh": "Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time."
+    "zh": "波斯猫是甜美、温柔的猫，可以活泼好动，也可以安静悠闲。它们非常适合家庭和孩子，绝对喜欢在房子里闲逛。虽然它们不介意满屋子的人或活跃的孩子，但当需要独处时，它们通常会躲起来。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Sedate",
-      "zh": "Sedate"
+      "zh": "沉静"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     }
   ]
 }

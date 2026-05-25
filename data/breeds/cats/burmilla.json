@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Burmilla",
-    "zh": "Burmilla"
+    "zh": "伯米拉猫"
   },
   "images": [
     "/images/breeds/cats/burmilla-1.jpg"
   ],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
-    "zh": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company."
+    "zh": "伯米拉猫是一种相当平静的猫咪。它们往往容易相处，需要最少的照顾。伯米拉猫深情而甜美，是一个好伴侣，是消磨孤独夜晚的理想伙伴。忠诚、奉献、深情，这只猫会一直陪伴在主人身边。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Easy Going",
-      "zh": "Easy Going"
+      "zh": "随和"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

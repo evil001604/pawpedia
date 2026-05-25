@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Siamese",
-    "zh": "Siamese"
+    "zh": "暹罗猫"
   },
   "images": [
     "/images/breeds/cats/siamese-1.jpg"
   ],
   "origin": {
     "en": "Thailand",
-    "zh": "Thailand"
+    "zh": "泰国"
   },
   "history": {
     "en": "While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.",
-    "zh": "While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods."
+    "zh": "暹罗猫非常依恋主人，会跟随你左右并监督你的一举一动，它们爱说话且固执己见。这是一种要求高且社交性强的猫，不喜欢长时间独处。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Clever",
-      "zh": "Clever"
+      "zh": "聪明"
     },
     {
       "en": "Sociable",
-      "zh": "Sociable"
+      "zh": "社交"
     },
     {
       "en": "Loving",
-      "zh": "Loving"
+      "zh": "可爱"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     }
   ]
 }

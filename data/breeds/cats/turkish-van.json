@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Turkish Van",
-    "zh": "Turkish Van"
+    "zh": "土耳其梵猫"
   },
   "images": [
     "/images/breeds/cats/turkish-van-1.jpg"
   ],
   "origin": {
     "en": "Turkey",
-    "zh": "Turkey"
+    "zh": "土耳其"
   },
   "history": {
     "en": "While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. ",
-    "zh": "While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. "
+    "zh": "土耳其梵猫喜欢跳跃和攀爬、玩玩具、捡东西和追逐游戏，但它体型大且笨拙；这是一只不总能四脚着地的猫。虽然不太喜欢做膝上猫，但梵猫很乐意依偎在你身边，睡在你的床上。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     }
   ]
 }

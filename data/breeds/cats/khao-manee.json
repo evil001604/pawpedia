@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Khao Manee",
-    "zh": "Khao Manee"
+    "zh": "考拉猫"
   },
   "images": [
     "/images/breeds/cats/khao-manee-1.jpg"
   ],
   "origin": {
     "en": "Thailand",
-    "zh": "Thailand"
+    "zh": "泰国"
   },
   "history": {
     "en": "The Khao Manee is highly intelligent, with an extrovert and inquisitive nature, however they are also very calm and relaxed, making them an idea lap cat.",
-    "zh": "The Khao Manee is highly intelligent, with an extrovert and inquisitive nature, however they are also very calm and relaxed, making them an idea lap cat."
+    "zh": "考拉猫非常聪明，性格外向且好奇，然而它们也非常冷静和放松，使其成为理想的膝上猫。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     },
     {
       "en": "Relaxed",
-      "zh": "Relaxed"
+      "zh": "放松"
     },
     {
       "en": "Talkative",
-      "zh": "Talkative"
+      "zh": "健谈"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Warm",
-      "zh": "Warm"
+      "zh": "温暖"
     }
   ]
 }

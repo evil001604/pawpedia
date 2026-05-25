@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Azawakh",
-    "zh": "Azawakh"
+    "zh": "阿扎瓦克犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/B1YDzppN7.gif"
   ],
   "origin": {
     "en": "West Africa (Sahel region: Mali, Niger, Burkina Faso)",
-    "zh": "West Africa (Sahel region: Mali, Niger, Burkina Faso)"
+    "zh": "西非（萨赫勒地区：马里、尼日尔、布基纳法索）"
   },
   "history": {
     "en": "Ancient sighthound breed developed by nomadic Tuareg peoples of the Sahel region for hunting gazelle and other game, protecting livestock, and serving as companions. Bred for speed and stamina in Saharan and Sahelian conditions",
-    "zh": "Ancient sighthound breed developed by nomadic Tuareg peoples of the Sahel region for hunting gazelle and other game, protecting livestock, and serving as companions. Bred for speed and stamina in Saharan and Sahelian conditions"
+    "zh": "古老的视觉猎犬品种，由萨赫勒地区的游牧图阿雷格人培育，用于狩猎瞪羚等猎物、保护牲畜并作为伴侣犬。为适应撒哈拉和萨赫勒环境，特别注重速度和耐力培育。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "aloof",
-      "zh": "aloof"
+      "zh": "冷漠"
     }
   ]
 }

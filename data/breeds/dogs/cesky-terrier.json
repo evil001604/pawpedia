@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cesky Terrier",
-    "zh": "Cesky Terrier"
+    "zh": "捷克梗"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/61r5MvNDov.jpg"
   ],
   "origin": {
     "en": "Czech Republic",
-    "zh": "Czech Republic"
+    "zh": "捷克共和国"
   },
   "history": {
     "en": "Developed in the mid-20th century by Czech breeder František Horák, who crossed Scottish Terriers with Sealyham Terriers to create a tenacious but more tractable hunting terrier for the forests of Bohemia. Recognized by the FCI in 1963 and AKC in 2011.",
-    "zh": "Developed in the mid-20th century by Czech breeder František Horák, who crossed Scottish Terriers with Sealyham Terriers to create a tenacious but more tractable hunting terrier for the forests of Bohemia. Recognized by the FCI in 1963 and AKC in 2011."
+    "zh": "20世纪中期由捷克育种家František Horák培育，通过苏格兰梗与西利汉梗杂交，创造出一种坚韧但更易驯服的猎梗，用于波西米亚森林狩猎。1963年获FCI认可，2011年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "奉献"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bassettoodle",
-    "zh": "Bassettoodle"
+    "zh": "巴塞特贵宾犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/r1ZfomsN7.gif"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed developed in the United States by combining Basset Hound and Standard Poodle, aiming to create a companion dog with the Poodle's intelligence and hypoallergenic coat combined with the Basset's friendly, easygoing temperament",
-    "zh": "Modern designer crossbreed developed in the United States by combining Basset Hound and Standard Poodle, aiming to create a companion dog with the Poodle's intelligence and hypoallergenic coat combined with the Basset's friendly, easygoing temperament"
+    "zh": "现代设计师混种犬，在美国通过将巴吉度猎犬和标准贵宾犬杂交培育而成，旨在创造一种兼具贵宾犬的聪明和低过敏性被毛，以及巴吉度犬友好、随和性格的伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

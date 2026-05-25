@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "British Shorthair",
-    "zh": "British Shorthair"
+    "zh": "英国短毛猫"
   },
   "images": [
     "/images/breeds/cats/british-shorthair-1.jpg"
   ],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.",
-    "zh": "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people."
+    "zh": "英国短毛猫是一种非常令人愉快的伴侣猫，性格随和、平静。它们非常忠诚、有爱，会依恋家庭中的每一个成员。虽然喜欢玩耍，但不需要每时每刻的关注。如果它们有心情玩耍，会找到一个人并带一个玩具给那个人。英国短毛猫也能很好地自己玩耍，因此是单身人士的好伴侣。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Easy Going",
-      "zh": "Easy Going"
+      "zh": "随和"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Patient",
-      "zh": "Patient"
+      "zh": "耐心"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     }
   ]
 }

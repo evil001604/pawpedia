@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bankhar Dog",
-    "zh": "Bankhar Dog"
+    "zh": "班卡尔犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/CoY2vOo3q0.jpg"
   ],
   "origin": {
     "en": "Mongolia",
-    "zh": "Mongolia"
+    "zh": "蒙古"
   },
   "history": {
     "en": "Ancient landrace livestock guardian breed developed by nomadic Mongolian herders for over 15,000 years to protect livestock from wolves snow leopards and other predators. Modern conservation efforts by organizations like the Mongolian Bankhar Dog Project work to preserve and reintroduce the breed to traditional working roles.",
-    "zh": "Ancient landrace livestock guardian breed developed by nomadic Mongolian herders for over 15,000 years to protect livestock from wolves snow leopards and other predators. Modern conservation efforts by organizations like the Mongolian Bankhar Dog Project work to preserve and reintroduce the breed to traditional working roles."
+    "zh": "古老的土种牲畜护卫犬，由蒙古游牧牧民培育超过15000年，用于保护牲畜免受狼、雪豹等掠食者侵害。现代保护工作由蒙古班哈尔犬项目等组织开展，致力于保存该品种并恢复其传统工作职能。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Protective",
-      "zh": "Protective"
+      "zh": "保护欲"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

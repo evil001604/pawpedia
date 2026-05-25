@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Birman",
-    "zh": "Birman"
+    "zh": "伯曼猫"
   },
   "images": [
     "/images/breeds/cats/birman-1.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.",
-    "zh": "The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby."
+    "zh": "伯曼猫是一种温顺、安静的猫咪，热爱人类，会跟随主人从一个房间到另一个房间。它们希望参与你正在做的事情。它们用柔和的声音交流，主要是提醒你也许是时候吃晚餐了，或者想在沙发上好好依偎一下。它们喜欢被抱着，会像毛茸茸的婴儿一样在你怀里放松。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

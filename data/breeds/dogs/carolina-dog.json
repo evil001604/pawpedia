@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Carolina Dog",
-    "zh": "Carolina Dog"
+    "zh": "卡罗莱纳犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/XyPrtzWMn.jpg"
   ],
   "origin": {
     "en": "Southeastern United States",
-    "zh": "Southeastern United States"
+    "zh": "美国东南部"
   },
   "history": {
     "en": "Primitive landrace breed descended from ancient dogs that accompanied early human migrations across the Bering land bridge. Discovered living as free-roaming population in cypress swamps of South Carolina and Georgia by Dr. I. Lehr Brisbin Jr. Recognized by UKC and seeking AKC recognition.",
-    "zh": "Primitive landrace breed descended from ancient dogs that accompanied early human migrations across the Bering land bridge. Discovered living as free-roaming population in cypress swamps of South Carolina and Georgia by Dr. I. Lehr Brisbin Jr. Recognized by UKC and seeking AKC recognition."
+    "zh": "原始地方品种，源自伴随早期人类穿越白令陆桥迁徙的古老犬种。由I. Lehr Brisbin Jr.博士在南卡罗来纳州和佐治亚州的柏树沼泽中发现，作为自由放养的种群生活。已获得UKC认可，并正在寻求AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "警觉"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Aussiedoodle",
-    "zh": "Aussiedoodle"
+    "zh": "奥西贵宾犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/TZwbGR2T6.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed developed in the late 20th century/1990s in the United States by crossing Australian Shepherd and Poodle to create a highly intelligent low-shedding companion dog",
-    "zh": "Modern designer crossbreed developed in the late 20th century/1990s in the United States by crossing Australian Shepherd and Poodle to create a highly intelligent low-shedding companion dog"
+    "zh": "20世纪末/20世纪90年代在美国培育的现代设计师杂交犬，通过澳大利亚牧羊犬与贵宾犬杂交，创造出高度聪明、低掉毛的伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     }
   ]
 }

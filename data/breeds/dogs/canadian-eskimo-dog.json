@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Canadian Eskimo Dog",
-    "zh": "Canadian Eskimo Dog"
+    "zh": "加拿大爱斯基摩犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/w1Cal_vrT.jpg"
   ],
   "origin": {
     "en": "Canadian Arctic",
-    "zh": "Canadian Arctic"
+    "zh": "加拿大北极地区"
   },
   "history": {
     "en": "Ancient aboriginal breed used by the Inuit people of the Canadian Arctic for thousands of years as a multi-purpose working dog for sledding, transportation and hunting. Nearly extinct with introduction of snowmobiles but saved through dedicated preservation and revival efforts.",
-    "zh": "Ancient aboriginal breed used by the Inuit people of the Canadian Arctic for thousands of years as a multi-purpose working dog for sledding, transportation and hunting. Nearly extinct with introduction of snowmobiles but saved through dedicated preservation and revival efforts."
+    "zh": "因纽特人在加拿大北极地区使用了数千年的古老本土犬种，作为雪橇、运输和狩猎的多功能工作犬。随着雪地摩托的引入几乎灭绝，但通过专注的保护和复兴努力得以拯救。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "警觉"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Ca de Bou",
-    "zh": "Ca de Bou"
+    "zh": "卡德布犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/By4A-eqVX_1280.jpg"
   ],
   "origin": {
     "en": "Majorca, Balearic Islands, Spain",
-    "zh": "Majorca, Balearic Islands, Spain"
+    "zh": "西班牙巴利阿里群岛马略卡岛"
   },
   "history": {
     "en": "Ancient breed descended from Iberian Mastiff and English Bulldogs brought to the Balearic Islands. Originally used for bull-baiting and as a farm guard dog, the breed nearly faced extinction after blood sports were banned but was revived by dedicated Spanish breeders in the 20th century.",
-    "zh": "Ancient breed descended from Iberian Mastiff and English Bulldogs brought to the Balearic Islands. Originally used for bull-baiting and as a farm guard dog, the breed nearly faced extinction after blood sports were banned but was revived by dedicated Spanish breeders in the 20th century."
+    "zh": "源自伊比利亚獒犬和带到巴利阿里群岛的英国斗牛犬的古老犬种。最初用于斗牛和作为农场护卫犬，在血腥运动被禁止后几乎灭绝，但20世纪由西班牙专注的繁育者复兴。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     }
   ]
 }

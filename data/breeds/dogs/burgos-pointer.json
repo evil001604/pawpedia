@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Burgos Pointer",
-    "zh": "Burgos Pointer"
+    "zh": "布尔戈斯指示犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/UDcVZlmJh9.jpg"
   ],
   "origin": {
     "en": "Burgos, Castile and León, Spain",
-    "zh": "Burgos, Castile and León, Spain"
+    "zh": "西班牙卡斯蒂利亚-莱昂布尔戈斯"
   },
   "history": {
     "en": "Ancient Spanish pointer breed descended from old Spanish Pointer, developed over centuries in the Castile region for hunting feathered and small game in varied terrain. Lineage dates back to at least the 16th century and recognized by the FCI.",
-    "zh": "Ancient Spanish pointer breed descended from old Spanish Pointer, developed over centuries in the Castile region for hunting feathered and small game in varied terrain. Lineage dates back to at least the 16th century and recognized by the FCI."
+    "zh": "古老的西班牙指示犬，源自西班牙老式指示犬，在卡斯蒂利亚地区经过数百年培育，用于在多样地形中狩猎鸟类和小型猎物。血统可追溯至至少16世纪，并获FCI认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "docile",
-      "zh": "docile"
+      "zh": "温顺"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

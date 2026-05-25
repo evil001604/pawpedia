@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Boxerdoodle",
-    "zh": "Boxerdoodle"
+    "zh": "拳师贵宾犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/uEPB98jBS.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed first intentionally bred in the United States in recent decades. Developed to combine the Boxer's athleticism, loyalty and playful temperament with the Poodle's intelligence and low-shedding coat qualities. Not recognized by major kennel clubs.",
-    "zh": "Modern designer crossbreed first intentionally bred in the United States in recent decades. Developed to combine the Boxer's athleticism, loyalty and playful temperament with the Poodle's intelligence and low-shedding coat qualities. Not recognized by major kennel clubs."
+    "zh": "近几十年来在美国首次有意培育的现代设计混血犬。旨在结合拳师犬的运动能力、忠诚和活泼性格与贵宾犬的智慧和低掉毛被毛特性。未获主要犬业俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

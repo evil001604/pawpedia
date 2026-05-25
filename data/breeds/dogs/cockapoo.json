@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cockapoo",
-    "zh": "Cockapoo"
+    "zh": "可卡普犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/LZ3fo6EEPD.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "One of the first 'designer breeds' with intentional breeding starting in the United States in the 1960s. Goal was to combine the outgoing, loving personality of the Cocker Spaniel with the low-shedding, intelligent nature of the Poodle to create a healthy companion dog",
-    "zh": "One of the first 'designer breeds' with intentional breeding starting in the United States in the 1960s. Goal was to combine the outgoing, loving personality of the Cocker Spaniel with the low-shedding, intelligent nature of the Poodle to create a healthy companion dog"
+    "zh": "最早的设计师犬种之一，1960年代在美国开始有意培育。目标是结合可卡犬外向、可爱的性格与贵宾犬低脱毛、聪明的特质，创造健康的伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     }
   ]
 }

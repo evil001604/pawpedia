@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Australian Shepherd",
-    "zh": "Australian Shepherd"
+    "zh": "澳大利亚牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/TGB2APNbS.jpg"
   ],
   "origin": {
     "en": "Western United States",
-    "zh": "Western United States"
+    "zh": "美国西部"
   },
   "history": {
     "en": "Despite its name, the Australian Shepherd was developed in the American West in the 19th century from Basque shepherd dogs brought by immigrants from the Pyrenees region. The breed's intelligence and versatility made it popular on the rodeo circuit and for ranching work.",
-    "zh": "Despite its name, the Australian Shepherd was developed in the American West in the 19th century from Basque shepherd dogs brought by immigrants from the Pyrenees region. The breed's intelligence and versatility made it popular on the rodeo circuit and for ranching work."
+    "zh": "尽管名为澳大利亚牧羊犬，但该品种是在19世纪美国西部由来自比利牛斯地区的巴斯克移民带来的牧羊犬培育而成。其聪明和多功能性使其在牛仔竞技和牧场工作中广受欢迎。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "奉献"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "运动能力强"
     }
   ]
 }

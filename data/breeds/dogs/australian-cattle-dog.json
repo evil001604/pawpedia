@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Australian Cattle Dog",
-    "zh": "Australian Cattle Dog"
+    "zh": "澳大利亚牧牛犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/cb5ROjCCNf.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Developed in 19th century Australia by crossing British herding dogs including blue merle Collies with native Dingo, with later infusions of Dalmatian and Black and Tan Kelpie to create a hardy cattle herding dog for harsh Australian conditions",
-    "zh": "Developed in 19th century Australia by crossing British herding dogs including blue merle Collies with native Dingo, with later infusions of Dalmatian and Black and Tan Kelpie to create a hardy cattle herding dog for harsh Australian conditions"
+    "zh": "19世纪在澳大利亚培育而成，通过将英国牧羊犬（包括蓝陨石色柯利犬）与本地澳洲野狗杂交，后来加入大麦町犬和黑棕凯尔皮犬的血统，创造出适应澳大利亚恶劣条件的耐寒牧牛犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

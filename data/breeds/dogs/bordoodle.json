@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bordoodle",
-    "zh": "Bordoodle"
+    "zh": "博多犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/eXOAOSOt9e.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Developed in the late 20th/early 21st century by crossing Border Collies with Standard Poodles to create a highly intelligent, low-shedding companion. Part of the popular 'doodle' designer breed trend",
-    "zh": "Developed in the late 20th/early 21st century by crossing Border Collies with Standard Poodles to create a highly intelligent, low-shedding companion. Part of the popular 'doodle' designer breed trend"
+    "zh": "20世纪末至21世纪初，通过杂交边境牧羊犬与标准贵宾犬培育而成，旨在创造一种高度聪明、低掉毛的伴侣犬。属于流行的“贵宾混血”设计犬种趋势的一部分。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     }
   ]
 }

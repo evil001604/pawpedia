@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Exotic Shorthair",
-    "zh": "Exotic Shorthair"
+    "zh": "异国短毛猫"
   },
   "images": [
     "/images/breeds/cats/exotic-shorthair-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.",
-    "zh": "The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors."
+    "zh": "异国短毛猫是一种温柔友好的猫，具有与波斯猫相同的性格。它们喜欢玩乐，不介意与其他猫狗为伴，也喜欢蜷缩在安全的地方睡觉。异国短毛猫热爱自己的家人，但在陌生人面前起初会谨慎。给它们时间，它们通常会逐渐对访客热情起来。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Sweet",
-      "zh": "Sweet"
+      "zh": "甜美"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     },
     {
       "en": "Peaceful",
-      "zh": "Peaceful"
+      "zh": "平和"
     }
   ]
 }

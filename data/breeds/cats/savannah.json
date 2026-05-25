@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Savannah",
-    "zh": "Savannah"
+    "zh": "萨凡纳猫"
   },
   "images": [
     "/images/breeds/cats/savannah-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.",
-    "zh": "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved."
+    "zh": "萨凡纳猫是猫中的狗。它们积极寻求社交互动，如果被冷落会噘嘴。一生都保持小猫般的特性。对直系家庭成员极其忠诚，同时质疑陌生人的存在。它们是忠诚、聪明且渴望参与的优秀伴侣。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Outgoing",
-      "zh": "Outgoing"
+      "zh": "外向"
     },
     {
       "en": "Adventurous",
-      "zh": "Adventurous"
+      "zh": "冒险"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     }
   ]
 }

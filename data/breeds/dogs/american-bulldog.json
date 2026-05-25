@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Bulldog",
-    "zh": "American Bulldog"
+    "zh": "美国斗牛犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/QdwFluBnbf.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Descended from Old English Bulldogs brought by working-class immigrants to the American South. Developed as versatile all-around farm utility dogs for guarding property, catching livestock, and protection. The breed was preserved from near extinction after WWII by breeders John D. Johnson and Alan Scott.",
-    "zh": "Descended from Old English Bulldogs brought by working-class immigrants to the American South. Developed as versatile all-around farm utility dogs for guarding property, catching livestock, and protection. The breed was preserved from near extinction after WWII by breeders John D. Johnson and Alan Scott."
+    "zh": "源自工人阶级移民带到美国南部的老式英国斗牛犬。被培育为多用途农场犬，用于看守财产、捕捉牲畜和护卫。二战后，通过繁育者约翰·D·约翰逊和艾伦·斯科特的努力，该品种从濒临灭绝中得以保存。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Confident",
-      "zh": "Confident"
+      "zh": "自信"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护性"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

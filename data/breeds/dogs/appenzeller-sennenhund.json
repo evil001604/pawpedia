@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Appenzeller Sennenhund",
-    "zh": "Appenzeller Sennenhund"
+    "zh": "阿彭策尔山犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/jJIqSF3mP.jpg"
   ],
   "origin": {
     "en": "Appenzell region, Switzerland",
-    "zh": "Appenzell region, Switzerland"
+    "zh": "瑞士阿彭策尔地区"
   },
   "history": {
     "en": "One of the four Swiss Sennenhund breeds, this ancient breed from the Appenzell region was used for centuries as an all-purpose farm dog for herding cattle, guarding property, and pulling carts. Formally established in the late 19th century through the efforts of forester Max Siber and Professor Albert Heim.",
-    "zh": "One of the four Swiss Sennenhund breeds, this ancient breed from the Appenzell region was used for centuries as an all-purpose farm dog for herding cattle, guarding property, and pulling carts. Formally established in the late 19th century through the efforts of forester Max Siber and Professor Albert Heim."
+    "zh": "四种瑞士山地犬之一，这一来自阿彭策尔地区的古老品种几个世纪以来被用作多用途农场犬，用于放牧牛群、看守财产和拉车。19世纪末通过林务员马克斯·西伯和教授阿尔伯特·海姆的努力正式确立。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

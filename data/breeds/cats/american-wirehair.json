@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "American Wirehair",
-    "zh": "American Wirehair"
+    "zh": "美国硬毛猫"
   },
   "images": [
     "/images/breeds/cats/american-wirehair-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
-    "zh": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house."
+    "zh": "美国硬毛猫往往是一种冷静而宽容的猫，随遇而安。它最喜欢的爱好是在阳光明媚的窗台上观鸟，如果昆虫进入屋内，它的狩猎能力将派上用场。"
   },
   "stats": {
     "weight": {
@@ -64,43 +64,43 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动性强"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Sensible",
-      "zh": "Sensible"
+      "zh": "理智"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

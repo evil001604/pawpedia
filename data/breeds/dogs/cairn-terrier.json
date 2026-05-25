@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cairn Terrier",
-    "zh": "Cairn Terrier"
+    "zh": "凯恩梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/0LJiOVlxp.jpg"
   ],
   "origin": {
     "en": "Scotland",
-    "zh": "Scotland"
+    "zh": "苏格兰"
   },
   "history": {
     "en": "Developed on the Isle of Skye in Scotland, one of the oldest terrier breeds. Originally used by farmers in the Scottish Highlands to hunt and flush out foxes and vermin from rock piles (cairns), which gave the breed its name. Recognized by the AKC in 1913.",
-    "zh": "Developed on the Isle of Skye in Scotland, one of the oldest terrier breeds. Originally used by farmers in the Scottish Highlands to hunt and flush out foxes and vermin from rock piles (cairns), which gave the breed its name. Recognized by the AKC in 1913."
+    "zh": "培育于苏格兰斯凯岛，是最古老的梗犬之一。最初被苏格兰高地的农民用于从石堆（cairns）中猎捕和驱赶狐狸及害虫，该犬种因此得名。1913年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "警觉"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Singapura",
-    "zh": "Singapura"
+    "zh": "新加坡猫"
   },
   "images": [
     "/images/breeds/cats/singapura-1.jpg"
   ],
   "origin": {
     "en": "Singapore",
-    "zh": "Singapore"
+    "zh": "新加坡"
   },
   "history": {
     "en": "The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge",
-    "zh": "The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge"
+    "zh": "新加坡猫在遇到陌生人时通常很谨慎，但非常喜欢家人的关注，有时甚至因此被视作“小麻烦”。这是一种高度活跃、好奇且深情的猫。虽然体型小，但它知道自己是主人。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Easy Going",
-      "zh": "Easy Going"
+      "zh": "随和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bắc Hà",
-    "zh": "Bắc Hà"
+    "zh": "北河犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/hOQCNqMDb.jpg"
   ],
   "origin": {
     "en": "Bắc Hà District, Lào Cai Province, northern Vietnam",
-    "zh": "Bắc Hà District, Lào Cai Province, northern Vietnam"
+    "zh": "越南老街省北河县"
   },
   "history": {
     "en": "Indigenous spitz-type breed developed by ethnic minority groups, particularly the Hmong people, in the mountainous Bắc Hà region of northern Vietnam. Traditionally used for hunting, guarding, and companionship. Officially recognized by the Vietnam Kennel Association in 2019.",
-    "zh": "Indigenous spitz-type breed developed by ethnic minority groups, particularly the Hmong people, in the mountainous Bắc Hà region of northern Vietnam. Traditionally used for hunting, guarding, and companionship. Officially recognized by the Vietnam Kennel Association in 2019."
+    "zh": "本土斯皮茨型犬种，由越南北部北河山区的少数民族（尤其是苗族）培育。传统上用于狩猎、护卫和陪伴。2019年获得越南犬业协会正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Spitz and Primitive Types",
-      "zh": "Spitz and Primitive Types"
+      "zh": "尖嘴犬和原始犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

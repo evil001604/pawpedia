@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Bambino",
-    "zh": "Bambino"
+    "zh": "班比诺猫"
   },
   "images": [
     "/images/breeds/cats/bambino-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
-    "zh": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members."
+    "zh": "班比诺猫是斯芬克斯猫和曼基康猫杂交培育的品种。班比诺猫腿短，耳朵大而直立，通常无毛。它们喜欢被抚摸和依偎在家人的腿上。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     }
   ]
 }

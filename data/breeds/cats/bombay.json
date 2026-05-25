@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Bombay",
-    "zh": "Bombay"
+    "zh": "孟买猫"
   },
   "images": [
     "/images/breeds/cats/bombay-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.",
-    "zh": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder."
+    "zh": "孟买猫的金色眼睛和闪亮黑色被毛绝对引人注目。它们很可能与家庭中的某个成员建立最深的联系，会跟随你从一个房间到另一个房间，并且几乎总是对你正在做的事情发表意见，喜欢被关注和被抱着，通常是在主人的肩膀上。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Dependent",
-      "zh": "Dependent"
+      "zh": "依赖"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

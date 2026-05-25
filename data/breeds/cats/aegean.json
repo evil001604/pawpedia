@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Aegean",
-    "zh": "Aegean"
+    "zh": "爱琴猫"
   },
   "images": [
     "/images/breeds/cats/aegean-1.jpg"
   ],
   "origin": {
     "en": "Greece",
-    "zh": "Greece"
+    "zh": "希腊"
   },
   "history": {
     "en": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
-    "zh": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children."
+    "zh": "原产于爱琴海基克拉泽斯群岛的希腊岛屿，这些是自然猫，意味着它们是在没有人类干预的情况下自然发展的。作为一个品种，爱琴猫很稀有，尽管在它们的家乡岛屿上数量众多。它们通常对人类友好，是适合有孩子家庭的优秀猫咪。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     }
   ]
 }

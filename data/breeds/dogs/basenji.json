@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Basenji",
-    "zh": "Basenji"
+    "zh": "巴辛吉犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/LvKF3cSkb.jpg"
   ],
   "origin": {
     "en": "Central Africa",
-    "zh": "Central Africa"
+    "zh": "中非"
   },
   "history": {
     "en": "Ancient breed originating in Central Africa, depicted in Egyptian and Babylonian art. Prized by Pygmy tribes and Congo region tribes as versatile hunters for their speed and silence. Brought to England in the 1930s and established in the West.",
-    "zh": "Ancient breed originating in Central Africa, depicted in Egyptian and Babylonian art. Prized by Pygmy tribes and Congo region tribes as versatile hunters for their speed and silence. Brought to England in the 1930s and established in the West."
+    "zh": "起源于中非的古老品种，在埃及和巴比伦艺术中均有描绘。因速度和静默特性，被俾格米部落和刚果地区部落珍视为多功能猎犬。20世纪30年代引入英国并在西方确立地位。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "curious",
-      "zh": "curious"
+      "zh": "好奇"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

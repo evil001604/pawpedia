@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chart Polski",
-    "zh": "Chart Polski"
+    "zh": "波兰灵缇"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/B35dV8-1_.jpg"
   ],
   "origin": {
     "en": "Poland",
-    "zh": "Poland"
+    "zh": "波兰"
   },
   "history": {
     "en": "Ancient Polish sighthound breed with origins dating back to the 13th century used by nobility for hunting hare fox deer boar and wolves. Nearly extinct after WWII but successfully revived through careful breeding programs in the latter half of the 20th century.",
-    "zh": "Ancient Polish sighthound breed with origins dating back to the 13th century used by nobility for hunting hare fox deer boar and wolves. Nearly extinct after WWII but successfully revived through careful breeding programs in the latter half of the 20th century."
+    "zh": "古老波兰视觉猎犬品种，起源可追溯至13世纪，被贵族用于狩猎野兔、狐狸、鹿、野猪和狼。二战后几乎灭绝，但通过20世纪下半叶的精心育种计划成功复兴。"
   },
   "stats": {
     "weight": {
@@ -64,39 +64,39 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Independent",
-      "zh": "Independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "护主"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

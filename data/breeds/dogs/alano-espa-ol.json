@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Alano Español",
-    "zh": "Alano Español"
+    "zh": "西班牙阿拉诺犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/tK427WKY9r.jpg"
   ],
   "origin": {
     "en": "Spain",
-    "zh": "Spain"
+    "zh": "西班牙"
   },
   "history": {
     "en": "Ancient Spanish Molosser breed tied to dogs brought by Alani tribes in 5th century. Traditionally used for hunting large game, cattle herding, and guard work. Nearly extinct but recovered in late 20th century from remaining specimens in rural Spain.",
-    "zh": "Ancient Spanish Molosser breed tied to dogs brought by Alani tribes in 5th century. Traditionally used for hunting large game, cattle herding, and guard work. Nearly extinct but recovered in late 20th century from remaining specimens in rural Spain."
+    "zh": "古老的西班牙獒犬品种，与5世纪阿兰尼部落带来的犬种有关。传统上用于狩猎大型猎物、牧牛和护卫工作。几乎灭绝，但在20世纪末从西班牙乡村的剩余个体中恢复。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护性"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Braque du Bourbonnais",
-    "zh": "Braque du Bourbonnais"
+    "zh": "波旁布拉可犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/BkxcYOnHm_1280.jpg"
   ],
   "origin": {
     "en": "Bourbonnais region, France",
-    "zh": "Bourbonnais region, France"
+    "zh": "法国波旁地区"
   },
   "history": {
     "en": "One of the most ancient French pointing breeds, documented since the 16th century. Nearly extinct after World War II but successfully restored in the 1970s by dedicated breeders from remaining bloodlines following French and FCI standards.",
-    "zh": "One of the most ancient French pointing breeds, documented since the 16th century. Nearly extinct after World War II but successfully restored in the 1970s by dedicated breeders from remaining bloodlines following French and FCI standards."
+    "zh": "最古老的法国指示犬种之一，自16世纪有记载。第二次世界大战后几乎灭绝，但20世纪70年代由专注的繁育者根据剩余血统按照法国和FCI标准成功恢复。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

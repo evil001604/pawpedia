@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Czechoslovakian Wolfdog",
-    "zh": "Czechoslovakian Wolfdog"
+    "zh": "捷克斯洛伐克狼犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/xqSZ5QgaTA.jpg"
   ],
   "origin": {
     "en": "Czechoslovakia",
-    "zh": "Czechoslovakia"
+    "zh": "捷克斯洛伐克"
   },
   "history": {
     "en": "Developed in 1955 in Czechoslovakia through biological experiment crossing German Shepherd Dogs with Carpathian wolves. Goal was to blend trainability of German Shepherd with stamina and pack instinct of wolf for military border patrol use. Officially recognized by FCI in 1989.",
-    "zh": "Developed in 1955 in Czechoslovakia through biological experiment crossing German Shepherd Dogs with Carpathian wolves. Goal was to blend trainability of German Shepherd with stamina and pack instinct of wolf for military border patrol use. Officially recognized by FCI in 1989."
+    "zh": "1955年在捷克斯洛伐克通过生物实验培育，将德国牧羊犬与喀尔巴阡狼杂交。目标是融合德国牧羊犬的可训练性与狼的耐力和群体本能，用于军事边境巡逻。1989年获FCI正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Border Terrier",
-    "zh": "Border Terrier"
+    "zh": "边境梗"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/Co9d1Ojqn6.jpg"
   ],
   "origin": {
     "en": "Border regions between England and Scotland",
-    "zh": "Border regions between England and Scotland"
+    "zh": "英格兰和苏格兰边境地区"
   },
   "history": {
     "en": "Developed in the 18th century in the Cheviot Hills along the English-Scottish border by farmers and shepherds to hunt fox alongside foxhounds. Needed to be small enough to follow quarry into dens and burrows but tough enough to keep up with horses and work independently.",
-    "zh": "Developed in the 18th century in the Cheviot Hills along the English-Scottish border by farmers and shepherds to hunt fox alongside foxhounds. Needed to be small enough to follow quarry into dens and burrows but tough enough to keep up with horses and work independently."
+    "zh": "18世纪，在英格兰与苏格兰边境的切维厄特丘陵地区，由农民和牧羊人培育而成，用于与猎狐犬一同捕猎狐狸。体型需足够小巧以跟随猎物进入洞穴和巢穴，同时又要足够强壮以跟上马匹并独立工作。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

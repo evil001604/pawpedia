@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Australian Stumpy Tail Cattle Dog",
-    "zh": "Australian Stumpy Tail Cattle Dog"
+    "zh": "澳大利亚短尾牧牛犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Q72V090BS.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Developed in the early-to-mid 1800s by Australian cattlemen crossing British herding dogs (such as the Smithfield) with native Australian dingo-type dogs. Bred specifically for working ability and natural bob-tail, developing parallel to the Australian Cattle Dog as an independent herding breed.",
-    "zh": "Developed in the early-to-mid 1800s by Australian cattlemen crossing British herding dogs (such as the Smithfield) with native Australian dingo-type dogs. Bred specifically for working ability and natural bob-tail, developing parallel to the Australian Cattle Dog as an independent herding breed."
+    "zh": "19世纪初至中期由澳大利亚牧场主培育而成，通过英国牧羊犬（如史密斯菲尔德犬）与本地澳洲野狗型犬杂交。专门为工作能力和自然短尾而繁育，与澳大利亚牧牛犬平行发展，成为一种独立的牧牛犬种。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

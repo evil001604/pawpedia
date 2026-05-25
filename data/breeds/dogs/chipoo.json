@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chipoo",
-    "zh": "Chipoo"
+    "zh": "奇普犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/hKXTfH70r.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Modern designer crossbreed developed in the United States by crossing a Chihuahua with a Toy Poodle to combine the Poodle's intelligence and low-shedding coat with the Chihuahua's spirited personality and compact companion size",
-    "zh": "Modern designer crossbreed developed in the United States by crossing a Chihuahua with a Toy Poodle to combine the Poodle's intelligence and low-shedding coat with the Chihuahua's spirited personality and compact companion size"
+    "zh": "现代设计混种犬，在美国通过吉娃娃与玩具贵宾犬杂交培育，结合贵宾犬的智慧与低脱毛被毛，以及吉娃娃活泼的个性和紧凑的伴侣体型。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

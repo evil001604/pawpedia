@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Dogo Argentino",
-    "zh": "Dogo Argentino"
+    "zh": "阿根廷杜高犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/SJuYFO3HQ_1280.jpg"
   ],
   "origin": {
     "en": "Argentina",
-    "zh": "Argentina"
+    "zh": "阿根廷"
   },
   "history": {
     "en": "Developed in Argentina in the 1920s by Dr. Antonio Nores Martinez who systematically crossed the now-extinct Cordoba Fighting Dog with Great Dane, Boxer, Bull Terrier, and Pointer to create a versatile big-game hunter for wild boar and puma",
-    "zh": "Developed in Argentina in the 1920s by Dr. Antonio Nores Martinez who systematically crossed the now-extinct Cordoba Fighting Dog with Great Dane, Boxer, Bull Terrier, and Pointer to create a versatile big-game hunter for wild boar and puma"
+    "zh": "1920年代在阿根廷由安东尼奥·诺雷斯·马丁内斯博士培育而成，他系统性地将现已灭绝的科尔多瓦斗犬与大丹犬、拳师犬、牛头梗和波音达猎犬杂交，培育出一种用于猎杀野猪和美洲狮的多功能大型狩猎犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Courageous",
-      "zh": "Courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

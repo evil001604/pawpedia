@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Biewer Terrier",
-    "zh": "Biewer Terrier"
+    "zh": "比弗梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/PJvRHYfs1.jpg"
   ],
   "origin": {
     "en": "Hunsruck, Germany",
-    "zh": "Hunsruck, Germany"
+    "zh": "德国洪斯吕克"
   },
   "history": {
     "en": "Developed in Germany in 1984 by Werner and Gertrud Biewer from a piebald genetic mutation in their Yorkshire Terrier breeding program. Through selective breeding, they established this distinct tri-colored toy breed. AKC recognized in 2021.",
-    "zh": "Developed in Germany in 1984 by Werner and Gertrud Biewer from a piebald genetic mutation in their Yorkshire Terrier breeding program. Through selective breeding, they established this distinct tri-colored toy breed. AKC recognized in 2021."
+    "zh": "1984年由维尔纳和格特鲁德·比维尔在德国通过约克夏梗繁育计划中的花斑基因突变培育而成。通过选择性繁殖，他们建立了这种独特的三色玩具犬品种。2021年获得AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Toy",
-      "zh": "Toy"
+      "zh": "玩具犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

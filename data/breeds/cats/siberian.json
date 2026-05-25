@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Siberian",
-    "zh": "Siberian"
+    "zh": "西伯利亚猫"
   },
   "images": [
     "/images/breeds/cats/siberian-1.jpg"
   ],
   "origin": {
     "en": "Russia",
-    "zh": "Russia"
+    "zh": "俄罗斯"
   },
   "history": {
     "en": "The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. ",
-    "zh": "The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. "
+    "zh": "西伯利亚猫拥有类似狗的性格和深情，是理想的膝上猫，能非常快乐地生活在室内。它们敏捷而强壮，能轻松跳跃到高处，包括冰箱顶部甚至门顶。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Sweet",
-      "zh": "Sweet"
+      "zh": "甜美"
     },
     {
       "en": "Agile",
-      "zh": "Agile"
+      "zh": "敏捷"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     }
   ]
 }

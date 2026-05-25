@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bearded Collie",
-    "zh": "Bearded Collie"
+    "zh": "古代长须牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/6kOWrryau.jpg"
   ],
   "origin": {
     "en": "Scotland",
-    "zh": "Scotland"
+    "zh": "苏格兰"
   },
   "history": {
     "en": "Ancient Scottish herding breed developed to drive sheep and cattle in harsh Highland conditions, bred for hardiness, intelligence, and ability to work independently. Nearly extinct after World War II but revived through careful breeding programs. Recognized by Kennel Club in 1959 and AKC in 1977.",
-    "zh": "Ancient Scottish herding breed developed to drive sheep and cattle in harsh Highland conditions, bred for hardiness, intelligence, and ability to work independently. Nearly extinct after World War II but revived through careful breeding programs. Recognized by Kennel Club in 1959 and AKC in 1977."
+    "zh": "古老的苏格兰牧羊犬种，培育用于在恶劣的高地条件下驱赶羊和牛，以耐寒、聪明和独立工作能力著称。二战后几乎灭绝，但通过精心育种计划得以复兴。1959年得到英国养犬俱乐部认可，1977年得到AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     }
   ]
 }

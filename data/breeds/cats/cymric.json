@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Cymric",
-    "zh": "Cymric"
+    "zh": "西姆瑞克猫"
   },
   "images": [
     "/images/breeds/cats/cymric-1.jpg"
   ],
   "origin": {
     "en": "Canada",
-    "zh": "Canada"
+    "zh": "加拿大"
   },
   "history": {
     "en": "The Cymric is a placid, sweet cat. They do not get too upset about anything that happens in their world. They are loving companions and adore people. They are smart and dexterous, capable of using his paws to get into cabinets or to open doors.",
-    "zh": "The Cymric is a placid, sweet cat. They do not get too upset about anything that happens in their world. They are loving companions and adore people. They are smart and dexterous, capable of using his paws to get into cabinets or to open doors."
+    "zh": "西姆瑞克猫是一种平静、甜美的猫咪。它们不会对世界上发生的任何事情感到过于不安。它们是充满爱心的伴侣，崇拜人类。它们聪明灵巧，能够用爪子打开橱柜或门。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

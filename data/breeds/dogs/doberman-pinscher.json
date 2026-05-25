@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Doberman Pinscher",
-    "zh": "Doberman Pinscher"
+    "zh": "杜宾犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/rJk6rpTEm.gif"
   ],
   "origin": {
     "en": "Germany",
-    "zh": "Germany"
+    "zh": "德国"
   },
   "history": {
     "en": "Created in late 19th century by Karl Friedrich Louis Dobermann using breeds such as the Rottweiler, German Pinscher, and others for protection and companionship",
-    "zh": "Created in late 19th century by Karl Friedrich Louis Dobermann using breeds such as the Rottweiler, German Pinscher, and others for protection and companionship"
+    "zh": "19世纪末由卡尔·弗里德里希·路易斯·杜宾曼使用罗威纳犬、德国宾莎犬等犬种培育而成，用于护卫和陪伴。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

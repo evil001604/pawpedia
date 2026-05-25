@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Blue Picardy Spaniel",
-    "zh": "Blue Picardy Spaniel"
+    "zh": "蓝色皮卡迪猎犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/zjh8jtzgtM.jpg"
   ],
   "origin": {
     "en": "Picardy, France",
-    "zh": "Picardy, France"
+    "zh": "法国皮卡迪"
   },
   "history": {
     "en": "Developed in the Picardy region of France in the early 20th century by crossing Picardy Spaniels with English Setters (likely Gordon Setters) to produce a versatile, hardy pointing dog with the distinctive blue-speckled coat. Recognized by the FCI.",
-    "zh": "Developed in the Picardy region of France in the early 20th century by crossing Picardy Spaniels with English Setters (likely Gordon Setters) to produce a versatile, hardy pointing dog with the distinctive blue-speckled coat. Recognized by the FCI."
+    "zh": "20世纪初在法国皮卡第地区通过杂交皮卡第猎犬和英国塞特犬（可能是戈登塞特犬）培育而成，是一种多功能、耐寒的指示犬，具有独特的蓝色斑点被毛。已获FCI认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

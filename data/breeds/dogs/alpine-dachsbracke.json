@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Alpine Dachsbracke",
-    "zh": "Alpine Dachsbracke"
+    "zh": "阿尔卑斯达克斯布拉克犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/0qgmSrCbvZ.jpg"
   ],
   "origin": {
     "en": "Austria",
-    "zh": "Austria"
+    "zh": "奥地利"
   },
   "history": {
     "en": "Developed in the Austrian Alps during the mid-19th century as a durable scent hound for tracking wounded deer, boar, and hare over rugged terrain. Descended from larger Austrian hounds crossed with Dachshunds, it was a favorite of Crown Prince Rudolf of Habsburg and is officially recognized by the FCI.",
-    "zh": "Developed in the Austrian Alps during the mid-19th century as a durable scent hound for tracking wounded deer, boar, and hare over rugged terrain. Descended from larger Austrian hounds crossed with Dachshunds, it was a favorite of Crown Prince Rudolf of Habsburg and is officially recognized by the FCI."
+    "zh": "19世纪中期在奥地利阿尔卑斯地区培育而成，是一种耐用的嗅觉猎犬，用于在崎岖地形追踪受伤的鹿、野猪和野兔。由大型奥地利猎犬与腊肠犬杂交而来，曾是哈布斯堡王朝鲁道夫王储的最爱，并获FCI正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

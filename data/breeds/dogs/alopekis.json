@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Alopekis",
-    "zh": "Alopekis"
+    "zh": "阿洛佩基斯犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/qXTOAloY9.jpg"
   ],
   "origin": {
     "en": "Greece",
-    "zh": "Greece"
+    "zh": "希腊"
   },
   "history": {
     "en": "Ancient Greek landrace breed with depictions found on ancient pottery, traditionally used as versatile farm companion for vermin control and watchdog duties. Kept for thousands of years in rural Greek communities, with current preservation and standardization efforts ongoing for official recognition.",
-    "zh": "Ancient Greek landrace breed with depictions found on ancient pottery, traditionally used as versatile farm companion for vermin control and watchdog duties. Kept for thousands of years in rural Greek communities, with current preservation and standardization efforts ongoing for official recognition."
+    "zh": "古老的希腊地方品种，在古代陶器上有描绘，传统上用作多功能农场伴侣犬，负责害虫控制和看门职责。在希腊乡村社区中保存了数千年，目前正在进行保护和标准化工作以争取官方认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Primitive",
-      "zh": "Primitive"
+      "zh": "原始犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "活泼"
     }
   ]
 }

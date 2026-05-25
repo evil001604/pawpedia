@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Burmese",
-    "zh": "Burmese"
+    "zh": "缅甸猫"
   },
   "images": [
     "/images/breeds/cats/burmese-1.jpg"
   ],
   "origin": {
     "en": "Burma",
-    "zh": "Burma"
+    "zh": "缅甸"
   },
   "history": {
     "en": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
-    "zh": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics."
+    "zh": "缅甸猫喜欢与人相处，和他们玩耍，并让他们开心。它们渴望亲密的身体接触，讨厌空着的膝盖。它们会跟随主人从一个房间到另一个房间，并和主人一起睡在床上，最好是在被子下面，尽可能紧地依偎在一起。玩耍时，它们会转身看看主人是否在观看并享受它们疯狂的滑稽动作。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Interactive",
-      "zh": "Interactive"
+      "zh": "互动"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     }
   ]
 }

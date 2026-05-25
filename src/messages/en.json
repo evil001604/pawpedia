@@ -1,0 +1,250 @@
+{
+  "site": {
+    "title": "PetPedia - AI Pet Encyclopedia",
+    "description": "Comprehensive dog and cat breed encyclopedia with AI-powered health diagnosis"
+  },
+  "nav": {
+    "home": "Home",
+    "dogs": "Dogs",
+    "cats": "Cats",
+    "compare": "Compare",
+    "quiz": "Find Your Pet"
+  },
+  "footer": {
+    "copyright": "2026 PetPedia. All rights reserved.",
+    "disclaimer": "Not medical advice. Consult a veterinarian for health concerns.",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "diagnosis": "AI Diagnosis",
+    "dataSource": "Data from TheDogAPI & TheCatAPI"
+  },
+  "home": {
+    "hero": "Discover the World of Pets",
+    "subtitle": "Comprehensive dog and cat breed encyclopedia with AI-powered health diagnosis",
+    "exploreDogs": "Explore Dogs",
+    "exploreCats": "Explore Cats",
+    "breedCount": "{count} breeds",
+    "tryDiagnosis": "Try AI Diagnosis",
+    "diagnosisDesc": "Select your pet type and symptoms to get preliminary health insights.",
+    "features": {
+      "traits": { "title": "Personality Traits", "desc": "Detailed radar charts showing temperament, loyalty, intelligence and more" },
+      "health": { "title": "Health Guide", "desc": "Common diseases, shedding levels, and care tips for each breed" },
+      "diagnosis": { "title": "AI Diagnosis", "desc": "Select symptoms and get preliminary health condition analysis" },
+      "products": { "title": "Product Recommendations", "desc": "Curated pet supplies matched to your breed's needs" }
+    }
+  },
+  "breeds": {
+    "dogs": "Dog Breeds",
+    "cats": "Cat Breeds",
+    "breedCount": "{count} breeds",
+    "searchPlaceholder": "Search breed name...",
+    "noResults": "No breeds found matching your search.",
+    "weight": "Weight",
+    "lifespan": "Lifespan"
+  },
+  "detail": {
+    "allDogs": "All Dog Breeds",
+    "allCats": "All Cat Breeds",
+    "history": "History & Origin",
+    "traits": "Personality Traits",
+    "health": "Health Information",
+    "products": "Recommended Products",
+    "shedding": "Shedding Level",
+    "diseases": "Common Health Issues",
+    "symptoms": "Symptoms",
+    "prevention": "Prevention",
+    "careTips": "Care Tips",
+    "noHistory": "No history available.",
+    "chat": "Breed Chat",
+    "chatPlaceholder": "Leave a message about this breed...",
+    "chatSend": "Send",
+    "chatEmpty": "No messages yet. Be the first to share!",
+    "chatNamePlaceholder": "Your name (optional)",
+    "chatAnonymous": "Anonymous",
+    "diagnoseCTA": "Concerned about your pet's health?",
+    "diagnoseButton": "Try AI Diagnosis for this breed"
+  },
+  "health": {
+    "title": "Health Encyclopedia",
+    "subtitle": "Learn about common health issues, care guides, and preventive measures.",
+    "generalTips": "General Care Tips",
+    "byBreed": "Health Info by Breed",
+    "viewDogs": "View health info for all dog breeds",
+    "viewCats": "View health info for all cat breeds",
+    "dogBreeds": "Dog Breeds ({count})",
+    "catBreeds": "Cat Breeds ({count})"
+  },
+  "diagnose": {
+    "title": "AI Pet Health Diagnosis",
+    "subtitle": "Select your pet type and symptoms for a preliminary health analysis.",
+    "stepType": "Step 1: Select Pet Type",
+    "stepSymptoms": "Step 2: Select Symptoms",
+    "stepResult": "Diagnosis Results",
+    "dog": "Dog",
+    "cat": "Cat",
+    "selectSymptoms": "Select at least one symptom to continue.",
+    "selectSymptomsHint": "Tap symptoms your pet is experiencing:",
+    "startDiagnosis": "Start Diagnosis",
+    "restart": "Start Over",
+    "diagnosisSuggestions": "Diagnosis Suggestions",
+    "resultsBasedOn": "Based on your selected symptoms, here are possible conditions:",
+    "probability": "Probability",
+    "recommendedActions": "Recommended Actions",
+    "noResults": "No matching conditions found. Please consult a veterinarian.",
+    "symptomCategories": {
+      "skin": "Skin & Coat",
+      "digestive": "Digestive",
+      "respiratory": "Respiratory",
+      "behavior": "Behavior",
+      "mobility": "Mobility",
+      "general": "General"
+    }
+  },
+  "products": {
+    "title": "Recommended Products",
+    "for": "For {breed}"
+  },
+  "about": {
+    "title": "About PetPedia",
+    "subtitle": "Your trusted AI-powered pet encyclopedia",
+    "mission": {
+      "title": "Our Mission",
+      "content": "PetPedia is dedicated to providing comprehensive, accurate, and accessible information about dog and cat breeds worldwide. We leverage AI technology to help pet owners make informed decisions about their furry companions."
+    },
+    "operator": {
+      "title": "Operator Information",
+      "name": "hellessy",
+      "role": "Platform Operator",
+      "email": "xiaojuntang80@gmail.com",
+      "emailLabel": "Contact Email"
+    },
+    "dataSources": {
+      "title": "Data Sources",
+      "description": "We aggregate and curate data from authoritative APIs to ensure accuracy:",
+      "dogApi": {
+        "name": "TheDogAPI",
+        "url": "https://thedogapi.com",
+        "description": "Comprehensive dog breed database with images, temperament, and characteristics"
+      },
+      "catApi": {
+        "name": "TheCatAPI",
+        "url": "https://thecatapi.com",
+        "description": "Extensive cat breed data including personality traits and health information"
+      }
+    },
+    "features": {
+      "title": "What We Offer",
+      "encyclopedia": { "title": "Breed Encyclopedia", "desc": "Detailed profiles for 266+ dog and cat breeds" },
+      "comparison": { "title": "Breed Comparison", "desc": "Side-by-side comparison across 10 professional dimensions" },
+      "quiz": { "title": "Smart Recommendation", "desc": "AI-powered quiz to find your perfect pet match" },
+      "diagnosis": { "title": "Health Diagnosis", "desc": "Preliminary AI health analysis based on symptoms" }
+    },
+    "disclaimer": "All information provided is for educational purposes only and should not replace professional veterinary advice.",
+    "lastUpdated": "Last updated: May 2026"
+  },
+  "compare": {
+    "title": "Breed Comparison",
+    "subtitle": "Compare two breeds side-by-side across 10 professional dimensions",
+    "selectBreedA": "Select first breed",
+    "selectBreedB": "Select second breed",
+    "sameSpeciesRequired": "Both breeds must be of the same species (both dogs or both cats)",
+    "startComparison": "Start Comparison",
+    "vs": "VS",
+    "totalScore": "Total Score",
+    "winner": "Winner",
+    "tie": "Tie",
+    "strengths": "Strengths",
+    "backToSelection": "Back to Selection",
+    "dimensions": {
+      "energy": "Energy Level",
+      "energyDesc": "How active and energetic the breed is",
+      "intelligence": "Intelligence",
+      "intelligenceDesc": "Learning ability and problem-solving skills",
+      "trainability": "Trainability",
+      "trainabilityDesc": "Ease of training and obedience",
+      "grooming": "Grooming Needs",
+      "groomingDesc": "Time and effort required for coat maintenance",
+      "shedding": "Shedding Amount",
+      "sheddingDesc": "How much the breed sheds",
+      "friendliness": "Friendliness",
+      "friendlinessDesc": "How sociable and friendly towards strangers",
+      "goodWithKids": "Good with Kids",
+      "goodWithKidsDesc": "Suitability for families with children",
+      "adaptability": "Adaptability",
+      "adaptabilityDesc": "How well the breed adapts to different environments",
+      "health": "Health Rating",
+      "healthDesc": "Overall healthiness and longevity potential",
+      "size": "Size Category",
+      "sizeDesc": "Physical size from small (3) to giant (9)"
+    },
+    "scoreLabels": {
+      "1": "Very Low",
+      "3": "Low",
+      "5": "Moderate",
+      "7": "High",
+      "9": "Very High",
+      "10": "Excellent"
+    },
+    "noBreedSelected": "Please select a breed",
+    "error": {
+      "sameSpecies": "Cannot compare different species. Please select two dogs or two cats."
+    }
+  },
+  "quiz": {
+    "title": "Find Your Perfect Pet",
+    "subtitle": "Answer 10 questions and we'll recommend the best breeds for you",
+    "start": "Start Quiz",
+    "next": "Next",
+    "previous": "Previous",
+    "restart": "Start Over",
+    "question": "Question {current} of {total}",
+    "selectPetType": "Which pet are you interested in?",
+    "dog": "🐕 Dog",
+    "cat": "🐈 Cat",
+    "resultTitle": "Your Top 3 Matches",
+    "resultSubtitle": "Based on your answers, here are the best breeds for you",
+    "matchScore": "Match Score",
+    "viewDetails": "View Details",
+    "compareSelected": "Compare These Breeds",
+    "reasons": "Why this breed fits you",
+    "noResults": "No matches found. Try adjusting your answers.",
+    "reasonsLabel": {
+      "energy_high": "High energy matches your active lifestyle",
+      "energy_low": "Calm temperament suits your relaxed home",
+      "friendly": "Very friendly and sociable",
+      "trainable": "Easy to train - ideal for your experience level",
+      "low_grooming": "Low grooming needs match your preference",
+      "compact_size": "Compact size fits your living space",
+      "adaptable": "Highly adaptable to different environments",
+      "healthy": "Generally healthy breed with fewer health concerns"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "overview": {
+      "title": "Overview",
+      "content": "PetPedia (operated by hellessy) respects your privacy. This policy explains what information we collect, how we use it, and your rights regarding your data."
+    },
+    "dataCollection": {
+      "title": "Data Collection",
+      "content": "We use Google Analytics to understand how visitors use our site (pages visited, time on site, general location). We do not collect personal information such as names, email addresses, or payment details. Our breed data comes from TheDogAPI and TheCatAPI."
+    },
+    "cookies": {
+      "title": "Cookies & Tracking",
+      "content": "We use cookies for Google Analytics and Google AdSense to serve relevant advertisements and analyze traffic. You can disable cookies in your browser settings. By continuing to use this site, you consent to our use of cookies."
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "content": "We use Google AdSense to display advertisements. Google may use cookies to serve ads based on your prior visits to this or other websites. We also use TheDogAPI and TheCatAPI as data sources for breed information."
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "If you have questions about this privacy policy, please contact us at:"
+    }
+  },
+  "common": {
+    "male": "Male",
+    "female": "Female"
+  }
+}

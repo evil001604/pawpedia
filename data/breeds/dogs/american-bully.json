@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Bully",
-    "zh": "American Bully"
+    "zh": "美国恶霸犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Skjdd_3S7_1280.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Developed in the United States between the 1980s and 1990s as a companion breed through selective breeding of American Pit Bull Terriers, American Staffordshire Terriers, and other bulldog-type breeds to produce a dog with a gentler temperament and more muscular, 'bullier' physique. Recognized by the United Kennel Club in 2013.",
-    "zh": "Developed in the United States between the 1980s and 1990s as a companion breed through selective breeding of American Pit Bull Terriers, American Staffordshire Terriers, and other bulldog-type breeds to produce a dog with a gentler temperament and more muscular, 'bullier' physique. Recognized by the United Kennel Club in 2013."
+    "zh": "20世纪80至90年代在美国培育而成，作为伴侣犬种，通过选择性繁殖美国比特犬、美国斯塔福德郡梗及其他斗牛犬类型，培育出性情更温和、体型更肌肉发达、更‘斗牛犬化’的犬种。2013年获联合犬业俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Companion",
-      "zh": "Companion"
+      "zh": "伴侣犬"
     },
     {
       "en": "Confident",
-      "zh": "Confident"
+      "zh": "自信"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     }
   ]
 }

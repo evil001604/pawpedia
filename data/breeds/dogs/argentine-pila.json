@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Argentine Pila",
-    "zh": "Argentine Pila"
+    "zh": "阿根廷皮拉犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Hy3H7g94X_1280.jpg"
   ],
   "origin": {
     "en": "Argentina",
-    "zh": "Argentina"
+    "zh": "阿根廷"
   },
   "history": {
     "en": "An ancient hairless breed native to Argentina, believed to have descended from dogs brought by pre-Incan peoples. Related to other South American hairless breeds and traditionally kept as a companion for perceived therapeutic warmth among indigenous peoples.",
-    "zh": "An ancient hairless breed native to Argentina, believed to have descended from dogs brought by pre-Incan peoples. Related to other South American hairless breeds and traditionally kept as a companion for perceived therapeutic warmth among indigenous peoples."
+    "zh": "一种原产于阿根廷的无毛古老品种，据信源自前印加人带来的犬种。与南美其他无毛犬种有关，传统上被原住民视为具有治疗性温暖的伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Spitz and Primitive Types",
-      "zh": "Spitz and Primitive Types"
+      "zh": "尖嘴犬和原始犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

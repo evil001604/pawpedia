@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Carpathian Shepherd Dog",
-    "zh": "Carpathian Shepherd Dog"
+    "zh": "喀尔巴阡牧羊犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/CQUHaShvmM.jpg"
   ],
   "origin": {
     "en": "Carpathian Mountains, Romania",
-    "zh": "Carpathian Mountains, Romania"
+    "zh": "罗马尼亚喀尔巴阡山脉"
   },
   "history": {
     "en": "Ancient breed developed over centuries by Romanian shepherds in the Carpathian Mountains for protecting sheep flocks from predators. First breed standard written in 1934 by the National Institute for Animal Husbandry and officially recognized by the FCI in 2005.",
-    "zh": "Ancient breed developed over centuries by Romanian shepherds in the Carpathian Mountains for protecting sheep flocks from predators. First breed standard written in 1934 by the National Institute for Animal Husbandry and officially recognized by the FCI in 2005."
+    "zh": "由罗马尼亚牧羊人在喀尔巴阡山脉经过几个世纪培育的古老品种，用于保护羊群免受捕食者侵害。第一个品种标准于1934年由国家畜牧研究所制定，并于2005年获得FCI正式认可。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

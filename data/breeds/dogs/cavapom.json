@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cavapom",
-    "zh": "Cavapom"
+    "zh": "卡瓦波姆犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Bkf4Ea6NX.gif"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "A modern designer crossbreed developed in the United States by crossing a Cavalier King Charles Spaniel with Pomeranian to create a small companion dog combining the gentle nature of the Cavalier with the lively, fluffy appearance of the Pomeranian. Gained popularity in the late 20th and early 21st centuries",
-    "zh": "A modern designer crossbreed developed in the United States by crossing a Cavalier King Charles Spaniel with Pomeranian to create a small companion dog combining the gentle nature of the Cavalier with the lively, fluffy appearance of the Pomeranian. Gained popularity in the late 20th and early 21st centuries"
+    "zh": "一种现代设计师杂交犬，在美国通过将卡瓦利尔国王查理士猎犬与博美犬杂交培育而成，旨在创造一种结合卡瓦利尔温柔天性和博美活泼蓬松外观的小型伴侣犬。在20世纪末和21世纪初流行起来。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Mixed",
-      "zh": "Mixed"
+      "zh": "混种犬"
     },
     {
       "en": "Friendly",
-      "zh": "Friendly"
+      "zh": "友善"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "outgoing",
-      "zh": "outgoing"
+      "zh": "外向"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     }
   ]
 }

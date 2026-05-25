@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Donskoy",
-    "zh": "Donskoy"
+    "zh": "顿斯科伊猫"
   },
   "images": [
     "/images/breeds/cats/donskoy-1.jpg"
   ],
   "origin": {
     "en": "Russia",
-    "zh": "Russia"
+    "zh": "俄罗斯"
   },
   "history": {
     "en": "Donskoy are affectionate, intelligent, and easy-going. They demand lots of attention and interaction. The Donskoy also gets along well with other pets. It is now thought the same gene that causes degrees of hairlessness in the Donskoy also causes alterations in cat personality, making them calmer the less hair they have.",
-    "zh": "Donskoy are affectionate, intelligent, and easy-going. They demand lots of attention and interaction. The Donskoy also gets along well with other pets. It is now thought the same gene that causes degrees of hairlessness in the Donskoy also causes alterations in cat personality, making them calmer the less hair they have."
+    "zh": "顿斯科伊猫深情、聪明且随和。它们需要大量的关注和互动。顿斯科伊猫也能与其他宠物和睦相处。现在认为，导致顿斯科伊猫不同程度无毛的同一基因也会引起猫性格的改变，使它们毛发越少越冷静。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "social",
-      "zh": "social"
+      "zh": "社交"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Clumber Spaniel",
-    "zh": "Clumber Spaniel"
+    "zh": "克伦伯猎鹬犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/lYxCEtfMI1.jpg"
   ],
   "origin": {
     "en": "England",
-    "zh": "England"
+    "zh": "英格兰"
   },
   "history": {
     "en": "Developed in the 18th century, associated with the French Duc de Noailles and Duke of Newcastle's Clumber Park estate in Nottinghamshire. Likely developed from Alpine Spaniel, Basset Hound crosses. Prized by British royalty and nobility as gentleman's hunting spaniels for game flushing",
-    "zh": "Developed in the 18th century, associated with the French Duc de Noailles and Duke of Newcastle's Clumber Park estate in Nottinghamshire. Likely developed from Alpine Spaniel, Basset Hound crosses. Prized by British royalty and nobility as gentleman's hunting spaniels for game flushing"
+    "zh": "18世纪培育，与法国诺阿耶公爵和英国纽卡斯尔公爵位于诺丁汉郡的克兰伯公园庄园相关。可能由高山猎犬与巴吉度猎犬杂交而来。被英国王室和贵族珍视为绅士猎鹬犬，用于驱赶猎物。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     }
   ]
 }

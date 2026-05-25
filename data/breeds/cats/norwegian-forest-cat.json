@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Norwegian Forest Cat",
-    "zh": "Norwegian Forest Cat"
+    "zh": "挪威森林猫"
   },
   "images": [
     "/images/breeds/cats/norwegian-forest-cat-1.jpg"
   ],
   "origin": {
     "en": "Norway",
-    "zh": "Norway"
+    "zh": "挪威"
   },
   "history": {
     "en": "The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.",
-    "zh": "The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine."
+    "zh": "挪威森林猫是一种甜美、充满爱意的猫。它欣赏赞美，喜欢与主人互动。一旦它接受主人，就会成为充满爱意的伴侣并与之建立纽带。它内心仍然是一个猎手。它喜欢追逐玩具，仿佛它们是真实的一样。它有领地意识，每天巡逻几次以确保一切正常。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Sweet",
-      "zh": "Sweet"
+      "zh": "甜美"
     },
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     }
   ]
 }

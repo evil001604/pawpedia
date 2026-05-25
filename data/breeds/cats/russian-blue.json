@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Russian Blue",
-    "zh": "Russian Blue"
+    "zh": "俄罗斯蓝猫"
   },
   "images": [
     "/images/breeds/cats/russian-blue-1.jpg"
   ],
   "origin": {
     "en": "Russia",
-    "zh": "Russia"
+    "zh": "俄罗斯"
   },
   "history": {
     "en": "Russian Blues are very loving and reserved. They do not like noisy households but they do like to play and can be quite active when outdoors. They bond very closely with their owner and are known to be compatible with other pets.",
-    "zh": "Russian Blues are very loving and reserved. They do not like noisy households but they do like to play and can be quite active when outdoors. They bond very closely with their owner and are known to be compatible with other pets."
+    "zh": "俄罗斯蓝猫非常深情且内敛。它们不喜欢嘈杂的家庭，但喜欢玩耍，在户外时可能非常活跃。它们与主人关系非常紧密，并且以与其他宠物相处融洽而闻名。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Dependent",
-      "zh": "Dependent"
+      "zh": "依赖"
     },
     {
       "en": "Easy Going",
-      "zh": "Easy Going"
+      "zh": "随和"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     }
   ]
 }

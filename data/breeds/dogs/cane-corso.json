@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cane Corso",
-    "zh": "Cane Corso"
+    "zh": "卡斯罗犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/mUQvfY4ykr.jpg"
   ],
   "origin": {
     "en": "Italy",
-    "zh": "Italy"
+    "zh": "意大利"
   },
   "history": {
     "en": "Ancient Italian breed descended from Roman Molossian war dogs, developed as a versatile farmhand, guardian, and hunter of large game. The breed nearly faced extinction but was revived by enthusiasts in the 1970s.",
-    "zh": "Ancient Italian breed descended from Roman Molossian war dogs, developed as a versatile farmhand, guardian, and hunter of large game. The breed nearly faced extinction but was revived by enthusiasts in the 1970s."
+    "zh": "古老的意大利犬种，源自罗马莫洛西亚战犬，被培育成多用途农场犬、护卫犬和大型猎物猎犬。该品种曾濒临灭绝，但在20世纪70年代由爱好者复兴。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Confident",
-      "zh": "Confident"
+      "zh": "自信"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲强"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

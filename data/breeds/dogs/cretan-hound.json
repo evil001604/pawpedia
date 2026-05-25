@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cretan Hound",
-    "zh": "Cretan Hound"
+    "zh": "克里特猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/r1Ylge5Vm_1280.jpg"
   ],
   "origin": {
     "en": "Crete, Greece",
-    "zh": "Crete, Greece"
+    "zh": "希腊克里特岛"
   },
   "history": {
     "en": "Ancient Hellenic breed native to the Greek island of Crete, with depictions dating back over 4,000 years. Developed for hunting hare and wild rabbits over harsh, rocky terrain. Regarded as one of the oldest European hounds and recognized provisionally by the FCI.",
-    "zh": "Ancient Hellenic breed native to the Greek island of Crete, with depictions dating back over 4,000 years. Developed for hunting hare and wild rabbits over harsh, rocky terrain. Regarded as one of the oldest European hounds and recognized provisionally by the FCI."
+    "zh": "古希腊犬种，原产于希腊克里特岛，其形象可追溯至4000多年前。为在崎岖多岩地形中猎捕野兔而培育，被认为是欧洲最古老的猎犬之一，并获FCI临时认可。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "athletic",
-      "zh": "athletic"
+      "zh": "健壮"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

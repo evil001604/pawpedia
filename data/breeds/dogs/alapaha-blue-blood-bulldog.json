@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Alapaha Blue Blood Bulldog",
-    "zh": "Alapaha Blue Blood Bulldog"
+    "zh": "阿拉帕哈蓝血斗牛犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/QI4c7HAR8G.jpg"
   ],
   "origin": {
     "en": "Alapaha River region of southern Georgia, United States",
-    "zh": "Alapaha River region of southern Georgia, United States"
+    "zh": "美国佐治亚州南部阿拉帕哈河地区"
   },
   "history": {
     "en": "Developed in the Alapaha River region of southern Georgia as a multi-purpose catch dog for working cattle and hogs, and as a family guardian. Descended from Old English Bulldogs and recreated the original plantation bulldogs of the 1800s, maintained by the Lane family.",
-    "zh": "Developed in the Alapaha River region of southern Georgia as a multi-purpose catch dog for working cattle and hogs, and as a family guardian. Descended from Old English Bulldogs and recreated the original plantation bulldogs of the 1800s, maintained by the Lane family."
+    "zh": "在佐治亚州南部的阿拉帕哈河地区培育，作为多功能捕牛犬用于牧牛和猪，以及家庭护卫犬。源自老式英国斗牛犬，重现了19世纪的原始种植园斗牛犬，由莱恩家族维持。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护性"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

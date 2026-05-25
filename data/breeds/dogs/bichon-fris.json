@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bichon Frisé",
-    "zh": "Bichon Frisé"
+    "zh": "卷毛比熊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/WsN7xOoRZ.jpg"
   ],
   "origin": {
     "en": "France / Belgium",
-    "zh": "France / Belgium"
+    "zh": "法国/比利时"
   },
   "history": {
     "en": "Descended from the Barbet, a Mediterranean water spaniel. The breed was developed in France and became a popular companion dog for European nobility. The modern breed standard was established in France after World War I.",
-    "zh": "Descended from the Barbet, a Mediterranean water spaniel. The breed was developed in France and became a popular companion dog for European nobility. The modern breed standard was established in France after World War I."
+    "zh": "源自地中海的水猎犬巴贝特。该品种在法国培育，成为欧洲贵族喜爱的伴侣犬。现代品种标准于第一次世界大战后在法国确立。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Happy",
-      "zh": "Happy"
+      "zh": "快乐"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     }
   ]
 }

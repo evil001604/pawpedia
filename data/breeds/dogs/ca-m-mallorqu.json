@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Ca Mè Mallorquí",
-    "zh": "Ca Mè Mallorquí"
+    "zh": "马略卡牧羊犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/srEbgkWEe.jpg"
   ],
   "origin": {
     "en": "Mallorca, Balearic Islands, Spain",
-    "zh": "Mallorca, Balearic Islands, Spain"
+    "zh": "西班牙巴利阿里群岛马略卡岛"
   },
   "history": {
     "en": "Traditional working dog of Mallorca developed for hunting and herding, adapted to local Mediterranean terrain and climate, recognized by Spanish kennel organizations",
-    "zh": "Traditional working dog of Mallorca developed for hunting and herding, adapted to local Mediterranean terrain and climate, recognized by Spanish kennel organizations"
+    "zh": "马略卡岛的传统工作犬，为狩猎和放牧而培育，适应本地地中海地形和气候，获西班牙犬业组织认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Alert",
-      "zh": "Alert"
+      "zh": "警觉"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     }
   ]
 }

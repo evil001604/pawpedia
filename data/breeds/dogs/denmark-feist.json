@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Denmark Feist",
-    "zh": "Denmark Feist"
+    "zh": "丹麦费斯特犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/-lue5tDMo.jpg"
   ],
   "origin": {
     "en": "Denmark, Tennessee, United States",
-    "zh": "Denmark, Tennessee, United States"
+    "zh": "美国田纳西州丹麦"
   },
   "history": {
     "en": "The Denmark Feist is a specific line of Treeing Feist developed by the Slade family in Denmark, Tennessee, originating from dogs brought to the area in 1917. Developed from terrier and hound crosses, these historic American hunting dogs were prized by early settlers for their vermin-hunting and treeing abilities.",
-    "zh": "The Denmark Feist is a specific line of Treeing Feist developed by the Slade family in Denmark, Tennessee, originating from dogs brought to the area in 1917. Developed from terrier and hound crosses, these historic American hunting dogs were prized by early settlers for their vermin-hunting and treeing abilities."
+    "zh": "丹麦费斯特犬是树栖费斯特犬的一个特定品系，由田纳西州丹麦镇的斯莱德家族培育，源自1917年带入该地区的犬种。由梗犬和猎犬杂交培育而成，这些历史悠久的美国猎犬因捕鼠和树栖能力而受早期定居者珍视。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Scenthound",
-      "zh": "Scenthound"
+      "zh": "嗅觉猎犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

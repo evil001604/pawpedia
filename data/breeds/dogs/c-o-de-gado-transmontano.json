@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cão de Gado Transmontano",
-    "zh": "Cão de Gado Transmontano"
+    "zh": "特兰斯蒙塔诺牧牛犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/r1dgtOnBm_1280.jpg"
   ],
   "origin": {
     "en": "Trás-os-Montes region, Portugal",
-    "zh": "Trás-os-Montes region, Portugal"
+    "zh": "葡萄牙特拉什-奥斯-蒙蒂什地区"
   },
   "history": {
     "en": "Ancient Iberian mastiff-type breed developed in the remote Trás-os-Montes region of northern Portugal, used for centuries by shepherds to guard flocks against wolves and other predators in harsh mountain conditions. Recognized by the FCI for its courage, loyalty, and ability to work independently.",
-    "zh": "Ancient Iberian mastiff-type breed developed in the remote Trás-os-Montes region of northern Portugal, used for centuries by shepherds to guard flocks against wolves and other predators in harsh mountain conditions. Recognized by the FCI for its courage, loyalty, and ability to work independently."
+    "zh": "古老的伊比利亚獒犬型犬种，培育于葡萄牙北部偏远的特拉斯-奥斯-蒙蒂斯地区，几个世纪以来被牧羊人用于在恶劣山区环境中保护羊群免受狼和其他捕食者侵害。因其勇气、忠诚和独立工作能力获FCI认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Protective",
-      "zh": "Protective"
+      "zh": "保护欲强"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     }
   ]
 }

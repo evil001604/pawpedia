@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bolognese",
-    "zh": "Bolognese"
+    "zh": "博洛尼亚犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/B1bCOd3SX_1280.jpg"
   ],
   "origin": {
     "en": "Bologna, Italy",
-    "zh": "Bologna, Italy"
+    "zh": "意大利博洛尼亚"
   },
   "history": {
     "en": "An ancient noble breed of the Bichon family, originating in Bologna, Italy, dating to 11th-12th centuries. Prized companions to royalty and aristocracy from the Roman era through the Renaissance, favored as palace companions.",
-    "zh": "An ancient noble breed of the Bichon family, originating in Bologna, Italy, dating to 11th-12th centuries. Prized companions to royalty and aristocracy from the Roman era through the Renaissance, favored as palace companions."
+    "zh": "比熊家族的古老贵族品种，起源于意大利博洛尼亚，可追溯至11-12世纪。从罗马时代到文艺复兴时期，一直是皇室和贵族的珍贵伴侣，被青睐为宫廷伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Toy",
-      "zh": "Toy"
+      "zh": "玩具犬"
     },
     {
       "en": "Calm",
-      "zh": "Calm"
+      "zh": "冷静"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "gentle",
-      "zh": "gentle"
+      "zh": "温和"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

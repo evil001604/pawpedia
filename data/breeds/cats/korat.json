@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Korat",
-    "zh": "Korat"
+    "zh": "科拉特猫"
   },
   "images": [
     "https://cdn2.thecatapi.com/images/DbwiefiaY.jpg"
   ],
   "origin": {
     "en": "Thailand",
-    "zh": "Thailand"
+    "zh": "泰国"
   },
   "history": {
     "en": "The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.",
-    "zh": "The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby."
+    "zh": "科拉特猫是一种自然品种，也是最古老的稳定猫品种之一。它们是高度聪明和自信的猫，可能无所畏惧，尽管它们会被响亮的声音和突然的动作惊吓到。科拉特猫与主人形成牢固的纽带，喜欢依偎并待在附近。"
   },
   "stats": {
     "weight": {
@@ -64,23 +64,23 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "highly intelligent",
-      "zh": "highly intelligent"
+      "zh": "高智商"
     },
     {
       "en": "Expressive",
-      "zh": "Expressive"
+      "zh": "善于表达"
     },
     {
       "en": "Trainable",
-      "zh": "Trainable"
+      "zh": "可训练"
     }
   ]
 }

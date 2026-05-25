@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Scottish Fold",
-    "zh": "Scottish Fold"
+    "zh": "苏格兰折耳猫"
   },
   "images": [
     "/images/breeds/cats/scottish-fold-1.jpg"
   ],
   "origin": {
     "en": "United Kingdom",
-    "zh": "United Kingdom"
+    "zh": "英国"
   },
   "history": {
     "en": "The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the \"Buddha Position\".",
-    "zh": "The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the \"Buddha Position\"."
+    "zh": "苏格兰折耳猫是一种甜美、迷人的品种。它是一种容易相处和照顾的猫。它深情且与所有家庭成员相处融洽。它的尾巴应该轻柔地对待。折耳猫以仰卧睡觉和伸腿坐着、爪子放在肚子上而闻名。这被称为“佛陀姿势”。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Sweet",
-      "zh": "Sweet"
+      "zh": "甜美"
     },
     {
       "en": "Loving",
-      "zh": "Loving"
+      "zh": "可爱"
     }
   ]
 }

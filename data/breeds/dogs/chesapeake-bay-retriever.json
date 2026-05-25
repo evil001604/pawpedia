@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chesapeake Bay Retriever",
-    "zh": "Chesapeake Bay Retriever"
+    "zh": "切萨皮克湾寻回犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/8flER_jUa.jpg"
   ],
   "origin": {
     "en": "Maryland, United States",
-    "zh": "Maryland, United States"
+    "zh": "美国马里兰州"
   },
   "history": {
     "en": "Developed in the 19th century along the Chesapeake Bay from two shipwrecked Newfoundland-type puppies (Sailor and Canton) bred with local retrievers to create a water gundog capable of withstanding icy conditions and retrieving waterfowl in harsh environments",
-    "zh": "Developed in the 19th century along the Chesapeake Bay from two shipwrecked Newfoundland-type puppies (Sailor and Canton) bred with local retrievers to create a water gundog capable of withstanding icy conditions and retrieving waterfowl in harsh environments"
+    "zh": "19世纪在切萨皮克湾沿岸培育，源自两只遇难纽芬兰犬幼崽（水手与水手）与当地寻回犬杂交，创造出能抵御冰水并在恶劣环境中猎取水禽的水猎犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Sporting",
-      "zh": "Sporting"
+      "zh": "运动犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "护主"
     },
     {
       "en": "confident",
-      "zh": "confident"
+      "zh": "自信"
     }
   ]
 }

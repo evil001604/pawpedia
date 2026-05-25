@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Aksaray Malaklisi",
-    "zh": "Aksaray Malaklisi"
+    "zh": "阿克萨赖马拉克利犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Skd32PpN7.gif"
   ],
   "origin": {
     "en": "Aksaray Province, Central Anatolia, Turkey",
-    "zh": "Aksaray Province, Central Anatolia, Turkey"
+    "zh": "土耳其安纳托利亚中部阿克萨赖省"
   },
   "history": {
     "en": "Ancient Turkish breed developed as a landrace in the Aksaray region of central Turkey for livestock protection against large predators such as wolves and bears. Closely related to Turkish mastiff and guardian breeds, recognized by Turkish cynology organizations as distinct from the Kangal Shepherd Dog",
-    "zh": "Ancient Turkish breed developed as a landrace in the Aksaray region of central Turkey for livestock protection against large predators such as wolves and bears. Closely related to Turkish mastiff and guardian breeds, recognized by Turkish cynology organizations as distinct from the Kangal Shepherd Dog"
+    "zh": "古老的土耳其品种，在土耳其中部阿克萨赖地区作为地方品种培育，用于保护牲畜免受狼和熊等大型捕食者侵害。与土耳其獒犬和护卫犬品种密切相关，被土耳其犬学组织认定为与坎高牧羊犬不同的品种。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Protective",
-      "zh": "Protective"
+      "zh": "保护性"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

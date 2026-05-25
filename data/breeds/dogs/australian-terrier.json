@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Australian Terrier",
-    "zh": "Australian Terrier"
+    "zh": "澳大利亚梗"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/06xiPKwn6r.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Developed in Australia during the 19th century from British terrier breeds including Cairn, Skye, and Yorkshire Terriers. Bred as all-purpose exterminators of rodents and snakes, as well as loyal watchdogs and companions. Recognized by AKC in 1960.",
-    "zh": "Developed in Australia during the 19th century from British terrier breeds including Cairn, Skye, and Yorkshire Terriers. Bred as all-purpose exterminators of rodents and snakes, as well as loyal watchdogs and companions. Recognized by AKC in 1960."
+    "zh": "19世纪在澳大利亚由英国梗犬品种（包括凯恩梗、斯凯梗和约克夏梗）培育而成。被繁育为多功能啮齿动物和蛇类灭害犬，以及忠诚的看门犬和伴侣犬。1960年获得AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Terrier",
-      "zh": "Terrier"
+      "zh": "梗犬"
     },
     {
       "en": "Courageous",
-      "zh": "Courageous"
+      "zh": "勇敢"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Bloodhound",
-    "zh": "Bloodhound"
+    "zh": "寻血猎犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/aTbC6CRcUy.jpg"
   ],
   "origin": {
     "en": "Belgium",
-    "zh": "Belgium"
+    "zh": "比利时"
   },
   "history": {
     "en": "Ancient breed developed by monks at the Abbey of Saint-Hubert in Belgium and France during medieval times. Later refined in England and valued for centuries for tracking game and people, eventually imported to the US for search and rescue work.",
-    "zh": "Ancient breed developed by monks at the Abbey of Saint-Hubert in Belgium and France during medieval times. Later refined in England and valued for centuries for tracking game and people, eventually imported to the US for search and rescue work."
+    "zh": "中世纪由比利时和法国圣休伯特修道院的僧侣培育的古老品种。后来在英国改良，几个世纪以来用于追踪猎物和人类，最终引入美国用于搜救工作。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     }
   ]
 }

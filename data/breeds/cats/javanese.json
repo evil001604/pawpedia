@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Javanese",
-    "zh": "Javanese"
+    "zh": "爪哇猫"
   },
   "images": [
     "/images/breeds/cats/javanese-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers.",
-    "zh": "Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers."
+    "zh": "爪哇猫无限好奇、聪明且活跃。它们喜欢跳得很高，玩钓鱼竿型或其他互动玩具，并通常只是调查周围环境。它会尝试模仿你做的事情，比如开门或抽屉。"
   },
   "stats": {
     "weight": {
@@ -64,19 +64,19 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Devoted",
-      "zh": "Devoted"
+      "zh": "忠诚"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     }
   ]
 }

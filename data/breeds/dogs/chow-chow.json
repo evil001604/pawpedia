@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chow Chow",
-    "zh": "Chow Chow"
+    "zh": "松狮犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/C3KfxN2DG.jpg"
   ],
   "origin": {
     "en": "China",
-    "zh": "China"
+    "zh": "中国"
   },
   "history": {
     "en": "One of the oldest recognizable breeds with origins dating back over 2,000 years in northern China, where it served as hunting, herding, guarding, and companion dog. Refined during Tang Dynasty and recognized by AKC in 1903.",
-    "zh": "One of the oldest recognizable breeds with origins dating back over 2,000 years in northern China, where it served as hunting, herding, guarding, and companion dog. Refined during Tang Dynasty and recognized by AKC in 1903."
+    "zh": "最古老的可识别犬种之一，起源可追溯至2000多年前的中国北方，曾作为狩猎、牧畜、护卫和伴侣犬。在唐朝时期得到改良，并于1903年获AKC认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Loyal",
-      "zh": "Loyal"
+      "zh": "忠诚"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "aloof",
-      "zh": "aloof"
+      "zh": "冷漠"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "护主"
     }
   ]
 }

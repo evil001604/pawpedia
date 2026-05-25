@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Australian Kelpie",
-    "zh": "Australian Kelpie"
+    "zh": "澳大利亚凯尔比犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/aBlkZ0fo0.jpg"
   ],
   "origin": {
     "en": "Australia",
-    "zh": "Australia"
+    "zh": "澳大利亚"
   },
   "history": {
     "en": "Developed in Australia during the late 19th century from crosses of imported Scottish Collies with Dingoes and other working dogs to create the ultimate sheep herding dog capable of working independently over vast distances in harsh climates",
-    "zh": "Developed in Australia during the late 19th century from crosses of imported Scottish Collies with Dingoes and other working dogs to create the ultimate sheep herding dog capable of working independently over vast distances in harsh climates"
+    "zh": "19世纪末在澳大利亚培育而成，通过将进口的苏格兰柯利犬与澳洲野狗及其他工作犬杂交，创造出能在恶劣气候下独立工作、覆盖广阔距离的终极牧羊犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     }
   ]
 }

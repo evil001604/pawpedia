@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Cardigan Welsh Corgi",
-    "zh": "Cardigan Welsh Corgi"
+    "zh": "卡迪根威尔士柯基犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/aZCddydGBk.jpg"
   ],
   "origin": {
     "en": "Cardiganshire, Wales",
-    "zh": "Cardiganshire, Wales"
+    "zh": "威尔士卡迪根郡"
   },
   "history": {
     "en": "One of the oldest herding breeds, believed brought to Wales by Celtic tribes around 1200 BC, developed as versatile farm dogs for cattle herding and property guarding",
-    "zh": "One of the oldest herding breeds, believed brought to Wales by Celtic tribes around 1200 BC, developed as versatile farm dogs for cattle herding and property guarding"
+    "zh": "最古老的牧羊犬种之一，据信由凯尔特部落于公元前1200年左右带到威尔士，被培育成用于牧牛和看守财产的多用途农场犬。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Herding",
-      "zh": "Herding"
+      "zh": "牧羊犬"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "警觉"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

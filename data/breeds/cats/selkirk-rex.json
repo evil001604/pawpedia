@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Selkirk Rex",
-    "zh": "Selkirk Rex"
+    "zh": "塞尔凯克卷毛猫"
   },
   "images": [
     "/images/breeds/cats/selkirk-rex-1.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. ",
-    "zh": "The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. "
+    "zh": "塞尔凯克卷毛猫是一种极其耐心、充满爱意和宽容的品种。塞尔凯克猫也有傻气的一面，有时被描述为小丑般。它喜欢做膝上猫，如果你和它说话，它会很高兴地用安静的声音与你聊天。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Active",
-      "zh": "Active"
+      "zh": "活跃"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     },
     {
       "en": "Dependent",
-      "zh": "Dependent"
+      "zh": "依赖"
     },
     {
       "en": "Gentle",
-      "zh": "Gentle"
+      "zh": "温和"
     },
     {
       "en": "Patient",
-      "zh": "Patient"
+      "zh": "耐心"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Quiet",
-      "zh": "Quiet"
+      "zh": "安静"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     }
   ]
 }

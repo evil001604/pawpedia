@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Coton de Tulear",
-    "zh": "Coton de Tulear"
+    "zh": "科顿犬"
   },
   "images": [
     "https://cdn4.thedogapi.com/optimized/4RCSX1i1yE.jpg"
   ],
   "origin": {
     "en": "Madagascar",
-    "zh": "Madagascar"
+    "zh": "马达加斯加"
   },
   "history": {
     "en": "Originated as royal dog and companion to nobles in Madagascar, developed from small white dogs brought by traders. Named for city of Tuléar and recognized by FCI and AKC as beloved adaptable companion breed",
-    "zh": "Originated as royal dog and companion to nobles in Madagascar, developed from small white dogs brought by traders. Named for city of Tuléar and recognized by FCI and AKC as beloved adaptable companion breed"
+    "zh": "原产于马达加斯加的皇家犬种，由商人带来的小白犬培育而成，是贵族的伴侣犬。以图莱亚尔市命名，被FCI和AKC认可为深受喜爱的适应性伴侣犬。"
   },
   "stats": {
     "weight": {
@@ -64,35 +64,35 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Happy",
-      "zh": "Happy"
+      "zh": "快乐"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "爱玩"
     },
     {
       "en": "affectionate",
-      "zh": "affectionate"
+      "zh": "深情"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "adaptable",
-      "zh": "adaptable"
+      "zh": "适应性强"
     }
   ]
 }

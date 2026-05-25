@@ -3,18 +3,18 @@
   "type": "cat",
   "name": {
     "en": "Tonkinese",
-    "zh": "Tonkinese"
+    "zh": "东奇尼猫"
   },
   "images": [
     "/images/breeds/cats/tonkinese-1.jpg"
   ],
   "origin": {
     "en": "Canada",
-    "zh": "Canada"
+    "zh": "加拿大"
   },
   "history": {
     "en": "Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat",
-    "zh": "Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat"
+    "zh": "东奇尼猫聪明且慷慨地表达情感，会好奇地监督所有活动。它们充满爱心、社交、活跃、爱玩，但也满足于做一只膝上猫。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Curious",
-      "zh": "Curious"
+      "zh": "好奇"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "Social",
-      "zh": "Social"
+      "zh": "社交"
     },
     {
       "en": "Lively",
-      "zh": "Lively"
+      "zh": "活泼"
     },
     {
       "en": "Outgoing",
-      "zh": "Outgoing"
+      "zh": "外向"
     },
     {
       "en": "Playful",
-      "zh": "Playful"
+      "zh": "爱玩"
     },
     {
       "en": "Affectionate",
-      "zh": "Affectionate"
+      "zh": "深情"
     }
   ]
 }

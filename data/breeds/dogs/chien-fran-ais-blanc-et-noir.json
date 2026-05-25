@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Chien Français Blanc et Noir",
-    "zh": "Chien Français Blanc et Noir"
+    "zh": "法国黑白猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/SbgZjfjVs.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Developed in 19th century France from crosses of Gascon-Saintongeois and the now-extinct Montaimboeuf hounds, with English Foxhounds. Meticulously created as a powerful and enduring pack hound specialized for hunting roe deer and large game",
-    "zh": "Developed in 19th century France from crosses of Gascon-Saintongeois and the now-extinct Montaimboeuf hounds, with English Foxhounds. Meticulously created as a powerful and enduring pack hound specialized for hunting roe deer and large game"
+    "zh": "19世纪法国培育，由加斯科涅-圣东日犬与现已灭绝的蒙坦博夫猎犬杂交，并混入英国猎狐犬血统。精心培育成强大耐力的群猎犬，专用于猎捕狍子等大型猎物。"
   },
   "stats": {
     "weight": {
@@ -64,27 +64,27 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Courageous",
-      "zh": "Courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "independent",
-      "zh": "independent"
+      "zh": "独立"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

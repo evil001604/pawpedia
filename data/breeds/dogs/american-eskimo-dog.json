@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "American Eskimo Dog",
-    "zh": "American Eskimo Dog"
+    "zh": "美国爱斯基摩犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/H1LsFdnrm_1280.jpg"
   ],
   "origin": {
     "en": "United States",
-    "zh": "United States"
+    "zh": "美国"
   },
   "history": {
     "en": "Descended from white German Spitz dogs brought to America by German immigrants. Name changed from German Spitz to American Eskimo Dog during World War I due to anti-German sentiment. Became popular circus performers in the 19th and early 20th centuries, recognized by AKC in 1994",
-    "zh": "Descended from white German Spitz dogs brought to America by German immigrants. Name changed from German Spitz to American Eskimo Dog during World War I due to anti-German sentiment. Became popular circus performers in the 19th and early 20th centuries, recognized by AKC in 1994"
+    "zh": "源自德国移民带到美国的白色德国狐狸犬。第一次世界大战期间因反德情绪，名称从德国狐狸犬改为美国爱斯基摩犬。19世纪至20世纪初成为受欢迎的马戏团表演犬，1994年获美国养犬俱乐部认可。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Non-Sporting",
-      "zh": "Non-Sporting"
+      "zh": "非运动犬"
     },
     {
       "en": "Intelligent",
-      "zh": "Intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "friendly",
-      "zh": "friendly"
+      "zh": "友善"
     },
     {
       "en": "playful",
-      "zh": "playful"
+      "zh": "活泼"
     },
     {
       "en": "energetic",
-      "zh": "energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "eager to please",
-      "zh": "eager to please"
+      "zh": "渴望取悦"
     }
   ]
 }

@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Anglo-Français de Petite Vénerie",
-    "zh": "Anglo-Français de Petite Vénerie"
+    "zh": "英法小猎犬"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/Hyjcol947_1280.jpg"
   ],
   "origin": {
     "en": "France",
-    "zh": "France"
+    "zh": "法国"
   },
   "history": {
     "en": "Developed in France by crossing English Foxhounds and Harriers with various French scenthound breeds like the Poitevin and Porcelaine to create efficient pack hounds suited for 'petite vénerie' - the hunting of small game",
-    "zh": "Developed in France by crossing English Foxhounds and Harriers with various French scenthound breeds like the Poitevin and Porcelaine to create efficient pack hounds suited for 'petite vénerie' - the hunting of small game"
+    "zh": "在法国通过将英国猎狐犬和哈里犬与各种法国嗅觉猎犬（如波伊特万犬和瓷器犬）杂交培育而成，以创造适合‘小猎’（小型猎物狩猎）的高效群猎犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Hound",
-      "zh": "Hound"
+      "zh": "猎犬"
     },
     {
       "en": "Energetic",
-      "zh": "Energetic"
+      "zh": "精力充沛"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "alert",
-      "zh": "alert"
+      "zh": "机警"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     },
     {
       "en": "work-focused",
-      "zh": "work-focused"
+      "zh": "专注工作"
     },
     {
       "en": "devoted",
-      "zh": "devoted"
+      "zh": "忠诚"
     }
   ]
 }

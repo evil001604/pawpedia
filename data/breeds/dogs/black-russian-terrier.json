@@ -3,18 +3,18 @@
   "type": "dog",
   "name": {
     "en": "Black Russian Terrier",
-    "zh": "Black Russian Terrier"
+    "zh": "俄罗斯黑梗"
   },
   "images": [
     "https://cdn2.thedogapi.com/images/RX0knn4z4.jpg"
   ],
   "origin": {
     "en": "Russia",
-    "zh": "Russia"
+    "zh": "俄罗斯"
   },
   "history": {
     "en": "Developed in the Soviet Union in the late 1940s by the state-run Red Star Kennel for military use. Created by crossing Giant Schnauzer, Airedale Terrier, Rottweiler, and other breeds to produce a large, trainable, and hardy guard dog.",
-    "zh": "Developed in the Soviet Union in the late 1940s by the state-run Red Star Kennel for military use. Created by crossing Giant Schnauzer, Airedale Terrier, Rottweiler, and other breeds to produce a large, trainable, and hardy guard dog."
+    "zh": "20世纪40年代末由苏联国营红星犬舍为军事用途培育。通过杂交巨型雪纳瑞、万能梗、罗威纳犬等品种，培育出体型大、易训练且耐寒的护卫犬。"
   },
   "stats": {
     "weight": {
@@ -64,31 +64,31 @@
   "tags": [
     {
       "en": "Working",
-      "zh": "Working"
+      "zh": "工作犬"
     },
     {
       "en": "Confident",
-      "zh": "Confident"
+      "zh": "自信"
     },
     {
       "en": "courageous",
-      "zh": "courageous"
+      "zh": "勇敢"
     },
     {
       "en": "intelligent",
-      "zh": "intelligent"
+      "zh": "聪明"
     },
     {
       "en": "protective",
-      "zh": "protective"
+      "zh": "保护欲"
     },
     {
       "en": "calm",
-      "zh": "calm"
+      "zh": "冷静"
     },
     {
       "en": "loyal",
-      "zh": "loyal"
+      "zh": "忠诚"
     }
   ]
 }

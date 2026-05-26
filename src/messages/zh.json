@@ -62,7 +62,9 @@
     "chatNamePlaceholder": "你的昵称（可选）",
     "chatAnonymous": "匿名用户",
     "diagnoseCTA": "担心宠物健康？",
-    "diagnoseButton": "用AI诊断分析品种健康"
+    "diagnoseButton": "用AI诊断分析品种健康",
+    "compareCTA": "与另一个品种对比",
+    "similarBreeds": "相似品种"
   },
   "health": {
     "title": "健康百科",
@@ -188,7 +190,10 @@
     "noBreedSelected": "请选择一个品种",
     "error": {
       "sameSpecies": "无法对比不同物种。请选择两只狗或两只猫。"
-    }
+    },
+    "similarBreeds": "探索相似品种",
+    "findMatch": "找到你的完美匹配",
+    "takeQuiz": "开始测试"
   },
   "quiz": {
     "title": "找到您的完美宠物",
@@ -208,6 +213,11 @@
     "compareSelected": "对比这些品种",
     "reasons": "为什么这个品种适合您",
     "noResults": "未找到匹配。请尝试调整答案。",
+    "notYourMatch": "不匹配？试试另一种宠物！",
+    "tryDogs": "🐕 试试狗狗",
+    "tryCats": "🐈 试试猫咪",
+    "browseAllBreeds": "浏览所有{species}品种 →",
+    "similarBreeds": "探索相似品种",
     "reasonsLabel": {
       "energy_high": "高能量水平匹配您活跃的生活方式",
       "energy_low": "安静性格适合您放松的家庭氛围",

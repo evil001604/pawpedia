@@ -2,8 +2,11 @@
 
 import { useState } from 'react'
 import { useTranslations, useLocale } from 'next-intl'
+import Link from 'next/link'
 import { compareBreeds, ComparisonResult } from '@/lib/comparison'
+import { getSimilarBreeds } from '@/lib/similarity'
 import { Breed } from '@/types/breed'
+import SimilarBreeds from './SimilarBreeds'
 
 type ViewMode = 'selection' | 'result'
 
@@ -63,6 +66,7 @@ export default function CompareView({ dogBreeds, catBreeds }: CompareViewProps) 
         result={comparisonResult}
         locale={locale}
         onBack={() => setViewMode('selection')}
+        allBreeds={currentBreeds}
       />
     )
   }
@@ -185,13 +189,17 @@ export default function CompareView({ dogBreeds, catBreeds }: CompareViewProps) 
 function ComparisonResultView({
   result,
   locale,
-  onBack
+  onBack,
+  allBreeds
 }: {
   result: ComparisonResult
   locale: 'en' | 'zh'
   onBack: () => void
+  allBreeds: Breed[]
 }) {
   const t = useTranslations('compare')
+
+  const similarBreeds = getSimilarBreeds(result.breedA, allBreeds, 4)
 
   const getScoreLabel = (score: number): string => {
     if (score <= 2) return t('scoreLabels.1')
@@ -326,6 +334,18 @@ function ComparisonResultView({
               <p className="text-sm text-green-700">No unique strengths</p>
             )}
           </div>
+        </div>
+
+        <SimilarBreeds breeds={similarBreeds} locale={locale} title={t('similarBreeds')} />
+
+        <div className="mt-8 rounded-xl border-2 border-blue-100 bg-blue-50 p-6 text-center">
+          <p className="mb-3 text-lg font-semibold text-blue-900">{t('findMatch')}</p>
+          <Link
+            href={`/${locale}/quiz`}
+            className="inline-block rounded-lg bg-blue-600 px-8 py-3 font-semibold text-white hover:bg-blue-700 transition-colors"
+          >
+            {t('takeQuiz')} →
+          </Link>
         </div>
       </div>
     </div>

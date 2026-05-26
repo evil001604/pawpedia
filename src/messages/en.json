@@ -62,7 +62,9 @@
     "chatNamePlaceholder": "Your name (optional)",
     "chatAnonymous": "Anonymous",
     "diagnoseCTA": "Concerned about your pet's health?",
-    "diagnoseButton": "Try AI Diagnosis for this breed"
+    "diagnoseButton": "Try AI Diagnosis for this breed",
+    "compareCTA": "Compare with another breed",
+    "similarBreeds": "Similar Breeds"
   },
   "health": {
     "title": "Health Encyclopedia",
@@ -188,7 +190,10 @@
     "noBreedSelected": "Please select a breed",
     "error": {
       "sameSpecies": "Cannot compare different species. Please select two dogs or two cats."
-    }
+    },
+    "similarBreeds": "Explore Similar Breeds",
+    "findMatch": "Find your perfect match",
+    "takeQuiz": "Take the Quiz"
   },
   "quiz": {
     "title": "Find Your Perfect Pet",
@@ -208,6 +213,11 @@
     "compareSelected": "Compare These Breeds",
     "reasons": "Why this breed fits you",
     "noResults": "No matches found. Try adjusting your answers.",
+    "notYourMatch": "Not your match? Try another species!",
+    "tryDogs": "🐕 Try Dogs",
+    "tryCats": "🐈 Try Cats",
+    "browseAllBreeds": "Browse all {species} breeds →",
+    "similarBreeds": "Explore Similar Breeds",
     "reasonsLabel": {
       "energy_high": "High energy matches your active lifestyle",
       "energy_low": "Calm temperament suits your relaxed home",

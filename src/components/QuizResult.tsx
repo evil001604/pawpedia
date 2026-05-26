@@ -3,15 +3,25 @@
 import { useTranslations, useLocale } from 'next-intl'
 import Link from 'next/link'
 import { QuizResult } from '@/lib/quiz-matching'
+import { getSimilarBreeds } from '@/lib/similarity'
+import { Breed } from '@/types/breed'
+import SimilarBreeds from './SimilarBreeds'
 
 interface QuizResultViewProps {
   results: QuizResult[]
   onRestart: () => void
+  onSwitchSpecies: (type: 'dog' | 'cat') => void
+  petType: 'dog' | 'cat'
+  allBreeds: Breed[]
 }
 
-export default function QuizResultView({ results, onRestart }: QuizResultViewProps) {
+export default function QuizResultView({ results, onRestart, onSwitchSpecies, petType, allBreeds }: QuizResultViewProps) {
   const t = useTranslations('quiz')
   const locale = useLocale() as 'en' | 'zh'
+
+  const similarBreeds = results.length > 0
+    ? getSimilarBreeds(results[0].breed, allBreeds, 4)
+    : []
 
   if (results.length === 0) {
     return (
@@ -111,6 +121,39 @@ export default function QuizResultView({ results, onRestart }: QuizResultViewPro
           >
             {t('restart')}
           </button>
+        </div>
+
+        <section className="mt-12 rounded-xl border-2 border-amber-100 bg-amber-50 p-6 text-center">
+          <p className="mb-4 text-lg font-semibold text-amber-900">{t('notYourMatch')}</p>
+          <div className="flex justify-center gap-4">
+            {petType === 'cat' && (
+              <button
+                onClick={() => onSwitchSpecies('dog')}
+                className="rounded-lg bg-amber-500 px-6 py-2 font-semibold text-white hover:bg-amber-600 transition-colors"
+              >
+                {t('tryDogs')}
+              </button>
+            )}
+            {petType === 'dog' && (
+              <button
+                onClick={() => onSwitchSpecies('cat')}
+                className="rounded-lg bg-amber-500 px-6 py-2 font-semibold text-white hover:bg-amber-600 transition-colors"
+              >
+                {t('tryCats')}
+              </button>
+            )}
+          </div>
+        </section>
+
+        <SimilarBreeds breeds={similarBreeds} locale={locale} title={t('similarBreeds')} />
+
+        <div className="mt-8 text-center">
+          <Link
+            href={`/${locale}/breeds/${petType}`}
+            className="text-sm font-medium text-blue-600 hover:underline"
+          >
+            {t('browseAllBreeds', { species: petType === 'dog' ? 'dog' : 'cat' })}
+          </Link>
         </div>
       </div>
     </div>

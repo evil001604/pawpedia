@@ -1,4 +1,5 @@
 import { loadBreed, loadBreeds } from "@/lib/breeds"
+import { getSimilarBreeds } from "@/lib/similarity"
 import { PetType } from "@/types/breed"
 import { getTranslations } from "next-intl/server"
 import { notFound } from "next/navigation"
@@ -8,6 +9,7 @@ import RadarChartView from "@/components/RadarChartView"
 import HealthPanel from "@/components/HealthPanel"
 import ProductRecommend from "@/components/ProductRecommend"
 import ChatPanel from "@/components/ChatPanel"
+import SimilarBreeds from "@/components/SimilarBreeds"
 
 export async function generateStaticParams() {
   const locales = ["en", "zh"]
@@ -52,6 +54,9 @@ export default async function BreedDetailPage({
 
   const breed = loadBreed(type as PetType, id)
   if (!breed) notFound()
+
+  const allBreeds = loadBreeds(type as PetType)
+  const similarBreeds = getSimilarBreeds(breed, allBreeds, 4)
 
   const t = await getTranslations("detail")
   const bt = await getTranslations("breeds")
@@ -151,6 +156,18 @@ export default async function BreedDetailPage({
           {t("diagnoseButton")}
         </Link>
       </section>
+
+      <section className="mt-10 rounded-xl border-2 border-amber-100 bg-amber-50 p-6 text-center">
+        <p className="text-lg font-semibold text-amber-900">Want to see how {breed.name[l]} stacks up?</p>
+        <Link
+          href={`/${locale}/compare`}
+          className="mt-4 inline-block rounded-xl bg-amber-500 px-8 py-3 font-semibold text-white hover:bg-amber-600 transition-colors"
+        >
+          {t("compareCTA")}
+        </Link>
+      </section>
+
+      <SimilarBreeds breeds={similarBreeds} locale={l} title={t("similarBreeds")} />
 
       <ChatPanel
         breedId={id}

@@ -30,6 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-0J0C8KXZJJ');`,
           }}
         />
+        <script async data-cfasync="false" src="https://quge5.com/88/tag.min.js" data-zone="243202" />
       </head>
       <body className="min-h-screen bg-stone-50 text-stone-900 antialiased">{children}</body>
     </html>

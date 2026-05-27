@@ -90,5 +90,27 @@
       "en": "gentle",
       "zh": "温和"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Dandie Dinmont Terrier is a small, sturdy dog with a distinctive topknot of hair, known for its independent yet affectionate nature. Bred in the Scottish Borders for hunting badgers and otters, this breed is intelligent, confident, and loyal to its family. Despite its terrier heritage, the Dandie is generally gentle and calm indoors, making it a delightful companion. Its unique personality combines determination with a loving disposition, and it forms strong bonds with its owners. Early socialization is important to ensure a well-rounded temperament.",
+      "zh": "丹迪丁蒙梗是一种小型、结实的狗，头顶有一簇独特的毛发，以其独立又 affectionate 的性格而闻名。该品种在苏格兰边境培育，用于猎獾和水獭，聪明、自信且对家庭忠诚。尽管有梗犬血统，丹迪通常温和安静，是令人愉悦的伴侣。其独特个性结合了坚定和爱意，与主人建立深厚感情。早期社会化对培养全面性格很重要。"
+    },
+    "care": {
+      "en": "Daily care for a Dandie Dinmont Terrier includes regular grooming to maintain its unique coat. Brush at least twice a week to prevent mats, and hand-strip or clip every few months. Exercise needs are moderate: a daily walk or play session in a secure area suffices, as they have a strong prey drive. Weekly ear checks and nail trimming are essential. Annual vet visits for vaccinations and health screenings are recommended. This breed is generally healthy, but watch for spinal issues and glaucoma.",
+      "zh": "丹迪丁蒙梗的日常护理包括定期梳理其独特被毛。每周至少梳理两次以防打结，每几个月进行拔毛或剪毛。运动需求适中：每天散步或在安全区域玩耍即可，因为它们有强烈的捕猎本能。每周检查耳朵和修剪指甲很重要。建议每年带它去看兽医进行疫苗接种和健康检查。该品种通常健康，但需注意脊椎问题和青光眼。"
+    },
+    "training": {
+      "en": "Training a Dandie Dinmont Terrier requires patience and consistency, as they can be stubborn. Use positive reinforcement with treats and praise, as harsh methods may backfire. Start early with basic obedience and socialization to prevent small dog syndrome. Keep sessions short and engaging to hold their attention. This breed excels in activities like earthdog trials and agility, which channel their instincts. Avoid repetitive drills; instead, incorporate variety and play.",
+      "zh": "训练丹迪丁蒙梗需要耐心和一致性，因为它们可能固执。使用零食和表扬进行正强化，严厉方法可能适得其反。尽早开始基本服从训练和社会化，以防出现小型犬综合征。保持训练时间短而有趣以吸引它们的注意力。该品种擅长如洞穴测试和敏捷性等活动，可疏导其本能。避免重复练习，应融入变化和游戏。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for small breeds with moderate energy levels. Divide daily intake into two meals to prevent bloat. Monitor weight closely as Dandies tend to gain weight easily. Treats should be limited and used mainly for training. Fresh water must always be available. Some dogs may have food allergies; consult a vet if skin or digestive issues arise. Avoid table scraps and fatty foods.",
+      "zh": "喂食适合小型犬且能量水平适中的优质狗粮。将每日食量分成两餐以防腹胀。密切监测体重，因为丹迪容易发胖。零食应限量，主要用于训练。始终提供新鲜饮水。部分狗可能有食物过敏，如出现皮肤或消化问题请咨询兽医。避免喂食餐桌剩饭和油腻食物。"
+    },
+    "livingTips": {
+      "en": "The Dandie Dinmont Terrier adapts well to apartment living due to its moderate size and calm indoor demeanor, but a securely fenced yard is ideal for exploration. They are generally good with children if raised together, but may be reserved with strangers. Early socialization helps them coexist with other pets, though they may chase small animals due to prey drive. They thrive on human companionship and should not be left alone for long periods. Mental stimulation is key to prevent boredom.",
+      "zh": "丹迪丁蒙梗体型适中且室内安静，能很好适应公寓生活，但有安全围栏的院子更利于探索。如果从小一起长大，它们通常对孩子友好，但对陌生人可能有所保留。早期社会化有助于与其他宠物相处，但由于捕猎本能，可能追逐小动物。它们需要人类陪伴，不应长时间独处。精神刺激对防止无聊至关重要。"
+    }
+  }
 }

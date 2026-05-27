@@ -86,5 +86,27 @@
       "en": "loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Denmark Feist is a highly energetic, intelligent, and courageous scent hound known for its alertness and loyalty. Bred for hunting small game like squirrels and raccoons, this breed is tenacious and determined, with a strong prey drive. Despite its working background, it is affectionate with its family and can be good with children if socialized early. Its compact size and lively nature make it a spirited companion, but it requires ample mental and physical stimulation to prevent boredom. The breed is typically healthy and robust, with a lifespan of 12-15 years.",
+      "zh": "丹麦费斯特犬是一种精力充沛、聪明且勇敢的嗅觉猎犬，以警觉和忠诚著称。该品种为狩猎松鼠和浣熊等小型猎物而培育，具有坚韧不拔的性格和强烈的捕猎本能。尽管有工作背景，它对家人充满感情，若早期进行社会化训练，可与儿童相处融洽。其体型紧凑、性格活泼，是充满活力的伴侣犬，但需要充足的身心刺激以避免无聊。该品种通常健康强壮，寿命为12-15年。"
+    },
+    "care": {
+      "en": "Daily care for a Denmark Feist includes regular exercise such as long walks, runs, or play sessions in a securely fenced area, as they have high energy and a strong prey drive. Grooming is minimal: weekly brushing to remove loose hair, occasional baths, and regular ear cleaning to prevent infections. Nail trimming and dental care should be part of the routine. Veterinary visits should include annual check-ups, vaccinations, and parasite prevention. Due to their hunting instincts, always keep them leashed or in a secure enclosure.",
+      "zh": "丹麦费斯特犬的日常护理包括定期运动，如长距离散步、跑步或在安全围栏区域玩耍，因为它们精力充沛且捕猎本能强。美容需求低：每周梳理一次以去除死毛，偶尔洗澡，并定期清洁耳朵以防感染。修剪指甲和牙齿护理应成为常规。兽医访问应包括年度体检、疫苗接种和寄生虫预防。由于其狩猎本能，务必使用牵引绳或确保它们在安全围栏内。"
+    },
+    "training": {
+      "en": "Training a Denmark Feist requires patience, consistency, and positive reinforcement. This intelligent breed responds well to reward-based methods but can be independent-minded, so firm yet gentle guidance is essential. Early socialization is crucial to prevent shyness or aggression. Use engaging activities like scent games or agility to channel their energy. Avoid harsh corrections, as they can cause fear or resentment. Short, varied sessions work best to maintain focus. Their strong prey drive may necessitate recall training in distraction-free environments.",
+      "zh": "训练丹麦费斯特犬需要耐心、一致性和正向强化。这个聪明的品种对奖励式训练反应良好，但可能独立固执，因此需要坚定而温和的引导。早期社会化至关重要，以防止害羞或攻击性。利用气味游戏或敏捷性等吸引人的活动来引导其精力。避免严厉纠正，以免引起恐惧或怨恨。简短多样的训练课程最能保持专注。其强烈的捕猎本能可能需要在没有干扰的环境中进行召回训练。"
+    },
+    "diet": {
+      "en": "Feed a Denmark Feist a high-quality diet appropriate for its age, size, and activity level. As an active breed, it may require more calories than less energetic dogs. Choose a food with real meat as the first ingredient, balanced with vegetables and grains. Avoid fillers like corn and soy. Divide daily portions into two meals to prevent bloat. Monitor weight closely, as obesity can exacerbate joint issues. Fresh water should always be available. Treats should be limited and used for training. Consult a vet for specific dietary needs or allergies.",
+      "zh": "为丹麦费斯特犬提供适合其年龄、体型和活动水平的高品质饮食。作为活跃品种，它可能比低能量犬需要更多热量。选择以真肉为首要成分、搭配蔬菜和谷物的均衡狗粮。避免玉米和大豆等填充物。每日分两餐喂食以防止胃扩张。密切监测体重，因为肥胖会加重关节问题。随时提供新鲜饮用水。零食应限量并用于训练。如有特殊饮食需求或过敏，请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "The Denmark Feist adapts well to various living situations but thrives best in a home with a securely fenced yard where it can run and explore. It is not ideal for apartment living unless given extensive daily exercise. This breed can be good with children if raised with them, but supervision is recommended due to its high energy. It may not get along with small pets like cats or rodents due to its prey drive. Early socialization with other dogs is important. The breed is alert and may bark, so training to control excessive barking is beneficial.",
+      "zh": "丹麦费斯特犬能适应多种生活环境，但最理想的是拥有安全围栏院落的家庭，以便其奔跑和探索。除非每天有大量运动，否则不适合公寓生活。若与儿童一同成长，该品种能与孩子相处融洽，但因精力旺盛建议监督。由于捕猎本能，它可能与小宠物（如猫或啮齿动物）不合。早期与其他犬只的社会化很重要。该品种警觉且可能吠叫，因此训练控制过度吠叫有益。"
+    }
+  }
 }

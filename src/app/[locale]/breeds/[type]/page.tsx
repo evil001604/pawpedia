@@ -41,11 +41,17 @@ export default async function BreedListPage({
   if (type !== "dog" && type !== "cat") notFound()
   const t = await getTranslations("breeds")
   const breeds = loadBreeds(type as PetType)
+  const l = locale as "en" | "zh"
+
+  const introParagraph = l === "en"
+    ? `Explore our catalog of ${breeds.length} ${type} breeds, each with a detailed personality radar chart, health guide, AI-powered diagnosis, and personalized care tips. Use the search bar below to find breeds by name or tag — whether you want a high-energy companion, a family-friendly dog, or a low-maintenance cat, we have you covered.`
+    : `浏览${breeds.length}个${type === "dog" ? "犬" : "猫"}种大全，每个品种都配有性格雷达图、健康指南、AI诊断和养护建议。使用下方搜索框按名称或特征标签快速查找——无论你想要高能量伙伴、适合家庭的犬种，还是低维护的猫咪。`
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
       <h1 className="text-3xl font-bold text-stone-900">{type === "dog" ? t("dogs") : t("cats")}</h1>
       <p className="mt-2 text-stone-500">{t("breedCount", { count: breeds.length })}</p>
+      <p className="mt-3 max-w-3xl text-sm leading-relaxed text-stone-600">{introParagraph}</p>
       <BreedListClient
         breeds={breeds}
         locale={locale}

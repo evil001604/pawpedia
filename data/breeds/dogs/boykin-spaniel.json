@@ -86,5 +86,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Boykin Spaniel is a medium-sized, versatile sporting breed known for its friendly, eager-to-please nature and high energy. Originally bred for hunting in South Carolina swamps, they are intelligent, adaptable, and excel in various dog sports. Their coat is medium-length, wavy, and typically liver or dark chocolate. They are sociable, good with families, and thrive on human companionship. Boykins are alert and make excellent watchdogs but are not aggressive. They require ample exercise and mental stimulation to prevent boredom. Their enthusiasm and biddability make them a joy to train, but they can be stubborn if not motivated. Overall, the Boykin Spaniel is a loyal, affectionate, and energetic companion.",
+      "zh": "博伊金猎犬是一种中型、多用途的猎犬，以其友好、渴望取悦的性格和高能量而闻名。最初为在南卡罗来纳州沼泽地狩猎而培育，它们聪明、适应性强，在各种犬类运动中表现出色。被毛中等长度、波浪状，通常为肝色或深巧克力色。它们善于社交，适合家庭，喜欢与人作伴。博伊金犬警觉，是优秀的看门犬，但无攻击性。它们需要大量运动和脑力刺激，以防无聊。它们的热情和顺从性使训练充满乐趣，但若无动力也可能固执。总体而言，博伊金猎犬是忠诚、深情且精力充沛的伴侣。"
+    },
+    "care": {
+      "en": "Daily care for a Boykin Spaniel includes moderate to high exercise: at least 30-60 minutes of activity such as walks, runs, or swimming, as they love water. Grooming needs are moderate; brush their wavy coat 2-3 times a week to prevent mats, and trim hair around ears and feet. Bathe as needed. Check ears weekly for infections, as their floppy ears can trap moisture. Brush teeth regularly and trim nails monthly. Veterinary visits should include annual check-ups, vaccinations, and heartworm prevention. They are generally healthy but prone to hip dysplasia, eye issues, and ear infections. Regular vet care and a healthy lifestyle are essential.",
+      "zh": "博伊金猎犬的日常护理包括中到高强度的运动：每天至少30-60分钟的活动，如散步、跑步或游泳（它们喜欢水）。美容需求适中：每周梳理波浪状被毛2-3次以防打结，修剪耳部和脚部毛发。按需要洗澡。每周检查耳朵以防感染，因为垂耳容易积水。定期刷牙，每月修剪指甲。兽医检查应包括年度体检、疫苗接种和心丝虫预防。它们通常健康，但易患髋关节发育不良、眼部问题和耳部感染。定期兽医护理和健康的生活方式至关重要。"
+    },
+    "training": {
+      "en": "Boykin Spaniels are intelligent and eager to please, making training relatively easy. Use positive reinforcement methods like treats, praise, and play. They respond well to consistency and short, engaging sessions. Early socialization is crucial to prevent timidity or reactivity. They excel in obedience, agility, and hunting trials. However, they can be sensitive, so avoid harsh corrections. Keep training fun and varied to maintain their interest. Crate training and housebreaking are usually straightforward. Their natural retrieving instinct makes fetch games an excellent training tool. Patience and enthusiasm from the owner yield the best results.",
+      "zh": "博伊金猎犬聪明且渴望取悦，因此训练相对容易。使用正面强化方法，如零食、表扬和玩耍。它们对一致性和简短有趣的训练课程反应良好。早期社会化至关重要，以防止胆怯或反应过度。它们在服从、敏捷和狩猎测试中表现出色。然而，它们可能敏感，因此避免严厉纠正。保持训练有趣且多样化以维持兴趣。笼内训练和家庭训练通常直接了当。它们的自然寻回本能使得捡球游戏成为极佳的训练工具。主人的耐心和热情能带来最佳效果。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. Boykin Spaniels are active and may require a diet with higher protein and fat to sustain energy. Divide daily food into two meals to prevent bloat, a risk in deep-chested breeds. Avoid overfeeding, as they can gain weight if not exercised enough. Treats should be healthy and limited to 10% of daily calories. Fresh water should always be available. Consult a vet for specific dietary needs, especially if the dog has allergies or sensitivities. Some Boykins may require joint supplements as they age.",
+      "zh": "喂食适合犬龄、体型和活动水平的高质量狗粮。博伊金猎犬活跃，可能需要更高蛋白质和脂肪的饮食以维持能量。将每日食物分两餐喂食，以预防胃扭转（深胸品种的风险）。避免过量喂食，因为运动不足时容易发胖。零食应健康且限制在每日热量的10%以内。始终提供新鲜饮水。如有特殊饮食需求（如过敏或敏感），请咨询兽医。一些博伊金犬随着年龄增长可能需要关节补充剂。"
+    },
+    "livingTips": {
+      "en": "Boykin Spaniels adapt well to various living situations but do best with a fenced yard for safe off-leash play. They are not ideal for apartments unless given ample daily exercise. They thrive in homes with active families who can provide companionship and activity. They are generally good with children, especially if raised with them, but supervision is recommended due to their exuberance. They get along with other dogs and pets if socialized early. Their moderate size and friendly nature make them suitable for first-time owners if exercise needs are met. They are sensitive to heat and should have shade and water outdoors.",
+      "zh": "博伊金猎犬能适应各种居住环境，但最好有围栏庭院以供安全地无绳玩耍。它们不太适合公寓，除非每天有充足运动。它们在活跃的家庭中茁壮成长，需要陪伴和活动。通常对孩子友好，尤其是从小一起长大，但由于其精力旺盛，建议监督。如果早期社会化，它们能与其他狗和宠物相处。体型中等、性格友好，如果运动需求得到满足，适合首次养狗者。它们对热敏感，户外应有遮荫和水。"
+    }
+  }
 }

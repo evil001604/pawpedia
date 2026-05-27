@@ -90,5 +90,27 @@
       "en": "eager to please",
       "zh": "渴望取悦"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Croatian Sheepdog is a highly intelligent, energetic, and loyal herding breed known for its alertness and eagerness to please. Originating from Croatia, this medium-sized dog is work-focused and thrives when given a job to do. Its dense, wavy coat requires regular maintenance. With a strong herding instinct, it is naturally protective and makes an excellent companion for active families. Its keen mind and responsiveness make it a joy to train, but it needs consistent leadership and plenty of mental stimulation.",
+      "zh": "克罗地亚牧羊犬是一种非常聪明、精力充沛且忠诚的牧羊犬种，以其警惕性和取悦主人的意愿而闻名。这种中型犬原产于克罗地亚，以工作为导向，在有任务时表现最佳。其浓密的波浪状被毛需要定期维护。凭借强烈的牧羊本能，它天生具有保护性，是活跃家庭的绝佳伴侣。其敏锐的头脑和反应能力使其训练起来充满乐趣，但需要一致的领导和充足的精神刺激。"
+    },
+    "care": {
+      "en": "Daily care for the Croatian Sheepdog includes at least 60-90 minutes of vigorous exercise such as running, hiking, or herding games. Grooming requires brushing 2-3 times per week to prevent matting, with more frequent brushing during seasonal shedding. Bathe only when necessary. Regular nail trimming, ear cleaning, and dental care are essential. Vet visits should be annual for check-ups and vaccinations. This breed is prone to hip dysplasia and eye issues, so regular screening is recommended.",
+      "zh": "克罗地亚牧羊犬的日常护理包括每天至少60-90分钟的剧烈运动，如跑步、远足或牧羊游戏。每周梳理被毛2-3次以防止打结，换毛季节需增加频率。仅在必要时洗澡。定期修剪指甲、清洁耳朵和牙齿护理至关重要。每年进行兽医检查和疫苗接种。该品种易患髋关节发育不良和眼部问题，建议定期筛查。"
+    },
+    "training": {
+      "en": "Training a Croatian Sheepdog should start early and be consistent, using positive reinforcement techniques like treats, praise, and play. This breed is highly intelligent and eager to please, but can be independent and stubborn if not properly motivated. Focus on basic obedience, socialization, and herding-specific commands. Keep sessions short and varied to prevent boredom. Harsh corrections are counterproductive; instead, use firm but gentle guidance. Advanced activities like agility or herding trials are excellent outlets for their energy.",
+      "zh": "训练克罗地亚牧羊犬应尽早开始并保持一致性，使用零食、表扬和玩耍等积极强化技巧。该品种非常聪明且渴望取悦，但如果没有适当激励，可能会显得独立和固执。重点放在基本服从、社交化和牧羊特定指令上。保持训练简短且多样化，以防厌倦。严厉的纠正适得其反，应采用坚定而温和的引导。敏捷性或牧羊试验等高级活动是消耗其精力的绝佳方式。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. Croatian Sheepdogs are active and may require a diet higher in protein and fat. Divide daily food into two meals to prevent bloat. Avoid overfeeding and monitor weight to prevent obesity. Provide fresh water at all times. Treats should be limited and used primarily for training. Consult a vet for specific dietary needs, especially if the dog has food allergies or sensitivities.",
+      "zh": "喂食适合犬只年龄、体型和活动水平的高品质狗粮。克罗地亚牧羊犬活跃，可能需要高蛋白和高脂肪的饮食。将每日食物分成两餐以防止胃胀气。避免过度喂食，监测体重以防肥胖。始终提供新鲜饮用水。零食应限量，主要用于训练。如有食物过敏或敏感，请咨询兽医以获得特定饮食建议。"
+    },
+    "livingTips": {
+      "en": "The Croatian Sheepdog adapts well to various living situations but thrives in a home with a securely fenced yard where it can run and play. It is not suited for apartment living unless given ample daily exercise. This breed is excellent with children when properly socialized, but may try to herd them. It generally gets along with other dogs and pets if raised together, but may be reserved with strangers. Early socialization is crucial to prevent excessive barking or shyness.",
+      "zh": "克罗地亚牧羊犬能适应各种生活环境，但最好有带安全围栏的院子供其奔跑玩耍。除非每天有充足运动，否则不适合公寓生活。该品种在适当社交后与孩子相处融洽，但可能会试图牧羊它们。如果从小一起养，通常能与其他狗和宠物和睦相处，但对陌生人可能保持警惕。早期社会化对于防止过度吠叫或害羞至关重要。"
+    }
+  }
 }

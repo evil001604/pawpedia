@@ -90,5 +90,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Catahoula Leopard Dog is a highly intelligent, independent, and energetic breed developed in Louisiana for hunting and herding. Known for their striking coat patterns and glass eyes, they are loyal and protective of their family but can be reserved with strangers. This breed is work-focused and thrives with a job to do. They are not recommended for first-time owners due to their strong will and need for firm, consistent leadership. Catahoulas are natural guardians and excel in activities like agility, obedience, and tracking. Their high energy levels require ample exercise and mental stimulation to prevent destructive behavior.",
+      "zh": "卡塔霍拉豹犬是一种非常聪明、独立且精力充沛的犬种，起源于路易斯安那州，用于狩猎和牧牛。它们以醒目的斑纹和玻璃眼而闻名，对家庭忠诚且保护性强，但对陌生人可能保持警惕。该犬种以工作为导向，喜欢有任务可做。不建议新手饲养，因为它们意志坚强，需要坚定、一致的领导。卡塔霍拉是天生的护卫犬，擅长敏捷、服从和追踪等活动。它们精力旺盛，需要大量运动和精神刺激，以防止破坏行为。"
+    },
+    "care": {
+      "en": "Daily care for a Catahoula Leopard Dog includes moderate grooming—brush their short coat weekly and bathe as needed. They are moderate shedders. Exercise is crucial: at least 60-90 minutes of vigorous activity daily, such as running, hiking, or playing fetch. They excel in dog sports. Regular vet check-ups, vaccinations, and parasite prevention are essential. Their ears should be checked weekly for infections, and nails trimmed monthly. Dental hygiene is important; brush teeth several times a week. As an active breed, they need a secure fenced yard to prevent roaming.",
+      "zh": "卡塔霍拉豹犬的日常护理包括适度的梳理——每周刷一次短毛，按需洗澡。它们属于中等掉毛犬种。运动至关重要：每天至少60-90分钟的剧烈活动，如跑步、远足或接球游戏。它们擅长犬类运动。定期兽医检查、疫苗接种和寄生虫预防必不可少。每周检查耳朵以防感染，每月修剪指甲。牙齿卫生很重要，每周刷牙数次。作为活跃犬种，它们需要有安全围栏的院子以防止游荡。"
+    },
+    "training": {
+      "en": "Training a Catahoula requires patience, consistency, and positive reinforcement. They are independent thinkers and may challenge authority, so early socialization and obedience training are critical. Use reward-based methods like treats and praise. Avoid harsh corrections as they can damage trust. Keep sessions short and engaging to hold their attention. Catahoulas excel in advanced training like agility and herding trials. They need a confident handler who provides clear rules and boundaries. Mental stimulation, such as puzzle toys or scent work, is as important as physical exercise.",
+      "zh": "训练卡塔霍拉需要耐心、一致性和正向强化。它们独立思考，可能挑战权威，因此早期社会化与服从训练至关重要。使用奖励法，如零食和表扬。避免严厉纠正，以免破坏信任。保持训练简短有趣以吸引注意力。卡塔霍拉擅长高级训练，如敏捷和牧牛测试。它们需要自信的训导员提供明确的规则和界限。精神刺激，如益智玩具或嗅觉游戏，与身体锻炼同等重要。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet appropriate for the Catahoula's age, size, and activity level. Active dogs need a balanced diet with protein (20-30%) and healthy fats. Divide daily food into two meals to prevent bloat. Avoid overfeeding; monitor weight and adjust portions accordingly. Fresh water should always be available. Consider supplements like glucosamine for joint health, especially as they age. Treats should be limited and used mainly for training. Consult a veterinarian for specific dietary needs, as some Catahoulas may have food sensitivities.",
+      "zh": "根据卡塔霍拉的年龄、体型和活动水平，选择优质狗粮。活跃的犬只需要均衡饮食，含20-30%蛋白质和健康脂肪。每日分两餐喂食，以防胃胀气。避免过量喂食；监控体重并相应调整份量。始终提供新鲜饮水。考虑添加葡萄糖胺等补充剂以保护关节健康，尤其随着年龄增长。零食应有限制，主要用于训练。咨询兽医以了解特定饮食需求，因为部分卡塔霍拉可能有食物过敏。"
+    },
+    "livingTips": {
+      "en": "Catahoula Leopard Dogs are best suited to homes with large, securely fenced yards where they can run and explore. They are not ideal for apartments due to their high energy and need for space. They can be good with children if raised together, but may be too rough for toddlers due to their herding instincts. Early socialization with other pets is essential; they may be aggressive toward unfamiliar dogs and have a strong prey drive. They are loyal family dogs but require an experienced owner who can provide leadership and plenty of exercise.",
+      "zh": "卡塔霍拉豹犬最适合有大型安全围栏院子的家庭，以便奔跑和探索。由于精力旺盛且需要空间，不适合公寓生活。如果与孩子一起长大，它们可以表现良好，但牧牛本能可能使它们对幼儿过于粗鲁。早期与其他宠物的社会化至关重要；它们可能对陌生犬有攻击性，且猎物驱动力强。它们是忠诚的家庭犬，但需要有经验的主人提供领导力和充足的运动。"
+    }
+  }
 }

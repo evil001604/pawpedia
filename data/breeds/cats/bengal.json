@@ -82,5 +82,27 @@
       "en": "Intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bengal cat is a striking, energetic breed known for its wild appearance and playful, demanding personality. Originating from the United States, these cats are highly intelligent, curious, and agile. They require constant mental and physical stimulation, thriving on interaction with their owners. Bengals are not recommended for first-time cat owners due to their high energy and need for engagement. They are alert and often vocal, forming strong bonds with their families. Their coat, reminiscent of a leopard, is short and luxurious, adding to their exotic appeal.",
+      "zh": "孟加拉猫是一种引人注目的、精力充沛的品种，以其野性的外观和顽皮、要求高的性格而闻名。起源于美国，这些猫非常聪明、好奇且敏捷。它们需要持续的精神和身体刺激，通过与主人的互动而茁壮成长。由于它们的高能量和需要参与，不建议初次养猫的人饲养。它们警觉且经常发声，与家庭形成牢固的联系。其被毛类似豹子，短而奢华，增添了其异国情调的吸引力。"
+    },
+    "care": {
+      "en": "Daily care for a Bengal includes at least 30-60 minutes of active play, such as fetch, puzzle toys, or climbing structures. Their short coat requires minimal grooming—weekly brushing to reduce shedding and occasional nail trimming. Regular veterinary check-ups are essential, including vaccinations and dental care. Bengals are prone to certain health issues like progressive retinal atrophy and hypertrophic cardiomyopathy, so annual screenings are recommended. Provide a scratching post and interactive toys to keep them physically and mentally fit.",
+      "zh": "孟加拉猫的日常护理包括至少30-60分钟的活跃游戏，如捡球、益智玩具或攀爬结构。它们的短毛需要最少的梳理——每周刷毛以减少脱毛，偶尔修剪指甲。定期兽医检查至关重要，包括疫苗接种和牙齿护理。孟加拉猫容易患某些健康问题，如进行性视网膜萎缩和肥厚性心肌病，因此建议每年进行筛查。提供抓柱和互动玩具，以保持它们的身心健康。"
+    },
+    "training": {
+      "en": "Bengals are highly trainable due to their intelligence and eagerness to learn. Use positive reinforcement techniques like treats and praise. They can learn tricks, leash walking, and even fetch. Start training early to establish boundaries and prevent destructive behaviors. Clicker training works well. Be consistent and patient; Bengals can be stubborn. Provide puzzle feeders to challenge their minds. Avoid punishment, as it can damage trust. Training sessions should be short (5-10 minutes) but frequent to maintain their interest.",
+      "zh": "孟加拉猫因其聪明和渴望学习而非常易于训练。使用正向强化技巧，如零食和表扬。它们可以学习技巧、牵引绳行走，甚至捡球。尽早开始训练以建立界限并防止破坏性行为。响片训练效果很好。保持一致和耐心；孟加拉猫可能很固执。提供益智喂食器以挑战它们的思维。避免惩罚，因为这会破坏信任。训练时间应短（5-10分钟），但要频繁以保持它们的兴趣。"
+    },
+    "diet": {
+      "en": "Bengals thrive on a high-protein diet, preferably wet food or raw food to mimic their ancestral diet. Look for formulas with real meat (chicken, fish, or beef) as the first ingredient. Avoid fillers like corn or wheat. Feed 2-3 meals per day, adjusting portions based on activity level and weight. Provide fresh water at all times. Consider adding omega-3 supplements for coat health. Treats should be limited to 10% of daily calories. Consult your vet for specific dietary needs, especially if your Bengal has a sensitive stomach.",
+      "zh": "孟加拉猫需要高蛋白饮食，最好选择湿粮或生食以模仿其祖先的饮食。寻找以真肉（鸡肉、鱼或牛肉）为首要成分的配方。避免玉米或小麦等填充物。每天喂食2-3餐，根据活动水平和体重调整分量。随时提供新鲜水。考虑添加Omega-3补充剂以维护被毛健康。零食应限制在每日热量的10%以内。如有特殊饮食需求，请咨询兽医，特别是如果您的孟加拉猫肠胃敏感。"
+    },
+    "livingTips": {
+      "en": "Bengals are active and need space to climb and explore. A home with cat trees, shelves, and window perches is ideal. They can adapt to apartments if provided with ample enrichment, but a secure outdoor enclosure or supervised leash walks are beneficial. Bengals generally get along with children and other pets if properly socialized, but their high energy may overwhelm very young kids. They are not lap cats but enjoy interactive play. Secure windows and doors as they are escape artists. Provide multiple litter boxes in quiet areas.",
+      "zh": "孟加拉猫活跃，需要空间攀爬和探索。拥有猫树、架子和窗台的家是理想的。如果提供足够的丰富环境，它们可以适应公寓，但安全的户外围栏或监督下的牵引绳散步有益。如果适当社交，孟加拉猫通常与儿童和其他宠物相处融洽，但它们的精力旺盛可能会让非常年幼的孩子感到不知所措。它们不是膝上猫，但喜欢互动游戏。确保窗户和门安全，因为它们是逃跑专家。在安静区域提供多个猫砂盆。"
+    }
+  }
 }

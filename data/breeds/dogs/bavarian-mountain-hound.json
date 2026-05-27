@@ -90,5 +90,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bavarian Mountain Hound is a calm, loyal, and intelligent breed, known for its devotion and courage. Bred as a working scenthound, it is focused and determined when on a trail, yet gentle and composed at home. This medium-sized dog is highly trainable and forms strong bonds with its family. It is reserved with strangers but not aggressive. The breed thrives on having a job to do and requires consistent mental stimulation. Its calm demeanor makes it a wonderful companion for active owners who appreciate a dog with a strong work ethic and a gentle nature.",
+      "zh": "巴伐利亚山地猎犬是一种冷静、忠诚且聪明的犬种，以奉献精神和勇气著称。作为工作型嗅觉猎犬，它在追踪时专注而坚定，但在家中却温和沉稳。这种中型犬易于训练，与家庭成员建立深厚感情。它对陌生人保持矜持但不具攻击性。该犬种需要有任务可做，并需要持续的精神刺激。其冷静的气质使其成为欣赏强烈工作伦理和温和天性的活跃主人的绝佳伴侣。"
+    },
+    "care": {
+      "en": "Daily care for the Bavarian Mountain Hound includes moderate grooming: brush its short, dense coat weekly to remove loose hair, and bathe only when necessary. Exercise is crucial—this breed needs at least 60 minutes of vigorous activity daily, such as hiking or running, to satisfy its hunting instincts. Regular vet check-ups are important to monitor for hip dysplasia and ear infections. Nail trimming, teeth brushing, and ear cleaning should be part of the routine. Due to its high energy, a securely fenced yard is ideal, but it can adapt to apartment living with sufficient exercise.",
+      "zh": "巴伐利亚山地猎犬的日常护理包括适度梳理：每周刷一次其短而密的被毛以去除死毛，仅在必要时洗澡。运动至关重要——该犬种每天至少需要60分钟的剧烈活动，如远足或跑步，以满足其狩猎本能。定期兽医检查对监测髋关节发育不良和耳部感染很重要。修剪指甲、刷牙和清洁耳朵应成为日常习惯。由于其高能量，有安全围栏的庭院是理想选择，但通过充足运动也能适应公寓生活。"
+    },
+    "training": {
+      "en": "Training a Bavarian Mountain Hound requires patience and consistency, as it is intelligent but can be independent due to its hound instincts. Positive reinforcement methods work best; harsh corrections may cause it to shut down. Early socialization is vital to prevent shyness or fearfulness. This breed excels in scent work and tracking, so incorporating nose games into training keeps it engaged. Obedience training should be firm yet gentle, with short, varied sessions to maintain focus. A well-trained Bavarian Mountain Hound is a reliable off-leash companion in safe areas, but recall must be solid due to its strong prey drive.",
+      "zh": "训练巴伐利亚山地猎犬需要耐心和一致性，因为它聪明但因其猎犬本能而可能独立。正面强化方法效果最佳；严厉的纠正可能导致它退缩。早期社会化至关重要，以防止羞怯或恐惧。该犬种在嗅觉工作和追踪方面表现出色，因此在训练中加入鼻子游戏能保持其参与度。服从训练应坚定而温和，采用短而多样的训练时段以保持专注。训练有素的巴伐利亚山地猎犬在安全区域是可靠的脱绳伴侣，但由于其强烈的猎物驱动力，召回必须牢固。"
+    },
+    "diet": {
+      "en": "Feed the Bavarian Mountain Hound a high-quality diet appropriate for its age, size, and activity level. As an active breed, it benefits from a protein-rich food with balanced fats and carbohydrates. Portion control is important to prevent obesity, especially if exercise is limited. Divide meals into two servings per day to reduce bloat risk. Fresh water should always be available. Avoid overfeeding treats; use healthy options like carrots or apple slices. Consult a veterinarian to determine specific nutritional needs, especially for puppies or seniors. Supplements like glucosamine may support joint health in older dogs.",
+      "zh": "为巴伐利亚山地猎犬提供适合其年龄、体型和活动水平的高质量饮食。作为活跃犬种，它受益于富含蛋白质、脂肪和碳水化合物均衡的食物。控制食量很重要，以防止肥胖，特别是在运动有限的情况下。每日分两餐喂食以降低胃扭转风险。始终提供新鲜饮用水。避免过量喂食零食；使用胡萝卜或苹果片等健康选择。咨询兽医以确定特定营养需求，特别是幼犬或老年犬。补充剂如葡萄糖胺可能有助于老年犬的关节健康。"
+    },
+    "livingTips": {
+      "en": "The Bavarian Mountain Hound adapts well to various living situations but thrives in homes with a securely fenced yard where it can explore and play. It is not suited for apartment living unless given extensive daily exercise. This breed is generally good with children if raised with them, but supervision is recommended due to its size and energy. It can coexist with other dogs and cats if properly socialized, but its hunting instinct may lead to chasing small pets. The breed does best in a calm, structured environment and may become destructive if bored or left alone for long periods. It is not a guard dog but will alert bark.",
+      "zh": "巴伐利亚山地猎犬能适应各种生活环境，但在有安全围栏庭院的家庭中最为茁壮，可以探索和玩耍。除非每天进行大量运动，否则不适合公寓生活。该犬种通常与儿童相处良好，如果从小一起成长，但建议监督，因其体型和精力。如果适当社交，它可以与其他狗和猫共存，但其狩猎本能可能导致追逐小宠物。该犬种在平静、有结构的环境中表现最佳，如果无聊或长时间独处可能会变得具有破坏性。它并非护卫犬，但会吠叫示警。"
+    }
+  }
 }

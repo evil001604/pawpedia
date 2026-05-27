@@ -26,6 +26,8 @@
     "breedCount": "{count} breeds",
     "tryDiagnosis": "Try AI Diagnosis",
     "diagnosisDesc": "Select your pet type and symptoms to get preliminary health insights.",
+    "featuredBreeds": "Popular Breeds",
+    "featuredBreedsDesc": "Discover some of our most viewed breeds with detailed traits and care guides.",
     "features": {
       "traits": { "title": "Personality Traits", "desc": "Detailed radar charts showing temperament, loyalty, intelligence and more" },
       "health": { "title": "Health Guide", "desc": "Common diseases, shedding levels, and care tips for each breed" },
@@ -64,7 +66,8 @@
     "diagnoseCTA": "Concerned about your pet's health?",
     "diagnoseButton": "Try AI Diagnosis for this breed",
     "compareCTA": "Compare with another breed",
-    "similarBreeds": "Similar Breeds"
+    "similarBreeds": "Similar Breeds",
+    "careGuide": "Care Guide",
   },
   "health": {
     "title": "Health Encyclopedia",

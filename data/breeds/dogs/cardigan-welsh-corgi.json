@@ -86,5 +86,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cardigan Welsh Corgi is a sturdy, affectionate, and intelligent herding breed known for its long, low-set body and large, expressive ears. Bred for centuries as a versatile farm dog in Wales, it is loyal, alert, and adaptable. Cardigans are typically calm and even-tempered, forming strong bonds with their families while being reserved with strangers. They possess a strong herding instinct and may try to herd children or other pets. Their intelligence and eagerness to please make them highly trainable, but they can be independent. With proper socialization, they get along well with other dogs and pets. They are excellent watchdogs due to their alert nature. Overall, the Cardigan Welsh Corgi is a devoted companion that thrives on human interaction and mental stimulation.",
+      "zh": "卡迪根威尔士柯基犬是一种结实、深情且聪明的牧羊犬，以其低矮修长的身体和大而富有表情的耳朵而闻名。作为威尔士几个世纪以来的多功能农场犬，它忠诚、警惕且适应性强。卡迪根通常冷静且性情温和，与家人建立牢固的纽带，同时对陌生人保持保留态度。它们有强烈的牧羊本能，可能会试图引导儿童或其他宠物。它们的智慧和取悦主人的意愿使其非常易于训练，但有时也会表现出独立性。通过适当的社交，它们能与其他狗和宠物相处融洽。由于警觉的天性，它们是优秀的看门犬。总体而言，卡迪根威尔士柯基犬是一种忠诚的伴侣，喜欢与人互动和精神刺激。"
+    },
+    "care": {
+      "en": "Daily care for a Cardigan Welsh Corgi includes brushing its thick double coat 2-3 times a week to manage shedding, with more frequent brushing during seasonal changes. Bathe only when necessary to preserve natural oils. Exercise needs are moderate; provide at least 30-60 minutes of daily activity such as walks, playtime, or herding games. Mental stimulation is crucial—use puzzle toys or training sessions. Regular vet visits for vaccinations, dental care, and parasite prevention are essential. Nail trimming every 3-4 weeks and ear cleaning weekly help prevent infections. Due to their long backs, avoid activities that stress the spine, like jumping from heights. Maintain a healthy weight to reduce joint strain.",
+      "zh": "卡迪根威尔士柯基犬的日常护理包括每周刷毛2-3次以管理脱毛，换毛季需更频繁。仅在必要时洗澡以保护天然油脂。运动需求适中：每天至少30-60分钟的活动，如散步、游戏或牧羊游戏。精神刺激至关重要——使用益智玩具或训练课程。定期兽医检查，包括疫苗接种、牙齿护理和寄生虫预防。每3-4周修剪指甲，每周清洁耳朵以防感染。由于其长背，避免跳跃等对脊柱有压力的活动。保持健康体重以减轻关节负担。"
+    },
+    "training": {
+      "en": "Cardigan Welsh Corgis are intelligent and eager to please, making them responsive to positive reinforcement training methods. Use treats, praise, and play as rewards. Start training early, focusing on basic commands like sit, stay, and come. Socialization is critical—expose them to various people, animals, and environments from puppyhood. They can be stubborn, so be patient and consistent. Avoid harsh corrections; they may shut down. Channel their herding instinct into activities like agility, obedience, or herding trials. Short, varied sessions (10-15 minutes) work best. Crate training is recommended for housebreaking. Mental challenges, such as puzzle toys, prevent boredom and destructive behavior.",
+      "zh": "卡迪根威尔士柯基犬聪明且渴望取悦主人，因此对积极强化训练方法反应良好。使用零食、表扬和游戏作为奖励。尽早开始训练，重点教授基本指令如坐、等待和过来。社会化至关重要——从幼犬期开始让它们接触不同的人、动物和环境。它们可能固执，所以要有耐心并保持一致性。避免严厉的纠正，否则它们可能会退缩。将牧羊本能引导到敏捷、服从或牧羊比赛等活动中。短而多样的训练课程（10-15分钟）效果最佳。建议使用笼内训练进行如厕训练。精神挑战如益智玩具可防止无聊和破坏行为。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, balanced diet formulated for medium-sized breeds with moderate energy levels. Portion control is vital to prevent obesity, which can exacerbate back and joint issues. Divide daily food into two meals. Choose foods rich in protein and healthy fats, with appropriate calcium-to-phosphorus ratio for bone health. Avoid over-supplementation without veterinary advice. Fresh water should always be available. Treats should not exceed 10% of daily calories. Puppies need three to four meals per day, gradually reducing to two meals by adulthood. Monitor weight and adjust portions as needed. Consider joint supplements like glucosamine for older dogs.",
+      "zh": "喂食专为中等体型、中等能量水平犬种设计的高质量均衡饮食。控制分量至关重要，以防止肥胖，肥胖会加剧背部和关节问题。将每日食物分成两餐。选择富含蛋白质和健康脂肪的食物，并保持适当的钙磷比以促进骨骼健康。未经兽医建议避免过度补充。始终提供新鲜饮用水。零食不应超过每日热量的10%。幼犬每天需3-4餐，成年后逐渐减至两餐。监测体重并根据需要调整分量。对于老年犬，可考虑关节补充剂如葡萄糖胺。"
+    },
+    "livingTips": {
+      "en": "Cardigan Welsh Corgis adapt well to various living situations, including apartments, provided they receive sufficient exercise. A securely fenced yard is ideal for play and exploration. They are generally good with children, but herding behavior (nipping at heels) may occur with young kids; supervision and training are advised. They usually get along with other dogs and cats if socialized early. Their moderate bark makes them suitable for neighborhoods, though they will alert to strangers. Avoid leaving them alone for long periods as they can develop separation anxiety. Provide comfortable bedding to support their backs. Ensure the home is safe from jumping hazards due to their long spine.",
+      "zh": "卡迪根威尔士柯基犬能适应各种生活环境，包括公寓，前提是获得足够的运动。有安全围栏的院子是玩耍和探索的理想场所。它们通常对孩子友好，但可能会对幼儿表现出牧羊行为（咬脚跟），建议监督和训练。如果早期社交，它们通常能与其他狗和猫相处。适度的吠叫使它们适合社区生活，但会对陌生人发出警报。避免长时间独处，否则可能产生分离焦虑。提供舒适的床垫以支撑背部。由于长脊柱，确保家中无跳跃危险。"
+    }
+  }
 }

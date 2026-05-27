@@ -86,5 +86,27 @@
       "en": "Quiet",
       "zh": "安静"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The LaPerm is a uniquely affectionate and friendly cat breed, known for its gentle and intelligent nature. Originating from Thailand, these cats are both playful and quiet, making them adaptable companions. They are highly social and form strong bonds with their owners, often following them around the house. Despite their active tendencies, LaPerms are equally content to be lap cats, enjoying cuddles and attention. Their curly or wavy coat adds to their charm, and they are known for being good with children and other pets. Overall, the LaPerm is a balanced, loving breed that thrives on human interaction.",
+      "zh": "拉波猫是一种独特而深情的猫品种，以其温和聪明的天性而闻名。原产于泰国，这些猫既好动又安静，是适应性强的伴侣。它们非常社交，与主人建立深厚感情，经常跟随主人在家中走动。尽管活跃，拉波猫也乐于做膝上猫，享受拥抱和关注。它们卷曲或波浪状的毛发增添了魅力，且以与儿童和其他宠物相处融洽而著称。总体而言，拉波猫是一种平衡、充满爱心的品种，依赖人类互动茁壮成长。"
+    },
+    "care": {
+      "en": "Daily care for a LaPerm includes regular grooming to maintain their curly coat, which is low-shedding but can mat if neglected. Brush 2-3 times a week with a wide-toothed comb or soft brush. Bathing is rarely needed unless the cat gets dirty. Provide daily exercise through interactive play sessions, as LaPerms are active and intelligent. A cat tree or puzzle toys can keep them engaged. Regular vet check-ups, vaccinations, and dental care are essential. Trim nails every few weeks and clean ears as needed. LaPerms thrive on routine, so establish a consistent schedule for feeding and play.",
+      "zh": "拉波猫的日常护理包括定期梳理其卷曲的毛发，这种毛发脱毛少但若忽视易打结。每周用宽齿梳或软刷梳理2-3次。除非猫弄脏，否则很少需要洗澡。通过互动游戏提供每日运动，因为拉波猫活跃而聪明。猫爬架或益智玩具可保持其参与度。定期兽医检查、疫苗接种和牙齿护理必不可少。每几周修剪指甲，并根据需要清洁耳朵。拉波猫喜欢规律，因此建立一致的喂食和游戏时间表。"
+    },
+    "training": {
+      "en": "LaPerms are highly intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach commands like sit, stay, or fetch. They are eager to please and can learn tricks quickly. Start training early, as kittens are more adaptable. Keep sessions short (5-10 minutes) to maintain their attention. Consistency is key; use the same cues and rewards. LaPerms also benefit from puzzle toys that challenge their minds. Avoid harsh discipline, as it can damage trust. With patience, you can train your LaPerm to walk on a leash or perform fun behaviors.",
+      "zh": "拉波猫非常聪明，对积极强化训练反应良好。使用零食、赞美和响片训练来教授坐下、停留或取物等指令。它们渴望取悦，学习技巧很快。尽早开始训练，因为幼猫适应性更强。保持训练时间短（5-10分钟）以维持其注意力。一致性是关键；使用相同的提示和奖励。拉波猫也从挑战智力的益智玩具中受益。避免严厉惩罚，因为这会破坏信任。耐心训练，你可以教拉波猫用牵引绳散步或表演有趣行为。"
+    },
+    "diet": {
+      "en": "Feed your LaPerm a balanced diet of high-quality commercial cat food, either wet or dry, rich in animal protein. Kittens need more frequent meals (3-4 times daily), while adults can be fed twice a day. Ensure fresh water is always available. Monitor portion sizes to prevent obesity, as LaPerms can be food-motivated. Consult your vet for specific dietary needs, especially if your cat has allergies or sensitivities. Treats should be given sparingly. Some owners opt for raw or homemade diets, but these require careful formulation to meet nutritional standards. Always transition food gradually to avoid digestive upset.",
+      "zh": "为你的拉波猫提供均衡饮食，选择富含动物蛋白的高质量商业猫粮（湿粮或干粮）。幼猫需要更频繁的喂食（每天3-4次），成年猫每天两次。确保随时提供新鲜饮水。监控份量以防止肥胖，因为拉波猫可能对食物有动力。咨询兽医了解特定饮食需求，特别是如果猫有过敏或敏感问题。零食应适量给予。一些主人选择生食或自制饮食，但这些需要仔细配方以满足营养标准。始终逐渐换粮以避免消化不适。"
+    },
+    "livingTips": {
+      "en": "LaPerms adapt well to various living environments, including apartments and houses with yards, as long as they have enough stimulation. They are quiet cats, making them suitable for close quarters. Provide cat trees, scratching posts, and window perches for climbing and observation. LaPerms are excellent with children and other pets, including dogs, due to their gentle and friendly nature. They enjoy interactive play and will appreciate a companion animal if left alone often. However, they prefer not to be left alone for long periods, as they thrive on human company. Ensure the home is safe by securing windows and removing toxic plants.",
+      "zh": "拉波猫能很好适应各种生活环境，包括公寓和有院子的房子，只要它们有足够的刺激。它们是安静的猫，适合狭小空间。提供猫爬架、抓柱和窗台栖息处供攀爬和观察。拉波猫与儿童和其他宠物（包括狗）相处极佳，因为它们温和友善。它们喜欢互动游戏，如果经常独自在家，会喜欢有伴侣动物。然而，它们不喜欢长时间独处，因为它们依赖人类陪伴。确保家庭安全：固定窗户，移除有毒植物。"
+    }
+  }
 }

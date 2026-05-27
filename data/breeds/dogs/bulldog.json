@@ -86,5 +86,27 @@
       "en": "loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bulldog is a medium-sized, muscular breed known for its distinctive wrinkled face and pushed-in nose. Despite its intimidating history in bull-baiting, the modern Bulldog is exceptionally gentle, friendly, and calm. They are courageous yet docile, making them wonderful family companions. Bulldogs are loyal and form strong bonds with their owners, often displaying a comical, stubborn streak that endears them to many. They are generally quiet and not prone to excessive barking, but they can be protective when needed. Their low energy level makes them ideal for relaxed households, though they still enjoy short play sessions. Overall, the Bulldog combines a sweet temperament with a dignified, courageous spirit.",
+      "zh": "斗牛犬是一种中型、肌肉发达的犬种，以其独特的褶皱脸庞和扁平的鼻子而闻名。尽管其历史与斗牛活动相关，但现代斗牛犬异常温柔、友善且冷静。它们勇敢却又温顺，是极佳的家庭伴侣。斗牛犬忠诚，与主人建立深厚的情感纽带，常表现出滑稽而固执的一面，令人喜爱。它们通常安静，不易过度吠叫，但在必要时会展现出保护性。由于精力水平较低，它们非常适合悠闲的家庭生活，但仍享受短暂的玩耍时间。总体而言，斗牛犬将甜美的性格与高贵勇敢的精神融为一体。"
+    },
+    "care": {
+      "en": "Daily care for a Bulldog requires attention to their unique physical features. Grooming is essential: clean their facial wrinkles daily with a damp cloth to prevent infections, and dry thoroughly. Their short coat sheds moderately and benefits from weekly brushing. Bathe only when necessary to avoid skin dryness. Exercise needs are low—two short walks of 15–20 minutes per day suffice, as Bulldogs are prone to overheating due to their brachycephalic (flat-faced) structure. Avoid vigorous activity in hot weather. Regular vet visits are crucial to monitor for common issues like hip dysplasia, skin allergies, and breathing problems. Nail trimming and ear cleaning should be done monthly. Always provide fresh water and avoid overexertion.",
+      "zh": "斗牛犬的日常护理需要关注其独特的身体特征。美容至关重要：每天用湿布清洁面部褶皱，防止感染，并彻底擦干。它们的短毛会适度脱落，每周梳理一次即可。仅在必要时洗澡，避免皮肤干燥。运动需求较低——每天两次15至20分钟的短途散步即可，因为斗牛犬因扁平脸结构易中暑。避免在炎热天气进行剧烈活动。定期兽医检查至关重要，以监测髋关节发育不良、皮肤过敏和呼吸问题等常见疾病。每月应修剪指甲和清洁耳朵。始终提供新鲜饮水，避免过度劳累。"
+    },
+    "training": {
+      "en": "Training a Bulldog requires patience, consistency, and positive reinforcement. This breed is intelligent but can be stubborn, so harsh methods are counterproductive. Use treats, praise, and play as rewards. Start socialization and basic obedience early, ideally from puppyhood. Bulldogs respond well to short, engaging sessions of 10–15 minutes to maintain their focus. Crate training can help with housebreaking, but avoid punishment-based techniques. They are sensitive to tone, so a firm yet gentle approach works best. Due to their independent nature, some commands may need repeated practice. Focus on leash manners early, as their strength can make pulling problematic. With persistence, Bulldogs become well-mannered, reliable companions.",
+      "zh": "训练斗牛犬需要耐心、一致性和正向强化。该犬种聪明但固执，因此严厉的方法适得其反。使用零食、赞美和玩耍作为奖励。尽早开始社交化和基础服从训练，最好从小狗时期开始。斗牛犬对10至15分钟的短时、有趣的训练反应良好，能保持注意力。笼内训练有助于室内排泄训练，但避免惩罚式方法。它们对语气敏感，因此坚定而温和的方式最为有效。由于它们独立性强，某些指令可能需要重复练习。尽早关注牵引绳礼仪，因为它们的力气可能导致拉扯问题。坚持训练后，斗牛犬会变得彬彬有礼、值得信赖。"
+    },
+    "diet": {
+      "en": "Feeding a Bulldog requires a balanced diet to maintain a healthy weight and prevent obesity, which exacerbates breathing and joint issues. Choose high-quality dog food formulated for medium breeds, with controlled portions based on age, activity, and metabolism. Typically, 2–3 meals per day are recommended to reduce the risk of bloat (gastric torsion). Avoid overfeeding and limit treats to 10% of daily calories. Bulldogs are prone to food allergies, so monitor for skin or digestive reactions and consult a vet for hypoallergenic diets if needed. Fresh water must always be available. Consider slow-feed bowls to prevent gulping air. Supplements like glucosamine may support joint health, but only under veterinary guidance.",
+      "zh": "喂养斗牛犬需要均衡饮食以维持健康体重，预防肥胖（肥胖会加重呼吸和关节问题）。选择为中型犬配制的高质量狗粮，根据年龄、活动量和代谢控制分量。通常建议每日2至3餐，以降低胃扭转风险。避免过量喂食，零食热量不超过每日总热量的10%。斗牛犬易患食物过敏，需观察皮肤或消化反应，必要时咨询兽医选择低敏饮食。始终提供新鲜饮水。考虑使用慢食碗防止吞咽空气。葡萄糖胺等补充剂可能有益关节健康，但需在兽医指导下使用。"
+    },
+    "livingTips": {
+      "en": "Bulldogs are excellent apartment dogs due to their low energy and quiet nature. They adapt well to small spaces as long as they have a comfortable bed and moderate daily walks. A small, secure yard is nice for short play sessions, but not essential. They are sensitive to extreme temperatures: avoid prolonged heat (risk of heatstroke) and provide warmth in cold weather. Bulldogs generally get along well with children, being patient and tolerant, but supervision is advised due to their size and potential for accidental knocking. They can coexist with other pets if socialized early, though some may show same-sex aggression. Their calm demeanor makes them ideal for families seeking a devoted, low-maintenance companion.",
+      "zh": "斗牛犬因精力低、性格安静，是极佳的公寓犬。只要拥有舒适的床和每日适度的散步，它们能很好适应小空间。一个小型、安全的院子适合短暂玩耍，但并非必需。它们对极端温度敏感：避免长时间炎热（有中暑风险），寒冷天气需保暖。斗牛犬通常与儿童相处融洽，耐心且宽容，但因体型较大可能意外撞倒孩子，建议看护。若能早期社交，它们可与其他宠物共存，但部分个体可能有同性攻击倾向。它们冷静的性情使之成为寻求忠诚、低维护伴侣家庭的理想选择。"
+    }
+  }
 }

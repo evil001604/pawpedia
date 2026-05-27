@@ -86,5 +86,27 @@
       "en": "independent",
       "zh": "独立"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bắc Hà is an indigenous spitz-type breed from northern Vietnam, known for its alert, loyal, and protective nature. Developed by the Hmong people for hunting and guarding, this medium-sized dog is intelligent and independent, making it a devoted companion but also a challenge for novice owners. They are wary of strangers and have a strong prey drive, requiring early socialization. Their thick double coat suits cold climates, and they are generally healthy with few genetic issues. Bắc Hà dogs form deep bonds with their families and are excellent watchdogs, but they need consistent leadership and mental stimulation.",
+      "zh": "北河犬是一种源自越南北部的原生斯皮茨型犬种，以警觉、忠诚和保护性而闻名。由苗族培育用于狩猎和守卫，这种中型犬聪明独立，是忠诚的伴侣，但对新手主人来说可能具有挑战性。它们对陌生人警惕，有强烈的捕猎本能，需要早期社会化。厚厚的双层被毛适合寒冷气候，通常健康且少有遗传问题。北河犬与家庭建立深厚感情，是优秀的看门犬，但需要持续的领导力和精神刺激。"
+    },
+    "care": {
+      "en": "Daily care for a Bắc Hà includes brushing their thick coat 2-3 times a week, increasing to daily during shedding seasons. Bathe only when necessary to preserve natural oils. Exercise needs are moderate but consistent—daily walks, runs, or hikes of at least 45 minutes, plus playtime in a secure yard. They are active and enjoy tasks like tracking or agility. Vet visits should be annual for checkups and vaccinations; watch for hip dysplasia and eye issues. Nail trimming every 2-3 weeks and regular ear cleaning prevent infections. Dental hygiene with weekly brushing is recommended.",
+      "zh": "北河犬的日常护理包括每周刷毛2-3次，换毛季增加至每日。仅在必要时洗澡以保护天然油脂。运动需求中等但持续——每天至少45分钟的散步、跑步或徒步，加上在安全院子里的玩耍时间。它们活跃，喜欢追踪或敏捷性活动。每年进行一次兽医检查和疫苗接种；注意髋关节发育不良和眼部问题。每2-3周修剪指甲，定期清洁耳朵以防感染。建议每周刷牙以保持口腔卫生。"
+    },
+    "training": {
+      "en": "Training a Bắc Hà requires patience and consistency due to their independent nature. Use positive reinforcement with treats and praise, as harsh methods may cause resistance. Start socialization and basic obedience early, exposing them to various people, animals, and environments. They are intelligent but can be stubborn, so keep sessions short and engaging. Focus on recall and impulse control to manage their prey drive. Avoid repetitive drills; incorporate games and problem-solving tasks. A confident, calm leader is essential. Crate training can provide a safe space, but avoid isolation. They excel in activities like nose work and tracking.",
+      "zh": "训练北河犬需要耐心和一致性，因为它们性格独立。使用零食和表扬进行正向强化，严厉方法可能导致反抗。尽早开始社会化和基本服从训练，让它们接触不同的人、动物和环境。它们聪明但可能固执，所以训练时间要短而有趣。重点训练召回和冲动控制以管理捕猎本能。避免重复练习，加入游戏和解决问题的任务。自信、冷静的领导者至关重要。笼内训练可提供安全空间，但避免孤立。它们在嗅闻和追踪等活动中表现出色。"
+    },
+    "diet": {
+      "en": "Feed a Bắc Hà high-quality dog food appropriate for their age, size, and activity level. A protein-rich diet with moderate fat supports their active lifestyle. Divide daily portions into two meals to prevent bloat. Fresh water should always be available. Treats are useful for training but limit to 10% of calories. Consider adding fish oil for coat health and joint supplements for larger individuals. Avoid overfeeding as they can gain weight easily if under-exercised. Monitor for food allergies, common in spitz breeds. Consult a vet for specific dietary needs, especially if they work or hunt.",
+      "zh": "根据北河犬的年龄、体型和活动水平，喂食优质狗粮。富含蛋白质、脂肪适中的饮食支持其活跃的生活方式。每日分两餐喂食以防胃胀气。始终提供新鲜饮水。零食可用于训练，但限制在热量的10%以内。可添加鱼油改善被毛健康，体型较大的个体可补充关节保健品。避免过度喂食，因为运动不足时容易发胖。注意食物过敏，这在斯皮茨犬种中常见。请咨询兽医了解特定饮食需求，特别是工作或狩猎犬。"
+    },
+    "livingTips": {
+      "en": "Bắc Hà dogs are best suited to homes with a securely fenced yard, as they have a strong prey drive and tendency to roam. They can adapt to apartment living if given ample daily exercise, but a house with space is ideal. They are devoted to their family but may be reserved with strangers, making early socialization crucial. They can coexist with children if raised together, but supervision is needed due to their guarding instincts. With other pets, they may be territorial and chase small animals. They thrive in cooler climates and need access to shade and water in heat. Mental enrichment like puzzle toys prevents boredom.",
+      "zh": "北河犬最适合有安全围栏院子的家庭，因为捕猎本能强且容易游荡。如果每天有充足运动，它们也能适应公寓生活，但有空间的房子更理想。它们对家庭忠诚，但对陌生人可能冷淡，因此早期社会化至关重要。如果与孩子一起长大，可以相处，但由于守护本能需要监督。对于其他宠物，它们可能有领地意识并追逐小动物。它们喜欢凉爽气候，炎热时需要阴凉和水。拼图玩具等精神 enrichment 可防止无聊。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "Curious",
       "zh": "好奇"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Norwegian Forest Cat is a sweet, active, and intelligent breed that forms strong bonds with its family. Known for their playful and curious nature, these cats retain a hunter's instinct and enjoy interactive play. They are social and thrive on companionship, often following their owners around the house. With a luxurious double coat and sturdy build, they are well-suited to colder climates. Despite their independent streak, they are affectionate and seek praise. Their lively personality makes them a delightful addition to any home.",
+      "zh": "挪威森林猫是一种甜美、活跃且聪明的品种，与家人建立深厚的情感纽带。它们以顽皮和好奇的天性著称，保留着猎手的本能，喜欢互动游戏。它们善于社交，渴望陪伴，常常跟随主人满屋走动。拥有华丽的双层被毛和结实的体格，非常适合寒冷气候。尽管有些独立，但它们很亲昵，喜欢得到赞美。活泼的性格使它们成为任何家庭的愉快成员。"
+    },
+    "care": {
+      "en": "Daily care for a Norwegian Forest Cat includes regular grooming to prevent matting of their thick double coat—brush at least 2-3 times a week, increasing during shedding seasons. Provide daily exercise through interactive toys, climbing trees, or puzzle feeders to satisfy their active and curious nature. Schedule annual veterinary check-ups, vaccinations, and dental care. Trim nails every two weeks and clean ears as needed. These cats enjoy outdoor access in a safe enclosure or supervised leash walks.",
+      "zh": "挪威森林猫的日常护理包括定期梳理厚实的双层被毛以防打结——每周至少刷毛2-3次，换毛季节需增加频率。通过互动玩具、攀爬架或益智喂食器提供每日锻炼，以满足其活跃和好奇的天性。安排年度兽医体检、疫苗接种和牙齿护理。每两周修剪指甲，并视需要清洁耳朵。这类猫喜欢在安全围栏内或牵绳散步时享受户外活动。"
+    },
+    "training": {
+      "en": "Norwegian Forest Cats are intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach basic commands and tricks. They enjoy puzzle toys and can learn to fetch or walk on a leash. Start training early to establish good habits. Be patient and consistent, as they may have an independent streak. Avoid punishment; instead, redirect unwanted behaviors. Socialization with people and other pets during kittenhood helps them become well-adjusted adults.",
+      "zh": "挪威森林猫聪明，对正向强化训练反应良好。使用零食、表扬和响片训练教授基本指令和技巧。它们喜欢益智玩具，能学会捡球或牵绳散步。尽早开始训练以建立良好习惯。保持耐心和一致性，因为它们可能有些独立。避免惩罚，而是引导不良行为。在幼猫期与人和其它宠物进行社会化，有助于它们成长为适应良好的成猫。"
+    },
+    "diet": {
+      "en": "Feed a high-quality protein-rich diet suitable for active cats. Combine wet and dry food to ensure hydration and dental health. Portion control is important to prevent obesity; follow feeding guidelines based on weight, age, and activity level. Provide fresh water daily. Consider a mix of commercial cat food and occasional raw or cooked meat (consult vet). Treats should be limited. Norwegian Forest Cats may have a tendency to gain weight, so monitor their body condition and adjust portions accordingly.",
+      "zh": "喂食适合活跃猫咪的高质量高蛋白饮食。结合湿粮和干粮以确保水分摄入和牙齿健康。控制食量以防肥胖；根据体重、年龄和活动水平遵循喂食指南。每日提供新鲜饮水。可考虑商业猫粮与偶尔的生肉或熟肉混合（咨询兽医）。零食应限量。挪威森林猫可能有体重增加的趋势，因此需监测体况并相应调整食量。"
+    },
+    "livingTips": {
+      "en": "Norwegian Forest Cats adapt well to various homes but thrive with space to climb and explore. They are suitable for apartments if provided with cat trees and window perches, but a securely fenced yard is ideal. They are generally good with children and other pets if properly introduced. These cats are territorial and may patrol their environment. Provide hiding spots and high resting areas. They enjoy interactive play and benefit from a companion cat. Ensure windows and balconies are cat-proofed.",
+      "zh": "挪威森林猫能适应各种家庭，但有攀爬和探索空间时更茁壮。如果提供猫爬架和窗台，它们适合公寓生活，但有安全围栏的院子更理想。如果适当引入，它们通常对孩子和其他宠物友好。它们有领地意识，可能会巡视环境。提供藏身之处和高处休息区。它们喜欢互动游戏，有伴侣猫更好。确保窗户和阳台对猫安全。"
+    }
+  }
 }

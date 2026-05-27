@@ -1,6 +1,17 @@
 import { loadBreeds } from "@/lib/breeds"
 import Link from "next/link"
 import { getTranslations } from "next-intl/server"
+import type { Metadata } from "next"
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params
+  const l = locale as "en" | "zh"
+  const title = l === "en" ? "Pet Health Guide — Care Tips & Breed-Specific Advice | PetPedia" : "宠物健康指南 — 护理技巧与品种专属建议 | PetPedia"
+  const description = l === "en"
+    ? "Comprehensive pet health guide covering nutrition, exercise, grooming, dental care, and breed-specific health advice for dogs and cats."
+    : "全面的宠物健康指南，涵盖营养、运动、美容、口腔护理及犬猫品种专属健康建议。"
+  return { title, description, openGraph: { title, description } }
+}
 
 const generalTips = {
   en: [

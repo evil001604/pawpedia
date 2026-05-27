@@ -86,5 +86,27 @@
       "en": "alert",
       "zh": "机警"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Armant is a loyal, courageous, and intelligent herding breed from Egypt. Bred for versatility as livestock guardians and herders, these dogs are highly protective and alert, making them excellent watchdogs. They are known for their strong bond with family and a natural suspicion of strangers. Armants are energetic and require consistent leadership. Their herding instincts may lead them to try to herd children or other pets. With proper socialization, they can be gentle and devoted companions. Their courage and intelligence make them quick learners, but they can be independent.",
+      "zh": "阿曼特犬是来自埃及的忠诚、勇敢且聪明的牧羊犬种。作为多功能的家畜护卫和牧羊犬，它们非常保护性强且警觉，是出色的看门犬。它们以与家庭的紧密联系和对陌生人的天然警惕而闻名。阿曼特犬精力充沛，需要坚定的领导。它们的牧羊本能可能导致它们试图驱赶孩子或其他宠物。通过适当的社会化，它们可以成为温柔而忠诚的伴侣。它们的勇气和智慧使它们学习迅速，但可能有些独立。"
+    },
+    "care": {
+      "en": "Daily care for an Armant includes moderate grooming due to their double coat. Brush weekly to remove loose hair and prevent matting, increasing to daily during shedding seasons. Bathe only when necessary. Exercise is crucial: at least 60 minutes of vigorous activity daily, such as long walks, running, or herding games. They thrive with a job to do. Regular vet check-ups are essential to monitor for hip dysplasia and eye issues. Clean ears regularly and trim nails monthly. Early socialization and consistent routines help manage their protective nature.",
+      "zh": "阿曼特犬的日常护理包括适度的梳理，因为它们有双层被毛。每周刷毛一次以去除死毛并防止打结，换毛季节需每日梳理。仅在必要时洗澡。运动至关重要：每天至少60分钟的高强度活动，如长距离散步、跑步或牧羊游戏。它们喜欢有任务可做。定期兽医检查对于监测髋关节发育不良和眼部问题非常重要。定期清洁耳朵，每月修剪指甲。早期社会化和一致的日常安排有助于管理它们的保护本能。"
+    },
+    "training": {
+      "en": "Training an Armant requires patience, consistency, and positive reinforcement. They are intelligent but can be stubborn, so firm yet gentle leadership is key. Start obedience training early and incorporate socialization with people and other animals. Use reward-based methods with treats and praise. Avoid harsh corrections as they may cause resistance. Herding and agility activities channel their energy and instincts productively. Short, varied sessions maintain their interest. Armants excel in tasks that challenge their mind and body. Early training prevents undesirable guarding behaviors.",
+      "zh": "训练阿曼特犬需要耐心、一致性和积极强化。它们聪明但可能固执，因此坚定而温和的领导是关键。尽早开始服从训练，并融入与人和其它动物的社会化。使用基于奖励的方法，如零食和表扬。避免严厉的纠正，因为这可能引起抵触。牧羊和敏捷活动能有效引导它们的精力和本能。短而多样的训练课程能保持它们的兴趣。阿曼特犬在挑战心智和身体的任务中表现出色。早期训练可防止不良的护卫行为。"
+    },
+    "diet": {
+      "en": "Feed an Armant high-quality dog food appropriate for their age, size, and activity level. Typically, 2-3 cups of dry food daily, split into two meals. Active dogs may need more. Ensure the diet includes balanced protein and fat for energy, plus omega fatty acids for coat health. Avoid overfeeding to prevent obesity, which stresses joints. Fresh water must always be available. Treats should be limited and used for training. Consult a vet for specific dietary needs, especially if the dog has allergies or sensitivities. Some Armants may thrive on raw or home-cooked diets under professional guidance.",
+      "zh": "为阿曼特犬提供适合其年龄、体型和活动水平的高品质狗粮。通常每天2-3杯干粮，分两餐喂食。活跃的狗可能需要更多。确保饮食包含均衡的蛋白质和脂肪以提供能量，以及欧米伽脂肪酸以维护毛发健康。避免过度喂食以防肥胖，肥胖会给关节带来压力。始终提供新鲜水源。零食应有限制并用于训练。如有特殊饮食需求，特别是过敏或敏感，请咨询兽医。一些阿曼特犬在专业指导下可能适合生食或自制饮食。"
+    },
+    "livingTips": {
+      "en": "Armants are best suited for homes with a securely fenced yard where they can exercise. They can adapt to apartment living if given sufficient daily exercise, but a house with space is ideal. They are protective and may bark at strangers, so early socialization is crucial. With proper introduction, they can get along with children and other pets, though their herding instinct may cause them to nip at heels. They are loyal family dogs but need a confident owner. Not recommended for novice owners. They thrive in active households and can be destructive if bored.",
+      "zh": "阿曼特犬最适合有安全围栏院子的家庭，以便它们运动。如果每天得到充分运动，它们也能适应公寓生活，但有空间的房子更为理想。它们具有保护性，可能对陌生人吠叫，因此早期社会化至关重要。通过适当介绍，它们能与孩子和其他宠物相处，但牧羊本能可能导致它们咬脚跟。它们是忠诚的家庭犬，但需要自信的主人。不建议新手饲养。它们在活跃的家庭中茁壮成长，如果无聊可能会具有破坏性。"
+    }
+  }
 }

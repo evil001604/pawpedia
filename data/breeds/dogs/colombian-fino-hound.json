@@ -98,5 +98,27 @@
       "en": "alert",
       "zh": "机警"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Colombian Fino Hound is a medium to large-sized scent hound known for its affectionate, docile, and energetic temperament. Bred for tenacity and exceptional scenting abilities, this breed is highly intelligent, loyal, and work-focused. Despite its hunting drive, it forms strong bonds with its family and is alert and devoted. Originally developed in Colombia from European and North American scent hounds, it has adapted to local terrain and climate. This breed thrives on companionship and purpose, making it a devoted family pet when given adequate exercise and mental stimulation.",
+      "zh": "哥伦比亚芬诺猎犬是一种中大型嗅觉猎犬，以其亲切、温顺且充满活力的性格而闻名。该品种为坚韧和卓越的嗅觉能力而培育，非常聪明、忠诚且专注于工作。尽管具有狩猎本能，但它与家庭建立牢固的联系，警觉且忠诚。原产于哥伦比亚，由欧洲和北美的嗅觉猎犬发展而来，适应了当地的地形和气候。这种犬类在陪伴和目标中茁壮成长，在给予充足运动和精神刺激时，能成为忠诚的家庭宠物。"
+    },
+    "care": {
+      "en": "Daily care for the Colombian Fino Hound includes moderate grooming: weekly brushing to control shedding and occasional baths. Their floppy ears require regular cleaning to prevent infections. Exercise is crucial—at least 60-90 minutes of vigorous activity daily, such as long walks, jogs, or scent games. Mental stimulation through puzzle toys or tracking exercises is also important. Routine vet visits, vaccinations, and parasite prevention should be maintained. Nail trimming every few weeks and dental care (teeth brushing 2-3 times per week) are recommended.",
+      "zh": "哥伦比亚芬诺猎犬的日常护理包括适度梳理：每周刷毛以控制脱毛，偶尔洗澡。其下垂的耳朵需要定期清洁以防止感染。运动至关重要——每天至少60-90分钟的剧烈活动，如长距离散步、慢跑或嗅觉游戏。通过益智玩具或追踪练习进行精神刺激也很重要。应保持定期兽医检查、疫苗接种和寄生虫预防。建议每隔几周修剪指甲，并每周刷牙2-3次以进行牙齿护理。"
+    },
+    "training": {
+      "en": "Training a Colombian Fino Hound requires patience, consistency, and positive reinforcement. This intelligent breed responds well to reward-based methods, such as treats and praise, but can be independent due to its hunting background. Early socialization and obedience training are essential to curb stubbornness. Scent work and tracking exercises tap into their natural abilities and provide mental stimulation. Avoid harsh corrections, as they can damage trust. Keep sessions short (10-15 minutes) and engaging to maintain focus.",
+      "zh": "训练哥伦比亚芬诺猎犬需要耐心、一致性和正向强化。这种聪明的品种对基于奖励的方法（如零食和表扬）反应良好，但由于其狩猎背景，可能会有些独立。早期社会化及服从训练对于抑制固执至关重要。嗅觉工作和追踪练习能激发其自然能力并提供精神刺激。避免严厉的纠正，以免破坏信任。保持训练简短（10-15分钟）且有趣，以维持注意力。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the breed's age, size, and activity level. Colombian Fino Hounds have high energy needs; a diet rich in protein and healthy fats supports their active lifestyle. Divide daily food into two meals to prevent bloat. Monitor weight to avoid obesity, as they can gain weight if overfed. Fresh water should always be available. Treats can be used for training but should not exceed 10% of daily calories. Consult a vet for specific dietary adjustments.",
+      "zh": "喂食适合该品种年龄、体型和活动水平的高质量狗粮。哥伦比亚芬诺猎犬能量需求高；富含蛋白质和健康脂肪的饮食有助于其活跃的生活方式。将每日食物分成两餐，以预防胃胀气。监测体重以避免肥胖，因为如果喂食过量，它们可能体重增加。应始终提供新鲜水。零食可用于训练，但不应超过每日卡路里的10%。咨询兽医进行具体的饮食调整。"
+    },
+    "livingTips": {
+      "en": "The Colombian Fino Hound is best suited for homes with a securely fenced yard where it can explore and play. Apartment living is possible if given sufficient exercise, but its baying bark may disturb neighbors. This breed is generally good with children and other dogs when properly socialized, but its hunting instinct may pose risks to small pets like cats or rodents. It thrives in an active family that can provide companionship and purpose. Mental enrichment and a job to do, such as tracking or agility, are highly recommended.",
+      "zh": "哥伦比亚芬诺猎犬最适合有安全围栏院子的家庭，以便其探索和玩耍。如果给予充足的运动，公寓生活也有可能，但其吠叫声可能打扰邻居。该品种在适当社会化后通常对孩子和其他狗友好，但狩猎本能可能对猫或啮齿类等小型宠物构成风险。它在一个能提供陪伴和目标感的活跃家庭中茁壮成长。强烈推荐提供精神丰富和任务，如追踪或敏捷训练。"
+    }
+  }
 }

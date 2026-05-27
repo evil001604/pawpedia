@@ -86,5 +86,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American English Coonhound is a versatile, energetic hound known for its friendly and intelligent nature. Bred for hunting raccoons and foxes, this breed is alert, work-focused, and possesses a strong prey drive. They are loyal companions who thrive on activity and mental stimulation. With a sleek, athletic build and a distinctive bay, they are both charming and determined. Their sociable demeanor makes them great family dogs, but their independent streak requires patient handling.",
+      "zh": "美国英国猎浣熊犬是一种多才多艺、精力充沛的猎犬，以其友好和聪明的天性而闻名。该品种专为猎浣熊和狐狸而培育，警觉、专注于工作，并具有强烈的猎物驱动力。它们是忠诚的伙伴，喜欢活动和心理刺激。拥有光滑、运动的体型和独特的吠叫声，既迷人又坚定。其社交性格使其成为优秀的家庭犬，但独立的个性需要耐心的引导。"
+    },
+    "care": {
+      "en": "Daily care for an American English Coonhound includes moderate to high exercise—at least 60 minutes of running or vigorous play. Their short, dense coat requires weekly brushing to control shedding. Regular ear cleaning is crucial due to their floppy ears, and nail trimming should be done monthly. Annual vet visits for vaccinations and health screenings are recommended. They are generally healthy but prone to hip dysplasia and ear infections.",
+      "zh": "美国英国猎浣熊犬的日常护理包括中等到高强度的运动——每天至少60分钟的跑步或剧烈玩耍。它们短而密的被毛需要每周梳理以控制脱毛。由于耳朵下垂，定期清洁耳朵至关重要，每月修剪指甲。建议每年进行疫苗接种和健康检查的兽医访问。它们通常健康，但易患髋关节发育不良和耳部感染。"
+    },
+    "training": {
+      "en": "Training an American English Coonhound requires consistency, patience, and positive reinforcement. Their independent nature can make them stubborn, so use high-value treats and keep sessions short and engaging. Early socialization is vital to curb their prey drive and ensure good behavior around other pets. Hounds respond well to scent-based games and tracking exercises. Avoid harsh corrections, as they can be sensitive.",
+      "zh": "训练美国英国猎浣熊犬需要一致性、耐心和积极强化。它们独立的个性可能导致固执，因此使用高价值零食并保持训练简短有趣。早期社会化对抑制其猎物驱动力和确保与其他宠物良好相处至关重要。猎犬对基于气味的游戏和追踪练习反应良好。避免严厉的纠正，因为它们可能敏感。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food formulated for active breeds, with protein as the first ingredient. Adult dogs typically need 2-3 cups of dry food daily, divided into two meals. Adjust portions based on activity level to prevent obesity. Avoid overfeeding; hounds are prone to weight gain. Ensure fresh water is always available. Treats can be used in training but should not exceed 10% of daily calories.",
+      "zh": "喂食专为活跃品种配制的高质量狗粮，蛋白质应为首要成分。成年犬通常每天需要2-3杯干粮，分两餐喂食。根据活动水平调整份量以防肥胖。避免过度喂食；猎犬易发胖。确保随时有新鲜饮水。训练中可使用零食，但不应超过每日卡路里的10%。"
+    },
+    "livingTips": {
+      "en": "The American English Coonhound is best suited for homes with a fenced yard where they can run freely. They are not ideal for apartments due to their high energy and loud baying. They are generally good with children and other dogs if socialized early, but their prey drive may make them unsafe around small pets like cats or rabbits. Mental stimulation through puzzle toys and scent games is essential to prevent destructive behavior.",
+      "zh": "美国英国猎浣熊犬最适合有围栏院子的家庭，以便它们自由奔跑。由于精力旺盛和吠叫声大，它们不适合公寓生活。如果早期社会化，它们通常对儿童和其他狗友好，但猎物驱动力可能使其对猫或兔子等小型宠物不安全。通过益智玩具和气味游戏提供心理刺激对于防止破坏行为至关重要。"
+    }
+  }
 }

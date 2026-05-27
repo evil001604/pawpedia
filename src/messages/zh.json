@@ -25,7 +25,9 @@
     "exploreCats": "探索猫品种",
     "breedCount": "{count} 个品种",
     "tryDiagnosis": "试试AI诊断",
-    "diagnosisDesc": "选择你的宠物类型和症状，获取初步健康分析。",
+    "diagnosisDesc": "选择宠物类型和症状，获取初步健康洞察。",
+    "featuredBreeds": "热门品种",
+    "featuredBreedsDesc": "浏览我们最受欢迎的品种，了解详细特征和养护指南。",
     "features": {
       "traits": { "title": "性格特征", "desc": "详细的雷达图，展示性格、脾气、忠诚度、智商等" },
       "health": { "title": "健康指南", "desc": "每个品种的常见疾病、掉毛程度和护理建议" },
@@ -64,7 +66,8 @@
     "diagnoseCTA": "担心宠物健康？",
     "diagnoseButton": "用AI诊断分析品种健康",
     "compareCTA": "与另一个品种对比",
-    "similarBreeds": "相似品种"
+    "similarBreeds": "相似品种",
+    "careGuide": "养护指南"
   },
   "health": {
     "title": "健康百科",

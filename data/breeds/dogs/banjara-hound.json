@@ -86,5 +86,27 @@
       "en": "courageous",
       "zh": "勇敢"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Banjara Hound is an ancient sighthound breed from India, developed by the nomadic Banjara tribes. It is independent, loyal, alert, intelligent, and courageous. As a hound, it possesses a strong prey drive and a keen sense of sight. It is typically reserved with strangers but deeply devoted to its family. Its athletic build and high energy levels make it an excellent companion for active owners. Despite its independence, it thrives on consistent leadership and positive bonding.",
+      "zh": "班贾拉猎犬是一种来自印度的古老视觉猎犬，由游牧的班贾拉部落培育而成。它性格独立、忠诚、警觉、聪慧且勇敢。作为猎犬，它具有强烈的猎物本能和敏锐的视力。通常对陌生人保持警惕，但对家庭极为忠诚。其运动型体格和高能量水平使其成为活跃主人的绝佳伴侣。尽管独立，但它需要持续的领导力和积极的感情纽带。"
+    },
+    "care": {
+      "en": "Daily care for the Banjara Hound includes at least 60-90 minutes of vigorous exercise, such as running in a secure area or long walks. Grooming is minimal due to its short coat; weekly brushing suffices, with occasional baths. Nail trimming and ear cleaning should be done regularly. Veterinary visits for vaccinations, parasite control, and annual check-ups are essential. Dental hygiene should not be neglected. This breed is generally healthy but may be prone to bloat; feed smaller meals and avoid exercise after eating.",
+      "zh": "班贾拉猎犬的日常护理包括每天至少60-90分钟的剧烈运动，如在安全区域奔跑或长时间散步。由于被毛短，梳理需求低，每周刷毛一次即可，偶尔洗澡。定期修剪指甲和清洁耳朵。定期兽医访问进行疫苗接种、寄生虫控制和年度检查必不可少。牙齿卫生也不容忽视。该品种通常健康，但可能易患胃扭转；建议少食多餐，避免饭后立即运动。"
+    },
+    "training": {
+      "en": "Training a Banjara Hound requires patience and consistency. As an independent breed, it responds best to positive reinforcement methods like treats and praise. Early socialization is crucial to prevent shyness or aggression. Use short, engaging sessions to maintain interest. Avoid harsh corrections, which can damage trust. Because of its strong prey drive, recall training in a controlled environment is essential. Obedience training should be firm yet fair, establishing clear boundaries.",
+      "zh": "训练班贾拉猎犬需要耐心和一致性。作为独立品种，它对零食和表扬等积极强化方法反应最佳。早期社会化至关重要，以防止害羞或攻击性。使用简短有趣的训练课程以保持兴趣。避免严厉纠正，这会破坏信任。由于其强烈的猎物本能，在受控环境中进行召回训练必不可少。服从训练应坚定而公平，建立明确的界限。"
+    },
+    "diet": {
+      "en": "The Banjara Hound thrives on a high-quality diet rich in protein to support its active lifestyle. Feed 2-3 meals per day to reduce bloat risk. Include lean meats, fish, vegetables, and some grains. Avoid foods with artificial additives. Puppies need a growth-formulated diet, while adults require balanced maintenance food. Seniors may benefit from joint supplements. Always provide fresh water. Monitor weight to prevent obesity, as this breed can be prone to weight gain if under-exercised.",
+      "zh": "班贾拉猎犬需要富含蛋白质的高质量饮食以支持其活跃的生活方式。每日喂食2-3餐以降低胃扭转风险。包括瘦肉、鱼、蔬菜和少量谷物。避免含人工添加剂的食品。幼犬需要成长配方饮食，成年犬需要均衡的维持期食物。老年犬可能受益于关节补充剂。始终提供新鲜饮水。监测体重以防肥胖，因为如果运动不足，该品种容易发胖。"
+    },
+    "livingTips": {
+      "en": "The Banjara Hound is best suited to a home with a large, secure yard where it can run freely. Apartment living is possible if sufficient exercise is provided, but it may become destructive if under-stimulated. It is generally good with children if raised together, but due to its prey drive, caution is needed around small pets like cats or rodents. It may be reserved with other dogs; early socialization helps. This breed is a natural watchdog and will alert to strangers.",
+      "zh": "班贾拉猎犬最适合拥有大型安全院落的家庭，以便自由奔跑。如果提供足够运动，公寓生活也可行，但若刺激不足可能变得具有破坏性。如果从小一起长大，通常对孩子友好，但由于猎物本能，需小心对待猫或啮齿类等小型宠物。可能对其他狗保持警惕；早期社会化有帮助。该品种是天生的看门犬，会对陌生人发出警报。"
+    }
+  }
 }

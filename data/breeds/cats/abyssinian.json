@@ -82,5 +82,27 @@
       "en": "Gentle",
       "zh": "温和"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Abyssinian is a medium-sized, short-haired cat known for its ticked coat and expressive almond-shaped eyes. This breed is highly active, energetic, and intelligent, often described as 'clown-like' for its playful antics. Abyssinians are independent yet affectionate, forming strong bonds with their human companions. They enjoy interactive play and are curious about their surroundings, making them excellent explorers. Their gentle nature makes them suitable for families with children and other pets, provided they have enough stimulation to prevent boredom.",
+      "zh": "阿比西尼亚猫是一种中型短毛猫，以其特有的刺鼠色被毛和富有表情的杏仁眼而闻名。该品种非常活跃、精力充沛且聪明，常因其顽皮的行为被形容为‘小丑’。阿比西尼亚猫独立但深情，与人类伴侣建立牢固的联系。它们喜欢互动游戏，对周围环境充满好奇，是出色的探险家。它们温和的性格使其适合有孩子和其他宠物的家庭，前提是它们有足够的刺激以防止无聊。"
+    },
+    "care": {
+      "en": "Daily care for an Abyssinian is relatively low-maintenance. Their short coat requires weekly brushing to remove loose hair and maintain shine. These cats are highly active and need at least 30 minutes of vigorous play each day, such as chasing toys or climbing cat trees. Regular vet check-ups are essential to monitor for common issues like dental disease and obesity. Provide scratching posts and interactive toys to keep them mentally stimulated. Nail trimming every two weeks and ear cleaning as needed are also part of their routine.",
+      "zh": "阿比西尼亚猫的日常护理相对简单。它们的短毛每周梳理一次即可去除死毛并保持光泽。这些猫非常活跃，每天需要至少30分钟的剧烈运动，如追逐玩具或攀爬猫树。定期兽医检查对于监测常见问题（如牙齿疾病和肥胖）至关重要。提供抓柱和互动玩具以保持其精神刺激。每两周修剪指甲，并根据需要清洁耳朵也是日常护理的一部分。"
+    },
+    "training": {
+      "en": "Abyssinians are highly intelligent and respond well to positive reinforcement training. Use treats and praise to teach tricks, fetch, or leash walking. They can learn to use puzzle feeders and even open cabinets if bored. Early socialization is key to prevent shyness; expose them to different people, sounds, and environments. Avoid punishment, as they are sensitive and may become stubborn. Consistency and short, fun sessions (5-10 minutes) work best. Clicker training is also effective for this breed.",
+      "zh": "阿比西尼亚猫非常聪明，对正强化训练反应良好。使用零食和表扬来教它们技巧、捡球或牵绳散步。它们可以学会使用益智喂食器，甚至在无聊时打开橱柜。早期社会化是关键，以防止害羞；让它们接触不同的人、声音和环境。避免惩罚，因为它们敏感且可能变得固执。保持一致性和简短有趣的训练（5-10分钟）效果最好。响片训练对该品种也很有效。"
+    },
+    "diet": {
+      "en": "Feed your Abyssinian a high-quality, protein-rich diet to support their energy levels. Both wet and dry food can be given, but ensure the primary ingredient is animal-based protein. Portion control is important to prevent obesity, as this breed loves to eat. Divide daily food into two meals and avoid free-feeding. Provide fresh water at all times. Consider incorporating occasional treats for training, but limit them to 10% of daily calories. Consult your vet for specific dietary needs, especially for kittens or seniors.",
+      "zh": "为你的阿比西尼亚猫提供高质量、富含蛋白质的饮食以支持其能量水平。可以喂湿粮和干粮，但确保主要成分是动物蛋白。控制食量很重要，以防止肥胖，因为该品种爱吃。将每日食物分成两餐，避免自由采食。随时提供新鲜水。可以考虑在训练时偶尔给予零食，但限制在每日热量的10%以内。咨询兽医以了解特定饮食需求，尤其是幼猫或老年猫。"
+    },
+    "livingTips": {
+      "en": "Abyssinians thrive in homes with space to explore, but they can adapt to apartments if provided with vertical climbing areas like cat trees and shelves. They are not lap cats but enjoy being near their owners. This breed gets along well with children and other pets if introduced properly. They need interactive toys and puzzle feeders to prevent destructive behavior. Secure windows and balconies to prevent escape, as they are curious. A calm, stimulating environment is ideal for their well-being.",
+      "zh": "阿比西尼亚猫在有探索空间的家庭中茁壮成长，但如果有垂直攀爬区域（如猫树和架子），它们也能适应公寓。它们不是膝上猫，但喜欢靠近主人。如果正确介绍，该品种与儿童和其他宠物相处融洽。它们需要互动玩具和益智喂食器以防止破坏性行为。确保窗户和阳台安全以防逃跑，因为它们好奇。一个平静且刺激的环境对其健康至关重要。"
+    }
+  }
 }

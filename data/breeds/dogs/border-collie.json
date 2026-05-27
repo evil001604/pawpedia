@@ -90,5 +90,27 @@
       "en": "eager to please",
       "zh": "渴望取悦"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Border Collie is a highly intelligent, energetic, and work-focused herding dog from the Anglo-Scottish border region. Known for its intense stare and agility, this breed excels in obedience and dog sports. Border Collies are eager to please and form strong bonds with their owners, but they require plenty of mental and physical stimulation to prevent boredom and destructive behavior. Their alertness and loyalty make them excellent companions for active individuals or families.",
+      "zh": "边境牧羊犬是一种非常聪明、精力充沛且以工作为导向的牧羊犬，源自英苏边境地区。以其专注的眼神和敏捷性而闻名，该品种在服从性和犬类运动中表现出色。边境牧羊犬渴望取悦主人，并与主人建立牢固的联系，但它们需要大量的精神和身体刺激，以防止无聊和破坏性行为。它们的警觉性和忠诚使它们成为活跃个人或家庭的绝佳伴侣。"
+    },
+    "care": {
+      "en": "Daily care for a Border Collie includes at least 1-2 hours of vigorous exercise such as running, hiking, or fetch. Grooming requires brushing 2-3 times per week to manage their dense double coat, with more frequent brushing during shedding seasons. Regular vet visits, vaccinations, and parasite prevention are essential. Nail trimming and dental care should be part of the routine. Mental stimulation through puzzle toys, training sessions, or herding activities is crucial to keep them happy and healthy.",
+      "zh": "边境牧羊犬的日常护理包括每天至少1-2小时的剧烈运动，如跑步、远足或接球游戏。每周需梳理2-3次以管理其浓密的双层被毛，换毛季节需更频繁。定期兽医检查、疫苗接种和寄生虫预防必不可少。修剪指甲和牙齿护理应纳入日常。通过益智玩具、训练课程或牧羊活动提供精神刺激，对保持其快乐和健康至关重要。"
+    },
+    "training": {
+      "en": "Border Collies are highly trainable due to their intelligence and eagerness to please. Use positive reinforcement methods like treats, praise, and play. Keep training sessions short, varied, and challenging to prevent boredom. Early socialization and basic obedience are essential. They excel in advanced training such as agility, flyball, and herding trials. Avoid harsh corrections as they can be sensitive. Consistency and mental engagement are key to a well-behaved Border Collie.",
+      "zh": "边境牧羊犬因其智慧和渴望取悦而非常易于训练。使用积极强化方法，如零食、表扬和玩耍。保持训练课程简短、多样且具有挑战性，以防无聊。早期社交和基本服从训练至关重要。它们在敏捷性、飞球和牧羊比赛等高级训练中表现出色。避免严厉纠正，因为它们可能敏感。一致性和精神投入是培养行为良好的边境牧羊犬的关键。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Border Collies are active dogs and may require a diet higher in protein and fat. Divide meals into two portions per day to prevent bloat. Avoid overfeeding as they can gain weight if not exercised enough. Provide fresh water always. Treats should be used sparingly during training. Consult a vet for specific dietary needs, especially for puppies or seniors.",
+      "zh": "喂食适合其年龄、体型和活动水平的高品质狗粮。边境牧羊犬是活跃的犬种，可能需要较高蛋白质和脂肪的饮食。将每日食物分成两餐，以预防胃胀气。避免过度喂食，因为运动不足时容易发胖。始终提供新鲜饮水。训练时零食应适量使用。咨询兽医以了解特定饮食需求，特别是幼犬或老年犬。"
+    },
+    "livingTips": {
+      "en": "Border Collies are not ideal for apartments due to their high energy; they thrive in homes with large, securely fenced yards. They need a job to do, so interactive toys and tasks are important. They can be good with children if raised together, but may try to herd them. They get along with other pets if socialized early, but may chase small animals. This breed is best suited for active owners who can dedicate time to exercise and training.",
+      "zh": "边境牧羊犬因精力旺盛不太适合公寓生活；它们在有大型安全围栏院子的家中茁壮成长。它们需要有事可做，因此互动玩具和任务很重要。如果从小一起长大，它们能与孩子相处融洽，但可能会试图牧养孩子。如果早期社交，它们能与其他宠物相处，但可能会追逐小动物。该品种最适合能投入时间进行运动和训练的活跃主人。"
+    }
+  }
 }

@@ -82,5 +82,27 @@
       "en": "Friendly",
       "zh": "友好"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The York Chocolate is a playful, social, and intelligent breed known for its sweet temperament and love of human companionship. These cats are true lap cats, enjoying cuddles and petting, while their curious nature drives them to follow their owners everywhere and participate in daily activities. Unlike many cats, they even enjoy water. Their friendly and adaptable personality makes them excellent family pets.",
+      "zh": "约克巧克力猫是一种活泼、社交且聪明的品种，以其甜美的性格和对人类陪伴的热爱而闻名。它们是真挚的膝上猫，喜欢被拥抱和抚摸，同时好奇的天性使它们时刻跟随主人并参与日常活动。与许多猫不同，它们甚至喜欢水。友好且适应性强的个性使它们成为优秀的家庭宠物。"
+    },
+    "care": {
+      "en": "Daily care for York Chocolate cats includes weekly brushing to maintain their semi-long coat and reduce shedding. They are active and require interactive play sessions daily to satisfy their intelligence and curiosity. Regular veterinary check-ups are essential, along with dental care and nail trimming. Since they enjoy water, occasional bathing can be a fun bonding activity. Provide scratching posts and toys to keep them engaged.",
+      "zh": "约克巧克力猫的日常护理包括每周梳理毛发以维护其中长毛并减少脱毛。它们活跃，需要每日互动游戏来满足其智力和好奇心。定期兽医检查至关重要，同时注意牙齿护理和剪指甲。由于它们喜欢水，偶尔洗澡可以成为有趣的互动活动。提供抓柱和玩具以保持其投入。"
+    },
+    "training": {
+      "en": "York Chocolates are highly intelligent and respond well to positive reinforcement training. Use treats and praise to teach tricks, leash walking, or even water-related activities. They are eager to please and can learn quickly. Consistency and patience are key. Avoid punishment; instead, redirect unwanted behaviors. Their curious nature makes them open to learning new things, so keep sessions short and fun.",
+      "zh": "约克巧克力猫非常聪明，对正面强化训练反应良好。使用零食和表扬来教授技巧、牵引行走甚至与水相关的活动。它们渴望取悦主人，学习速度快。一致性和耐心是关键。避免惩罚，转而引导不良行为。它们好奇的天性使其乐于学习新事物，因此保持训练简短有趣。"
+    },
+    "diet": {
+      "en": "Feed York Chocolate cats a high-quality, protein-rich diet appropriate for their age and activity level. Both wet and dry food can be included; ensure fresh water is always available. Since they are active, monitor portions to prevent obesity. Treats should be given sparingly. Consult your vet for specific dietary needs, especially if they have any health concerns. A balanced diet supports their glossy coat and overall health.",
+      "zh": "给约克巧克力猫喂食适合其年龄和活动水平的高质量、富含蛋白质的饮食。可包含湿粮和干粮，确保随时提供新鲜水。由于它们活跃，注意控制分量以防肥胖。零食应适量。如有健康问题，请咨询兽医获取特定饮食建议。均衡饮食有助于其光泽毛发和整体健康。"
+    },
+    "livingTips": {
+      "en": "York Chocolate cats adapt well to apartments and homes with yards. They are social and enjoy interactive toys and climbing structures. They get along well with children and other pets, including dogs, due to their friendly nature. Provide safe water sources for play, as they love water. Ensure windows are secure and toxic plants are removed. Their curiosity means they need a stimulating environment with plenty of attention.",
+      "zh": "约克巧克力猫能很好地适应公寓和带院子的家庭。它们社交性强，喜欢互动玩具和攀爬结构。由于友好的天性，它们与孩子和其他宠物（包括狗）相处融洽。提供安全的水源供其玩耍，因为它们喜欢水。确保窗户安全，移除有毒植物。它们的好奇心意味着需要一个充满刺激的环境和大量关注。"
+    }
+  }
 }

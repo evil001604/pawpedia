@@ -86,5 +86,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bruno Jura Hound is a medium-sized, independent, and alert hound breed from the Jura Mountains of Switzerland. Bred for hunting in challenging terrain, they are intelligent, gentle, and work-focused. They have a keen sense of smell and a strong prey drive, making them excellent scent hounds. Despite their working background, they are known for being calm and gentle at home, forming strong bonds with their family. They are reserved with strangers but not aggressive. Their temperament is balanced, combining determination in the field with a soft, affectionate nature indoors. They are not overly vocal but will bark when on a scent.",
+      "zh": "侏罗猎犬是一种中型、独立且警觉的猎犬品种，源自瑞士侏罗山脉。为在崎岖地形中狩猎而培育，它们聪明、温和且专注工作。拥有敏锐的嗅觉和强烈的猎物驱动力，是出色的嗅觉猎犬。尽管有工作背景，它们在家中却以平静温和著称，与家人建立深厚感情。对陌生人保持警惕但不具攻击性。性格平衡，结合了野外狩猎的决心与室内的温柔亲昵。它们不会过度吠叫，但追踪气味时会发声。"
+    },
+    "care": {
+      "en": "Daily care for the Bruno Jura Hound includes moderate exercise, such as long walks or runs in a safe area, as they need to satisfy their hunting instincts. Grooming is minimal due to their short coat; weekly brushing and occasional baths suffice. Regular ear checks and nail trimming are essential. Veterinary visits should be routine for vaccinations and health screenings, especially for hip dysplasia and ear infections. They thrive with a consistent routine and ample outdoor time. Avoid overfeeding to prevent obesity, which can strain their joints.",
+      "zh": "侏罗猎犬的日常护理包括适度运动，如长时间散步或在安全区域奔跑，以满足其狩猎本能。被毛短，美容需求低，每周刷毛一次，偶尔洗澡即可。定期检查耳朵和修剪指甲很重要。应定期进行兽医检查，包括疫苗接种和健康筛查，特别关注髋关节发育不良和耳部感染。它们习惯规律生活，需要充足户外时间。避免过度喂食以防肥胖，以免给关节带来压力。"
+    },
+    "training": {
+      "en": "Training a Bruno Jura Hound requires patience and consistency due to their independent nature. Use positive reinforcement techniques like treats and praise, as harsh methods can backfire. They are intelligent but can be stubborn, so keep sessions short and engaging. Early socialization is crucial to prevent shyness or wariness. Focus on recall training, as their hunting instincts may lead them to follow scents. Incorporate games that stimulate their nose, such as tracking exercises. Avoid repetitive drills; variety maintains their interest.",
+      "zh": "训练侏罗猎犬需要耐心和一致性，因为它们天性独立。使用积极强化方法，如零食和表扬，严厉手段可能适得其反。它们聪明但可能固执，因此训练时间应短而有趣。早期社会化至关重要，以防胆小或警惕。重点训练召回，因为狩猎本能可能使它们追踪气味。加入刺激嗅觉的游戏，如追踪练习。避免重复训练，多样性可保持其兴趣。"
+    },
+    "diet": {
+      "en": "Feed the Bruno Jura Hound a high-quality diet appropriate for their age, size, and activity level. As an active breed, they benefit from protein-rich foods to support muscle maintenance. Divide meals into two portions daily to reduce bloat risk. Monitor weight closely, as they can become overweight if overfed. Include joint supplements like glucosamine for hip health. Fresh water should always be available. Avoid table scraps and high-fat treats. Consult your vet for specific dietary needs, especially if they have food allergies.",
+      "zh": "为侏罗猎犬提供适合其年龄、体型和活动水平的高质量饮食。作为活跃品种，富含蛋白质的食物有助于维持肌肉。每日分两餐喂食以降低胃扭转风险。密切监测体重，过度喂食易导致肥胖。添加关节补充剂如葡萄糖胺以保护髋部健康。随时提供新鲜饮水。避免餐桌残食和高脂肪零食。如有食物过敏，请咨询兽医制定特定饮食方案。"
+    },
+    "livingTips": {
+      "en": "The Bruno Jura Hound is best suited for a home with a securely fenced yard where they can explore safely. They are not ideal for apartment living due to their exercise needs and tendency to follow scents. They get along well with older children and can coexist with other dogs if socialized early, but small pets may trigger their prey drive. They are generally quiet indoors but need daily outdoor activity. A rural or suburban environment is ideal. They can be left alone for moderate periods if exercised beforehand, but may become destructive if bored.",
+      "zh": "侏罗猎犬最适合有安全围栏院子的家庭，以便安全探索。由于运动需求和追踪本能，不适合公寓生活。与年长儿童相处良好，早期社会化后可与其他狗共存，但小宠物可能触发其猎物驱动力。室内通常安静，但需要每日户外活动。乡村或郊区环境最理想。如果事先运动，可独处中等时间，但无聊时可能破坏物品。"
+    }
+  }
 }

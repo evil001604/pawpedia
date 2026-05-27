@@ -86,5 +86,27 @@
       "en": "confident",
       "zh": "自信"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chesapeake Bay Retriever is a powerful, intelligent, and courageous sporting breed. Known for their loyalty and protective nature, they form strong bonds with their families. Their confident and independent temperament makes them excellent watchdogs, but they can be reserved with strangers. Bred for harsh water conditions, they have a thick, oily double coat that is water-repellent. They are energetic and require regular exercise. Their intelligence and eagerness to please make them trainable, but they can be stubborn. They are generally good with children and other pets when properly socialized, but their protective instincts may require careful management.",
+      "zh": "切萨皮克湾寻回犬是一种强壮、聪明且勇敢的运动型犬种。以其忠诚和保护性著称，它们与家人建立深厚的情感纽带。自信独立的性格使它们成为优秀的看门犬，但对陌生人可能保持警惕。为适应恶劣水域环境而培育，它们拥有厚实、油性的双层被毛，具有防水性。它们精力充沛，需要定期运动。其智慧和取悦主人的意愿使它们易于训练，但可能有些固执。当得到适当社会化时，它们通常与儿童和其他宠物相处良好，但保护本能可能需要谨慎管理。"
+    },
+    "care": {
+      "en": "Daily care for a Chesapeake Bay Retriever includes regular grooming due to their dense, oily coat. Brush weekly to remove loose hair and prevent matting; bathe only when necessary to preserve natural oils. They shed moderately year-round and heavily during seasonal changes. Exercise needs are high—at least 60 minutes of vigorous activity daily, such as swimming, running, or retrieving games. They thrive in cold weather but can overheat in hot climates. Regular vet visits for vaccinations, parasite control, and health screenings (especially for hip dysplasia, eye issues, and von Willebrand disease) are essential. Nail trimming, ear cleaning, and dental care should be part of the routine.",
+      "zh": "切萨皮克湾寻回犬的日常护理包括定期梳理其浓密油性的被毛。每周刷毛以去除死毛并防止打结；仅在必要时洗澡以保护天然油脂。它们全年适度掉毛，季节变化时掉毛严重。运动需求高——每天至少60分钟的剧烈活动，如游泳、跑步或寻回游戏。它们耐寒但炎热天气易中暑。定期兽医检查，包括疫苗接种、寄生虫控制和健康筛查（特别是髋关节发育不良、眼病和冯·维勒布兰德病）至关重要。修剪指甲、清洁耳朵和牙齿护理应成为日常习惯。"
+    },
+    "training": {
+      "en": "Training a Chesapeake Bay Retriever requires patience, consistency, and positive reinforcement. They are intelligent but can be independent and stubborn. Start socialization and basic obedience early. Use reward-based methods like treats and praise; avoid harsh corrections. They excel in hunting and retrieving tasks, so incorporate these instincts into training. Provide mental stimulation through puzzle toys and advanced commands. They respond well to firm, fair leadership. Crate training can aid in housebreaking. For stubborn behaviors, maintain calm assertiveness. Early exposure to various environments, people, and animals is crucial to prevent overprotectiveness.",
+      "zh": "训练切萨皮克湾寻回犬需要耐心、一致性和积极强化。它们聪明但可能独立固执。尽早开始社会化训练和基本服从。使用基于奖励的方法，如零食和表扬；避免严厉纠正。它们在狩猎和寻回任务中表现出色，因此将这些本能融入训练。通过益智玩具和高级指令提供精神刺激。它们对坚定而公平的领导反应良好。笼内训练有助于室内排便训练。对于顽固行为，保持冷静的坚定态度。早期接触各种环境、人和动物对于防止过度保护至关重要。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. Chesapeake Bay Retrievers are prone to obesity, so monitor food intake and avoid overfeeding. Divide daily portions into two meals. Include omega-3 fatty acids for coat health. For puppies, use a large-breed growth formula to support joint health. Supplement with glucosamine and chondroitin for older dogs. Always provide fresh water. Avoid table scraps and high-fat treats. Adjust portions based on exercise and body condition. Consult a vet for specific dietary needs, especially if the dog has food allergies or sensitivities.",
+      "zh": "喂食适合犬只年龄、体型和活动水平的高质量狗粮。切萨皮克湾寻回犬容易肥胖，因此监控食物摄入量，避免过度喂食。将每日份量分为两餐。添加欧米伽-3脂肪酸以促进被毛健康。幼犬使用大型犬生长配方以支持关节健康。老年犬补充葡萄糖胺和软骨素。始终提供新鲜水。避免餐桌残渣和高脂肪零食。根据运动量和身体状况调整份量。如有特定饮食需求，特别是食物过敏或敏感，请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "Chesapeake Bay Retrievers are best suited for homes with a fenced yard where they can run and play. They are not ideal for apartments due to their high energy and need for space. They thrive in cold climates but should have access to shade and water in hot weather. They are good with children when raised together, but their boisterous nature may be too much for very young kids. With proper socialization, they can coexist with other dogs and pets, though they may be dominant. They are protective of their family and property, making them excellent watchdogs. Early training and socialization are key to a well-adjusted adult.",
+      "zh": "切萨皮克湾寻回犬最适合有围栏院落的家庭，以便奔跑玩耍。由于精力旺盛且需要空间，不适合公寓生活。它们在寒冷气候中表现良好，但在炎热天气下需提供阴凉和水。与儿童一起长大时相处融洽，但活泼的天性可能对幼儿来说过于激烈。通过适当社会化，它们能与其他狗和宠物共存，但可能具有支配性。它们保护家人和财产，是优秀的看门犬。早期训练和社会化是培养适应良好的成年犬的关键。"
+    }
+  }
 }

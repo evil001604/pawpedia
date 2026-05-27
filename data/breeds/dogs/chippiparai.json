@@ -90,5 +90,27 @@
       "en": "athletic",
       "zh": "健壮"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chippiparai is an ancient Indian sighthound known for its elegance, speed, and loyalty. Bred by royalty in Tamil Nadu, this breed is intelligent, independent, and alert. They are gentle with their family but reserved with strangers, making them excellent watchdogs. Their athletic build and high prey drive require plenty of exercise. Despite their independence, they form strong bonds with their owners and thrive on companionship. Chippiparais are generally healthy and well-adapted to hot climates, but they can be sensitive to cold.",
+      "zh": "奇皮帕莱犬是一种古老的印度视觉猎犬，以其优雅、速度和忠诚著称。由泰米尔纳德邦的皇室培育，该犬种聪明、独立且警觉。它们对家人温柔，但对陌生人保持警惕，是优秀的看门犬。其运动型体格和强烈的捕猎本能需要大量运动。尽管独立，它们与主人建立深厚感情，并渴望陪伴。奇皮帕莱犬通常健康，适应炎热气候，但对寒冷敏感。"
+    },
+    "care": {
+      "en": "Daily care for a Chippiparai includes minimal grooming due to their short coat; weekly brushing with a soft bristle brush suffices. They are clean dogs with little odor and shed moderately. Exercise is crucial: at least 60 minutes of vigorous activity daily, such as running in a secure area or long walks. They excel in lure coursing and agility. Regular vet check-ups are important to monitor for common issues like bloat or hip dysplasia. Nail trimming every few weeks and dental care are also necessary.",
+      "zh": "奇皮帕莱犬的日常护理因短毛而简单，每周用软毛刷梳理一次即可。它们爱干净，体味轻，掉毛适中。运动至关重要：每天至少60分钟剧烈活动，如在安全区域奔跑或长距离散步。它们在诱饵追逐和敏捷性训练中表现出色。定期兽医检查很重要，以监测胃扭转或髋关节发育不良等常见问题。每几周修剪指甲，并注意牙齿护理。"
+    },
+    "training": {
+      "en": "Training a Chippiparai requires patience and consistency due to their independent nature. Positive reinforcement methods work best, using treats and praise. Early socialization is essential to prevent shyness or aggression. They are intelligent but can be stubborn, so keep sessions short and engaging. Avoid harsh corrections as they are sensitive. Crate training and basic obedience are recommended. Their prey drive means recall training in a fenced area is critical. They excel in lure coursing and tracking activities.",
+      "zh": "训练奇皮帕莱犬需要耐心和一致性，因其独立性格。积极强化法最有效，使用零食和表扬。早期社会化至关重要，以防害羞或攻击性。它们聪明但可能固执，因此训练时间应短而有趣。避免严厉纠正，因为它们敏感。建议进行笼内训练和基础服从训练。由于捕猎本能，在围栏区域进行召回训练很关键。它们在诱饵追逐和追踪活动中表现出色。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age and activity level. Chippiparais are active and require a diet rich in protein and healthy fats. Consider a raw or balanced homemade diet under veterinary guidance. Portion control is important to prevent obesity. Divide meals into two daily feedings. Always provide fresh water. Avoid overfeeding treats. Supplements like omega-3 fatty acids can support coat health. Monitor for food allergies, though they are not common.",
+      "zh": "喂食适合其年龄和活动水平的高质量狗粮。奇皮帕莱犬活跃，需要富含蛋白质和健康脂肪的饮食。可在兽医指导下考虑生食或均衡自制饮食。控制食量以防肥胖。每日分两餐喂食。始终提供新鲜饮水。避免过量喂食零食。Omega-3脂肪酸等补充剂有助于毛发健康。监测食物过敏，但通常不常见。"
+    },
+    "livingTips": {
+      "en": "Chippiparais thrive in homes with a securely fenced yard where they can run. They are not ideal for apartments unless given ample exercise. They are generally good with children if raised together, but may be too energetic for toddlers. They can live with other dogs if properly socialized, but small pets like cats may trigger prey drive. They are sensitive to cold and need warm bedding. Mental stimulation through puzzle toys is recommended. They are quiet indoors but alert barkers.",
+      "zh": "奇皮帕莱犬适合在有安全围栏院子的家庭中生活，可以奔跑。除非有充足运动，否则不适合公寓。如果从小一起长大，通常与孩子相处良好，但对幼儿可能过于精力充沛。如果适当社会化，可与其他狗共处，但猫等小宠物可能激发捕猎本能。它们对寒冷敏感，需要温暖的床铺。建议通过益智玩具提供精神刺激。室内安静但警觉时会吠叫。"
+    }
+  }
 }

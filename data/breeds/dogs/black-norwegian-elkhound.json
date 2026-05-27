@@ -90,5 +90,27 @@
       "en": "confident",
       "zh": "自信"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Black Norwegian Elkhound is a rare, ancient spitz breed from Norway, known for its courage, alertness, and independence. Smaller than its gray cousin, this hound was bred to hunt large game like elk and bear in rugged terrain. They are energetic, loyal, and confident, making them excellent watchdogs and companions for active owners. Their strong prey drive and stubborn streak require consistent handling. They bond deeply with their family but can be reserved with strangers. This breed thrives on mental and physical challenges and is best suited for experienced dog owners.",
+      "zh": "黑色挪威猎犬是一种来自挪威的古老斯皮茨犬种，以勇敢、警觉和独立著称。它比灰色挪威猎犬体型更小，被培育用于在崎岖地形中狩猎大型猎物如驼鹿和熊。它们精力充沛、忠诚、自信，是优秀的看门犬和活跃主人的伴侣。强烈的猎物欲和固执的性格需要一致的管理。它们与家人感情深厚，但对陌生人可能有所保留。该品种喜欢身心挑战，最适合有经验的狗主人。"
+    },
+    "care": {
+      "en": "Daily care for a Black Norwegian Elkhound includes brushing their thick double coat 2-3 times a week to reduce shedding, with more frequent brushing during seasonal blows. Bathe only when necessary. Clean ears regularly and trim nails monthly. They need at least 60-90 minutes of vigorous exercise daily, such as hiking, jogging, or interactive play. Mental stimulation through puzzle toys or scent work is essential. Annual vet check-ups, vaccinations, and dental care are important. Early socialization and exposure to various environments help prevent behavioral issues.",
+      "zh": "黑色挪威猎犬的日常护理包括每周梳理厚实的双层被毛2-3次以减少掉毛，换毛季需增加频率。仅在必要时洗澡。定期清洁耳朵，每月修剪指甲。每天需要至少60-90分钟的剧烈运动，如远足、慢跑或互动游戏。通过益智玩具或嗅觉工作提供精神刺激至关重要。每年进行兽医检查、疫苗接种和牙齿护理。早期社会化及接触不同环境有助于预防行为问题。"
+    },
+    "training": {
+      "en": "Training a Black Norwegian Elkhound requires patience and consistency due to their independent nature. Use positive reinforcement methods like treats and praise, as harsh corrections may cause resistance. Start obedience training early and keep sessions short and varied to maintain interest. They excel in activities that engage their hunting instincts, such as tracking or agility. Socialization with other dogs and people from puppyhood is crucial to curb territorial behavior. Avoid repetitive drills; instead, incorporate problem-solving tasks to stimulate their intelligent minds.",
+      "zh": "训练黑色挪威猎犬需要耐心和一致性，因为它们天性独立。使用正向强化方法，如零食和表扬，严厉纠正可能引起反抗。尽早开始服从训练，保持课程简短多样以维持兴趣。它们擅长激发狩猎本能的活动，如追踪或敏捷性训练。从小与其他狗和人进行社会化至关重要，以遏制领地行为。避免重复性练习，而是加入解决问题的任务来刺激其聪明的头脑。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet formulated for active, medium-sized breeds. The Black Norwegian Elkhound requires a balanced intake of protein, fats, and carbohydrates to sustain their energy levels. Divide daily food into two meals to prevent bloat, a risk in deep-chested dogs. Adjust portions based on age, activity level, and metabolism. Include omega-3 fatty acids for coat health. Avoid overfeeding; maintain a lean body condition. Provide fresh water at all times. Consult a vet for specific dietary needs, especially if the dog has sensitivities.",
+      "zh": "喂食专为活跃中型犬设计的高品质狗粮。黑色挪威猎犬需要均衡的蛋白质、脂肪和碳水化合物来维持能量水平。每日分两餐喂食以预防胃胀气（深胸犬种的风险）。根据年龄、活动水平和新陈代谢调整食量。添加Omega-3脂肪酸以促进被毛健康。避免过量喂食，保持苗条体态。随时提供新鲜饮水。如有特殊饮食需求或敏感，请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "The Black Norwegian Elkhound is best suited for a home with a securely fenced yard where they can run. They are not ideal for apartments due to their high energy and barking tendencies. They are loyal and good with children if raised together, but their herding instincts may cause them to nip at heels. Supervision with small pets is necessary due to prey drive. They thrive in cooler climates and may overheat in hot weather. Provide a comfortable indoor space and plenty of interactive toys to prevent boredom.",
+      "zh": "黑色挪威猎犬最适合有安全围栏院子的家庭，以便奔跑。由于精力旺盛且爱叫，不适合公寓生活。如果与孩子一起长大，它们忠诚且对孩子友好，但放牧本能可能导致轻咬脚后跟。由于猎物欲，需监督与小型宠物的相处。它们喜欢凉爽气候，炎热天气可能过热。提供舒适的室内空间和大量互动玩具以防止无聊。"
+    }
+  }
 }

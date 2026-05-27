@@ -86,5 +86,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Braque Français is a versatile and gentle sporting breed, known for its intelligence, loyalty, and affectionate nature. Originating in France as one of the oldest pointing breeds, it comes in two varieties: the larger Gascogne and the smaller Pyrenean. This dog is highly adaptable, making it an excellent companion for active families or hunters. With a calm and even temperament, it bonds deeply with its owners and thrives on human interaction. Its natural pointing instinct and biddable personality make it a joy to train and live with.",
+      "zh": "法国布拉可犬是一种多才多艺且温顺的猎犬品种，以其聪明、忠诚和深情而闻名。它起源于法国，是最古老的指示犬之一，分为加斯科涅型和比利牛斯型两种。这种犬适应性强，非常适合活跃的家庭或猎人。它性情平静稳定，与主人建立深厚感情，并渴望人类互动。其天生的指示本能和温顺的性格使其训练和相处都充满乐趣。"
+    },
+    "care": {
+      "en": "Daily care for the Braque Français is relatively low-maintenance. Its short, dense coat requires weekly brushing to remove loose hair and occasional baths. Exercise needs are high; at least 60 minutes of vigorous activity daily, including runs or play sessions, is essential to prevent boredom and destructive behavior. Regular veterinary check-ups, vaccinations, and parasite prevention are crucial. Nail trimming every few weeks and ear cleaning weekly help maintain overall health. This breed is prone to hip dysplasia and ear infections, so proactive care is recommended.",
+      "zh": "法国布拉可犬的日常护理相对简单。其短而密的被毛每周梳理一次即可去除死毛，偶尔洗澡。运动需求较高，每天至少需要60分钟的剧烈活动，如跑步或游戏，以防止无聊和破坏行为。定期兽医检查、疫苗接种和寄生虫预防至关重要。每几周修剪指甲，每周清洁耳朵，有助于保持整体健康。该品种易患髋关节发育不良和耳部感染，因此建议积极护理。"
+    },
+    "training": {
+      "en": "Training a Braque Français is a rewarding experience due to its intelligence and eagerness to please. Use positive reinforcement methods such as treats, praise, and play. Early socialization and obedience training are vital to develop a well-rounded dog. This breed responds best to consistent, gentle guidance; harsh corrections can damage trust. Incorporate mental stimulation through puzzle toys or scent games, as the breed's hunting heritage makes it keen on problem-solving. Keep sessions short and varied to maintain engagement.",
+      "zh": "训练法国布拉可犬是一种愉快的体验，因为它聪明且渴望取悦主人。使用正面强化方法，如零食、表扬和游戏。早期社交和服从训练对于培养全面发展的狗狗至关重要。该品种对一致、温和的指导反应最佳；严厉的纠正会破坏信任。通过益智玩具或嗅觉游戏提供精神刺激，因为其狩猎血统使其善于解决问题。保持训练简短多样以维持参与度。"
+    },
+    "diet": {
+      "en": "Feed the Braque Français a high-quality diet formulated for active breeds, with protein as the primary ingredient. Portion control is important to prevent obesity, especially if exercise levels decrease. Divide daily food into two meals to reduce bloat risk, a concern in deep-chested dogs. Provide fresh water at all times. Consider supplements like glucosamine for joint health, particularly in older dogs. Avoid overfeeding treats and table scraps. Consult your vet for specific dietary needs based on age, weight, and activity level.",
+      "zh": "为法国布拉可犬提供专为活跃品种设计的高质量饮食，蛋白质作为主要成分。控制食量以防止肥胖，尤其在运动量减少时。将每日食物分成两餐以降低胃扭转风险，这是深胸犬种需注意的问题。随时提供新鲜饮水。考虑添加葡萄糖胺等补充剂以支持关节健康，特别是老年犬。避免过量喂食零食和剩饭。根据年龄、体重和活动水平咨询兽医获取具体饮食建议。"
+    },
+    "livingTips": {
+      "en": "The Braque Français adapts well to various living situations but thrives in homes with access to a securely fenced yard where it can run freely. Apartment living is possible if daily exercise needs are met. This breed is excellent with children, being gentle and patient, and generally gets along with other dogs and pets when properly socialized. It is not a watchdog but will alert to strangers. The breed's high energy and need for companionship mean it should not be left alone for long periods; it may develop separation anxiety. Mental stimulation through interactive toys is beneficial.",
+      "zh": "法国布拉可犬能适应多种居住环境，但在有安全围栏院子的家中表现最佳，可以自由奔跑。如果满足日常运动需求，公寓生活也可行。该品种对孩子非常友善，温和耐心，通过适当社交通常能与其他狗和宠物相处融洽。它不是看门犬，但会对陌生人发出警报。该品种精力旺盛且需要陪伴，不应长时间独处，否则可能产生分离焦虑。通过互动玩具提供精神刺激非常有益。"
+    }
+  }
 }

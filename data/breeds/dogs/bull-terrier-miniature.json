@@ -90,5 +90,27 @@
       "en": "outgoing",
       "zh": "外向"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Miniature Bull Terrier is a compact, muscular dog known for its egg-shaped head and playful, energetic personality. They are courageous, confident, and affectionate with their families, often displaying a clownish sense of humor. Despite their small size, they retain the tenacity and determination of their larger counterparts. They are outgoing and thrive on human interaction, making them excellent companions for active owners. However, their strong-willed nature requires consistent leadership. They are generally good with children but may be assertive with other dogs due to their terrier heritage.",
+      "zh": "迷你牛头梗是一种体型紧凑、肌肉发达的犬种，以其独特的蛋形头部和活泼、充满活力的性格而闻名。它们勇敢、自信，对家人充满深情，常常展现出小丑般的幽默感。尽管体型较小，但它们保留了标准牛头梗的坚韧和决心。它们外向，喜欢与人互动，是活跃主人的绝佳伴侣。然而，它们固执的天性需要坚定的领导。它们通常对孩子友好，但由于梗类犬的天性，可能对其他狗表现出强势。"
+    },
+    "care": {
+      "en": "Miniature Bull Terriers have a short, flat coat that requires minimal grooming—weekly brushing with a rubber curry brush or hound glove to remove dead hair. They shed moderately year-round. Bathing is needed only occasionally. Their nails should be trimmed monthly, and ears checked weekly for debris. Daily exercise is crucial; they need at least 30-45 minutes of vigorous activity, such as brisk walks, play sessions, or agility training. They enjoy mental stimulation like puzzle toys. Regular vet visits for vaccinations, dental care, and health screenings (including hearing tests, as deafness can occur) are essential.",
+      "zh": "迷你牛头梗的毛发短而平，只需少量梳理——每周用橡胶刷或猎犬手套梳理一次，去除死毛。它们全年适度掉毛。偶尔洗澡即可。每月修剪指甲，每周检查耳朵是否有污垢。每天必须进行30-45分钟的剧烈运动，如快走、玩耍或敏捷训练。它们喜欢益智玩具等精神刺激。定期带去看兽医，进行疫苗接种、牙齿护理和健康检查（包括听力测试，因为可能发生耳聋）。"
+    },
+    "training": {
+      "en": "Training a Miniature Bull Terrier requires patience, consistency, and positive reinforcement. They are intelligent but stubborn, so harsh methods backfire. Start socialization and obedience training early, exposing them to various people, animals, and environments. Use treats, praise, and play as rewards. Keep sessions short and fun to maintain their interest. Crate training helps with housebreaking. They excel in dog sports like agility, obedience, and rally. Due to their terrier tenacity, recall training is vital—always use a leash in unfenced areas. Avoid repetitive drills; vary activities to prevent boredom.",
+      "zh": "训练迷你牛头梗需要耐心、一致性和积极强化。它们聪明但固执，严厉的方法会适得其反。尽早开始社交和服从训练，让它们接触不同的人、动物和环境。用零食、表扬和玩耍作为奖励。保持训练时间短而有趣，以维持它们的兴趣。笼内训练有助于如厕训练。它们在敏捷、服从和 rally 等犬类运动中表现出色。由于梗类犬的坚韧，召回训练至关重要——在无围栏区域务必使用牵引绳。避免重复枯燥的练习；变换活动以防止无聊。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the breed's life stage (puppy, adult, senior). Miniature Bull Terriers are prone to obesity, so measure meals and limit treats. Divide daily food into two meals to reduce bloat risk, though the breed is not especially prone to it. Protein should be from named animal sources (chicken, lamb, fish). Include healthy fats for coat health. Avoid foods with artificial additives. Puppies need three to four small meals daily. Always provide fresh water. Consult a vet for specific dietary needs, especially if the dog has allergies or sensitivities.",
+      "zh": "喂食适合该犬种生命阶段（幼犬、成犬、老年犬）的高品质狗粮。迷你牛头梗容易肥胖，因此要定量喂食并限制零食。将每日食物分成两餐，以降低腹胀风险（尽管该犬种并非特别容易腹胀）。蛋白质应来自明确的动物来源（鸡肉、羊肉、鱼）。包括健康脂肪以维护毛发健康。避免含人工添加剂的食物。幼犬每天需要3-4顿小餐。始终提供新鲜饮水。如有过敏或敏感情况，请咨询兽医获取特定饮食建议。"
+    },
+    "livingTips": {
+      "en": "Miniature Bull Terriers adapt well to apartment living if given sufficient exercise. They are active indoors but can be destructive if bored. A securely fenced yard is ideal for off-leash play, but they are escape artists—ensure fences are high and secure. They are generally good with respectful children, but due to their boisterous nature, supervision is recommended with toddlers. They may not get along with other dogs, especially same-sex ones, and have a high prey drive towards small animals like cats or rodents. Early socialization can improve compatibility. They are best suited for experienced dog owners who can provide firm, gentle leadership.",
+      "zh": "如果能得到足够的运动，迷你牛头梗能很好地适应公寓生活。它们在室内活跃，但如果无聊可能会变得具有破坏性。一个有安全围栏的院子是理想的无绳玩耍场所，但它们善于逃跑——确保围栏高而牢固。它们通常对尊重它们的孩子友好，但由于天性喧闹，建议在幼儿身边时进行监督。它们可能与其他狗（尤其是同性）相处不佳，并对猫或啮齿类动物等小动物有很高的捕猎欲望。早期社交可以提高兼容性。它们最适合有经验的狗主人，能够提供坚定而温和的领导。"
+    }
+  }
 }

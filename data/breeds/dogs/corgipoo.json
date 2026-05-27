@@ -90,5 +90,27 @@
       "en": "alert",
       "zh": "机警"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Corgipoo is a delightful designer crossbreed combining the Cardigan Welsh Corgi and the Miniature Poodle. This mix results in a small to medium-sized dog with a sturdy build, expressive eyes, and a coat that can range from wavy to curly. Corgipoos are known for their intelligence, friendliness, and playful yet affectionate nature. They inherit the Corgi's alertness and herding instincts, along with the Poodle's hypoallergenic coat and sharp mind. These dogs are energetic and thrive on human companionship, making them excellent family pets. They are generally good with children and other animals when properly socialized. Their moderate size and adaptable temperament suit various living situations, though they do require regular mental and physical stimulation to prevent boredom.",
+      "zh": "柯基普犬是一种迷人的设计型杂交犬，由卡迪根威尔士柯基犬与迷你贵宾犬结合而成。这种混血犬体型小巧至中等，体格结实，眼睛富有表现力，被毛从波浪状到卷曲状不等。柯基普犬以聪明、友善、活泼且深情著称。它们继承了柯基犬的警觉性和牧羊本能，以及贵宾犬的低致敏被毛和敏锐思维。这些狗狗精力充沛，热衷于人类陪伴，是极佳的家庭宠物。经过适当社会化，它们通常对孩子和其他动物友好。其适中的体型和适应性强的性格适合多种居住环境，但需要定期进行精神和身体刺激以防止无聊。"
+    },
+    "care": {
+      "en": "Daily care for a Corgipoo includes brushing their coat 2-3 times a week to prevent matting and reduce shedding, with more frequent grooming during seasonal changes. Regular ear cleaning and dental care are essential to avoid infections. They need at least 30-60 minutes of exercise daily, such as brisk walks, play sessions, or interactive games. Mental stimulation through puzzle toys or training is equally important. Veterinary visits should occur annually for check-ups and vaccinations, with attention to potential hip dysplasia, eye issues, and allergies common in both parent breeds. Nail trimming every 3-4 weeks and bathing every 4-6 weeks complete the routine.",
+      "zh": "柯基普犬的日常护理包括每周梳理被毛2-3次以防止打结并减少掉毛，换毛季节需更频繁。定期清洁耳朵和牙齿护理对预防感染至关重要。它们每天需要至少30-60分钟的运动，如快走、游戏或互动活动。通过益智玩具或训练进行精神刺激同样重要。每年应进行兽医体检和疫苗接种，关注父母品种常见的髋关节发育不良、眼部问题和过敏。每3-4周修剪指甲，每4-6周洗澡以完成护理流程。"
+    },
+    "training": {
+      "en": "Corgipoos are highly intelligent and eager to please, making training relatively easy with positive reinforcement techniques like treats, praise, and play. Start early with basic obedience and socialization to prevent small dog syndrome. They can be sensitive to harsh corrections, so patience and consistency are key. Their herding instinct may lead to nipping at heels; redirect this behavior to appropriate toys. Crate training is beneficial for housebreaking and providing a safe space. Keep sessions short (10-15 minutes) and varied to maintain their attention. Advanced training in agility or tricks can channel their energy productively.",
+      "zh": "柯基普犬非常聪明且乐于取悦主人，采用正面强化技术如零食、表扬和游戏，训练相对容易。尽早开始基本服从训练和社交化，以防止小型犬综合征。它们对严厉纠正敏感，因此耐心和一致性是关键。其牧羊本能可能导致追逐脚跟，应将此行为引导至合适的玩具。笼内训练有助于如厕训练并提供安全空间。保持训练时间短（10-15分钟）且多样化以维持注意力。敏捷性或技巧等高级训练可有效引导其精力。"
+    },
+    "diet": {
+      "en": "Feed a Corgipoo high-quality dog food appropriate for their size, age, and activity level. Typically, 1/2 to 1 cup of dry food divided into two meals daily is sufficient. Avoid overfeeding as they are prone to obesity; monitor treats and table scraps. Choose a diet rich in protein and healthy fats, with controlled carbohydrates. Fresh water should always be available. Some Corgipoos may have food allergies; consult a vet if signs like itching or digestive issues appear. Supplement with omega-3 fatty acids for coat health and joint support, especially as they age.",
+      "zh": "根据柯基普犬的体型、年龄和活动水平，喂食高质量的狗粮。通常每天分两餐，每餐1/2至1杯干粮即可。避免过量喂食，因为它们易肥胖；控制零食和剩饭。选择富含蛋白质和健康脂肪、碳水化合物适中的饮食。始终提供新鲜饮用水。部分柯基普犬可能有食物过敏；若出现瘙痒或消化问题，请咨询兽医。补充Omega-3脂肪酸有助于被毛健康和关节支持，尤其随着年龄增长。"
+    },
+    "livingTips": {
+      "en": "Corgipoos adapt well to apartment living if given sufficient exercise, but a fenced yard is ideal for safe play. They are moderately active indoors but require daily outdoor activity. They get along well with children, especially if raised together, but early supervision is needed due to herding tendencies. They generally coexist peacefully with other pets if socialized early. Their bark can be frequent, so training to reduce nuisance barking is helpful. Provide comfortable bedding, interactive toys, and a consistent routine to make them feel secure. They thrive on human interaction and should not be left alone for long periods.",
+      "zh": "柯基普犬如果得到充分运动，能很好地适应公寓生活，但有围栏的院子是理想的安全活动空间。它们在室内中等活跃，但需要每日户外活动。它们与孩子相处融洽，尤其是一起长大的情况下，但由于牧羊倾向，初期需要监督。如果早期社交，它们通常能与其他宠物和平共处。它们吠叫可能较频繁，因此训练减少扰民吠叫很有帮助。提供舒适的床铺、互动玩具和一致的日常安排，让它们感到安全。它们依赖人类互动，不应长时间独处。"
+    }
+  }
 }

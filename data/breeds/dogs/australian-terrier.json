@@ -86,5 +86,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Australian Terrier is a small, sturdy, and spirited terrier breed known for its courage, alertness, and friendly nature. Despite its compact size, this dog is confident and bold, often displaying a big-dog attitude. They are intelligent, loyal, and make excellent watchdogs, always ready to alert their owners to anything unusual. Their wiry coat comes in shades of blue and tan or sandy red. Australian Terriers are affectionate with their families and get along well with older children and other pets when properly socialized. They have a moderate energy level and thrive on mental and physical stimulation. This breed is ideal for those seeking a lively, devoted companion that is both independent and loving.",
+      "zh": "澳大利亚梗是一种小型、结实、充满活力的梗犬，以其勇敢、警觉和友善的性格而闻名。尽管体型紧凑，这种狗自信而大胆，常常表现出大型犬的态度。它们聪明、忠诚，是出色的看门狗，随时准备提醒主人任何异常情况。它们的刚毛被毛有蓝色和棕褐色或沙红色。澳大利亚梗对家人充满感情，在适当社交后能与年龄较大的孩子和其他宠物相处融洽。它们精力适中，需要精神和身体上的刺激。这个品种非常适合那些寻求活泼、忠诚、既独立又充满爱心的伴侣的人。"
+    },
+    "care": {
+      "en": "Daily care for an Australian Terrier includes brushing its wiry coat 2-3 times a week to prevent matting, with professional stripping every few months to maintain texture. Bathe only when necessary to preserve natural oils. Exercise needs are moderate: a daily 30-40 minute walk plus playtime in a securely fenced area. They enjoy interactive games like fetch and agility. Regular vet check-ups are essential, along with dental care (brushing teeth 2-3 times a week). Nail trimming every 2-3 weeks and ear cleaning weekly help prevent infections. They are generally healthy but prone to patellar luxation and allergies.",
+      "zh": "澳大利亚梗的日常护理包括每周刷毛2-3次，防止打结，每隔几个月进行专业拔毛以保持被毛质地。仅在必要时洗澡，以保护天然油脂。运动需求适中：每天30-40分钟的散步加上在安全围栏区域内的玩耍时间。它们喜欢互动游戏，如接球和敏捷训练。定期兽医检查至关重要，同时注意牙齿护理（每周刷牙2-3次）。每2-3周修剪指甲，每周清洁耳朵，以防感染。它们通常健康，但易患髌骨脱位和过敏。"
+    },
+    "training": {
+      "en": "Training an Australian Terrier requires consistency, patience, and positive reinforcement. They are intelligent but can be stubborn, so use rewards like treats and praise to motivate them. Start socialization early, exposing them to different people, places, and animals to prevent timidity or aggression. Keep training sessions short (10-15 minutes) and varied to hold their interest. Crate training is recommended for housebreaking and providing a safe space. They excel in obedience and agility due to their eagerness to please. Avoid harsh corrections as they can cause fear or resistance. Firm but gentle leadership works best.",
+      "zh": "训练澳大利亚梗需要一致性、耐心和正向强化。它们聪明但可能固执，因此使用零食和表扬等奖励来激励它们。尽早开始社会化，让它们接触不同的人、地方和动物，以防止胆怯或攻击性。保持训练课程短小（10-15分钟）且多样化，以保持它们的兴趣。建议进行笼内训练，用于如厕训练和提供安全空间。由于它们渴望取悦，它们在服从和敏捷训练中表现出色。避免严厉的纠正，因为这可能导致恐惧或抵抗。坚定而温和的领导方式效果最好。"
+    },
+    "diet": {
+      "en": "Feed an Australian Terrier a high-quality dog food appropriate for their size, age, and activity level. Divide daily portion into two meals to prevent bloat. Their diet should include balanced protein, fats, and carbohydrates. Avoid overfeeding as they can become overweight, leading to joint issues. Treats should be limited and used for training. Fresh water must always be available. Some may have food allergies, so monitor for skin or digestive issues and consult a vet for a hypoallergenic diet if needed. Puppies need more frequent meals (3-4 times daily) until 6 months old.",
+      "zh": "喂食澳大利亚梗适合其体型、年龄和活动水平的高质量狗粮。将每日份量分成两餐，以预防胃胀气。饮食应包含均衡的蛋白质、脂肪和碳水化合物。避免过量喂食，因为它们容易超重，导致关节问题。零食应有限制，并用于训练。始终提供新鲜饮水。有些狗可能有食物过敏，因此注意皮肤或消化问题，必要时咨询兽医进行低过敏饮食。幼犬在6个月前需要更频繁的喂食（每天3-4次）。"
+    },
+    "livingTips": {
+      "en": "Australian Terriers adapt well to apartment living if given sufficient exercise, but they prefer a house with a secure yard. They are active indoors and enjoy having toys. They do best in moderate climates but can tolerate heat and cold with proper shelter. They are generally good with older, respectful children but may be too rough for toddlers. With early socialization, they can live peacefully with other dogs and cats, though their terrier instinct may chase small animals. They are alert barkers, so training to limit excessive barking is helpful. They thrive on human companionship and should not be left alone for long periods.",
+      "zh": "如果给予足够的运动，澳大利亚梗能很好地适应公寓生活，但它们更喜欢有安全院子的房子。它们在室内活跃，喜欢玩玩具。它们最适合温和气候，但在适当遮蔽下也能忍受炎热和寒冷。它们通常与年龄较大、尊重它们的孩子相处良好，但对幼儿可能过于粗暴。通过早期社交，它们可以与其他狗和猫和平共处，尽管它们的梗犬本能可能追逐小动物。它们警觉爱叫，因此训练限制过度吠叫很有帮助。它们需要人类陪伴，不应长时间独处。"
+    }
+  }
 }

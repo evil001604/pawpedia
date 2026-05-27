@@ -86,5 +86,27 @@
       "en": "Playful",
       "zh": "爱玩"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chartreux is a quiet, affectionate, and intelligent breed from France. Known for their loyalty and social nature, they form strong bonds with their owners. They are playful and lively but not demanding, content to follow you around and snuggle when you need comfort. Their plush blue-gray coat and copper eyes give them a distinctive appearance. They communicate subtly, often with soft chirps rather than loud meows.",
+      "zh": "夏特尔猫是一种来自法国的安静、深情且聪明的品种。以其忠诚和社交性著称，它们与主人建立深厚的情感纽带。它们活泼好动但不苛求，喜欢跟随你左右，在你需要安慰时依偎着你。其浓密的蓝灰色被毛和铜色眼睛赋予它们独特的外观。它们沟通方式微妙，常用轻柔的啾啾声而非大声喵叫。"
+    },
+    "care": {
+      "en": "Daily care for a Chartreux is straightforward. Brush their short, dense coat weekly to reduce shedding and maintain its silky texture. They are low-energy but enjoy short play sessions with interactive toys. Schedule annual vet check-ups and keep vaccinations up to date. Dental hygiene is important; brush teeth weekly. Trim nails every two weeks. Provide a scratching post to satisfy their natural instinct.",
+      "zh": "夏特尔猫的日常护理很简单。每周梳理一次它们短而密的被毛，以减少脱毛并保持丝滑质感。它们精力适中，喜欢短时间互动玩具游戏。安排年度兽医检查并保持疫苗接种更新。牙齿卫生很重要，每周刷牙。每两周修剪指甲。提供猫抓板以满足其自然本能。"
+    },
+    "training": {
+      "en": "Chartreux cats are intelligent and respond well to positive reinforcement training. Use treats and praise to teach basic commands like 'sit' or 'come'. They are quick learners but can be independent; keep sessions short (5-10 minutes). Clicker training works effectively. Avoid punishment as it may damage trust. They can learn tricks and even walk on a leash with patience. Socialize them early to new people and environments.",
+      "zh": "夏特尔猫聪明，对正向强化训练反应良好。使用零食和表扬教基本指令如“坐下”或“过来”。它们学得快但可能独立；每次训练保持短时间（5-10分钟）。响片训练效果很好。避免惩罚，以免破坏信任。它们能学会技巧，甚至在有耐心的情况下学会牵绳散步。尽早让它们接触新人和环境以进行社会化。"
+    },
+    "diet": {
+      "en": "Feed a high-quality cat food appropriate for their age, size, and activity level. Chartreux cats can be prone to obesity, so measure portions and avoid free-feeding. Provide fresh water daily. Include wet food for hydration. Treats should be limited to 10% of daily calories. Consult your vet for specific dietary needs, especially if they have any health conditions. A balanced diet supports their plush coat and overall health.",
+      "zh": "喂食适合其年龄、体型和活动水平的高质量猫粮。夏特尔猫容易肥胖，因此要控制份量，避免自由采食。每天提供新鲜饮水。包含湿粮以补充水分。零食应限制在每日热量的10%以内。如有特殊健康需求，请咨询兽医。均衡的饮食有助于保持其浓密被毛和整体健康。"
+    },
+    "livingTips": {
+      "en": "Chartreux cats adapt well to apartment living due to their calm nature, but they enjoy having vertical spaces like cat trees. They are fine without a yard but appreciate a secure balcony or window perch. They get along with children and other pets if properly introduced. They are not overly demanding but need daily interaction. Provide hiding spots and toys to keep them entertained. Their loyal nature makes them great companions for families or singles.",
+      "zh": "夏特尔猫因性格温和，非常适合公寓生活，但喜欢有猫爬架等垂直空间。没有院子也可以，但安全的阳台或窗台会受欢迎。如果适当介绍，它们能与儿童和其他宠物和睦相处。它们不过分苛求，但需要日常互动。提供藏身之处和玩具以保持其娱乐。忠诚的性格使它们成为家庭或单身人士的绝佳伴侣。"
+    }
+  }
 }

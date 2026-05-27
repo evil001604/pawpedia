@@ -90,5 +90,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Austrian Pinscher is a medium-sized, muscular working dog known for its alertness, protective nature, and high energy. Confident and intelligent, it forms strong bonds with its family but can be wary of strangers, making it an excellent watchdog. This breed requires consistent leadership and plenty of mental and physical stimulation to prevent boredom. Historically a versatile farm dog, it retains a strong prey drive and a natural instinct to guard. With proper socialization, it is loyal and affectionate with its owners, though it may be reserved with unfamiliar people or animals.",
+      "zh": "奥地利宾莎犬是一种中型、肌肉发达的工作犬，以警觉、保护性强和精力充沛而闻名。它自信、聪明，与家人关系紧密，但对陌生人保持警惕，是优秀的看门犬。该品种需要坚定的领导和充足的身心刺激，以防无聊。历史上作为多功能农场犬，它保留了强烈的捕猎本能和护卫天性。通过适当社交，它对主人忠诚且亲昵，但对陌生人或动物可能有所保留。"
+    },
+    "care": {
+      "en": "Daily care for the Austrian Pinscher includes moderate grooming: brush its short, dense coat weekly to remove loose hair, and bathe only when necessary. This breed is an energetic working dog that needs at least 60 minutes of vigorous exercise daily, such as brisk walks, jogging, or play sessions in a securely fenced area. Regular veterinary check-ups are essential to monitor for common issues like hip dysplasia and eye problems. Nail trimming every few weeks and dental care should also be part of the routine.",
+      "zh": "奥地利宾莎犬的日常护理包括适度梳理：每周刷毛一次以去除死毛，仅在必要时洗澡。该品种精力充沛，每天至少需要60分钟剧烈运动，如快走、慢跑或在安全围栏内玩耍。定期兽医检查至关重要，以监测髋关节发育不良和眼部问题等常见疾病。每几周修剪指甲，并注意牙齿护理。"
+    },
+    "training": {
+      "en": "Training an Austrian Pinscher requires patience, consistency, and positive reinforcement methods. This intelligent breed responds well to reward-based training but can be stubborn; avoid harsh corrections. Early socialization is crucial to curb its protective instincts and prevent aggression toward strangers or other dogs. Focus on obedience commands and provide mental challenges like puzzle toys. Keep sessions short and engaging, as the breed can become bored easily. A firm but fair leader will earn its respect and cooperation.",
+      "zh": "训练奥地利宾莎犬需要耐心、一致性和积极强化方法。这个聪明的品种对基于奖励的训练反应良好，但可能固执；避免严厉纠正。早期社交至关重要，以抑制其保护本能，防止对陌生人或其他狗的攻击。重点训练服从性指令，并提供拼图玩具等智力挑战。训练时间应简短有趣，因为该品种容易厌倦。坚定而公正的领导者将赢得它的尊重与合作。"
+    },
+    "diet": {
+      "en": "Feed the Austrian Pinscher a high-quality diet appropriate for its age, size, and activity level. As an energetic working breed, it benefits from protein-rich food with balanced fats and carbohydrates. Divide meals into two portions per day to prevent bloat, a risk in deep-chested dogs. Avoid overfeeding; monitor weight and adjust portions accordingly. Always provide fresh water. Consult a veterinarian for specific dietary needs, especially if the dog has allergies or sensitivities. Treats should be given sparingly during training.",
+      "zh": "为奥地利宾莎犬提供适合其年龄、体型和活动水平的高质量饮食。作为精力充沛的工作犬，它受益于富含蛋白质、脂肪和碳水化合物均衡的食物。每日分两餐喂食，以预防胃胀气（深胸犬易患）。避免过度喂食；监测体重并相应调整份量。始终提供新鲜饮水。咨询兽医了解特定饮食需求，尤其是如果狗有过敏或敏感问题。训练时少量给予零食。"
+    },
+    "livingTips": {
+      "en": "The Austrian Pinscher is best suited for a home with a securely fenced yard where it can run and play. It can adapt to apartment living if given sufficient exercise, but its protective barking may be a concern. This breed is generally good with older children if raised with them, but may be too energetic for toddlers. Early socialization helps it coexist with other pets, though its prey drive may target small animals. It thrives in a structured environment with a job to do, such as participating in dog sports or guarding.",
+      "zh": "奥地利宾莎犬最适合有安全围栏院子的家庭，以便奔跑玩耍。如果运动充足，它也能适应公寓生活，但保护性吠叫可能是个问题。该品种通常与年长儿童相处良好（若共同成长），但对幼儿可能过于精力旺盛。早期社交有助于与其他宠物共存，但其捕猎本能可能针对小动物。它在有任务的结构化环境中茁壮成长，例如参与犬类运动或看护工作。"
+    }
+  }
 }

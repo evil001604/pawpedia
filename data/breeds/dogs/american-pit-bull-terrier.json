@@ -90,5 +90,27 @@
       "en": "energetic",
       "zh": "精力充沛"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Pit Bull Terrier is a confident, intelligent, and loyal breed known for its affectionate nature and eagerness to please. Despite a reputation shaped by misuse, these dogs are inherently friendly, energetic, and courageous. They thrive on human companionship and are often described as 'nanny dogs' for their gentle demeanor with children when properly socialized. Their terrier heritage gives them a determined and playful spirit, but they require consistent guidance to channel their energy positively. With proper training and socialization, they make devoted family pets. However, their strength and high prey drive demand responsible ownership.",
+      "zh": "美国比特犬是一种自信、聪明且忠诚的犬种，以其深情的天性和取悦主人的渴望而闻名。尽管因滥用而名声受损，这些狗本质上友好、精力充沛且勇敢。它们依赖人类的陪伴，常被称为‘保姆犬’，因为适当社会化后对儿童态度温和。其梗犬血统赋予了坚定和顽皮的精神，但需要持续的引导才能积极释放能量。通过适当的训练和社交，它们能成为忠诚的家庭宠物。然而，它们的体力和高猎物驱动力要求负责任的主人。"
+    },
+    "care": {
+      "en": "Daily care for an American Pit Bull Terrier includes moderate grooming: brush their short coat weekly to reduce shedding, bathe monthly, and clean ears regularly. They need at least 60 minutes of vigorous exercise daily, such as brisk walks, running, or interactive play. Mental stimulation through puzzle toys or training sessions is essential to prevent boredom. Regular vet visits for vaccinations, heartworm prevention, and annual check-ups are crucial. Nail trimming every few weeks and dental care (brushing teeth 2-3 times per week) complete the routine. Due to their muscular build, avoid overexertion in hot weather to prevent heatstroke.",
+      "zh": "美国比特犬的日常护理包括适度梳理：每周刷短毛以减少脱毛，每月洗澡一次，定期清洁耳朵。每天至少需要60分钟的剧烈运动，如快走、跑步或互动游戏。通过益智玩具或训练进行智力刺激至关重要，以防止无聊。定期兽医检查（疫苗接种、心丝虫预防和年度体检）不可或缺。每几周修剪指甲，每周刷牙2-3次完成护理。由于其肌肉发达，炎热天气避免过度劳累以防中暑。"
+    },
+    "training": {
+      "en": "Training an American Pit Bull Terrier requires consistency, positive reinforcement, and early socialization. Use reward-based methods (treats, praise) as they are eager to please but sensitive to harsh corrections. Start obedience training early, focusing on basic commands like sit, stay, and recall. Socialization with people, dogs, and various environments is critical to prevent fear-based aggression. These dogs excel in dog sports like agility and weight pull, which channel their energy and build confidence. Avoid negative training tools; instead, keep sessions short, fun, and varied. Their intelligence means they can become stubborn if bored, so incorporate mental challenges. A well-trained Pit Bull is a reliable and joyful companion.",
+      "zh": "训练美国比特犬需要一致性、积极强化和早期社会化。使用奖励方法（零食、表扬），因为它们渴望取悦但对严厉纠正敏感。尽早开始服从训练，专注于基本命令如坐下、停留和召回。与人类、狗及各种环境的社交对预防基于恐惧的攻击至关重要。这些狗在敏捷性和拉重等犬类运动中表现出色，能释放能量并建立自信。避免负面训练工具；相反，保持训练简短、有趣且多样化。它们的智力意味着如果无聊会变得固执，因此加入智力挑战。训练有素的比特犬是可靠且快乐的伙伴。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their life stage (puppy, adult, senior). American Pit Bull Terriers are muscular and active, requiring a diet rich in protein (20-25%) and moderate fat (10-15%) to maintain lean mass. Divide daily food into two meals to prevent bloat. Avoid overfeeding, as they can gain weight easily. Include omega-3 fatty acids for coat health and joint supplements if active. Fresh water should always be available. Treats should be limited and used mainly for training. Consult your vet for specific portion sizes, which vary by age, weight, and activity level. Some dogs may have food allergies; watch for skin or digestive issues.",
+      "zh": "喂食适合其生命阶段（幼犬、成犬、老年犬）的高品质狗粮。美国比特犬肌肉发达且活跃，需要富含蛋白质（20-25%）和适量脂肪（10-15%）的饮食以维持瘦体重。将每日食物分两餐喂食，以防胃胀气。避免过量喂食，因为它们容易发胖。包含Omega-3脂肪酸以促进皮毛健康，活跃犬只可补充关节保健品。始终提供新鲜饮水。零食应有限，主要用于训练。咨询兽医以确定具体份量，因年龄、体重和活动水平而异。有些狗可能有食物过敏，注意皮肤或消化问题。"
+    },
+    "livingTips": {
+      "en": "American Pit Bull Terriers adapt well to various homes but thrive with a securely fenced yard for safe exercise. They can live in apartments if given sufficient daily exercise, but their energy may be challenging without outdoor space. Early socialization with children and other pets is essential; they are generally good with kids but may show dog aggression due to their terrier heritage. Supervise interactions with small animals. They are indoor dogs who crave human contact, so avoid leaving them alone for long periods. Provide chew toys to prevent destructive behavior. Due to breed-specific legislation in some areas, check local laws before adopting. Responsible ownership includes proper training, containment, and licensing.",
+      "zh": "美国比特犬适应多种家庭环境，但最好有安全围栏的院子以供锻炼。如果每天运动充足，它们也能住公寓，但无户外空间时精力可能难以释放。早期与儿童及其他宠物社交至关重要；它们通常对孩子友好，但可能因梗犬血统对狗有攻击性。与小动物互动时需监督。它们是室内犬，渴望人类陪伴，因此避免长时间独处。提供咀嚼玩具以防破坏行为。由于某些地区存在特定品种法规，收养前请检查当地法律。负责任的主人需包括适当训练、圈养和登记。"
+    }
+  }
 }

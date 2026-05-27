@@ -82,5 +82,27 @@
       "en": "Calm",
       "zh": "冷静"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Shorthair is a robust, medium-sized cat known for its longevity, good health, and sweet personality. They are active yet easygoing, curious but calm, making them excellent companions for families. With a short, dense coat and a muscular build, they are playful and enjoy interactive toys but also appreciate quiet lap time. Their history as working cats on ships and farms has endowed them with a patient, adaptable nature. They get along well with children, dogs, and other pets, and are generally not demanding, thriving on affection and routine.",
+      "zh": "美国短毛猫是一种体格健壮的中型猫，以长寿、健康良好和甜美的性格而闻名。它们活跃但随和，好奇但冷静，是家庭的绝佳伴侣。短而密的被毛和肌肉发达的身体，使它们既喜欢互动玩具，也享受安静的膝上时光。作为曾在船上和农场工作的猫，它们具有耐心和适应力强的天性。它们与孩子、狗和其他宠物相处融洽，通常不挑剔，依靠关爱和规律生活茁壮成长。"
+    },
+    "care": {
+      "en": "Daily care for an American Shorthair is straightforward. Brush their short coat weekly with a rubber brush or grooming mitt to remove loose hair and reduce shedding. Trim nails every two weeks, clean ears monthly, and brush teeth regularly. They are moderately active; provide at least 15-20 minutes of interactive play daily, such as chasing wand toys or puzzle feeders. Annual vet check-ups are essential for vaccinations and dental health. These cats are generally healthy but may be prone to obesity, so monitor food intake and encourage exercise.",
+      "zh": "美国短毛猫的日常护理很简单。每周用橡胶刷或梳毛手套梳理短毛，去除脱落的毛发，减少掉毛。每两周修剪指甲，每月清洁耳朵，并定期刷牙。它们活动量适中；每天至少提供15-20分钟的互动游戏，如追逐逗猫棒或使用益智喂食器。每年带去看兽医进行疫苗接种和牙齿健康检查至关重要。这些猫通常健康，但易肥胖，需监控食物摄入并鼓励运动。"
+    },
+    "training": {
+      "en": "American Shorthairs are intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach basic commands like 'sit' or 'come'. They are naturally curious and can learn tricks such as fetching or high-five. Keep sessions short (5-10 minutes) to maintain interest. Litter box training is usually seamless; keep the box clean and in a quiet area. Discourage scratching furniture by providing sturdy scratching posts and rewarding their use. Patience and consistency are key; avoid punishment as it may damage trust.",
+      "zh": "美国短毛猫聪明，对正强化训练反应良好。使用零食、表扬和响片训练来教基本指令如“坐下”或“过来”。它们天生好奇，能学会捡球或击掌等技巧。保持训练时间短（5-10分钟）以维持兴趣。猫砂盆训练通常很顺利；保持猫砂盆清洁并放在安静区域。通过提供坚固的猫抓柱并奖励使用，来阻止抓挠家具。耐心和一致性是关键；避免惩罚，因为可能会破坏信任。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, balanced diet appropriate for their life stage (kitten, adult, senior). American Shorthairs are prone to obesity, so measure portions and avoid free-feeding. Provide a mix of wet and dry food for hydration and dental health. Protein should be from named animal sources (chicken, fish). Limit treats to 10% of daily calories. Fresh water must always be available. Consult your vet for specific dietary needs, especially if they have health issues. Some may have food sensitivities; monitor for allergies and adjust accordingly.",
+      "zh": "提供适合其生命阶段（幼猫、成猫、老年猫）的高质量均衡饮食。美国短毛猫易肥胖，因此要定量喂食，避免自由采食。提供湿粮和干粮混合，以补充水分和促进牙齿健康。蛋白质应来自明确动物来源（鸡肉、鱼）。零食限制在每日热量的10%以内。始终提供新鲜饮水。如有特殊饮食需求，请咨询兽医，尤其是存在健康问题时。有些猫可能有食物敏感；注意过敏反应并相应调整。"
+    },
+    "livingTips": {
+      "en": "American Shorthairs adapt well to various living situations, including apartments and houses with yards. They are not excessively active but need space to climb and explore; provide cat trees, shelves, and window perches. They are social and enjoy interactive toys but also appreciate quiet spots for napping. They get along excellently with children, dogs, and other cats if properly introduced. Their calm and amiable nature makes them ideal for multi-pet households. Ensure windows are screened for safety, and provide scratching posts to protect furniture.",
+      "zh": "美国短毛猫能很好地适应各种生活环境，包括公寓和有院子的房屋。它们不过度活跃，但需要攀爬和探索的空间；提供猫爬架、搁板和窗台。它们喜欢社交，享受互动玩具，但也需要安静的午睡角落。如果适当介绍，它们能与孩子、狗和其他猫相处得非常融洽。它们冷静友好的天性使其成为多宠物家庭的理想选择。确保窗户有纱窗以保证安全，并提供猫抓柱以保护家具。"
+    }
+  }
 }

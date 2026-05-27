@@ -86,5 +86,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Berger Picard is a medium-sized herding dog from Picardy, France, known for its intelligence, loyalty, and energetic nature. With a tousled, wiry coat and a lively expression, this breed is alert, affectionate, and deeply devoted to its family. They are natural herders with a strong work ethic, making them excellent companions for active owners. Their independent streak requires patient guidance, but they thrive on human interaction and mental challenges.",
+      "zh": "皮卡迪牧羊犬是一种来自法国皮卡迪地区的中型牧羊犬，以其聪明、忠诚和精力充沛而闻名。它们拥有蓬松粗糙的被毛和生动的表情，警觉、深情且对家庭极为忠诚。作为天生的牧羊犬，它们工作努力，是活跃主人的绝佳伴侣。它们性格独立，需要耐心的引导，但喜欢与人互动并接受智力挑战。"
+    },
+    "care": {
+      "en": "Daily care for a Berger Picard includes moderate exercise, such as long walks or runs, plus mental stimulation like puzzle toys. Grooming is minimal: brush the wiry coat weekly to remove dead hair, and bathe only when necessary. Trim nails regularly, clean ears, and brush teeth. They are generally healthy but need annual vet check-ups, vaccinations, and parasite prevention. Early socialization and consistent routines help them thrive.",
+      "zh": "皮卡迪牧羊犬的日常护理包括适度的运动，如长距离散步或跑步，以及通过益智玩具进行精神刺激。梳理被毛很简单：每周用刷子梳理粗糙的被毛以去除死毛，必要时才洗澡。定期修剪指甲、清洁耳朵和刷牙。它们通常健康，但需要年度体检、疫苗接种和寄生虫预防。早期社交和固定的日常安排有助于它们健康成长。"
+    },
+    "training": {
+      "en": "Training a Berger Picard requires patience and positive reinforcement. They are intelligent but can be stubborn, so use reward-based methods with treats and praise. Start early with basic obedience and socialization. They excel in herding, agility, and advanced trick training. Keep sessions short and varied to prevent boredom. Avoid harsh corrections, as they are sensitive; instead, build trust through consistent, gentle leadership.",
+      "zh": "训练皮卡迪牧羊犬需要耐心和正向强化。它们聪明但可能固执，因此应使用零食和表扬等奖励方式。早期开始基础服从和社交训练。它们在牧羊、敏捷和高级技巧训练中表现出色。训练时间要短且多样化，避免它们感到无聊。避免严厉的纠正，因为它们敏感；应通过一致、温和的领导建立信任。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Berger Picards are active and may need a diet rich in protein and healthy fats. Divide daily food into two meals to prevent bloat. Avoid overfeeding; monitor weight and adjust portions. Provide fresh water always. Treats should be limited and used for training. Consult a vet for specific nutritional needs, especially for puppies and seniors.",
+      "zh": "喂食适合其年龄、体型和活动水平的高质量狗粮。皮卡迪牧羊犬活跃，可能需要富含蛋白质和健康脂肪的饮食。每日食物分成两餐，以预防胃胀。避免过量喂食；监测体重并调整食量。始终提供新鲜水。零食应限量并用于训练。咨询兽医了解特定营养需求，尤其是幼犬和老年犬。"
+    },
+    "livingTips": {
+      "en": "Berger Picards adapt to various homes but thrive with a securely fenced yard due to their herding instincts. They are not ideal for apartments without ample exercise. They are good with children if raised together, but may try to herd them. With proper socialization, they get along with other dogs and cats. They need mental stimulation to prevent destructive behaviors. A calm, consistent home suits them best.",
+      "zh": "皮卡迪牧羊犬能适应各种家庭环境，但由于牧羊本能，最好有一个安全围栏的院子。它们不适合没有充足运动的公寓。如果与孩子一起成长，它们对孩子友好，但可能会试图牧羊。通过适当社交，它们能与其他狗和猫相处。它们需要精神刺激以防止破坏行为。一个平静、一致的家庭最适合它们。"
+    }
+  }
 }

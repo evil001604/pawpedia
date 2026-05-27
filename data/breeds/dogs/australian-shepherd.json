@@ -90,5 +90,27 @@
       "en": "athletic",
       "zh": "运动能力强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Australian Shepherd is a highly intelligent, energetic, and work-oriented herding breed. Known for their loyalty and devotion, these dogs thrive on having a job to do. They are athletic and agile, requiring both physical and mental stimulation daily. Aussies are versatile and excel in dog sports, obedience, and as service dogs. Their herding instinct may lead them to try to herd children or other pets. With proper socialization, they are affectionate and protective family members. However, their high energy and intelligence can lead to destructive behaviors if not adequately exercised and challenged. They bond closely with their owners and can be reserved with strangers.",
+      "zh": "澳大利亚牧羊犬是一种非常聪明、精力充沛且以工作为导向的牧羊犬种。以其忠诚和奉献精神而闻名，这些狗需要有事可做。它们运动能力强且敏捷，每天需要身体和心理刺激。澳牧多才多艺，在犬类运动、服从性和服务犬领域表现出色。它们的牧羊本能可能导致它们试图‘管理’孩子或其他宠物。通过适当的社会化，它们是深情且保护家庭的一员。然而，它们的高能量和智力如果得不到充分锻炼和挑战，可能导致破坏性行为。它们与主人关系紧密，对陌生人可能有所保留。"
+    },
+    "care": {
+      "en": "Daily care for an Australian Shepherd includes brushing their thick double coat 2-3 times a week to manage shedding, with more frequent brushing during seasonal blowouts. They need at least 1-2 hours of vigorous exercise daily, such as running, hiking, or playing fetch. Mental stimulation is equally important; puzzle toys, training sessions, and dog sports keep them engaged. Regular vet check-ups, vaccinations, and parasite prevention are essential. Their ears should be checked weekly for debris, and teeth brushed regularly. Nail trimming is needed every few weeks. Bathing should be done only when necessary to preserve natural coat oils.",
+      "zh": "澳大利亚牧羊犬的日常护理包括每周梳理厚实的双层被毛2-3次以控制掉毛，换毛季需更频繁。每天需要至少1-2小时剧烈运动，如跑步、远足或接球游戏。心理刺激同样重要；益智玩具、训练课和犬类运动能让它们保持投入。定期兽医检查、疫苗接种和寄生虫预防必不可少。每周检查耳朵是否有杂物，定期刷牙。每几周修剪指甲。仅在必要时洗澡以保护天然皮毛油脂。"
+    },
+    "training": {
+      "en": "Australian Shepherds are highly trainable due to their intelligence and eagerness to please, but they can be stubborn. Use positive reinforcement methods like treats, praise, and play. Keep training sessions short and varied to maintain interest. Early socialization is crucial to prevent shyness or herding behaviors. They excel in obedience, agility, and herding trials. Avoid harsh corrections, as they are sensitive. Consistent rules and a firm but gentle leader are important. Mental challenges like trick training or nose work satisfy their need to problem-solve. Provide a job, such as carrying a backpack or learning commands, to channel their energy.",
+      "zh": "澳大利亚牧羊犬因聪明且渴望取悦而易于训练，但可能固执。使用积极强化方法，如零食、表扬和游戏。保持训练课程简短多样以维持兴趣。早期社会化至关重要，以防止害羞或牧羊行为。它们在服从、敏捷和牧羊比赛中表现出色。避免严厉纠正，因为它们敏感。一致的规则和坚定而温和的领导很重要。心理挑战如技巧训练或嗅闻工作能满足它们解决问题的需求。提供任务，如背背包或学习指令，以引导其精力。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their life stage (puppy, adult, senior). Australian Shepherds are active, so a diet with adequate protein and fat supports their energy levels. Portion control is important to prevent obesity, especially if activity decreases. Divide daily food into two meals to reduce bloat risk. Avoid free-feeding. Fresh water should always be available. Consider supplements like omega-3 fatty acids for coat health, and glucosamine for joint support, especially in older dogs. Treats should be limited to 10% of daily calories. Consult a vet for specific dietary needs or allergies.",
+      "zh": "喂食适合其生命阶段（幼犬、成犬、老年犬）的高品质狗粮。澳大利亚牧羊犬活跃，需要足够的蛋白质和脂肪来支持能量水平。控制份量以防止肥胖，特别是在活动减少时。将每日食物分为两餐以降低胃扭转风险。避免自由采食。始终提供新鲜水。考虑补充Omega-3脂肪酸以维护皮毛健康，葡萄糖胺以支持关节，特别是老年犬。零食应限制在每日热量的10%以内。对于特定饮食需求或过敏，请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "Australian Shepherds do best in homes with a fenced yard where they can run. They are not ideal for apartments unless owners commit to extensive daily exercise. They are excellent companions for active individuals or families with older children who understand how to interact with dogs. Their herding instinct may cause them to nip at children's heels, so supervision is needed. With proper socialization, they can get along with other pets, but they may try to herd them. They are loyal and protective, making good watchdogs. Mental stimulation is a must; a bored Aussie can become destructive. They thrive on being included in family activities.",
+      "zh": "澳大利亚牧羊犬最适合在有围栏院子的家中生活，以便奔跑。除非主人承诺每天大量运动，否则不适合公寓生活。它们是活跃个人或有大孩子（懂得如何与狗互动）家庭的绝佳伴侣。其牧羊本能可能导致它们轻咬孩子的脚跟，因此需要监督。通过适当社会化，它们能与其他宠物相处，但可能试图‘管理’它们。它们忠诚且保护性强，是好的看门犬。心理刺激必不可少；无聊的澳牧可能变得具有破坏性。它们喜欢参与家庭活动。"
+    }
+  }
 }

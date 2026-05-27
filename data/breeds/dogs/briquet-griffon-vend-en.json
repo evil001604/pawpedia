@@ -90,5 +90,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Briquet Griffon Vendéen is a medium-sized hound breed from the Vendée region of France, known for its courage, energy, independence, and friendly demeanor. Bred as a pack hunter for hare and fox, it is alert, intelligent, and possesses a strong prey drive. This breed is characterized by its rough, wiry coat, bushy eyebrows, and beard, giving it a distinctive rustic appearance. While affectionate with family, it can be stubborn and requires consistent leadership. Its high energy level and need for mental stimulation make it best suited for active owners who enjoy outdoor adventures. The breed is generally good with children and other dogs but may chase small pets due to its hunting instincts.",
+      "zh": "旺代格里芬犬是一种中型猎犬，原产于法国旺代地区，以勇敢、精力充沛、独立和友善的性格著称。作为群猎犬，主要用于猎捕野兔和狐狸，它机警、聪明，具有强烈的捕猎本能。该品种拥有粗糙的刚毛、浓密的眉毛和胡须，呈现出独特的质朴外观。虽然对家人深情，但可能固执，需要坚定的领导。其高能量水平和精神刺激需求使其最适合喜欢户外探险的活跃主人。该品种通常对孩子和其他狗友好，但由于狩猎本能，可能会追逐小型宠物。"
+    },
+    "care": {
+      "en": "Daily care for the Briquet Griffon Vendéen includes regular exercise: at least 60 minutes of vigorous activity such as long walks, runs, or off-leash play in a secure area. Grooming needs are moderate: brush the wiry coat weekly to remove dead hair and prevent matting, and hand-strip or clip every few months. Bathe only when necessary. Check ears weekly for dirt or infection, as floppy ears can trap moisture. Trim nails monthly and brush teeth regularly. Annual vet check-ups are essential, and the breed may be prone to hip dysplasia and ear infections. Keep vaccinations and parasite prevention up to date.",
+      "zh": "旺代格里芬犬的日常护理包括：每天至少60分钟的剧烈运动，如长距离散步、跑步或在安全区域内的自由活动。毛发护理适中：每周梳理刚毛以去除死毛并防止打结，每几个月进行手工拔毛或修剪。仅在必要时洗澡。每周检查耳朵是否有污垢或感染，因为垂耳容易积聚水分。每月修剪指甲并定期刷牙。每年进行兽医体检，该品种可能易患髋关节发育不良和耳部感染。保持疫苗接种和寄生虫预防的最新状态。"
+    },
+    "training": {
+      "en": "Training a Briquet Griffon Vendéen requires patience, consistency, and positive reinforcement methods. This intelligent but independent breed can be stubborn, so early socialization and obedience training are crucial. Use reward-based techniques with treats, praise, and play. Keep sessions short and engaging to maintain interest. Hound instincts mean they may follow their nose, so reliable recall training in a fenced area is important. Avoid harsh corrections, as they can cause resentment. Incorporate scent games and tracking exercises to channel their natural abilities. Consistency from all family members helps prevent confusion.",
+      "zh": "训练旺代格里芬犬需要耐心、一致性和正强化方法。这种聪明但独立的品种可能固执，因此早期社交和服从训练至关重要。使用基于奖励的技巧，如零食、表扬和游戏。保持训练简短有趣以维持兴趣。猎犬本能意味着它们可能追随气味，因此在围栏区域内进行可靠的召回训练很重要。避免严厉的纠正，否则可能引起反感。结合气味游戏和追踪练习来发挥它们的自然能力。所有家庭成员保持一致有助于防止混淆。"
+    },
+    "diet": {
+      "en": "Feed the Briquet Griffon Vendéen a high-quality dog food appropriate for its age, size, and activity level. Active dogs may require a diet higher in protein and fat. Divide daily food into two meals to prevent bloat, a risk in deep-chested breeds. Avoid overfeeding; monitor weight and adjust portions as needed. Fresh water should always be available. Treats should be limited and used for training. Some dogs may have food allergies, so watch for skin or digestive issues. Consult a veterinarian for specific dietary recommendations, especially if the dog is highly active or has health concerns.",
+      "zh": "为旺代格里芬犬提供适合其年龄、体型和活动水平的高品质狗粮。活跃的狗可能需要更高蛋白质和脂肪的饮食。将每日食物分成两餐以防止胃扭转，这是深胸品种的风险。避免过度喂食；监测体重并按需调整份量。始终提供新鲜水。零食应有限并用于训练。有些狗可能有食物过敏，因此注意皮肤或消化问题。对于特定饮食建议，请咨询兽医，特别是如果狗非常活跃或有健康问题。"
+    },
+    "livingTips": {
+      "en": "The Briquet Griffon Vendéen is best suited for a home with a securely fenced yard where it can run and explore. It can adapt to apartment living if given sufficient exercise, but its barking tendency may be an issue. This breed thrives in rural or suburban settings with access to open spaces. It is generally good with children and other dogs, especially when raised together, but may chase small pets like cats or rabbits due to its hunting instincts. Early socialization is key. The breed is not recommended for first-time owners due to its independent nature. Mental stimulation through puzzle toys and games is important to prevent boredom.",
+      "zh": "旺代格里芬犬最适合有安全围栏院子的家庭，以便它可以奔跑和探索。如果给予足够的运动，它可以适应公寓生活，但其吠叫倾向可能成为问题。该品种在乡村或郊区环境中茁壮成长，能接触到开阔空间。通常对孩子和其他狗友好，尤其是一起长大的情况下，但由于狩猎本能，可能会追逐猫或兔子等小型宠物。早期社交是关键。由于其独立性，不建议初次养狗的人饲养。通过益智玩具和游戏进行精神刺激对于防止无聊很重要。"
+    }
+  }
 }

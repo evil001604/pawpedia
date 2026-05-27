@@ -90,5 +90,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Border Terrier is a small, agile, and affectionate breed known for its intelligence, alertness, and courageous nature. Originally bred to hunt foxes alongside foxhounds, they are energetic and adaptable, making them excellent companions for active families. Their wiry coat is weather-resistant and requires minimal grooming. Border Terriers are friendly, good with children and other pets, and have a moderate prey drive. They are alert watchdogs but not excessive barkers. With proper socialization, they thrive in various environments, from apartments to country homes. Their playful yet sturdy demeanor makes them a beloved terrier breed.",
+      "zh": "边境梗是一种小型、敏捷且深情的犬种，以聪明、警觉和勇敢著称。它们最初被培育用于与猎狐犬一起捕猎狐狸，精力充沛且适应性强，是活跃家庭的绝佳伴侣。它们的刚毛被毛耐候且易于打理。边境梗友善，对孩子和其他宠物友好，具有适度的捕猎本能。它们是警觉的看门犬，但不会过度吠叫。通过适当的社会化，它们能在从公寓到乡村住宅的各种环境中茁壮成长。其活泼而坚韧的性格使其成为备受喜爱的梗犬品种。"
+    },
+    "care": {
+      "en": "Daily care for a Border Terrier includes moderate exercise such as a brisk walk or play session. Their wiry coat needs weekly brushing and hand-stripping twice a year to maintain texture. Bathe only when necessary to preserve natural oils. Clean ears regularly and trim nails monthly. Brush teeth several times a week. Veterinary visits should occur annually for check-ups and vaccinations. Watch for hip dysplasia, patellar luxation, and eye issues. Provide mental stimulation with puzzle toys or training games. Adapt exercise to their energy level; they enjoy hiking, agility, and fetch.",
+      "zh": "边境梗的日常护理包括适度运动，如快走或玩耍。它们的刚毛被毛需要每周梳理，每年两次手工拔毛以保持质地。仅在必要时洗澡，以保留天然油脂。定期清洁耳朵，每月修剪指甲。每周刷牙数次。每年进行一次兽医检查和疫苗接种。注意髋关节发育不良、髌骨脱位和眼部问题。通过益智玩具或训练游戏提供精神刺激。根据它们的精力水平调整运动量；它们喜欢远足、敏捷运动和接球游戏。"
+    },
+    "training": {
+      "en": "Border Terriers are intelligent but can be stubborn, so consistent, positive reinforcement training works best. Start early with socialization to people, animals, and environments. Use treats and praise to motivate them. Keep sessions short and fun to hold their attention. They excel in obedience, agility, and earthdog trials. Harsh methods are counterproductive. Crate training helps with housebreaking. Teach basic commands like sit, stay, and recall. They have a strong prey drive, so a reliable recall is essential. Patience and variety are key to preventing boredom.",
+      "zh": "边境梗聪明但可能固执，因此一致的正向强化训练效果最佳。尽早开始社会化，接触人、动物和环境。使用零食和表扬来激励它们。保持训练简短有趣以吸引注意力。它们在服从、敏捷和地犬比赛中表现出色。严厉的方法适得其反。笼内训练有助于定点排便。教授基本指令如坐、等待和召回。它们有很强的捕猎本能，因此可靠的召回至关重要。耐心和多样性是防止无聊的关键。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for your Border Terrier's age, size, and activity level. Divide daily food into two meals to prevent bloat. Monitor weight to avoid obesity, which can strain joints. Treats should be limited and used for training. Provide fresh water at all times. Some Border Terriers may have food sensitivities; consult a vet if allergies appear. A balanced diet with protein, healthy fats, and carbohydrates supports their energy. Avoid overfeeding and table scraps. Puppies need more frequent meals, while seniors may require joint-supporting supplements.",
+      "zh": "根据边境梗的年龄、体型和活动水平，喂食优质狗粮。将每日食物分成两餐，以预防胃胀气。监测体重，避免肥胖给关节带来压力。零食应限量并用于训练。随时提供新鲜饮水。部分边境梗可能有食物敏感，如出现过敏请咨询兽医。均衡的饮食含有蛋白质、健康脂肪和碳水化合物，以支持它们的能量需求。避免过度喂食和餐桌剩饭。幼犬需要更频繁的喂食，而老年犬可能需要关节保健补充剂。"
+    },
+    "livingTips": {
+      "en": "Border Terriers adapt well to apartment living if given enough exercise, but a securely fenced yard is ideal. They are good with children and other pets when raised together, but may chase small animals due to prey drive. They can be left alone for moderate periods if entertained, but may bark if bored. Provide a cozy bed and safe chew toys. They enjoy digging, so designate a digging area. Climate-wise, they tolerate cold better than heat due to their wiry coat. Early socialization prevents territorial behavior. They thrive on family interaction and should not be kenneled outdoors exclusively.",
+      "zh": "边境梗如果得到足够运动，能很好地适应公寓生活，但有围栏的院子更理想。与孩子和其他宠物一起长大时表现良好，但由于捕猎本能，可能会追逐小动物。如果提供娱乐，它们可以独处一段时间，但无聊时可能吠叫。提供舒适的床和安全的咀嚼玩具。它们喜欢挖洞，因此可以指定一个挖洞区域。气候上，由于刚毛被毛，它们比耐热更耐寒。早期社会化可防止领土行为。它们依赖家庭互动，不应被单独关在户外。"
+    }
+  }
 }

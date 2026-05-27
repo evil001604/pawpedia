@@ -86,5 +86,27 @@
       "en": "Social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The British Longhair is a calm, affectionate, and independent cat breed known for its plush coat and round face. They are easygoing and intelligent, forming strong bonds with their owners while maintaining a dignified independence. Unlike some breeds, they prefer to choose when to interact, often sitting beside you rather than being held. Their loyal and social nature makes them excellent companions for relaxed households. They are not overly demanding and adapt well to various environments, but they thrive on routine and gentle attention.",
+      "zh": "英国长毛猫是一种冷静、亲昵且独立的猫品种，以其丰厚的毛发和圆脸著称。它们性格随和、聪明，与主人建立深厚感情的同时保持高贵的独立性。与其他品种不同，它们更喜欢选择何时互动，常常坐在你身边而非被抱。忠诚且善于社交的天性使其成为放松家庭的绝佳伴侣。它们不过分苛求，能适应各种环境，但偏好规律生活和温和的关注。"
+    },
+    "care": {
+      "en": "Daily grooming is essential for the British Longhair's dense coat; brush 2-3 times a week to prevent matting, increasing to daily during shedding seasons. Bathing every 4-6 weeks helps maintain coat health. Trim nails monthly, clean ears weekly, and brush teeth regularly. Provide a scratching post to support natural claw maintenance. Exercise needs are moderate; engage in interactive play sessions for 15-20 minutes daily using wand toys or puzzle feeders. Annual veterinary check-ups are crucial, with vaccinations and dental care monitored. Keep litter box clean and place in a quiet area.",
+      "zh": "英国长毛猫浓密的毛发需要每日梳理，每周刷毛2-3次以防打结，换毛季需每天梳理。每4-6周洗澡一次有助于保持毛发健康。每月修剪指甲，每周清洁耳朵，并定期刷牙。提供猫抓板以支持自然磨爪需求。运动需求适中，每天用逗猫棒或益智喂食器互动玩耍15-20分钟。每年兽医体检至关重要，需监控疫苗接种和牙齿健康。保持猫砂盆清洁并放置在安静区域。"
+    },
+    "training": {
+      "en": "British Longhairs are intelligent and respond well to positive reinforcement training. Use treats and praise to teach basic commands like 'sit' or 'come'. They can learn tricks but may lose interest if sessions are too long; keep training to 5-10 minutes. Clicker training is effective. For litter training, place them in the box after meals and naps. Discourage unwanted behaviors like scratching furniture by redirecting to a scratching post. Avoid punishment; instead, reward good behavior. Socialize early with gentle handling to ensure a well-adjusted adult cat.",
+      "zh": "英国长毛猫聪明，对正强化训练反应良好。用零食和表扬教导基本指令如“坐下”或“过来”。它们能学会技巧，但训练时间过长会失去兴趣，每次5-10分钟即可。响片训练很有效。如厕训练时，在饭后和睡醒后将其放入猫砂盆。通过引导至猫抓板来阻止抓挠家具等不良行为。避免惩罚，而是奖励好行为。早期温和社会化有助于培养适应良好的成年猫。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich cat food appropriate for their life stage (kitten, adult, senior). British Longhairs are prone to obesity, so measure portions and avoid free-feeding. Divide daily intake into 2-3 meals. Include wet food to increase moisture intake and support urinary health. Treats should not exceed 10% of daily calories. Provide fresh water daily, using a fountain to encourage drinking. Consult your vet for specific dietary needs, especially if they have a tendency toward hairballs; consider a hairball control formula.",
+      "zh": "喂食适合其生命阶段（幼猫、成猫、老年猫）的高质量、高蛋白猫粮。英国长毛猫易肥胖，需定量喂食，避免自由采食。每日分2-3餐。包含湿粮以增加水分摄入，支持泌尿健康。零食不超过每日热量的10%。每天提供新鲜饮用水，可使用饮水机鼓励饮水。咨询兽医特殊饮食需求，尤其针对毛球倾向，可考虑毛球控制配方。"
+    },
+    "livingTips": {
+      "en": "British Longhairs adapt well to apartment living as long as they have vertical spaces like cat trees and shelves. They enjoy a calm environment and are not overly active. A secure balcony or window perch for bird-watching is ideal. They get along with children if raised together and respect their space; supervision is advised with young kids. They can coexist with other pets, especially other relaxed cats or dog-friendly dogs. Provide interactive toys and puzzle feeders to prevent boredom. A quiet room for retreat is appreciated.",
+      "zh": "英国长毛猫适应公寓生活，只需有猫爬架和搁板等垂直空间。它们喜欢安静环境，不太活跃。有安全阳台或窗台观鸟是理想选择。若与孩子一起长大并尊重其空间，它们能与孩子相处；建议监督幼儿。它们能与其他宠物共存，尤其是其他性格温和的猫或对猫友好的狗。提供互动玩具和益智喂食器以防无聊。一个安静的退避空间很受欢迎。"
+    }
+  }
 }

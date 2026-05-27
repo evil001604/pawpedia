@@ -102,5 +102,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Basset Fauve de Bretagne is a small to medium-sized hound from Brittany, France, known for its friendly, energetic, and intelligent nature. Bred to hunt small game, it is courageous, alert, and happy, with an outgoing and affectionate temperament. This breed is loyal and forms strong bonds with its family, making it an excellent companion. Despite its hunting background, it is gentle and gets along well with children and other dogs. Its rough, fawn-colored coat and sturdy build give it a distinctive appearance. The Basset Fauve de Bretagne thrives on human interaction and can be stubborn at times, but its eagerness to please makes training rewarding. It is an adaptable breed that enjoys both outdoor adventures and cozy indoor time.",
+      "zh": "布列塔尼黄褐色巴塞特犬是一种中小型猎犬，原产于法国布列塔尼，以其友好、精力充沛和聪明的性格而闻名。该犬种为猎捕小型猎物而培育，勇敢、警觉且快乐，性格外向、深情。它忠诚且与家庭建立深厚感情，是出色的伴侣犬。尽管有狩猎背景，它性情温和，能与儿童和其他犬只友好相处。粗糙的黄褐色被毛和结实的体格使其外观独特。布列塔尼黄褐色巴塞特犬喜欢与人互动，有时可能固执，但其取悦主人的意愿使训练变得有回报。它适应性强，既享受户外冒险，也喜欢室内舒适时光。"
+    },
+    "care": {
+      "en": "Daily care for the Basset Fauve de Bretagne includes moderate exercise such as long walks or play sessions in a secure area. Its rough coat requires weekly brushing to remove dead hair and prevent matting, with occasional baths. Regular ear cleaning is essential to prevent infections, as its floppy ears trap moisture. Nail trimming and dental care should be part of the routine. Vet visits are recommended annually for check-ups and vaccinations. This breed is generally healthy but can be prone to ear issues and weight gain if overfed. Grooming sessions also provide bonding opportunities.",
+      "zh": "布列塔尼黄褐色巴塞特犬的日常护理包括适度运动，如长时间散步或在安全区域玩耍。其粗糙的被毛需要每周梳理以去除死毛并防止打结，偶尔洗澡。定期清洁耳朵至关重要，因为垂耳容易积聚湿气导致感染。修剪指甲和牙齿护理也应纳入日常。建议每年进行一次兽医检查及疫苗接种。该犬种通常健康，但易患耳部问题，若喂食过量可能发胖。梳理毛发也是增进感情的好机会。"
+    },
+    "training": {
+      "en": "Training a Basset Fauve de Bretagne requires patience and positive reinforcement. This intelligent breed responds well to treats and praise but can be independent and stubborn. Start early with basic obedience and socialization to prevent unwanted behaviors. Use short, engaging sessions to maintain focus. Hound instincts may lead to following scents, so recall training in a safe area is crucial. Avoid harsh corrections, as they can cause fear or resistance. Consistency and a calm, firm approach work best. This breed excels in scent work and agility, providing mental stimulation.",
+      "zh": "训练布列塔尼黄褐色巴塞特犬需要耐心和积极强化。这一聪明犬种对零食和表扬反应良好，但可能独立且固执。尽早开始基础服从训练和社交化，以防不良行为。采用简短有趣的训练保持其注意力。猎犬本能可能导致追逐气味，因此在安全区域进行召回训练至关重要。避免严厉纠正，以免引起恐惧或抵触。一致且冷静坚定的方法效果最佳。该犬种在气味工作和敏捷性方面表现出色，能提供精神刺激。"
+    },
+    "diet": {
+      "en": "Feed the Basset Fauve de Bretagne a high-quality diet appropriate for its age, size, and activity level. Divide meals into two portions daily to reduce bloating risk. Monitor weight closely, as this breed tends to gain weight easily. Choose a food rich in protein and healthy fats to support energy needs. Avoid overfeeding and limit treats to 10% of daily calories. Fresh water should always be available. Consult a vet for specific dietary recommendations, especially if the dog has allergies or sensitivities. Puppies require more frequent meals and a balanced diet for growth.",
+      "zh": "为布列塔尼黄褐色巴塞特犬提供适合其年龄、体型和活动水平的高质量饮食。每日分两餐喂食，以降低腹胀风险。密切监测体重，因为该犬种容易发胖。选择富含蛋白质和健康脂肪的食物以支持能量需求。避免过量喂食，零食限制在每日热量的10%以内。始终提供新鲜饮水。咨询兽医获取具体饮食建议，特别是当犬只有过敏或敏感问题时。幼犬需要更频繁的喂食和均衡饮食以促进生长。"
+    },
+    "livingTips": {
+      "en": "The Basset Fauve de Bretagne adapts well to various living situations, including apartments, if given enough daily exercise. A securely fenced yard is ideal for play and exploration. This breed is excellent with children and other pets, especially when raised together. It has a moderate energy level and enjoys both active play and relaxation indoors. Early socialization helps it become a well-rounded companion. Due to its hunting instincts, it may chase small animals, so supervision is advised around non-canine pets. Provide mental stimulation through puzzle toys and nose work games.",
+      "zh": "布列塔尼黄褐色巴塞特犬能适应多种居住环境，包括公寓，只要每日获得足够运动。有安全围栏的院子最适合其玩耍和探索。该犬种与儿童及其他宠物相处融洽，尤其是一起长大的情况下。它精力中等，既喜欢活跃玩耍也享受室内放松。早期社交化有助于其成为全面发展的伴侣。由于狩猎本能，可能追逐小动物，因此在非犬类宠物周围需监督。通过益智玩具和嗅闻游戏提供精神刺激。"
+    }
+  }
 }

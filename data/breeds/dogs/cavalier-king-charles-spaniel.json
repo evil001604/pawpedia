@@ -90,5 +90,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cavalier King Charles Spaniel is a toy breed known for its affectionate, gentle, and friendly nature. They are playful yet eager to please, making them excellent companions. With a silky, medium-length coat and expressive eyes, they embody elegance. Originally favored by King Charles II, these dogs thrive on human interaction and are adaptable to various lifestyles. They are generally good with children and other pets, though their small size requires careful handling. Cavaliers are intelligent but can be sensitive, so positive reinforcement works best. Their moderate energy levels suit both active families and quieter homes, but they do require regular companionship to avoid separation anxiety.",
+      "zh": "骑士查理王小猎犬是一种玩具犬，以其亲切、温和和友好的性格而闻名。它们活泼但渴望取悦，是极佳的伴侣犬。拥有丝滑的中长被毛和富有表情的眼睛，尽显优雅。最初受查尔斯二世国王青睐，这些狗依赖人类互动，适应各种生活方式。通常对儿童和其他宠物友善，但因体型小需小心对待。骑士犬聪明但敏感，因此正面强化训练效果最佳。其适中的能量水平适合活跃家庭或安静环境，但需要定期陪伴以避免分离焦虑。"
+    },
+    "care": {
+      "en": "Daily care includes brushing their silky coat 2-3 times per week to prevent mats, with more frequent grooming during shedding seasons. Bathe every 4-6 weeks. Clean ears weekly to prevent infections, as their floppy ears trap moisture. Trim nails monthly and brush teeth regularly. Exercise needs are moderate: 30-60 minutes of daily walks and playtime. They enjoy fetching and short hikes. Vet visits should be annual for check-ups and vaccinations. Cavaliers are prone to heart disease (mitral valve disease), hip dysplasia, and syringomyelia; so regular cardiac screenings are recommended. Keep them at a healthy weight to reduce joint stress.",
+      "zh": "日常护理包括每周梳理丝质被毛2-3次以防打结，换毛季需更频繁。每4-6周洗澡一次。每周清洁耳朵以防感染，因其垂耳易藏湿气。每月修剪指甲并定期刷牙。运动需求适中：每天30-60分钟散步和玩耍。它们喜欢捡球和短途徒步。每年带去看兽医进行体检和接种疫苗。骑士犬易患心脏病（二尖瓣疾病）、髋关节发育不良和脊髓空洞症，建议定期进行心脏筛查。保持健康体重以减少关节压力。"
+    },
+    "training": {
+      "en": "Cavaliers are intelligent and eager to please, making them easy to train with positive reinforcement methods like treats and praise. They respond poorly to harsh corrections, so patience and consistency are key. Start training early, focusing on basic commands and socialization. They can be stubborn at times, so keep sessions short and fun. Housebreaking may require patience due to small bladders; use crate training and frequent potty breaks. They excel in obedience and therapy work due to their gentle nature. Avoid over-exercising puppies to protect their developing joints.",
+      "zh": "骑士犬聪明且渴望取悦，因此使用零食和表扬等正面强化方法训练容易。它们对严厉纠正反应不佳，所以耐心和一致性是关键。尽早开始训练，专注于基本指令和社交化。它们有时会固执，因此保持训练简短有趣。由于膀胱小，如厕训练可能需要耐心；使用笼内训练和频繁的如厕休息。因其温和性格，它们在服从性和治疗犬工作中表现出色。避免过度运动幼犬以保护其发育中的关节。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for small breeds, with balanced protein and fat. Portion control is crucial to prevent obesity, which exacerbates joint and heart issues. Divide daily food into 2-3 meals. Treats should be limited and healthy. Some Cavaliers have sensitive stomachs, so introduce new foods gradually. Fresh water should always be available. Consult your vet for specific dietary needs, especially if your dog has allergies or health conditions. Avoid foods with artificial additives or fillers.",
+      "zh": "喂食适合小型犬的高品质狗粮，含有均衡的蛋白质和脂肪。控制食量以防肥胖，肥胖会加重关节和心脏问题。将每日食物分为2-3餐。零食应限量且健康。部分骑士犬肠胃敏感，因此新食物需逐步引入。始终提供新鲜饮水。咨询兽医了解特定饮食需求，尤其是有过敏或健康问题的狗。避免含人工添加剂或填充物的食物。"
+    },
+    "livingTips": {
+      "en": "Cavaliers are excellent for apartment living due to their small size and moderate energy. They adapt well to various homes but need daily walks and play. A securely fenced yard is nice but not essential. They are great with children, but supervision is needed due to their small size. They generally get along with other dogs and pets, especially if raised together. Cavaliers are people-oriented and should not be left alone for long periods; they may develop separation anxiety. Provide soft bedding and a cozy spot near family activities. Avoid excessive heat as they are brachycephalic (short-nosed) and can overheat.",
+      "zh": "骑士犬因体型小、能量适中而非常适合公寓生活。它们能适应各种家庭，但需要每日散步和玩耍。有安全围栏的院子很好但不是必须。它们与孩子相处融洽，但因体型小需监督。通常与其他狗和宠物相处良好，尤其是一起长大的。骑士犬以人为中心，不应长时间独处，否则可能产生分离焦虑。提供柔软的床铺和靠近家庭活动的舒适位置。避免过热，因为它们属于短鼻犬种，容易中暑。"
+    }
+  }
 }

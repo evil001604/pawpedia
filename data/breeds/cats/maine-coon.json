@@ -82,5 +82,27 @@
       "en": "Independent",
       "zh": "独立"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Maine Coon is a gentle giant, known for its large size, luxurious long coat, and friendly, adaptable personality. They are intelligent, loving, and independent, often following their owners around without being overly needy. This breed is good-natured and gets along well with various lifestyles, making them excellent companions for families, singles, and seniors alike. Maine Coons are also known for their unique fondness for water and can be quite skilled swimmers. Their playful yet calm demeanor makes them a joy to have around, and they retain a kitten-like curiosity well into adulthood. Overall, they are a robust, affectionate, and easygoing breed that thrives on human interaction while respecting personal space.",
+      "zh": "缅因猫被称为温柔的巨人，以其巨大的体型、华丽的长毛以及友善、适应性强的性格而闻名。它们聪明、有爱心且独立，常常跟随主人走动，但不会过分依赖。缅因猫性情温和，能够适应各种生活方式，是家庭、单身人士和老年人的理想伴侣。这个品种还以对水的独特喜爱而著称，游泳本领相当不错。它们活泼而沉稳的气质让人愉悦，且成年后仍保持小猫般的好奇心。总体来说，缅因猫是一种健壮、深情且随和的猫种，既喜欢与人互动，又懂得尊重个人空间。"
+    },
+    "care": {
+      "en": "Daily care for a Maine Coon includes regular grooming to prevent mats in their dense, silky coat—brush at least 2-3 times a week, increasing to daily during shedding seasons. They need moderate exercise; interactive toys, climbing trees, and puzzle feeders keep them mentally and physically stimulated. Weekly nail trimming, ear cleaning, and dental care are essential. Annual veterinary check-ups are recommended, with more frequent visits for senior cats. Maine Coons are prone to hip dysplasia and hypertrophic cardiomyopathy, so responsible breeders screen for these. Provide a sturdy scratching post and a large litter box, as their size demands ample space. They enjoy water, so a pet fountain can encourage hydration.",
+      "zh": "缅因猫的日常护理包括定期梳理其浓密丝滑的毛发，每周至少刷毛2-3次，换毛季节应增加到每天一次，以防止打结。它们需要适度运动；互动玩具、爬树架和益智喂食器能保持其身心活跃。每周修剪指甲、清洁耳朵和牙齿护理必不可少。建议每年进行一次兽医检查，老年猫需增加频率。缅因猫易患髋关节发育不良和肥厚性心肌病，因此负责任的繁育者会进行筛查。为它们提供稳固的抓柱和大型猫砂盆，因为其体型需要充足空间。它们喜欢水，宠物饮水机可鼓励多喝水。"
+    },
+    "training": {
+      "en": "Maine Coons are highly intelligent and trainable, responding well to positive reinforcement techniques like treats, praise, and clicker training. They can learn tricks, leash walking, and even fetch. Start training early, keeping sessions short (5-10 minutes) and fun to maintain their interest. Consistency is key; use the same cues and rewards. They are naturally curious and can be taught to use puzzle toys for mental stimulation. Avoid punishment, as it can damage trust. Because they are people-oriented, they often enjoy training as a bonding activity. Socialization from kittenhood with different people, pets, and environments helps them become well-adjusted adults.",
+      "zh": "缅因猫非常聪明且可训性强，对正面强化训练（如零食、表扬和响片训练）反应良好。它们能学会技巧、牵引绳行走，甚至寻回游戏。训练应尽早开始，每次保持简短（5-10分钟）且有趣，以维持它们的兴趣。一致性是关键；使用相同的指令和奖励。它们天生好奇，可以教会使用益智玩具进行脑力刺激。避免惩罚，否则会破坏信任。由于缅因猫喜欢与人相处，它们往往将训练视为增进感情的活动。从幼猫期开始社会化，接触不同的人、宠物和环境，有助于它们成长为适应力强的成年猫。"
+    },
+    "diet": {
+      "en": "A Maine Coon's diet should be high-quality, protein-rich, and appropriate for their life stage (kitten, adult, senior). Due to their large size, they need controlled portions to prevent obesity—feed measured meals twice daily rather than free-feeding. Look for foods containing real meat as the first ingredient, with balanced omega fatty acids for coat health. Fresh water must always be available; a fountain encourages drinking. Some Maine Coons may have sensitive stomachs, so introduce new foods gradually. Treats should be limited to 10% of daily calories. Consult your vet for specific dietary needs, especially if your cat has a predisposition to hip dysplasia or heart issues, as joint supplements or taurine may be recommended.",
+      "zh": "缅因猫的饮食应优质、富含蛋白质，并根据其生命阶段（幼猫、成猫、老年猫）进行调整。由于体型较大，需控制分量以防肥胖——建议每天定时定量喂食两餐，而非自由采食。选择以真实肉类为首要成分的猫粮，并含有均衡的欧米伽脂肪酸以维护毛发健康。必须随时提供新鲜饮水；宠物饮水机可鼓励饮水。部分缅因猫肠胃敏感，换粮时应逐步进行。零食热量应限制在每日总热量的10%以内。请咨询兽医以获取特定饮食建议，尤其当猫有髋关节发育不良或心脏问题倾向时，可能需要补充关节保健品或牛磺酸。"
+    },
+    "livingTips": {
+      "en": "Maine Coons adapt well to both apartments and houses, provided they have enough vertical space (cat trees, shelves) and enrichment. They are not hyperactive but need room to explore and play. A secure yard or balcony (cat-proofed) is a bonus, as many enjoy supervised outdoor time. They are excellent with children and other pets, including dogs, due to their gentle, patient nature. However, supervise interactions with very young children to prevent accidental roughness. Maine Coons are social and dislike being left alone for long periods; consider a companion pet if you work long hours. They appreciate cozy spots near windows and family activity areas. Their size means they need large beds, litter boxes, and carriers.",
+      "zh": "缅因猫能很好地适应公寓和房屋，只要提供足够的垂直空间（猫爬架、搁板）和丰富环境即可。它们并非过度活跃，但需要空间探索和玩耍。安全的院子或阳台（做好防护）是加分项，因为许多缅因猫喜欢在监督下户外活动。由于性格温和耐心，它们与儿童及其他宠物（包括狗）相处融洽。但仍需监督与非常年幼孩子的互动，以防意外粗暴。缅因猫喜欢社交，不习惯长时间独处；若您工作时间长，可考虑养另一只宠物作伴。它们喜欢靠近窗户和家庭活动区的舒适角落。其体型意味着需要大型猫床、猫砂盆和航空箱。"
+    }
+  }
 }

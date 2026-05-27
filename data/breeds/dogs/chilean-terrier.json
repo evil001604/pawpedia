@@ -86,5 +86,27 @@
       "en": "adaptable",
       "zh": "适应力强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chilean Terrier is a small, alert, and energetic breed known for its loyalty and intelligence. Originating from Chile, this terrier was developed from Fox Terriers and other European terriers for hunting vermin on farms. They are highly adaptable, making them suitable for various living situations, but they require regular mental stimulation to prevent boredom. Their personality is a blend of courage, curiosity, and affection towards their family, though they can be wary of strangers. As a recognized breed in Chile, they are still gaining international recognition. Their compact size and lively nature make them excellent companions for active individuals or families.",
+      "zh": "智利梗是一种小型、警觉且精力充沛的犬种，以忠诚和聪明著称。原产于智利，由狐狸梗和其他欧洲梗犬品种培育而成，用于农场捕猎害兽。它们适应性强，适合多种生活环境，但需要定期精神刺激以防止无聊。性格兼具勇敢、好奇和对家庭的深情，但对陌生人可能保持警惕。作为智利本土认可品种，它们仍在获得国际认可。体型紧凑、活泼好动，是活跃个人或家庭的优秀伴侣。"
+    },
+    "care": {
+      "en": "Daily care for the Chilean Terrier includes moderate exercise such as brisk walks or play sessions, ideally 30-60 minutes per day. Their short, wiry coat requires weekly brushing to remove loose hair and occasional hand-stripping for proper texture. Bathing should be done only when necessary to avoid drying their skin. Regular vet visits are essential for vaccinations, dental check-ups, and parasite prevention. Nail trimming every 2-3 weeks and ear cleaning weekly help maintain overall health. They thrive on routine and enjoy interactive games that challenge their mind.",
+      "zh": "智利梗的日常护理包括适度运动，如快走或玩耍，每天30-60分钟。它们短而硬的被毛需要每周梳理以去除死毛，并偶尔手工拔毛以保持质地。仅在必要时洗澡，以免皮肤干燥。定期兽医检查对疫苗接种、牙齿保健和寄生虫预防至关重要。每2-3周修剪指甲，每周清洁耳朵，有助于维持整体健康。它们喜欢规律的生活，并乐于参与挑战智力的互动游戏。"
+    },
+    "training": {
+      "en": "Training a Chilean Terrier requires consistency, patience, and positive reinforcement. They are intelligent but can be stubborn, so short, engaging sessions work best. Use treats and praise to motivate them. Early socialization is crucial to prevent excessive barking or wariness of strangers. Crate training can aid in housebreaking and provide a safe space. They excel in obedience and agility due to their terrier tenacity. Avoid harsh corrections, as they may become resentful. Focus on channeling their energy into constructive activities like fetch or puzzle toys.",
+      "zh": "训练智利梗需要一致性、耐心和积极强化。它们聪明但可能固执，因此短而有趣的训练课程效果最佳。用零食和表扬激励它们。早期社会化对于防止过度吠叫或对陌生人警惕至关重要。笼内训练有助于定点排便并提供安全空间。由于梗犬的顽强性格，它们在服从性和敏捷性方面表现出色。避免严厉纠正，否则可能产生抵触情绪。专注于将它们的精力引导到建设性活动，如拾回游戏或益智玩具。"
+    },
+    "diet": {
+      "en": "Feed the Chilean Terrier a high-quality, balanced diet appropriate for their age, size, and activity level. Typically, 1/2 to 1 cup of dry food daily, divided into two meals, is sufficient. Look for formulas with real meat as the first ingredient and avoid fillers. Treats should be limited to 10% of daily calories. Fresh water must always be available. Monitor weight to prevent obesity, as terriers can be prone to overeating. Consult a vet for specific dietary needs, especially if your dog has allergies or sensitivities. Avoid feeding table scraps or toxic foods like chocolate, grapes, and onions.",
+      "zh": "为智利梗提供适合其年龄、体型和活动水平的高质量均衡饮食。通常每天1/2到1杯干粮，分两餐喂食即可。选择以真肉为首要成分的配方，避免填充物。零食应限制在每日热量的10%以内。始终提供新鲜饮水。监测体重以防肥胖，因为梗犬容易过度进食。如有过敏或敏感，请咨询兽医制定特定饮食。避免喂食餐桌剩饭或巧克力、葡萄、洋葱等有毒食物。"
+    },
+    "livingTips": {
+      "en": "The Chilean Terrier adapts well to apartment living if given sufficient exercise, but a fenced yard is ideal for them to explore safely. They are generally good with children if raised together, but their terrier nature may lead to chasing small pets. Early socialization with other dogs is important to prevent aggression. They are alert watchdogs and may bark at noises, so training to curb excessive barking is helpful. Provide plenty of toys to prevent destructive chewing. They enjoy being part of family activities and should not be left alone for long periods.",
+      "zh": "智利梗在获得足够运动的情况下能很好地适应公寓生活，但有围栏的院子更适合它们安全探索。如果从小一起长大，它们通常对孩子友好，但梗犬天性可能导致追逐小型宠物。与其他狗早期社会化对防止攻击性很重要。它们警觉，可能对噪音吠叫，因此训练以控制过度吠叫很有帮助。提供大量玩具以防止破坏性咀嚼。它们喜欢参与家庭活动，不应长时间独处。"
+    }
+  }
 }

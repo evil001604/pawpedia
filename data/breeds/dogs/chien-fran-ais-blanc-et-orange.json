@@ -90,5 +90,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chien Français Blanc et Orange is a rare French hound breed known for its gentle, calm, and loyal temperament. Despite being energetic and work-focused, it is intelligent and easygoing at home. Bred for pack hunting, it thrives on companionship and has a strong instinct to follow scents. This breed is affectionate with its family but can be reserved with strangers. It requires consistent leadership and ample exercise to prevent boredom.",
+      "zh": "法国白橙猎犬是一种罕见的法国猎犬品种，以其温和、冷静和忠诚的性格而闻名。尽管精力充沛且专注于工作，但它在家中聪明且随和。该犬种为群猎而培育，喜欢陪伴，并有强烈的嗅觉追踪本能。它对家人充满感情，但对陌生人可能保持矜持。它需要一贯的领导力和充足的运动，以防止无聊。"
+    },
+    "care": {
+      "en": "Daily care includes brushing the short coat once or twice a week to remove loose hair. Bathing is only needed occasionally. Exercise is crucial: at least 60-90 minutes of vigorous activity daily, such as running or long walks, preferably off-leash in a safe area. Regular vet check-ups, vaccinations, and parasite prevention are essential. Clean ears weekly and trim nails monthly. This breed is prone to hip dysplasia and ear infections, so monitor these areas.",
+      "zh": "日常护理包括每周梳理短毛一到两次以去除脱落的毛发。只需偶尔洗澡。运动至关重要：每天至少60-90分钟的剧烈活动，如跑步或长途散步，最好在安全区域放开 leash。定期兽医检查、疫苗接种和寄生虫预防必不可少。每周清洁耳朵，每月修剪指甲。该品种易患髋关节发育不良和耳部感染，需注意这些部位。"
+    },
+    "training": {
+      "en": "Training should be positive, consistent, and patient. This intelligent breed responds well to reward-based methods like treats and praise. Early socialization with people and other dogs is vital to prevent shyness or aggression. Due to its hunting instinct, recall training is critical and should be practiced in a controlled environment. Avoid harsh corrections; instead, use firm but gentle guidance. Short, varied sessions keep engagement high. Crate training can help with housebreaking.",
+      "zh": "训练应积极、一致且耐心。这个聪明的品种对基于奖励的方法（如零食和表扬）反应良好。早期与人和其它狗的社会化至关重要，以防止害羞或攻击性。由于其狩猎本能，召回训练至关重要，应在受控环境中进行。避免严厉纠正，而是使用坚定而温和的引导。简短且多样化的训练课程可保持高度参与。笼内训练有助于家庭训练。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet formulated for active, medium-to-large breeds. Portion control is important to prevent obesity. Typically, 2-3 cups of dry food per day, split into two meals, adjusted based on activity level. Ensure fresh water is always available. Avoid overfeeding and limit treats to 10% of daily calories. Joint supplements (glucosamine, chondroitin) may benefit this breed, especially as it ages. Consult your vet for specific dietary needs.",
+      "zh": "喂食专为活跃的中大型犬设计的高品质犬粮。控制份量以防止肥胖。通常每天2-3杯干粮，分两餐，根据活动水平调整。确保随时有新鲜饮水。避免过量喂食，零食限制在每日热量的10%以内。关节补充剂（葡萄糖胺、软骨素）可能对该品种有益，尤其是随着年龄增长。请咨询兽医了解具体饮食需求。"
+    },
+    "livingTips": {
+      "en": "This breed is best suited for a home with a large, securely fenced yard where it can run and explore. Apartment living is possible only if provided with ample daily exercise. It thrives in a pack environment and enjoys the company of other dogs. With proper socialization, it gets along well with children and other pets, though its hunting instinct may chase small animals. It is not a guard dog due to its friendly nature. Mental stimulation through scent games or tracking is highly recommended.",
+      "zh": "该品种最适合拥有大型、安全围栏院子的家庭，以便奔跑和探索。公寓生活只有在提供充足日常运动的情况下才可行。它在群体环境中茁壮成长，喜欢与其他狗为伴。通过适当的社会化，它能与儿童和其他宠物相处融洽，但其狩猎本能可能追逐小动物。由于性格友善，它不适合作为护卫犬。强烈建议通过嗅觉游戏或追踪进行精神刺激。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Brazilian Terrier is a lively, alert, and intelligent breed, combining the tenacity of a terrier with a friendly, playful nature. Originally bred as a farm dog and small game hunter, they are energetic, loyal, and highly trainable. Their compact size and short coat make them adaptable, but they thrive on mental stimulation and physical activity. Known for their keen senses and watchdog abilities, they are affectionate with family but can be reserved with strangers. This breed is best suited for active owners who can provide consistent leadership and plenty of exercise.",
+      "zh": "巴西梗是一种活泼、机警且聪明的犬种，兼具梗犬的坚韧和友善、爱玩的天性。最初作为农场犬和小型狩猎犬培育，它们精力充沛、忠诚且易于训练。体型紧凑、被毛短，适应性强，但需要充足的精神刺激和身体活动。以其敏锐的感官和看门犬能力著称，对家人充满感情，但对陌生人可能有所保留。最适合能够提供持续领导和大量运动的活跃主人。"
+    },
+    "care": {
+      "en": "Daily care for a Brazilian Terrier includes moderate grooming: brush their short coat weekly to remove loose hair, and bathe only when necessary. Exercise is crucial—aim for at least 45-60 minutes of vigorous activity daily, such as walks, runs, or play sessions. They enjoy dog sports like agility. Regular vet check-ups (annual or semi-annual) are important to monitor for common issues like patellar luxation, eye problems, and allergies. Nail trims, ear cleaning, and dental care should be part of the routine.",
+      "zh": "巴西梗的日常护理包括适度美容：每周梳理短毛以去除死毛，仅在必要时洗澡。运动至关重要——每天至少45-60分钟的剧烈活动，如散步、跑步或玩耍。它们喜欢敏捷类犬运动。定期兽医检查（每年或每半年一次）很重要，以监测常见问题如髌骨脱位、眼部问题和过敏。修剪指甲、清洁耳朵和牙齿护理应成为日常。"
+    },
+    "training": {
+      "en": "Training a Brazilian Terrier requires positive reinforcement methods, as they respond best to praise, treats, and play. They are intelligent but can be stubborn, so consistency and patience are key. Early socialization is essential to prevent shyness or aggression. Focus on basic obedience, recall, and impulse control. Use short, varied sessions to hold their attention. They excel in canine sports like agility and rally, which channel their energy and intelligence constructively.",
+      "zh": "训练巴西梗需要采用正向强化方法，因为它们对表扬、零食和游戏反应最佳。它们聪明但可能固执，因此一致性和耐心是关键。早期社会化至关重要，以防止害羞或攻击性。专注于基本服从、召回和冲动控制。使用简短且多样化的训练以保持其注意力。它们在敏捷和服从等犬类运动中表现出色，能建设性地引导其精力和智力。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Brazilian Terriers are active and may require a diet higher in protein and fat for energy. Divide daily food into two meals to prevent bloat. Monitor weight closely, as they can become overweight if overfed. Avoid table scraps and limit treats. Fresh water should always be available. Consult a vet for specific dietary needs, especially if allergies or sensitivities arise.",
+      "zh": "喂食适合其年龄、体型和活动水平的高品质狗粮。巴西梗活跃，可能需要较高蛋白质和脂肪的食物以提供能量。每日分两餐喂食以防止胃胀气。密切监控体重，过度喂食可能导致肥胖。避免餐桌残食并限制零食。始终提供新鲜饮水。如有过敏或敏感问题，请咨询兽医获得具体饮食建议。"
+    },
+    "livingTips": {
+      "en": "Brazilian Terriers adapt well to various living situations but thrive in homes with secure yards where they can run and explore. They can live in apartments if given sufficient exercise and mental stimulation. They are generally good with children if raised together, but may be too energetic for very young kids. Early socialization helps them get along with other dogs and pets, though their terrier instincts may chase small animals. They are alert watchdogs and may bark at strangers.",
+      "zh": "巴西梗能适应多种居住环境，但在有安全庭院的家中茁壮成长，可以奔跑探索。如果给予足够的运动和智力刺激，它们也能住在公寓。如果从小一起长大，通常对孩子友好，但对幼童可能过于精力充沛。早期社会化有助于它们与其他狗和宠物相处，但梗犬本能可能导致追逐小动物。它们机警，是优秀的看门犬，可能对陌生人吠叫。"
+    }
+  }
 }

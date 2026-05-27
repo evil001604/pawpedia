@@ -90,5 +90,27 @@
       "en": "outgoing",
       "zh": "外向"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Airedale Terrier, known as the 'King of Terriers,' is the largest of the terrier breeds. Confident, intelligent, courageous, and alert, they are energetic and outgoing. Originally bred in Yorkshire, England, for hunting otters and rats, they later served as police and war dogs. Their versatile nature makes them excellent companions for active families. Airedales are independent thinkers with a playful spirit, but they require consistent leadership. They are loyal and protective, forming strong bonds with their owners. Their wiry coat is weather-resistant, and they have a distinctive beard and eyebrows. Overall, the Airedale is a robust, spirited dog that thrives on mental and physical challenges.",
+      "zh": "万能梗被称为‘梗犬之王’，是梗犬中体型最大的品种。它们自信、聪明、勇敢、机警，精力充沛且外向。原产于英国约克郡，最初用于猎水獭和老鼠，后来被用作警犬和军犬。它们多才多艺，是活跃家庭的优秀伴侣。万能梗独立思考，富有玩乐精神，但需要一致的领导。它们忠诚且保护欲强，与主人建立深厚的情感纽带。其刚毛被毛耐候，具有独特的胡须和眉毛。总的来说，万能梗是一种结实、精力充沛的狗，喜欢身心挑战。"
+    },
+    "care": {
+      "en": "Daily care for an Airedale Terrier includes at least an hour of vigorous exercise—walks, runs, or play sessions. Their wiry coat requires weekly brushing and professional hand-stripping every few months to maintain texture. Baths are needed only when dirty. Regular ear checks, teeth brushing, and nail trimming are essential. Airedales are generally healthy but prone to hip dysplasia, allergies, and skin issues. Annual vet check-ups, vaccinations, and parasite prevention are crucial. They thrive with a consistent routine and enjoy activities like agility, obedience, or hiking. Early socialization is key to prevent stubbornness.",
+      "zh": "万能梗的日常护理包括每天至少一小时的剧烈运动——散步、跑步或玩耍。它们的刚毛需要每周梳理，每几个月进行专业拔毛以保持质地。仅在脏时洗澡。定期检查耳朵、刷牙和修剪指甲必不可少。万能梗通常健康，但易患髋关节发育不良、过敏和皮肤问题。年度兽医检查、疫苗接种和寄生虫预防至关重要。它们喜欢一致的日常安排，并喜欢敏捷性、服从性或远足等活动。早期社会化是防止固执的关键。"
+    },
+    "training": {
+      "en": "Airedale Terriers are intelligent but independent, requiring patient, positive reinforcement training. Use treats, praise, and play as rewards. They respond poorly to harsh methods. Start training early and focus on basic obedience, impulse control, and recall. Their strong prey drive means leash training is essential. Keep sessions short, varied, and fun to hold their attention. Enroll in puppy classes for socialization. Airedales excel in canine sports like agility, rally, and tracking. Consistency is vital; they will test boundaries. A firm but gentle leader earns their respect. Avoid repetition; incorporate games to challenge their mind.",
+      "zh": "万能梗聪明但独立，需要耐心、积极的强化训练。使用零食、表扬和游戏作为奖励。它们对严厉的方法反应不佳。尽早开始训练，专注于基本服从、冲动控制和召回。它们强烈的捕猎本能意味着牵绳训练至关重要。保持训练短而有趣，以吸引它们的注意力。参加幼犬课程进行社会化。万能梗在敏捷性、拉力赛和追踪等犬类运动中表现出色。一致性至关重要；它们会试探界限。坚定而温和的领导者会赢得它们的尊重。避免重复；加入游戏以挑战它们的思维。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the Airedale's age, size, and activity level. A balanced diet with protein, healthy fats, and carbohydrates supports their energy. Divide daily food into two meals to prevent bloat, a risk in deep-chested breeds. Fresh water should always be available. Treats should be limited and used for training. Avoid table scraps and high-fat foods. Some Airedales have food allergies; monitor for skin or digestive issues. Consult your vet for specific dietary needs, especially for puppies and seniors. Supplements like omega-3 fatty acids can benefit coat and joint health.",
+      "zh": "喂食适合万能梗年龄、体型和活动水平的高品质狗粮。均衡的饮食包含蛋白质、健康脂肪和碳水化合物，以支持其能量。将每日食物分成两餐，以防止胃扭转，这是深胸品种的风险。始终提供新鲜水。零食应有限制并用于训练。避免喂食餐桌残渣和高脂肪食物。有些万能梗有食物过敏；注意皮肤或消化问题。咨询兽医以了解特定饮食需求，特别是幼犬和老年犬。欧米伽-3脂肪酸等补充剂有助于毛发和关节健康。"
+    },
+    "livingTips": {
+      "en": "Airedale Terriers adapt well to various homes but need space to roam. A securely fenced yard is ideal; they can be escape artists. Apartment living is possible with sufficient daily exercise. They are generally good with children if raised together, but their boisterous nature may be too much for toddlers. Early socialization with other dogs and pets is crucial; they may chase small animals due to high prey drive. Airedales are alert watchdogs and may bark. They thrive with mental stimulation—puzzle toys, training, and jobs. Not recommended for first-time owners due to their strong will.",
+      "zh": "万能梗能适应各种家庭环境，但需要活动空间。有安全围栏的院子是理想的；它们可能成为逃跑艺术家。公寓生活是可能的，但需要足够的日常运动。如果一起成长，它们通常对孩子很好，但它们的喧闹性格可能对幼儿来说过于强烈。早期与其他狗和宠物社会化至关重要；由于高捕猎本能，它们可能会追逐小动物。万能梗是警觉的看门狗，可能会吠叫。它们需要精神刺激——益智玩具、训练和工作。由于意志坚强，不建议初次养狗的人饲养。"
+    }
+  }
 }

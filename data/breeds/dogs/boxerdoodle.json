@@ -90,5 +90,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Boxerdoodle is a lively, intelligent, and affectionate mixed breed, combining the Boxer's athleticism and loyalty with the Poodle's intelligence and low-shedding coat. They are playful and energetic, making them excellent family companions. Their friendly nature and high trainability suit active households. This designer crossbreed is not recognized by major kennel clubs but has gained popularity for its balanced temperament and hypoallergenic qualities.",
+      "zh": "拳师贵宾犬是一种活泼、聪明且深情的混种犬，融合了拳师犬的运动能力和忠诚度，以及贵宾犬的智慧和低脱毛被毛特点。它们好玩且精力充沛，是优秀的家庭伴侣。其友善的天性和高训练适应性适合活跃的家庭。这种设计型杂交犬虽未被主要犬业俱乐部认可，但因平衡的气质和低过敏特性而广受欢迎。"
+    },
+    "care": {
+      "en": "Daily care includes moderate grooming: brush the coat 2-3 times weekly to prevent mats, and trim nails monthly. Bathe every 4-6 weeks. Exercise needs are high—at least 60 minutes of vigorous activity daily, such as runs, fetch, or agility. Regular vet visits for vaccinations and health screenings are essential. Check ears weekly for infections and clean teeth regularly.",
+      "zh": "日常护理包括适度梳理：每周刷毛2-3次以防打结，每月修剪指甲。每4-6周洗澡一次。运动需求高——每天至少60分钟剧烈活动，如跑步、接球或敏捷训练。定期看兽医进行疫苗接种和健康检查至关重要。每周检查耳朵以防感染，并定期清洁牙齿。"
+    },
+    "training": {
+      "en": "Boxerdoodles are intelligent and eager to please, making training rewarding. Use positive reinforcement with treats and praise. Start early with socialization and basic commands. They can be stubborn, so keep sessions short and fun. Crate training helps with housebreaking. Consistency and patience are key; avoid harsh methods. Advanced training in agility or tricks channels their energy.",
+      "zh": "拳师贵宾犬聪明且乐于取悦，训练效果显著。使用零食和表扬进行正强化。尽早开始社交化和基本指令训练。它们可能固执，因此训练时间要短且有趣。笼内训练有助于如厕训练。一致性和耐心是关键；避免严厉方法。敏捷性或技巧等高级训练可消耗其精力。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Boxerdoodles need a balanced diet with protein for muscle maintenance and healthy fats for energy. Portion control is important to prevent obesity, a common issue. Divide meals into two daily feedings. Avoid table scraps and monitor treats. Fresh water must always be available. Consult a vet for specific dietary needs.",
+      "zh": "喂食适合其年龄、体型和活动水平的高品质狗粮。拳师贵宾犬需要均衡饮食，包括维持肌肉的蛋白质和提供能量的健康脂肪。控制食量以防肥胖（常见问题）。每日分两餐喂食。避免喂食剩饭，并监控零食。始终保持新鲜饮水。咨询兽医以了解特定饮食需求。"
+    },
+    "livingTips": {
+      "en": "Boxerdoodles adapt well to homes with yards but can live in apartments if exercised sufficiently. They thrive in active families and are great with children and other pets when socialized early. Their playful nature requires supervision around very young kids. They are loyal and protective, making good watchdogs. Provide plenty of toys and mental stimulation to prevent boredom.",
+      "zh": "拳师贵宾犬能适应有院子的家庭，但若运动充足也可住公寓。它们在活跃家庭中茁壮成长，早期社交化后与儿童和其他宠物相处良好。其好玩的天性需要在非常年幼的孩子身边监督。它们忠诚且具保护性，是好的看门犬。提供充足玩具和智力刺激以防无聊。"
+    }
+  }
 }

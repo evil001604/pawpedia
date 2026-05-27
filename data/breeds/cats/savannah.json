@@ -90,5 +90,27 @@
       "en": "Affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Savannah cat is a striking hybrid breed known for its wild appearance and dog-like personality. Curious, social, and highly intelligent, they form deep bonds with their family and demand attention. Outgoing and adventurous, they retain a kitten-like playfulness throughout life. Loyal to their owners yet wary of strangers, they make affectionate companions that thrive on interaction.",
+      "zh": "萨凡纳猫是一种引人注目的杂交品种，以其野性外表和类似狗的性格而闻名。好奇心强、善于社交且非常聪明，它们与家人建立深厚感情，并渴望关注。外向且爱冒险，一生保持小猫般的活泼。对主人忠诚但对陌生人警惕，是 affection 且需要互动的优秀伴侣。"
+    },
+    "care": {
+      "en": "Daily care includes interactive play sessions, as Savannahs are energetic and need ample exercise. Provide climbing structures and puzzle toys. Grooming is minimal—weekly brushing suffices. Regular vet visits are essential for vaccinations and health checks. Due to their hybrid vigor, they are generally healthy but may have dietary sensitivities.",
+      "zh": "日常护理包括互动游戏，因为萨凡纳猫精力充沛，需要大量运动。提供攀爬架和益智玩具。梳理简单——每周刷毛一次即可。定期看兽医进行疫苗接种和健康检查必不可少。由于杂交优势，它们通常健康，但可能有饮食敏感。"
+    },
+    "training": {
+      "en": "Savannahs are highly trainable due to their intelligence and eagerness to please. Use positive reinforcement with treats and praise. They can learn tricks, walk on a leash, and even play fetch. Early socialization is crucial to mitigate wariness of strangers. Consistency and patience yield best results.",
+      "zh": "萨凡纳猫非常易于训练，因为它们聪明且渴望取悦。使用零食和表扬进行正向强化。它们能学会技巧、牵绳散步甚至捡球游戏。早期社交至关重要，以减少对陌生人的警惕。一致性和耐心能取得最佳效果。"
+    },
+    "diet": {
+      "en": "Feed a high-protein diet mimicking their wild ancestry, with quality wet or raw food. Avoid fillers like corn and wheat. Portion control is important to prevent obesity. Provide fresh water at all times. Some Savannahs may have sensitive stomachs, so introduce new foods gradually.",
+      "zh": "喂食高蛋白饮食，模仿其野生祖先，选择优质湿粮或生食。避免玉米和小麦等填充物。控制分量以防肥胖。始终提供新鲜饮水。部分萨凡纳猫肠胃敏感，因此新食物需逐步引入。"
+    },
+    "livingTips": {
+      "en": "Savannahs need space to explore; they adapt to apartments if provided with vertical space and enrichment, but a secure outdoor enclosure is ideal. They are generally good with children and other pets if raised together, but their high prey drive may affect small animals. Supervise interactions with non-cat pets.",
+      "zh": "萨凡纳猫需要探索空间；如果提供垂直空间和丰富活动，它们能适应公寓，但安全的户外围栏更理想。如果一起长大，通常与儿童和其他宠物相处融洽，但高捕猎本能可能影响小动物。与非猫宠物互动时需监督。"
+    }
+  }
 }

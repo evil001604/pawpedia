@@ -98,5 +98,27 @@
       "en": "Social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Ocicat is a striking, wild-looking domestic cat with a spotted coat reminiscent of the ocelot, but with a gentle and friendly temperament. Bred in the United States, this breed is known for its dog-like personality: intelligent, confident, outgoing, and highly social. Ocicats are loyal and devoted to their owners, often following them around the house and greeting them at the door. They are active, agile, and curious, always eager to explore their surroundings. Despite their wild appearance, they are affectionate and enjoy human companionship, making them excellent family pets. Their playful and demanding nature means they thrive in homes where they receive plenty of attention and interactive play.",
+      "zh": "奥西猫是一种引人注目、外表野性的家猫，拥有类似豹猫的斑点被毛，但性格温和友善。该品种在美国培育，以其类似狗的性格而闻名：聪明、自信、外向且非常社交。奥西猫忠诚于主人，经常跟随主人在家中走动，并在门口迎接他们。它们活跃、敏捷、好奇，总是渴望探索周围环境。尽管外表野性，但它们富有感情，喜欢人类陪伴，是优秀的家庭宠物。它们顽皮且要求高的性格意味着它们需要在能得到大量关注和互动游戏的家庭中生活。"
+    },
+    "care": {
+      "en": "Daily care for an Ocicat involves regular grooming, exercise, and veterinary check-ups. Their short, fine coat is easy to maintain; a weekly brushing with a rubber brush or chamois cloth removes loose hair and keeps the coat shiny. Ocicats are highly active and require at least 30 minutes of vigorous play daily, such as fetch, puzzle toys, or interactive games. They also enjoy leash walks, so harness training is beneficial. Regular vet visits, including annual vaccinations and dental check-ups, are essential. Nail trimming every two weeks and ear cleaning as needed complete the routine. Because they are social, they do best when not left alone for long periods; consider a companion pet or pet sitter if you work long hours.",
+      "zh": "奥西猫的日常护理包括定期梳理、运动以及兽医检查。它们短而细密的被毛易于打理：每周用橡胶刷或麂皮布梳一次即可去除死毛并保持毛发亮泽。奥西猫非常活跃，每天需要至少30分钟的剧烈运动，如接球游戏、益智玩具或互动游戏。它们也喜欢牵绳散步，因此训练使用胸背带很有益。定期兽医检查，包括年度疫苗接种和牙齿检查，至关重要。每两周修剪指甲，根据需要清洁耳朵，完成日常护理。由于它们社交性强，不应长时间独处；如果工作时间长，考虑养个同伴或请宠物保姆。"
+    },
+    "training": {
+      "en": "Training an Ocicat is a rewarding experience due to their high intelligence and eagerness to please. They respond well to positive reinforcement techniques such as treats, praise, and clicker training. Start with basic commands like 'sit', 'stay', and 'come'. Ocicats can be taught to fetch, walk on a leash, and even 'speak' on cue. Keep training sessions short (5-10 minutes) and fun to maintain their interest. Consistency and patience are key. They also excel at learning tricks and can be trained to use interactive puzzle feeders for mental stimulation. Socialization from kittenhood is important to ensure they are comfortable with various people, pets, and environments. Avoid harsh corrections, as they can damage the bond with your cat.",
+      "zh": "训练奥西猫是一种有益的体验，因为它们非常聪明且渴望取悦主人。它们对积极强化技巧反应良好，如零食、表扬和响片训练。从基本指令如“坐下”、“别动”和“过来”开始。奥西猫可以学会接物、牵绳散步，甚至按指令“说话”。保持训练时间短（5-10分钟）且有趣，以维持它们的兴趣。一致性和耐心是关键。它们还擅长学习技巧，可以训练使用互动益智喂食器进行智力刺激。从小进行社会化很重要，以确保它们能适应不同的人、宠物和环境。避免严厉的纠正，因为这会损害与猫的关系。"
+    },
+    "diet": {
+      "en": "Ocicats require a balanced, high-quality diet to support their active lifestyle. Feed a protein-rich diet with real meat as the first ingredient, whether commercial dry or wet food, or a properly formulated raw diet. Divide their daily portion into two or three meals to prevent overeating and maintain energy levels. Since they are prone to obesity if overfed, measure portions according to the manufacturer's guidelines and adjust based on activity level. Always provide fresh, clean water. Consult your veterinarian for specific dietary recommendations, especially if your cat has any health issues. Avoid excessive treats, which can lead to weight gain. Some Ocicats may enjoy puzzle feeders that slow down eating and provide mental stimulation.",
+      "zh": "奥西猫需要均衡、高质量的饮食以支持其活跃的生活方式。喂食富含蛋白质、以真实肉类为首要成分的食物，无论是商业干粮或湿粮，还是合理配制的生食。将每日份量分成两到三餐，以防止暴饮暴食并维持能量水平。由于它们容易因过量喂食而肥胖，应根据制造商指南测量份量，并根据活动水平调整。始终提供新鲜、干净的水。咨询兽医以获得具体的饮食建议，特别是如果您的猫有任何健康问题。避免过多零食，这可能导致体重增加。有些奥西猫可能喜欢使用益智喂食器，这能减缓进食速度并提供智力刺激。"
+    },
+    "livingTips": {
+      "en": "Ocicats are adaptable but thrive best in homes that can match their energy and social needs. They are well-suited to apartments as long as they have plenty of vertical space (cat trees, shelves) and interactive toys. A secure outdoor enclosure or leash walks can satisfy their curiosity. They get along well with children and other pets, including dogs, especially if raised together. However, their demanding nature means they need ample attention and playtime; they are not ideal for owners who are away frequently. Provide scratching posts, tunnels, and puzzle toys to prevent boredom. Ocicats are also known to be escape artists, so ensure windows and doors are secure. They form strong bonds with their families and prefer not to be left alone for long stretches.",
+      "zh": "奥西猫适应性强，但在能匹配其能量和社交需求的家庭中表现最佳。它们适合公寓生活，只要有足够的垂直空间（猫爬架、搁板）和互动玩具。安全的户外围栏或牵绳散步可以满足它们的好奇心。它们与儿童和其他宠物（包括狗）相处融洽，尤其是一起长大的情况下。然而，它们要求高的性格意味着需要大量的关注和游戏时间；不适合经常外出的主人。提供猫抓板、隧道和益智玩具以防止无聊。奥西猫还以擅长逃跑而闻名，因此要确保门窗安全。它们与家庭建立牢固的联系，不喜欢长时间独处。"
+    }
+  }
 }

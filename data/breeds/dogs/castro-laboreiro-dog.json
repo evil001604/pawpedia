@@ -90,5 +90,27 @@
       "en": "courageous",
       "zh": "勇敢"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Castro Laboreiro Dog is a rare, ancient Portuguese breed known for its loyalty, intelligence, and protective nature. Bred as a livestock guardian in the rugged mountains of northern Portugal, it is independent, alert, and courageous. This breed is reserved with strangers but deeply devoted to its family, making it an excellent watchdog. Its calm and steady temperament, combined with a strong work ethic, requires an experienced owner who can provide firm, consistent leadership. While not aggressive, it will not hesitate to defend its territory. Early socialization is crucial to prevent over-protectiveness. The breed is not typically playful but is highly observant and responsive to its environment.",
+      "zh": "卡斯特罗拉博雷罗犬是一种稀有、古老的葡萄牙犬种，以忠诚、聪明和保护性强而闻名。作为葡萄牙北部崎岖山区的牲畜护卫犬，它独立、警觉且勇敢。此犬对陌生人保持警惕，但对家人极为忠诚，是优秀的看门犬。其冷静稳重的性格和强烈的工作本能，需要有经验的主人提供坚定、一致的领导。它并不好斗，但会毫不犹豫地保卫领地。早期社会化至关重要，以防过度保护。该犬种通常不好玩闹，但高度观察力强，对环境反应灵敏。"
+    },
+    "care": {
+      "en": "Daily care for the Castro Laboreiro Dog is relatively low-maintenance. Its thick, double coat sheds moderately and requires brushing 2-3 times per week to remove dead hair and prevent matting. Bathing should be done only when necessary to preserve natural oils. Exercise needs are moderate; a long daily walk or jog, plus mental stimulation like puzzle toys or scent work, is sufficient. This breed thrives with a job to do, such as guarding property or participating in canine sports. Regular vet check-ups are essential, including hip and elbow evaluations due to potential joint issues. Nail trimming, ear cleaning, and dental care should be part of the routine.",
+      "zh": "卡斯特罗拉博雷罗犬的日常护理相对简单。其厚实的双层被毛适度脱落，每周需刷毛2-3次以去除死毛并防止打结。仅在必要时洗澡，以保留天然油脂。运动需求适中，每天一次长距离散步或慢跑，加上益智玩具或嗅闻活动等精神刺激即可。该犬种有工作会更有满足感，如看守财产或参与犬类运动。定期兽医检查必不可少，包括髋关节和肘关节评估，以预防潜在关节问题。常规护理还包括剪指甲、清洁耳朵和牙齿护理。"
+    },
+    "training": {
+      "en": "Training a Castro Laboreiro Dog requires patience, consistency, and an understanding of its independent nature. This breed is intelligent but can be stubborn; positive reinforcement methods work best, using treats, praise, and play as rewards. Harsh corrections can damage trust. Early socialization is critical to ensure it accepts strangers and other animals. Focus on basic obedience and impulse control, as the breed has a strong prey drive. Training sessions should be short and varied to maintain interest. This dog excels in tasks that mimic its historical role, such as guarding or tracking. A confident, experienced handler who establishes clear boundaries will achieve the best results.",
+      "zh": "训练卡斯特罗拉博雷罗犬需要耐心、一致性并理解其独立天性。该犬种聪明但有时固执；积极强化法效果最佳，使用零食、赞美和游戏作为奖励。严厉的纠正会破坏信任。早期社会化至关重要，以确保其接受陌生人和其它动物。应重点训练基本服从和冲动控制，因为该犬有强烈的捕猎本能。训练时间应短而多样，以保持兴趣。此犬在模拟其历史角色的任务中表现出色，如守卫或追踪。自信、有经验且能建立明确界限的训犬师会取得最佳效果。"
+    },
+    "diet": {
+      "en": "The Castro Laboreiro Dog thrives on a high-quality diet appropriate for its age, size, and activity level. As a large, active breed, it requires a balanced diet rich in protein to support muscle maintenance and energy. Look for dog foods with real meat as the first ingredient, and include healthy fats for coat condition. Avoid overfeeding to prevent obesity, which can exacerbate joint problems. Feeding two meals per day is recommended to reduce bloat risk. Fresh water should always be available. Supplements like glucosamine and chondroitin may benefit joint health, especially in older dogs. Always consult a veterinarian for personalized dietary advice.",
+      "zh": "卡斯特罗拉博雷罗犬需要适合其年龄、体型和活动水平的高品质饮食。作为大型活跃犬种，它需要富含蛋白质的均衡饮食以维持肌肉和能量。选择以真肉为首要成分的狗粮，并包含健康脂肪以维护被毛状态。避免过度喂食以防肥胖，肥胖会加重关节问题。建议每日两餐以降低胃扭转风险。应随时提供新鲜饮水。补充葡萄糖胺和软骨素可能有益于关节健康，尤其对老年犬。请务必咨询兽医获取个性化饮食建议。"
+    },
+    "livingTips": {
+      "en": "The Castro Laboreiro Dog is best suited for a home with a large, securely fenced yard where it can patrol and exercise. It is not recommended for apartment living due to its size and need for space. This breed is very protective and can be wary of strangers, so early socialization is key to prevent aggression. It generally gets along with children if raised with them, but supervision is advised due to its size and protective instincts. With proper introduction, it can coexist with other dogs and pets, though its dominant nature may require careful management. The breed is not overly active indoors but needs daily outdoor activity.",
+      "zh": "卡斯特罗拉博雷罗犬最适合拥有大型、安全围栏庭院的家庭，以便其巡逻和运动。由于其体型和空间需求，不推荐公寓饲养。此犬非常保护领地，对陌生人可能保持警惕，因此早期社会化是防止攻击性的关键。如果与孩子一起长大，通常能与他们相处，但因其体型和保护本能，建议监督。通过适当介绍，它可以与其他狗和宠物共存，但其主导性可能需要谨慎管理。该犬在室内并不过度活跃，但需要每日户外活动。"
+    }
+  }
 }

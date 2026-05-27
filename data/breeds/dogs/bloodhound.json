@@ -90,5 +90,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bloodhound is a gentle, affectionate, and devoted hound with an independent and alert nature. Known for its unparalleled sense of smell, this breed is patient and friendly, making it an excellent family companion despite its size. Bloodhounds are calm indoors but determined and persistent when following a scent. They are generally good with children and other pets, though their size and strength require supervision. Their expressive, droopy eyes and wrinkled face give them a soulful appearance. Originally bred for tracking game and people, they remain sweet-tempered and even-tempered, though they can be stubborn. Early socialization and consistent leadership are key to bringing out their best qualities. They are not typically aggressive but will bay or howl when excited or on a trail.",
+      "zh": "寻血猎犬是一种温柔、深情且忠诚的猎犬，性格独立、机警且专注。以其无与伦比的嗅觉闻名，该品种耐心且友善，尽管体型庞大，仍是优秀的家庭伴侣。寻血猎犬在室内安静温和，但追踪气味时坚决执着。它们通常对孩子和其他宠物友好，但由于体型和力量需要监护。它们表情丰富的下垂眼睛和皱褶的面容赋予其忧郁的外表。该犬最初用于追踪猎物和人类，性情温和稳定，但可能固执。早期社会化与一致的领导是发挥其最佳品质的关键。它们通常不具攻击性，但在兴奋或追踪时会发出低沉的吠叫或嚎叫。"
+    },
+    "care": {
+      "en": "Daily care for a Bloodhound includes moderate exercise—at least 30 to 60 minutes of walking or supervised tracking activities—to prevent obesity and boredom. Their short, dense coat sheds moderately and requires weekly brushing with a rubber curry brush or hound glove to remove loose hair and distribute skin oils. Pay special attention to facial wrinkles and ears: clean and dry folds daily to prevent infections, and check ears weekly for debris and wax. Bathe every 4–6 weeks or as needed. Nail trimming every 2–3 weeks is essential as long nails can cause discomfort. Bloodhounds are prone to hip dysplasia, bloat, and eye issues, so regular veterinary checkups (at least annually) and maintaining a healthy weight are critical. Teeth should be brushed several times a week.",
+      "zh": "寻血猎犬的日常护理包括适度的运动——每天至少30到60分钟的散步或受控的追踪活动，以防止肥胖和无聊。它们短而密的被毛中度脱落，每周需用橡胶刷或猎犬手套梳理，以去除死毛并分布皮脂。特别注意面部皱纹和耳朵：每天清洁并干燥褶皱以防感染，每周检查耳朵是否有碎屑和耳垢。每4-6周或按需洗澡。每2-3周修剪指甲至关重要，因为长指甲会引起不适。寻血猎犬易患髋关节发育不良、胃扭转和眼部问题，因此定期兽医检查（至少每年一次）并保持健康体重非常重要。牙齿应每周刷几次。"
+    },
+    "training": {
+      "en": "Bloodhounds are intelligent but independent and stubborn, so training requires patience, consistency, and positive reinforcement. Use high-value treats and praise to motivate them, as they are food-driven but easily distracted by scents. Start training early with basic obedience and socialization to prevent fearfulness or shyness. Keep sessions short (10–15 minutes) and fun to hold their attention. Avoid harsh corrections, which can cause resentment. Because they are scent hounds, incorporate nose work games to channel their natural abilities. Leash training is essential—they will pull mightily when tracking. Crate training can help with housebreaking and providing a den-like safe space. Recall training is challenging; always use a secure harness and leash in unfenced areas.",
+      "zh": "寻血猎犬聪明但独立且固执，因此训练需要耐心、一致性和积极强化。使用高价值零食和表扬来激励它们，因为它们受食物驱动但容易被气味分心。尽早开始基本服从和社会化训练，以防止恐惧或害羞。保持训练时间短（10-15分钟）且有趣，以保持它们的注意力。避免严厉的纠正，这可能导致怨恨。由于它们是嗅觉猎犬，融入嗅闻游戏来发挥其自然能力。牵绳训练至关重要——它们在追踪时会大力拉扯。笼内训练有助于家庭训练并提供类似巢穴的安全空间。召回训练具有挑战性；在无围栏区域务必使用牢固的胸背带和牵绳。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, large-breed dog food appropriate for the Bloodhound's age, size, and activity level. Divide daily portions into two meals to reduce the risk of bloat (gastric dilatation-volvulus), a life-threatening condition common in deep-chested breeds. Avoid vigorous exercise one hour before and two hours after meals. Monitor weight closely—Bloodhounds gain weight easily, which stresses joints already prone to dysplasia. Treats should be limited and used mainly for training. Consider joint supplements containing glucosamine and chondroitin, especially as they age. Fresh water must always be available, but avoid elevated feeding stands unless recommended by a vet, as they may increase bloat risk in some dogs. Consult your veterinarian for specific dietary adjustments.",
+      "zh": "喂食适合寻血猎犬年龄、体型和活动水平的高质量大型犬粮。将每日份量分成两餐，以降低胃扭转（一种常见于深胸犬种的致命疾病）的风险。避免在餐前一小时和餐后两小时内进行剧烈运动。密切监测体重——寻血猎犬容易发胖，这会加重已易患发育不良的关节的压力。零食应有限制，主要用于训练。考虑添加含有葡萄糖胺和软骨素的关节补充剂，尤其是在它们年老时。必须随时提供新鲜水，但除非兽医建议，否则避免使用高架食盆，因为它们可能增加某些犬只的胃扭转风险。请咨询兽医以进行特定的饮食调整。"
+    },
+    "livingTips": {
+      "en": "Bloodhounds are best suited to homes with securely fenced yards where they can roam and sniff safely. They are not ideal for apartments due to their size, drooling, and baying voice, though they can adapt if given enough exercise. Daily access to a safe outdoor space is important. They are generally gentle with children, but their large size and clumsy play can accidentally knock over small kids; supervision is recommended. They usually get along well with other dogs and pets if raised together, but their strong prey drive may be triggered by small animals like cats or rabbits. Bloodhounds are sensitive to extreme temperatures—avoid prolonged exposure to heat or cold. Provide a sturdy, comfortable bed as they love to lounge. Their drool can be messy, so keep towels handy.",
+      "zh": "寻血猎犬最适合拥有安全围栏庭院的家庭，以便它们安全地漫步和嗅闻。由于体型大、流口水和吠叫声音，它们不太适合公寓，但如果有足够运动也能适应。每天接触安全的户外空间很重要。它们通常对孩子温和，但体型大和笨拙的玩耍可能无意中撞倒小孩；建议监督。如果从小一起养，它们通常与其他狗和宠物相处融洽，但强烈的猎物本能可能对小动物（如猫或兔子）产生反应。寻血猎犬对极端温度敏感——避免长时间暴露于炎热或寒冷。提供坚固舒适的床，因为它们喜欢躺卧。它们流口水可能很脏乱，所以请备好毛巾。"
+    }
+  }
 }

@@ -82,5 +82,27 @@
       "en": "Trainable",
       "zh": "可训练"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Korat is an ancient, natural breed from Thailand, known for its striking silver-blue coat and luminous green eyes. This cat is highly intelligent, active, and loyal, forming deep bonds with its family. Korats are expressive and communicate with a soft, melodic voice. They are confident and curious, but can be startled by loud noises. Despite their independent nature, they crave human companionship and enjoy cuddling. They are trainable and excel in learning tricks. Their playful and affectionate demeanor makes them wonderful companions for attentive owners.",
+      "zh": "科拉特猫是源自泰国的古老自然品种，以其独特的银蓝色被毛和明亮的绿眼睛而闻名。这种猫非常聪明、活泼且忠诚，与家人建立深厚的情感纽带。科拉特猫表情丰富，用柔和悦耳的声音交流。它们自信好奇，但会被大声响动惊吓。尽管独立，它们渴望人类陪伴，喜欢依偎。它们可训练性强，擅长学习技巧。其顽皮亲人的性格使其成为细心主人的绝佳伴侣。"
+    },
+    "care": {
+      "en": "Korats have a short, low-shedding coat that requires minimal grooming—weekly brushing with a soft brush or chamois cloth keeps it shiny. They are active cats needing daily interactive play sessions (15-30 minutes) with toys like feather wands or puzzle games to stimulate their intelligence. Regular veterinary check-ups are essential, as Korats may be prone to dental issues and respiratory conditions. Nail trimming every 2-3 weeks and ear cleaning as needed complete the routine. They thrive on routine and enjoy scheduled activities.",
+      "zh": "科拉特猫被毛短且不易脱落，每周用软刷或麂皮布梳理一次即可保持光泽。它们活跃，需要每天15-30分钟的互动游戏，如羽毛棒或益智玩具，以激发智力。定期兽医检查至关重要，因科拉特猫易患牙科和呼吸系统问题。每2-3周修剪指甲，按需清洁耳朵。它们喜欢规律的生活和安排好的活动。"
+    },
+    "training": {
+      "en": "Korats are highly intelligent and trainable, responding well to positive reinforcement methods like treats, praise, and clicker training. They can learn tricks, fetch, and even leash walking. Keep sessions short (5-10 minutes) and engaging to hold their attention. They are sensitive to tone, so avoid harsh corrections. Early socialization with people and other pets is recommended to build confidence. Interactive puzzle toys also challenge their mind. Consistency and patience yield the best results.",
+      "zh": "科拉特猫非常聪明且可训练，对零食、表扬和响片训练等正强化方法反应良好。它们能学会技巧、捡球甚至牵绳散步。训练时间宜短（5-10分钟）并保持趣味性以吸引其注意力。它们对语气敏感，应避免严厉纠正。建议早期与人及其他宠物社交以建立自信。互动益智玩具也能挑战其心智。一致性和耐心可取得最佳效果。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich cat food, either wet or dry, formulated for active breeds. Korats have a tendency to gain weight, so measure portions and avoid free-feeding. Divide daily food into 2-3 meals. Fresh water should always be available. Consider incorporating omega-3 fatty acids for coat health. Treats should be limited to 10% of daily calories. Consult your vet for specific dietary needs, especially if your Korat has dental or urinary health concerns.",
+      "zh": "喂食高质量、高蛋白的猫粮（湿粮或干粮），专为活跃品种设计。科拉特猫易发胖，需定量喂食，避免自由采食。每日分2-3餐。始终提供新鲜饮水。可考虑添加Omega-3脂肪酸以维护被毛健康。零食不超过每日热量的10%。如有牙齿或泌尿健康问题，请咨询兽医获取特定饮食建议。"
+    },
+    "livingTips": {
+      "en": "Korats adapt well to apartment living if provided with vertical spaces (cat trees, shelves) and interactive toys. They are active and need daily playtime. They form strong bonds with their family and do best with owners who spend time at home. They can be territorial, so gradual introductions to other pets are recommended. They are generally good with respectful children but may be sensitive to loud noises. A secure balcony or cat-proofed outdoor enclosure is ideal for safe exploration.",
+      "zh": "科拉特猫适应公寓生活，需提供垂直空间（猫爬架、搁板）和互动玩具。它们活跃，需要每日玩耍时间。与家人情感深厚，适合有较多在家时间的家庭。它们有领地意识，引入其他宠物需循序渐进。通常对尊重它们的儿童友好，但可能对大声响敏感。安全的阳台或防猫户外围栏适合安全探索。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Basenji is a unique and ancient hound breed from Central Africa, known for its intelligence, independence, and cat-like cleanliness. Often called the 'barkless dog,' it produces a distinctive yodel-like sound instead of barking. Basenjis are alert, energetic, and curious, with a strong prey drive. They are affectionate with their families but can be reserved with strangers. Their independent nature makes them challenging for novice owners, but they are highly loyal and form strong bonds. With proper socialization, they can coexist with other dogs, though they may not tolerate small pets due to their hunting instincts.",
+      "zh": "巴辛吉犬是一种来自中非的独特古老猎犬，以聪明、独立和猫般的洁净著称。常被称为‘无吠犬’，它们发出独特的约德尔音而非吠叫。巴辛吉犬警觉、精力充沛且好奇，具有强烈的捕猎本能。它们对家人充满感情，但对陌生人可能有所保留。独立的性格使其对新手主人具有挑战性，但它们非常忠诚，能形成深厚的情感纽带。通过适当的社会化训练，它们可以与其他狗相处，但由于狩猎本能，可能无法容忍小型宠物。"
+    },
+    "care": {
+      "en": "Basenjis require moderate grooming due to their short, fine coat. Weekly brushing with a rubber curry comb or hound glove removes loose hair and keeps the coat shiny. They are fastidious self-groomers, almost cat-like, and have minimal doggy odor. Bathing is only needed occasionally. Daily exercise is essential—at least 30-60 minutes of vigorous activity like running, hiking, or play in a securely fenced area. They have high energy and need mental stimulation; puzzle toys and training sessions help. Regular vet check-ups are important, as Basenjis are prone to certain health issues like Fanconi syndrome, progressive retinal atrophy, and hip dysplasia. Dental care, nail trimming, and ear cleaning should be part of the routine.",
+      "zh": "巴辛吉犬毛发短而细，梳理需求适中。每周用橡胶梳或猎犬手套梳理一次，可去除死毛并保持毛发光泽。它们像猫一样爱干净，体味极轻。仅在必要时洗澡。每天需要至少30-60分钟的剧烈运动，如跑步、远足或在安全围栏内玩耍。它们精力旺盛，需要精神刺激；益智玩具和训练课程有助于消耗精力。定期兽医检查很重要，因为巴辛吉犬易患范可尼综合征、进行性视网膜萎缩和髋关节发育不良等健康问题。日常护理还应包括牙齿清洁、指甲修剪和耳朵清洁。"
+    },
+    "training": {
+      "en": "Training a Basenji requires patience, consistency, and positive reinforcement. They are highly intelligent but independent, often described as 'cat-like' in their willingness to please. Harsh methods or punishment can lead to resistance or shutdown. Use reward-based training with high-value treats, praise, and play. Keep sessions short and varied to hold their interest. Early socialization is crucial to prevent shyness or aggression. Basenjis excel in activities like lure coursing, agility, and obedience, but they may get bored with repetitive drills. Crate training is recommended for safety and housebreaking, as they are notoriously difficult to housetrain due to their stubbornness.",
+      "zh": "训练巴辛吉犬需要耐心、一致性和积极强化。它们非常聪明但独立，常被描述为‘像猫一样’不轻易取悦主人。粗暴方法或惩罚会导致抵抗或退缩。使用基于奖励的训练，配合高价值零食、赞美和玩耍。保持训练简短多样以维持兴趣。早期社会化至关重要，以防止害羞或攻击性。巴辛吉犬擅长诱饵追逐、敏捷性和服从性训练，但可能对重复练习感到厌倦。建议进行笼内训练以确保安全和如厕训练，因为它们因固执而出名，如厕训练难度较大。"
+    },
+    "diet": {
+      "en": "Basenjis thrive on a high-quality diet appropriate for their age, size, and activity level. As an active breed, they require balanced nutrition with adequate protein and fat for energy. Choose a reputable commercial dog food (dry or wet) that meets AAFCO standards, or consult a vet for a homemade diet. Portion control is important to prevent obesity, as Basenjis can be food-motivated. Divide daily food into two meals to reduce the risk of bloat (gastric dilatation-volvulus), though it is less common in this breed. Always provide fresh water. Avoid overfeeding treats; use healthy options like small pieces of meat or vegetables. Monitor for food allergies, as some Basenjis may have sensitivities.",
+      "zh": "巴辛吉犬需要适合其年龄、体型和活动水平的高质量饮食。作为活跃品种，它们需要均衡营养，包含足够的蛋白质和脂肪以提供能量。选择符合AAFCO标准的信誉良好的商业狗粮（干粮或湿粮），或咨询兽医进行自制饮食。控制食量以防肥胖，因为巴辛吉犬可能对食物有强烈动机。将每日食物分成两餐，以降低胃扩张-扭转的风险（虽然该品种较少发生）。始终提供新鲜饮水。避免过量喂食零食；选择健康零食如小块肉或蔬菜。注意食物过敏，部分巴辛吉犬可能有敏感性。"
+    },
+    "livingTips": {
+      "en": "Basenjis are adaptable to apartment living if given sufficient exercise, but they do best with access to a securely fenced yard. Their high prey drive means they will chase small animals, so a leash is mandatory in unfenced areas. They are generally good with older, respectful children, but may not tolerate rough handling. Early socialization helps them get along with other dogs, but they may be aggressive toward cats or small pets. Basenjis are notorious escape artists—they can climb fences and open doors. Ensure your home is secure with high fences and latches. They are sensitive to extreme temperatures; provide cooling in summer and warmth in winter. Their quiet nature makes them excellent apartment dogs, but they can be destructive if bored.",
+      "zh": "巴辛吉犬如果得到足够运动，可以适应公寓生活，但最好能有安全围栏的院子。它们强烈的捕猎本能会导致追逐小动物，因此在无围栏区域必须使用牵引绳。它们通常对年长、有礼貌的孩子友好，但可能无法忍受粗暴对待。早期社会化有助于它们与其他狗相处，但可能对猫或小型宠物有攻击性。巴辛吉犬以逃跑艺术家著称——它们能爬围栏和开门。确保家中围栏高且带锁。它们对极端温度敏感；夏季提供降温，冬季注意保暖。安静的性格使它们成为优秀的公寓犬，但如果无聊可能会具有破坏性。"
+    }
+  }
 }

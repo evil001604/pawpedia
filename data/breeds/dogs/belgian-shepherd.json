@@ -90,5 +90,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Belgian Shepherd is a highly intelligent, energetic, and loyal breed, originally developed in Belgium for herding and guarding. They are alert, protective, and work-focused, making them excellent companions for active families or individuals. With a strong desire to please and a keen sense of duty, they thrive on having a job to do. Their coat varies among four varieties: Groenendael (long black), Tervuren (long fawn/mahogany), Malinois (short fawn/mahogany), and Laekenois (rough fawn). They are reserved with strangers but deeply devoted to their family, requiring consistent leadership and mental stimulation to prevent boredom-related behaviors.",
+      "zh": "比利时牧羊犬是一种非常聪明、精力充沛且忠诚的犬种，最初在比利时培育用于放牧和守卫。它们警觉、保护性强且以工作为导向，是活跃家庭或个人的绝佳伴侣。它们渴望取悦主人，责任感强，喜欢有任务可做。被毛分为四种变体：格罗安达犬（长毛黑色）、特武伦犬（长毛黄褐色/红褐色）、马里努阿犬（短毛黄褐色/红褐色）和拉肯努阿犬（粗毛黄褐色）。它们对陌生人保持警惕，但对家人忠心耿耿，需要一致的领导和精神刺激，以防止因无聊而产生的行为问题。"
+    },
+    "care": {
+      "en": "Daily care for a Belgian Shepherd includes at least 1-2 hours of vigorous exercise, such as running, hiking, or agility training. Grooming needs vary by coat type: long-haired varieties require brushing 2-3 times per week (more during shedding), while short-haired Malinois needs weekly brushing. Bathe only when necessary. Regular nail trimming, ear cleaning, and dental care are essential. Veterinary visits should include annual check-ups, vaccinations, and parasite prevention. They are prone to hip dysplasia and eye issues, so screening is recommended. Mental stimulation through puzzle toys or training sessions is crucial to prevent destructive behavior.",
+      "zh": "比利时牧羊犬的日常护理包括每天至少1-2小时的剧烈运动，如跑步、远足或敏捷训练。梳理需求因被毛类型而异：长毛品种每周需梳理2-3次（换毛期更频繁），而短毛的马里努阿犬每周梳理一次即可。仅在必要时洗澡。定期修剪指甲、清洁耳朵和牙齿护理必不可少。兽医检查应包括年度体检、疫苗接种和寄生虫预防。它们易患髋关节发育不良和眼部问题，因此建议进行筛查。通过益智玩具或训练课程进行精神刺激对于防止破坏行为至关重要。"
+    },
+    "training": {
+      "en": "Training a Belgian Shepherd requires consistency, positive reinforcement, and early socialization. They are highly intelligent and eager to learn, but can be willful if not given clear boundaries. Start obedience training early, using reward-based methods like treats and praise. They excel in advanced activities such as agility, herding trials, and protection sports. Avoid harsh corrections, as they can become sensitive or stubborn. Socialize them from puppyhood to various people, animals, and environments to curb their natural wariness. Keep sessions short and engaging to maintain their focus. A well-trained Belgian Shepherd is a reliable and versatile partner.",
+      "zh": "训练比利时牧羊犬需要一致性、积极强化和早期社会化。它们非常聪明且渴望学习，但如果没有明确的界限，可能会固执。从小开始服从训练，使用基于奖励的方法，如零食和表扬。它们在敏捷、放牧比赛和护卫运动等高级活动中表现出色。避免严厉的纠正，否则它们可能会变得敏感或倔强。从小让它们接触不同的人、动物和环境，以抑制其天生的警惕性。保持训练课程简短有趣以维持其注意力。训练有素的比利时牧羊犬是可靠且多才多艺的伙伴。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich diet suitable for an active, medium-to-large breed. Belgian Shepherds do well on balanced commercial kibble or raw food, with portions adjusted to age, weight, and activity level. Divide meals into two daily feedings to reduce bloat risk, a concern in deep-chested dogs. Include omega-3 fatty acids for coat health and joint supplements if needed. Always provide fresh water. Avoid overfeeding, as they can gain weight if under-exercised. Consult a vet for specific dietary needs, especially for puppies and seniors. Treats should be limited and used primarily for training.",
+      "zh": "喂食适合活跃中大型犬的高品质、高蛋白饮食。比利时牧羊犬适合均衡的商业狗粮或生食，份量根据年龄、体重和活动水平调整。将每日食物分成两餐，以降低胃扭转风险（深胸犬常见问题）。添加Omega-3脂肪酸以维护被毛健康，必要时补充关节保健品。始终提供新鲜饮水。避免过度喂食，如果运动不足它们可能发胖。咨询兽医了解特定饮食需求，尤其是幼犬和老年犬。零食应限制使用，主要用于训练。"
+    },
+    "livingTips": {
+      "en": "Belgian Shepherds are best suited for homes with a securely fenced yard where they can run freely. They can adapt to apartment living only if given ample daily exercise and mental stimulation. They are not recommended for sedentary families. With proper socialization, they get along well with children and other pets, but their herding instinct may cause them to nip at heels. They are protective and may be wary of strangers, making them excellent watchdogs. Provide a comfortable indoor space with their own bed and toys. Avoid leaving them alone for long periods, as they can develop separation anxiety.",
+      "zh": "比利时牧羊犬最适合有安全围栏院子的家庭，以便它们自由奔跑。如果每天有足够的运动和精神刺激，它们也能适应公寓生活，但不推荐给久坐不动的家庭。通过适当的社会化，它们能与孩子和其他宠物相处融洽，但放牧本能可能导致它们追咬脚跟。它们具有保护性，可能对陌生人保持警惕，是优秀的看门犬。为它们提供舒适的室内空间，配备自己的床和玩具。避免长时间独处，否则可能产生分离焦虑。"
+    }
+  }
 }

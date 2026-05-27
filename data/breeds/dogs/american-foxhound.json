@@ -86,5 +86,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Foxhound is a friendly, gentle, and independent hound breed known for its energetic and intelligent nature. Originally bred for fox hunting in the rugged American terrain, they are tall, lean, and fast, with a melodious bark. They are social dogs that get along well with other dogs and children, but their independent streak can make them somewhat stubborn. They thrive on companionship and can become destructive if bored or left alone for long periods. Overall, they are loyal, loving family pets that require plenty of exercise.",
+      "zh": "美国猎狐犬是一种友好、温和且独立的猎犬品种，以精力充沛和聪明著称。最初为在美国崎岖地形中猎狐而培育，它们高大、瘦削、速度快，叫声悦耳。它们善于社交，与其他狗和儿童相处融洽，但独立的性格可能使它们有些固执。它们渴望陪伴，如果长时间独处或无聊，可能会变得具有破坏性。总体而言，它们是忠诚、有爱的家庭宠物，需要大量运动。"
+    },
+    "care": {
+      "en": "Daily care for an American Foxhound includes a brisk walk or jog of at least 30-60 minutes, plus off-leash time in a secure area. Grooming is minimal: brush the short coat weekly, bathe as needed, and check ears regularly for dirt or infection. Trim nails monthly and brush teeth frequently. Regular vet visits are essential for vaccinations, parasite control, and health screenings, especially for hip dysplasia and ear infections. Their high energy requires consistent exercise to prevent obesity and behavioral issues.",
+      "zh": "美国猎狐犬的日常护理包括至少30-60分钟的快步行走或慢跑，以及在安全区域内的无绳活动。美容需求低：每周刷一次短毛，按需洗澡，定期检查耳朵是否有污垢或感染。每月修剪指甲，经常刷牙。定期兽医检查对于疫苗接种、寄生虫控制和健康筛查至关重要，特别是针对髋关节发育不良和耳部感染。它们的高能量需要持续的运动以防止肥胖和行为问题。"
+    },
+    "training": {
+      "en": "Training an American Foxhound requires patience and consistency due to their independent nature. Use positive reinforcement methods like treats and praise, as harsh corrections can damage trust. Start socialization early to prevent shyness or aggression. They have a strong prey drive, so recall training is critical and should be practiced in a safe, enclosed area. Keep sessions short and engaging to hold their attention. They excel in scent work and tracking activities, which can be incorporated into training for mental stimulation.",
+      "zh": "训练美国猎狐犬需要耐心和一致性，因为它们性格独立。使用正面强化方法，如零食和表扬，严厉的纠正可能会破坏信任。尽早开始社会化以防止害羞或攻击性。它们有强烈的猎物驱动力，因此召回训练至关重要，并应在安全、封闭的区域进行练习。保持训练简短有趣以吸引它们的注意力。它们擅长气味工作和追踪活动，这些可以融入训练中以提供精神刺激。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. American Foxhounds are active and may require a diet higher in protein and fat to support their energy needs. Divide daily portions into two meals to prevent bloat, a risk for deep-chested breeds. Monitor weight closely and adjust portions to avoid obesity. Fresh water should always be available. Treats should be limited and used primarily for training. Consult your vet for specific dietary recommendations.",
+      "zh": "喂食适合犬只年龄、体型和活动水平的高品质狗粮。美国猎狐犬活动量大，可能需要高蛋白和高脂肪的饮食来支持其能量需求。将每日份量分成两餐以防止胃扩张，这是深胸品种的风险。密切监测体重并调整份量以避免肥胖。始终提供新鲜水。零食应有限，主要用于训练。咨询兽医以获得具体的饮食建议。"
+    },
+    "livingTips": {
+      "en": "American Foxhounds are not ideal for apartment living due to their high energy and need for space. They thrive in homes with large, securely fenced yards where they can run and explore. They are generally good with children and other dogs, but their hunting instinct may make them unsuitable for homes with small pets like cats or rabbits unless raised with them. They are social and do best with a companion, either human or canine. Provide plenty of toys and mental stimulation to prevent boredom.",
+      "zh": "美国猎狐犬由于高能量和对空间的需求，不适合公寓生活。它们在有大型、安全围栏庭院的家庭中茁壮成长，可以奔跑和探索。它们通常与儿童和其他狗相处良好，但狩猎本能可能使它们不适合与猫或兔子等小宠物同住，除非从小一起饲养。它们喜欢社交，最好有伴侣，无论是人类还是犬类。提供大量玩具和精神刺激以防止无聊。"
+    }
+  }
 }

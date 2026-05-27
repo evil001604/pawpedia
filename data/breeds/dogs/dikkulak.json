@@ -82,5 +82,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Dikkulak is a rare Turkish sighthound known for its alertness, energy, loyalty, and intelligence. As a landrace breed, it has evolved naturally to guard homesteads and control vermin in rural Anatolia. Its erect ears and sighthound build give it a distinctive appearance. This breed is highly independent yet deeply devoted to its family. It requires experienced owners who can provide consistent leadership and ample exercise. The Dikkulak is not recommended for novice dog owners due to its strong prey drive and stubborn streak. It thrives in environments where it has a job to do and space to run.",
+      "zh": "迪库拉克犬是一种稀有的土耳其视觉猎犬，以其警觉、精力充沛、忠诚和聪明著称。作为一个地方品种，它自然进化以守卫家园和控制农村安纳托利亚的害虫。其竖立的耳朵和视觉猎犬的体型赋予它独特的外观。该品种高度独立，但对家庭极为忠诚。它需要有经验的主人提供一致的领导和充足的运动。由于强烈的捕猎本能和固执的性格，不建议新手饲养。它在有任务可做且有空间奔跑的环境中茁壮成长。"
+    },
+    "care": {
+      "en": "Daily care for a Dikkulak includes a brisk walk or jog of at least 60 minutes, plus off-leash running in a secure area. Grooming is minimal: weekly brushing to remove loose hair, with more frequent brushing during shedding seasons. Bathing only when necessary. Nail trimming every 3-4 weeks, ear checks weekly for debris, and dental care with regular brushing. Vet visits should be annual for check-ups and vaccinations, with parasite prevention year-round. This breed is generally healthy but may be prone to bloat, so avoid vigorous exercise after meals.",
+      "zh": "迪库拉克犬的日常护理包括至少60分钟的快步走或慢跑，以及在安全区域进行无绳奔跑。梳理需求低：每周刷毛一次以去除死毛，换毛期增加频率。仅在必要时洗澡。每3-4周修剪指甲，每周检查耳朵是否有杂物，并定期刷牙进行牙齿护理。每年进行一次兽医检查和疫苗接种，全年进行寄生虫预防。该品种通常健康，但易患胃胀气，因此避免饭后剧烈运动。"
+    },
+    "training": {
+      "en": "Training a Dikkulak requires patience, consistency, and positive reinforcement. This intelligent breed can be stubborn and independent, so early socialization and obedience training are crucial. Use reward-based methods with treats and praise; harsh corrections may cause fear or resistance. Keep training sessions short and engaging to hold their attention. Focus on recall, as their prey drive can override commands. Incorporate mental stimulation like puzzle toys or scent work. A confident, calm leader will earn their respect. Crate training is recommended for structure and safety.",
+      "zh": "训练迪库拉克犬需要耐心、一致性和积极强化。这个聪明的品种可能固执且独立，因此早期社会化与服从训练至关重要。使用基于奖励的方法，如零食和表扬；严厉的纠正可能引起恐惧或反抗。保持训练课程简短有趣以吸引其注意力。重点训练召回，因为其捕猎本能可能压倒指令。加入智力刺激如益智玩具或嗅闻工作。自信冷静的领导者会赢得它的尊重。建议进行笼内训练以提供结构和安全。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet formulated for active, medium-to-large breeds. Divide daily food into two meals to reduce bloat risk. Protein should be from animal sources (chicken, lamb, fish) with moderate fat for energy. Include omega-3 fatty acids for coat health. Avoid fillers like corn and soy. Adjust portions based on activity level and body condition. Fresh water must always be available. Treats should be limited and used primarily for training. Consult a vet for specific dietary needs, especially if the dog is highly active or has sensitivities.",
+      "zh": "喂食专为活跃的中大型犬设计的高品质狗粮。将每日食物分成两餐以降低胃胀气风险。蛋白质应来自动物源（鸡肉、羊肉、鱼），脂肪适中以提供能量。包含Omega-3脂肪酸以维护皮毛健康。避免玉米和大豆等填充物。根据活动水平和身体状况调整份量。始终提供新鲜饮用水。零食应有限，主要用于训练。如有特殊饮食需求（特别是高度活跃或敏感犬只），请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "The Dikkulak is best suited to a home with a securely fenced yard where it can run freely. It is not ideal for apartment living due to its high energy and need for space. This breed can live with older, respectful children if properly socialized, but may not tolerate rough handling. It has a strong prey drive and may not be safe with small pets like cats or rodents unless raised together. Early socialization with other dogs is important. The Dikkulak is a natural guardian and may be wary of strangers, making early exposure to various people and situations essential.",
+      "zh": "迪库拉克犬最适合有安全围栏院子的家庭，以便自由奔跑。由于精力旺盛且需要空间，不适合公寓生活。如果适当社会化，该品种能与尊重它的年长儿童相处，但可能无法忍受粗暴对待。它有强烈的捕猎本能，除非从小一起养大，否则可能对小宠物（如猫或啮齿动物）不安全。早期与其他狗的社会化很重要。迪库拉克犬是天生的守护者，可能对陌生人保持警惕，因此早期接触不同的人和情况至关重要。"
+    }
+  }
 }

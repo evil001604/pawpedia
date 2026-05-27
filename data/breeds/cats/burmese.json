@@ -90,5 +90,27 @@
       "en": "Lively",
       "zh": "活泼"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Burmese cat is a curious, intelligent, and gentle breed that thrives on human interaction. They are highly social, playful, and lively, often following their owners from room to room. Known for their affectionate nature, they crave close physical contact and dislike being left alone. Their silky, short coat and expressive golden eyes add to their charm. Burmese cats are interactive companions who enjoy being involved in all household activities and will entertain you with their antics.",
+      "zh": "缅甸猫是一种好奇、聪明且温和的品种，喜欢与人互动。它们非常社交、爱玩且充满活力，常常跟随主人从一个房间到另一个房间。以其深情的性格著称，它们渴望亲密的身体接触，不喜欢被单独留下。它们丝滑的短毛和富有表情的金色眼睛增添了魅力。缅甸猫是互动性强的伴侣，喜欢参与所有家庭活动，并用它们的滑稽动作逗你开心。"
+    },
+    "care": {
+      "en": "Daily care for a Burmese cat is relatively low-maintenance. Their short coat requires weekly brushing to remove loose hair and keep it shiny. Regular nail trimming, ear cleaning, and dental care are essential. Burmese are active cats that need daily interactive play sessions (15-30 minutes) to burn energy. Provide climbing trees and puzzle toys. Annual vet check-ups, vaccinations, and parasite prevention are crucial. They are indoor cats to protect them from dangers like traffic and disease.",
+      "zh": "缅甸猫的日常护理相对简单。短毛每周梳理一次即可去除浮毛，保持光泽。定期修剪指甲、清洁耳朵和牙齿护理是必要的。缅甸猫活跃，需要每天15-30分钟的互动游戏来消耗精力。提供爬树和益智玩具。每年带它看兽医、接种疫苗和预防寄生虫至关重要。它们适合室内饲养，以保护它们免受交通和疾病等危险。"
+    },
+    "training": {
+      "en": "Burmese cats are highly intelligent and respond well to positive reinforcement training. Use treats and praise to teach tricks like sit, fetch, or high-five. They are eager to please and enjoy learning. Keep sessions short (5-10 minutes) and fun. Avoid punishment, as it can damage trust. Clicker training works well. Socialize them early to different people and environments. They can learn to walk on a leash with patience. Consistency is key.",
+      "zh": "缅甸猫非常聪明，对正强化训练反应良好。使用零食和表扬教它们坐下、捡球或击掌等技巧。它们渴望取悦主人，喜欢学习。训练时间应短（5-10分钟）且有趣。避免惩罚，以免破坏信任。响片训练效果很好。早期让它们接触不同的人和环境。耐心训练，它们可以学会牵绳散步。一致性是关键。"
+    },
+    "diet": {
+      "en": "Feed a high-quality cat food appropriate for their life stage (kitten, adult, senior). Burmese cats can be prone to obesity, so measure portions and avoid free-feeding. Provide a balanced diet with real meat as the first ingredient. Include wet food for hydration. Treats should not exceed 10% of daily calories. Fresh water should always be available. Consult your vet for specific dietary needs, especially if they have health issues.",
+      "zh": "喂食适合其生命阶段（幼猫、成猫、老年猫）的高质量猫粮。缅甸猫容易肥胖，因此要控制份量，避免自由采食。提供以真实肉类为首要成分的均衡饮食。包含湿粮以补充水分。零食不应超过每日热量的10%。始终提供新鲜饮水。如有健康问题，请咨询兽医以获取特定的饮食建议。"
+    },
+    "livingTips": {
+      "en": "Burmese cats are ideal for apartments and homes, as long as they have space to play and climb. They are social and do well with children and other pets, including cat-friendly dogs. Provide perches, scratching posts, and interactive toys. They dislike being alone for long periods; consider a companion pet if you're away often. They love warm spots and cozy beds. Secure windows and balconies to prevent falls.",
+      "zh": "缅甸猫适合公寓和住宅，只要它们有玩耍和攀爬的空间。它们社交性强，与孩子和其他宠物（包括对猫友好的狗）相处融洽。提供栖木、抓柱和互动玩具。它们不喜欢长时间独处；如果经常外出，考虑养另一只宠物作伴。它们喜欢温暖的地方和舒适的床。确保窗户和阳台安全，防止坠落。"
+    }
+  }
 }

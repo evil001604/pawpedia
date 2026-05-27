@@ -86,5 +86,27 @@
       "en": "energetic",
       "zh": "精力充沛"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Curly-Coated Retriever is a confident, intelligent, and independent sporting breed known for its distinctive tight curls. Bred for waterfowl retrieval, it is energetic, loyal, and possesses a strong work ethic. While reserved with strangers, it forms deep bonds with its family. Its independent nature can be mistaken for stubbornness, but it is highly trainable with positive reinforcement. This breed excels in field trials, obedience, and agility, requiring ample mental and physical stimulation to prevent boredom.",
+      "zh": "卷毛寻回犬是一种自信、聪明且独立的运动型犬种，以其独特的紧密卷毛而闻名。它们为水禽寻回而培育，精力充沛、忠诚，并具有强烈的职业道德。对陌生人保持警惕，但与家人建立深厚的情感纽带。其独立的性格可能被误认为固执，但通过正向强化训练，它们非常易于训练。该犬种在野外测试、服从性和敏捷性方面表现出色，需要充足的身心刺激以避免无聊。"
+    },
+    "care": {
+      "en": "Daily care includes a brisk walk or jog, plus swimming or retrieving games. Grooming needs are moderate: brush the tight, water-resistant coat weekly with a slicker brush to prevent matting, and bathe only when necessary. The coat does not shed heavily but requires occasional trimming around ears and feet. Check ears weekly for moisture and debris, as they are prone to infections. Trim nails monthly and brush teeth regularly. Annual vet visits for vaccinations and health screenings are essential, including hip and eye evaluations due to breed predispositions.",
+      "zh": "日常护理包括快走或慢跑，加上游泳或寻回游戏。美容需求适中：每周用针梳梳理紧密的防水被毛以防止打结，仅在必要时洗澡。被毛掉毛不多，但需偶尔修剪耳部和脚部。每周检查耳朵是否有湿气和杂物，因其易感染。每月修剪指甲，定期刷牙。每年进行疫苗接种和健康检查至关重要，包括髋关节和眼睛评估，因为该品种有相关遗传倾向。"
+    },
+    "training": {
+      "en": "Training should start early with positive reinforcement methods, as Curlies are sensitive to harsh corrections. They are intelligent but can be independent, so keep sessions varied and engaging. Focus on basic obedience, recall, and retrieving. Socialization from puppyhood is crucial to prevent wariness of strangers. Use games and rewards to maintain interest. Avoid repetitive drills; instead, incorporate training into play. This breed excels in advanced obedience, agility, and hunting trials. Consistent, patient training yields a reliable companion.",
+      "zh": "训练应从幼年开始，采用正向强化方法，因为卷毛寻回犬对严厉纠正敏感。它们聪明但独立，因此训练应多样化且有趣。重点包括基础服从、召回和寻回。从小进行社会化训练至关重要，以防止对陌生人警惕。使用游戏和奖励保持兴趣。避免重复练习，而是将训练融入玩耍。该犬种在高级服从、敏捷和狩猎测试中表现出色。持续耐心的训练能培养出可靠的伙伴。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet formulated for active, large breeds. Split meals into two daily servings to prevent bloat, a risk in deep-chested dogs. Protein should be 22-26%, with moderate fat for energy. Include omega-3 fatty acids from fish oil for coat health. Monitor weight, as Curlies can gain weight if overfed. Avoid table scraps and high-carb fillers. Puppies need large-breed growth formulas to support joint development. Always provide fresh water. Consult your vet for specific recommendations based on age, activity, and health.",
+      "zh": "喂食专为活跃大型犬配制的高品质饮食。每日分两餐喂食，以预防胃扭转（深胸犬种的风险）。蛋白质含量应为22-26%，脂肪适中以提供能量。添加鱼油中的Omega-3脂肪酸以维护被毛健康。监测体重，因为卷毛寻回犬若过量喂食容易发胖。避免喂食剩饭和高碳水填充物。幼犬需要大型犬生长配方以支持关节发育。始终提供新鲜饮水。根据年龄、活动和健康状况咨询兽医获取具体建议。"
+    },
+    "livingTips": {
+      "en": "Curly-Coated Retrievers adapt best to homes with fenced yards where they can run and play. They are not ideal for apartments due to their high energy; daily vigorous exercise is mandatory. They are generally good with children if raised together, but their exuberance may overwhelm toddlers. They can coexist with other dogs and pets, especially if socialized early. However, they have a strong prey drive and may chase small animals. Mental stimulation through puzzle toys and training is essential. They thrive in active families who enjoy outdoor activities.",
+      "zh": "卷毛寻回犬最适合有围栏院落的家庭，可以奔跑玩耍。由于精力旺盛，它们不适合公寓生活；每天必须进行剧烈运动。若与儿童一起长大，通常对孩子友好，但它们的热情可能让幼儿感到不安。如果早期社会化，它们能与其他狗和宠物和睦相处。然而，它们有强烈的捕猎本能，可能会追逐小动物。通过益智玩具和训练进行心理刺激至关重要。它们在喜欢户外活动的活跃家庭中茁壮成长。"
+    }
+  }
 }

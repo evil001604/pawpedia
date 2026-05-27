@@ -90,5 +90,27 @@
       "en": "alert",
       "zh": "机警"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Airedoodle is a designer crossbreed combining the Airedale Terrier's courage and sturdiness with the Standard Poodle's intelligence and low-shedding coat. This hybrid is energetic, loyal, and alert, making it an excellent family companion and watchdog. Airedoodles are highly trainable and thrive on mental stimulation. They possess a confident, friendly demeanor and adapt well to various living situations, provided they receive sufficient exercise. Their coat can vary from wiry to curly, often requiring regular grooming. Overall, this breed is affectionate, playful, and devoted, forming strong bonds with their owners.",
+      "zh": "万能贵宾犬是万能梗的勇敢与贵宾犬的智慧及低脱毛特性的结合，是一种设计师混种犬。这种杂交犬精力充沛、忠诚、警觉，是优秀的家庭伴侣和看门犬。万能贵宾犬高度可训，喜欢精神刺激。它们自信友好，适应各种生活环境，前提是获得足够运动。它们的被毛可能从刚毛到卷毛不等，通常需要定期梳理。总体而言，该品种 affectionate、活泼、忠诚，与主人建立深厚感情。"
+    },
+    "care": {
+      "en": "Grooming: Brush coat 2-3 times weekly to prevent mats; professional grooming every 6-8 weeks. Trim nails monthly, clean ears weekly to avoid infections. Exercise: At least 60 minutes daily of vigorous activity (running, hiking, fetch). Airedoodles need mental stimulation through puzzle toys or training games. Veterinary: Annual check-ups, vaccinations, and parasite prevention. Dental care: Brush teeth 2-3 times per week. Early socialization and exposure to various environments are important for a well-adjusted adult dog.",
+      "zh": "美容：每周刷毛2-3次，防止打结；每6-8周专业美容一次。每月修剪指甲，每周清洁耳朵以防感染。运动：每天至少60分钟剧烈活动（跑步、远足、接球）。万能贵宾犬需要通过益智玩具或训练游戏获得精神刺激。兽医：年度体检、疫苗接种和寄生虫预防。牙齿护理：每周刷牙2-3次。早期社交和接触不同环境对成年犬适应良好很重要。"
+    },
+    "training": {
+      "en": "Airedoodles are intelligent and eager to please, responding best to positive reinforcement methods (treats, praise, play). Start training early with basic commands and socialization. Use short, varied sessions to maintain interest. They can be stubborn at times, so consistency and patience are key. Incorporate mental challenges like obedience, agility, or nose work. Avoid harsh corrections; they can cause fear or resistance. Crate training is helpful for housebreaking and providing a safe space. Regular training reinforces the bond between dog and owner.",
+      "zh": "万能贵宾犬聪明且乐于讨好，对积极强化方法（零食、表扬、玩耍）反应最佳。尽早开始基础命令训练和社交。使用短而多样的训练保持兴趣。它们有时固执，因此一致性和耐心是关键。加入服从、敏捷或嗅觉工作等精神挑战。避免严厉纠正，以免引起恐惧或抵抗。笼内训练有助于家庭训练并提供安全空间。定期训练能加强狗与主人之间的联系。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. Airedoodles typically need 2-3 meals per day for adults; puppies require more frequent feedings. Portion control is important to prevent obesity. Include lean protein sources (chicken, fish) and healthy fats. Avoid foods with fillers, artificial additives. Fresh water should always be available. Treats should not exceed 10% of daily calories. Consult a veterinarian for specific dietary needs, especially if the dog has allergies or sensitivities.",
+      "zh": "喂食适合年龄、体型和活动水平的高品质狗粮。成年万能贵宾犬通常每天2-3餐；幼犬需要更频繁喂食。控制份量以防肥胖。包括瘦肉蛋白（鸡肉、鱼）和健康脂肪。避免含填充物、人工添加剂的食品。始终提供新鲜水。零食不应超过每日热量的10%。咨询兽医了解特定饮食需求，尤其如果狗有过敏或敏感问题。"
+    },
+    "livingTips": {
+      "en": "Airedoodles adapt well to various homes but do best with a securely fenced yard for off-leash play. They are not ideal for apartments unless given ample daily exercise. They are generally good with children and other pets when properly socialized. Their alertness makes them excellent watchdogs, but they may bark excessively without training. Provide plenty of interactive toys to prevent boredom. They thrive on human companionship and should not be left alone for long periods. Early socialization helps them become well-mannered family members.",
+      "zh": "万能贵宾犬适应各种家庭，但有安全围栏的院子最适合它们进行无绳游戏。除非每天有充足运动，否则不适合公寓。如果适当社交，它们通常对儿童和其他宠物友好。警觉性使它们成为优秀看门犬，但未经训练可能过度吠叫。提供大量互动玩具防止无聊。它们需要人类陪伴，不应长时间独处。早期社交有助于它们成为举止得体的家庭成员。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "alert",
       "zh": "警觉"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cane Paratore is a highly intelligent, energetic, and loyal herding breed from the Piedmont Alps of Italy. Bred for centuries to work sheep and cattle in rugged mountain terrain, these dogs are alert, protective, and intensely work-focused. They form strong bonds with their family but can be reserved with strangers, making them excellent watchdogs. Their herding instinct is strong, and they thrive when given a job to do. This breed requires an experienced owner who can provide consistent leadership, ample exercise, and mental stimulation. They are not suited for a sedentary lifestyle.",
+      "zh": "帕拉托雷犬是一种高度聪明、精力充沛且忠诚的牧羊犬种，起源于意大利皮埃蒙特阿尔卑斯山。经过几个世纪的培育，它们在崎岖的山地地形中管理牛羊，因此警觉、保护性强且极度专注于工作。它们与家庭建立深厚感情，但对陌生人可能保持警惕，因此是优秀的看门犬。它们的牧羊本能强烈，在有任务时表现最佳。该犬种需要有经验的主人，能提供一致的领导、充足的运动和精神刺激，不适合久坐的生活方式。"
+    },
+    "care": {
+      "en": "Daily care for the Cane Paratore includes moderate grooming: brush its dense double coat 2-3 times a week to remove loose hair and prevent matting, with more frequent brushing during shedding seasons. Bathing is needed only when dirty. Exercise is crucial—aim for at least 1-2 hours of vigorous activity daily, including running, hiking, or herding games. Regular vet checkups are essential to monitor for hip dysplasia and eye issues. Nail trimming every 3-4 weeks and dental care (brushing 2-3 times a week) complete the routine.",
+      "zh": "帕拉托雷犬的日常护理包括适度梳理：每周刷毛2-3次以去除死毛并防止打结，换毛季节需增加频率。仅在脏污时洗澡。运动至关重要——每天至少1-2小时剧烈活动，如跑步、远足或牧羊游戏。定期兽医检查必不可少，以监测髋关节发育不良和眼部问题。每3-4周修剪指甲，每周刷牙2-3次以保持口腔健康。"
+    },
+    "training": {
+      "en": "Training a Cane Paratore requires patience, consistency, and positive reinforcement. This intelligent breed responds best to reward-based methods, as harsh corrections can damage trust. Start socialization early, exposing the puppy to various people, animals, and environments. Basic obedience is a must, and advanced training like herding trials or agility can channel their energy. Keep sessions short (10-15 minutes) and varied to prevent boredom. They are independent thinkers, so firm but fair leadership is key. Avoid repetitive drills; incorporate problem-solving tasks to engage their mind.",
+      "zh": "训练帕拉托雷犬需要耐心、一致性和积极强化。这种聪明的犬种对基于奖励的方法反应最佳，严厉的纠正可能破坏信任。尽早开始社会化，让幼犬接触不同的人、动物和环境。基本服从训练是必须的，而牧羊测试或敏捷性等高级训练可以疏导其精力。保持训练简短（10-15分钟）且多样化，以防厌倦。它们有独立思考能力，因此坚定而公平的领导至关重要。避免重复练习，加入解决问题的任务以激发其思维。"
+    },
+    "diet": {
+      "en": "Feed the Cane Paratore a high-quality diet appropriate for its age, size, and activity level. A working dog formula with 20-25% protein and moderate fat supports their energy needs. Divide daily food into two meals to prevent bloat. Monitor weight closely, as this breed can gain weight if under-exercised. Include joint supplements (glucosamine and chondroitin) for hip health. Fresh water must always be available. Avoid overfeeding and limit treats to 10% of daily calories. Consult your vet for specific dietary adjustments.",
+      "zh": "根据帕拉托雷犬的年龄、体型和活动水平，喂食高质量犬粮。工作犬配方含20-25%蛋白质和适量脂肪，可满足其能量需求。每日分两餐喂食以防胃扭转。密切监测体重，运动不足时易发胖。添加关节补充剂（葡萄糖胺和软骨素）以维护髋关节健康。始终提供新鲜饮水。避免过量喂食，零食限制在每日热量的10%以内。具体饮食调整请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "The Cane Paratore is best suited for a home with a securely fenced yard, as they have strong herding instincts and may chase. They can adapt to apartment living only if given extensive daily exercise, but a house with land is ideal. They are generally good with children if raised together, but herding behavior (nipping heels) may occur with young kids. Supervision is recommended. They can coexist with other dogs and pets if properly socialized, but their prey drive may affect smaller animals. This breed needs a job or consistent activity to prevent destructive behavior.",
+      "zh": "帕拉托雷犬最适合有安全围栏庭院的住宅，其强烈的牧羊本能可能导致追逐行为。如果每天有充足运动，它们也能适应公寓生活，但有土地的房屋最为理想。如果与孩子一起成长，通常对孩子友好，但可能对幼儿出现牧羊行为（轻咬脚跟），建议监督。通过适当社会化，可与其他狗和宠物共存，但猎物本能可能影响小动物。该犬种需要工作或持续活动以防止破坏行为。"
+    }
+  }
 }

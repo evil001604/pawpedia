@@ -90,5 +90,27 @@
       "en": "gentle",
       "zh": "温和"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Carolina Dog is a primitive, intelligent, and independent breed with strong survival instincts. They are alert, loyal, and gentle with their family but can be reserved with strangers. Their hound heritage gives them a keen sense of smell and a tendency to chase. They are adaptable and thrive in various environments, though they retain some wild traits like digging and roaming. With proper socialization, they make devoted companions.",
+      "zh": "卡罗莱纳犬是一种原始、聪明且独立的犬种，具有强烈的生存本能。它们警觉、忠诚，对家人温和，但对陌生人可能有所保留。其猎犬血统赋予它们敏锐的嗅觉和追逐倾向。它们适应性强，能在各种环境中茁壮成长，但仍保留一些野性特征，如挖掘和游荡。通过适当的社会化训练，它们能成为忠诚的伴侣。"
+    },
+    "care": {
+      "en": "Carolina Dogs are low-maintenance: brush weekly, bathe only when needed. They shed moderately. Exercise is crucial—daily walks, runs, or play in a secure yard. Mental stimulation through puzzle toys or scent games is recommended. Regular vet check-ups, vaccinations, and parasite prevention are essential. Dental care and nail trimming should be part of the routine.",
+      "zh": "卡罗莱纳犬护理简单：每周梳理毛发，必要时洗澡。掉毛量适中。运动至关重要——每日散步、跑步或在安全庭院玩耍。建议通过益智玩具或嗅觉游戏进行智力刺激。定期兽医检查、疫苗接种和寄生虫预防必不可少。牙齿护理和剪指甲应纳入日常。"
+    },
+    "training": {
+      "en": "Training requires patience, consistency, and positive reinforcement. This independent breed responds best to reward-based methods. Early socialization is critical to prevent shyness or aggression. Keep sessions short and engaging. Use treats and praise for motivation. Avoid harsh corrections, which may cause distrust. Channel their natural instincts through tracking or agility activities.",
+      "zh": "训练需要耐心、一致性和正面强化。这种独立的犬种对奖励式方法反应最佳。早期社会化至关重要，以防害羞或攻击性。保持训练简短有趣。用零食和表扬激励。避免严厉纠正，以免导致不信任。通过追踪或敏捷活动引导其自然本能。"
+    },
+    "diet": {
+      "en": "Feed high-quality dog food appropriate for their age, size, and activity level. Portion control is important to prevent obesity. A diet rich in protein and moderate in fat supports their energy needs. Some may have food sensitivities; monitor for allergies. Fresh water should always be available. Consult a vet for specific dietary needs or supplements.",
+      "zh": "喂食适合其年龄、体型和活动水平的高品质狗粮。控制食量以防肥胖。富含蛋白质、适量脂肪的饮食满足其能量需求。部分犬只可能有食物敏感，注意过敏迹象。始终提供新鲜饮水。咨询兽医了解特定饮食需求或补充剂。"
+    },
+    "livingTips": {
+      "en": "Carolina Dogs can adapt to apartment living if given sufficient exercise, but a fenced yard is ideal. They are escape artists; secure fencing is a must. They are generally good with children if raised together, but may be too independent for very young kids. They can coexist with other dogs and cats with proper introduction, but small pets may trigger prey drive.",
+      "zh": "卡罗莱纳犬若能获得充足运动，可适应公寓生活，但有围栏的庭院更理想。它们是逃跑高手，必须确保围栏牢固。若从小一起成长，通常对孩子友好，但对幼儿可能过于独立。通过适当介绍，可与其他狗和猫共处，但小宠物可能触发其捕猎本能。"
+    }
+  }
 }

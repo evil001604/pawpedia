@@ -94,5 +94,27 @@
       "en": "Social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Selkirk Rex is a unique and charming breed known for its plush, curly coat and round, expressive eyes. This breed is exceptionally patient, loving, and tolerant, making it an ideal companion for families. Selkirks are active yet gentle, playful but not overly demanding. They are highly social and affectionate, often seeking out laps and quiet conversations. Despite their dependent nature, they are also patient with children and other pets. Their clownish, silly side adds to their endearing personality, and they communicate with soft, quiet meows. Overall, the Selkirk Rex is a well-rounded, adaptable cat that thrives on human interaction.",
+      "zh": "塞尔凯克卷毛猫是一种独特而迷人的品种，以其柔软卷曲的毛发和圆润富有表情的眼睛而闻名。该品种极为耐心、充满爱心且宽容，是理想的家庭伴侣。塞尔凯克猫活跃而温和，爱玩但不过分要求。它们非常社交和深情，经常寻求膝上时光和安静的交谈。尽管有依赖性格，它们对儿童和其他宠物也非常耐心。它们滑稽、傻气的一面增添了其讨人喜欢的个性，并通过轻柔的喵喵声进行交流。总的来说，塞尔凯克卷毛猫是一种全面、适应性强的猫，渴望与人类互动。"
+    },
+    "care": {
+      "en": "Daily care for a Selkirk Rex includes regular grooming to prevent matting of their curly coat. Brush 2-3 times per week with a wide-toothed comb or slicker brush, and bathe occasionally to keep curls defined. Trim nails weekly, clean ears, and brush teeth. Provide daily interactive play sessions to satisfy their playful nature. Exercise needs are moderate; puzzle toys and climbing structures are excellent. Annual vet check-ups are crucial, and keep vaccinations and parasite prevention up to date. Monitor for ear infections due to their unique ear shape. Spay/neuter as recommended.",
+      "zh": "塞尔凯克卷毛猫的日常护理包括定期梳理，防止卷曲毛发打结。每周用宽齿梳或针梳梳理2-3次，偶尔洗澡以保持卷曲定型。每周修剪指甲、清洁耳朵和刷牙。每天提供互动游戏以满足其爱玩天性。运动需求适中；益智玩具和攀爬架是很好的选择。年度兽医检查至关重要，并保持疫苗接种和寄生虫预防的最新状态。由于耳朵形状独特，需注意耳部感染。建议适时绝育。"
+    },
+    "training": {
+      "en": "Selkirk Rex cats are intelligent and eager to please, making training relatively easy. Use positive reinforcement methods like treats, praise, and clicker training. They respond well to short, consistent sessions. Basic commands like 'sit' and 'come' can be taught, as well as tricks like fetch. Because they are social and dependent, they thrive on interaction and may become anxious with harsh correction. Litter box training is usually straightforward. Provide scratching posts and train them to use them from an early age to protect furniture. Patience and gentle guidance yield the best results.",
+      "zh": "塞尔凯克卷毛猫聪明且渴望取悦，因此训练相对容易。使用正面强化方法，如零食、表扬和响片训练。它们对简短一致的训练反应良好。可以教授基本指令如“坐下”和“过来”，以及像拾回这样的技巧。由于它们社交且依赖性强，它们在互动中茁壮成长，严厉的纠正可能会引起焦虑。猫砂盆训练通常很简单。提供猫抓板并从小训练使用，以保护家具。耐心和温和的指导能带来最佳效果。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, balanced diet appropriate for their life stage. Selkirk Rex cats can be prone to obesity, so portion control is important. Choose a diet rich in animal protein and low in carbohydrates. Wet food helps maintain hydration and urinary health. Provide fresh water at all times. Treats should be limited to 10% of daily calories. Consult your vet for specific dietary needs, especially if the cat has any health issues. Avoid overfeeding and monitor body condition regularly. Some Selkirks may have food sensitivities, so introduce new foods gradually.",
+      "zh": "喂食适合其生命阶段的高质量均衡饮食。塞尔凯克卷毛猫容易肥胖，因此控制食量很重要。选择富含动物蛋白、低碳水化合物的饮食。湿粮有助于保持水分和泌尿健康。始终提供新鲜水。零食应限制在每日热量的10%以内。咨询兽医了解特定饮食需求，尤其是如果猫有任何健康问题。避免过度喂食，并定期监测身体状况。一些塞尔凯克猫可能有食物敏感，因此新食物应逐步引入。"
+    },
+    "livingTips": {
+      "en": "Selkirk Rex cats adapt well to apartment living due to their moderate activity level and quiet nature. They are not overly demanding of space but appreciate vertical territory like cat trees. A secure balcony or window perch can provide entertainment. They get along well with children and other pets, including cat-friendly dogs, thanks to their patient and tolerant temperament. However, they do best in homes where they receive plenty of attention, as they are dependent on human companionship. Provide scratching posts, interactive toys, and cozy resting spots. They are indoor cats for safety, but a catio or supervised outdoor time can be enriching.",
+      "zh": "塞尔凯克卷毛猫因其适中的活动水平和安静的性格，非常适合公寓生活。它们不过分要求空间，但喜欢猫树等垂直领地。安全的阳台或窗台栖架可提供娱乐。由于耐心和宽容的性情，它们与儿童和其他宠物（包括对猫友好的狗）相处融洽。然而，它们最适合在能获得大量关注的家庭中生活，因为它们依赖人类陪伴。提供猫抓板、互动玩具和舒适的休息点。出于安全考虑，它们是室内猫，但猫笼或有监督的户外活动可以丰富其生活。"
+    }
+  }
 }

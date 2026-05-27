@@ -90,5 +90,27 @@
       "en": "eager to please",
       "zh": "渴望取悦"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Bully is a confident, gentle, and loyal companion breed developed in the United States. Known for their affectionate and outgoing nature, they are eager to please and make excellent family dogs. Despite their muscular, intimidating appearance, they are typically friendly and good-natured, especially when properly socialized. They are not aggressive by nature but are protective of their families. Their intelligence and desire to please make them highly trainable, though they can be stubborn at times. This breed thrives on human interaction and does best as an indoor dog that is included in family activities.",
+      "zh": "美国恶霸犬是一种自信、温和且忠诚的伴侣犬种，起源于美国。它们以深情和外向的性格著称，渴望取悦主人，是优秀的家庭犬。尽管外表肌肉发达、看似凶猛，但它们通常友好且脾气好，尤其在适当社交后。它们天性不具攻击性，但对家人有保护欲。它们的智慧和取悦欲望使它们高度可训练，尽管有时会固执。这个品种依赖人类的互动，最适合作为室内犬参与家庭活动。"
+    },
+    "care": {
+      "en": "Daily care for an American Bully includes a short grooming session once a week to remove loose hair, as they have a short, single coat. Brush with a rubber curry brush or hound glove. Bathe only when necessary to avoid skin dryness. Clean ears weekly and trim nails monthly. Exercise needs are moderate: a 30-60 minute daily walk plus playtime is sufficient. They enjoy interactive games like fetch or tug-of-war. Avoid overexercising in hot weather due to brachycephalic tendencies. Regular vet visits for vaccinations, dental check-ups, and weight management are crucial, as this breed can be prone to obesity and joint issues.",
+      "zh": "美国恶霸犬的日常护理包括每周一次短时间梳理以去除死毛，它们拥有短而单层的被毛。使用橡胶咖喱刷或猎犬手套梳理。仅在必要时洗澡，以防皮肤干燥。每周清洁耳朵，每月修剪指甲。运动需求适中：每天30-60分钟散步加上玩耍时间即可。它们喜欢互动游戏如接球或拔河。由于短头倾向，炎热天气避免过度运动。定期兽医检查疫苗接种、牙齿保健和体重管理至关重要，因为该品种容易肥胖和关节问题。"
+    },
+    "training": {
+      "en": "Training an American Bully should begin early with positive reinforcement methods such as treats, praise, and play. They are eager to please and respond well to consistent, firm but gentle guidance. Socialization from puppyhood is essential to ensure they grow into well-adjusted adults; expose them to various people, animals, and environments. Basic obedience commands like sit, stay, and come are important. This breed can be stubborn, so patience and variety in training sessions help maintain interest. Avoid harsh corrections as they can become sensitive. Crate training is recommended for housebreaking and providing a safe space.",
+      "zh": "训练美国恶霸犬应从早期开始，采用正面强化方法如零食、表扬和玩耍。它们渴望取悦主人，对一致、坚定但温和的指导反应良好。从小进行社会化至关重要，以确保它们成长为适应良好的成年犬；让它们接触各种人、动物和环境。基本服从命令如坐、定、来很重要。该品种可能固执，因此耐心和训练多样化有助于保持兴趣。避免严厉纠正，因为它们可能变得敏感。建议进行笼内训练以帮助定点排便并提供安全空间。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. American Bullies can be prone to obesity, so portion control is critical. Divide daily food into two meals to reduce bloating risk. Avoid foods with fillers like corn or soy. Consider a diet rich in protein from sources like chicken, beef, or fish, with healthy fats for coat health. Supplements such as glucosamine and chondroitin may benefit joint health, especially in older dogs. Always provide fresh water. Treats should be limited and not exceed 10% of daily calorie intake. Consult a vet for specific dietary needs.",
+      "zh": "喂食适合犬龄、体型和活动水平的高质量狗粮。美国恶霸犬容易肥胖，因此控制份量至关重要。将每日食物分为两餐以减少胃胀气风险。避免含有玉米或大豆等填充物的食物。考虑富含蛋白质的饮食，如鸡肉、牛肉或鱼肉，并搭配健康脂肪以维护皮毛健康。补充剂如葡萄糖胺和软骨素可能有益于关节健康，尤其对老年犬。始终提供新鲜水。零食应限制，不超过每日卡路里摄入的10%。咨询兽医了解具体饮食需求。"
+    },
+    "livingTips": {
+      "en": "The American Bully adapts well to various living situations, including apartments, provided they get sufficient exercise. They are not high-energy but need daily walks and play. A securely fenced yard is ideal for off-leash play. They are generally good with children, being patient and affectionate, but supervision is recommended due to their strength. They can coexist with other pets if raised together, but may show dog aggression towards unfamiliar dogs. They thrive on human companionship and should not be left alone for long periods. Proper socialization and training are key to a harmonious household.",
+      "zh": "美国恶霸犬能适应各种生活环境，包括公寓，只要获得充足运动。它们精力不算高，但需要每日散步和玩耍。有安全围栏的院子是理想的无绳玩耍场所。它们通常对孩子友好，耐心且深情，但由于力量大，建议监护。如果从小一起养，它们能与其他宠物共存，但可能对陌生狗表现出攻击性。它们依赖人类陪伴，不应长时间独处。适当的社会化和训练是家庭和谐的关键。"
+    }
+  }
 }

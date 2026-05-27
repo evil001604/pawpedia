@@ -78,5 +78,27 @@
       "en": "Calm",
       "zh": "冷静"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Ragamuffin is a large, affectionate, and gentle cat breed known for its calm demeanor and friendly nature. Originating from the United States, these cats are highly social and form strong bonds with their families. They are patient and tolerant, making them excellent companions for children and other pets. Ragamuffins have a soft, silky coat that requires regular grooming. They are not overly active but enjoy interactive play and cuddling. Their even temperament makes them adaptable to various living situations, including apartments. Overall, the Ragamuffin is a loving and laid-back breed that thrives on human companionship.",
+      "zh": "拉加马芬猫是一种大型、深情且温和的猫品种，以其平静的性格和友好的天性而闻名。原产于美国，这些猫非常社交，与家人形成牢固的联系。它们耐心且宽容，是儿童和其他宠物的优秀伴侣。拉加马芬猫拥有柔软丝滑的毛发，需要定期梳理。它们不过分活跃，但喜欢互动游戏和拥抱。它们平和的性情使它们适应各种生活环境，包括公寓。总的来说，拉加马芬猫是一种充满爱心和悠闲的品种，依靠人类的陪伴而茁壮成长。"
+    },
+    "care": {
+      "en": "Daily care for a Ragamuffin includes regular grooming to prevent matting of their semi-long coat. Brush them at least twice a week, increasing to daily during shedding seasons. Bathe occasionally using a cat-safe shampoo. Clean their ears weekly and trim nails every 2-3 weeks. Provide daily exercise through interactive toys and short play sessions. Ragamuffins are prone to obesity, so monitor their weight. Schedule annual veterinary check-ups and keep vaccinations up to date. Dental hygiene is important; brush their teeth regularly with a vet-approved toothpaste. Ensure they have a clean litter box scooped daily.",
+      "zh": "拉加马芬猫的日常护理包括定期梳理，以防止其半长毛发打结。每周至少梳理两次，换毛季节增加至每天一次。偶尔使用猫专用洗发水洗澡。每周清洁耳朵，每2-3周修剪指甲。通过互动玩具和短时间游戏提供日常锻炼。拉加马芬猫容易肥胖，需监测体重。安排年度兽医检查并保持疫苗接种最新。口腔卫生很重要；定期用兽医认可的牙膏刷牙。确保猫砂盆每天清理。"
+    },
+    "training": {
+      "en": "Ragamuffins are intelligent and eager to please, making them responsive to positive reinforcement training. Use treats, praise, and clicker training to teach basic commands, tricks, and proper litter box use. Keep sessions short (5-10 minutes) and consistent. They respond well to gentle guidance and can be trained to walk on a leash. Avoid harsh discipline as it can damage their trust. Socialize them early to new people and environments. Training should focus on reinforcing good behaviors and providing mental stimulation through puzzle toys. Their calm nature makes them easy to train, but patience is key.",
+      "zh": "拉加马芬猫聪明且渴望取悦，因此对正强化训练反应良好。使用零食、表扬和响片训练来教授基本命令、技巧和正确使用猫砂盆。保持训练时间短（5-10分钟）且一致。它们对温和引导反应良好，可以训练牵绳散步。避免严厉惩罚，因为这会破坏它们的信任。早期社会化，接触新人和环境。训练应侧重于强化良好行为并通过益智玩具提供精神刺激。它们平静的天性使训练容易，但耐心是关键。"
+    },
+    "diet": {
+      "en": "Feed your Ragamuffin a high-quality, balanced diet appropriate for their age, size, and activity level. Choose a cat food with real meat as the first ingredient, ensuring adequate protein and taurine. Divide meals into two or three portions daily to prevent overeating. Monitor treats to avoid weight gain. Provide fresh water at all times. Consult your veterinarian for specific dietary recommendations, especially if your cat has health issues. Ragamuffins may have a tendency to gain weight, so avoid free-feeding and measure portions. Consider a mix of wet and dry food for moisture and dental health.",
+      "zh": "为拉加马芬猫提供适合其年龄、体型和活动水平的高质量均衡饮食。选择以真实肉类为首要成分的猫粮，确保充足的蛋白质和牛磺酸。每天分两到三餐喂食，防止暴饮暴食。控制零食以避免体重增加。始终提供新鲜饮水。咨询兽医获取具体饮食建议，特别是如果猫有健康问题。拉加马芬猫容易发胖，因此避免自由采食并测量份量。考虑湿粮和干粮混合喂养，以提供水分和口腔健康。"
+    },
+    "livingTips": {
+      "en": "Ragamuffins are ideal for apartment living due to their calm nature. They enjoy having perches and window seats for bird watching. Provide scratching posts and interactive toys to keep them entertained. They get along well with children and other pets, including dogs, if introduced properly. Ragamuffins are not escape artists, so a secure home is sufficient. They thrive on companionship and may suffer from separation anxiety if left alone for long periods. Consider adopting a pair for company. Create a cozy environment with soft beds and hiding spots. Their gentle temperament makes them excellent family cats.",
+      "zh": "拉加马芬猫因其平静的天性非常适合公寓生活。它们喜欢有栖木和窗台观鸟。提供猫抓板和互动玩具以保持娱乐。如果适当引入，它们与儿童和其他宠物（包括狗）相处融洽。拉加马芬猫不是逃跑专家，因此一个安全的家就足够了。它们依赖陪伴，如果长时间独处可能会产生分离焦虑。考虑养一对作伴。营造舒适的环境，配备柔软的床和隐藏点。它们温和的性情使其成为优秀的家庭猫。"
+    }
+  }
 }

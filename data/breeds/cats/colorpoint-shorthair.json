@@ -78,5 +78,27 @@
       "en": "Social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Colorpoint Shorthair is a loving, intelligent, and social breed, closely related to the Siamese. Known for their striking color points and sleek body, they are highly affectionate and form strong bonds with their owners. They are sensitive to human emotions and will often purr to comfort you. Playful and energetic, they enjoy interactive games and thrive on attention. Their vocal nature means they will 'talk' to you frequently, expressing their needs and desires. Colorpoints are loyal companions who want to be involved in all family activities.",
+      "zh": "色点短毛猫是一种充满爱心、聪明且社交性强的品种，与暹罗猫关系密切。以其醒目的色点和流线型身体而闻名，它们非常深情，与主人形成牢固的情感纽带。它们对人类情绪敏感，常常通过咕噜声来安慰你。活泼好动，喜欢互动游戏，渴望关注。它们爱叫，会频繁地与你‘交谈’，表达需求和愿望。色点短毛猫是忠诚的伴侣，希望参与所有家庭活动。"
+    },
+    "care": {
+      "en": "Daily care for a Colorpoint Shorthair is moderate. Their short coat requires weekly brushing to remove loose hair and maintain shine. They are active cats needing at least 30 minutes of playtime daily with toys like feather wands or puzzle feeders. Regular nail trimming and dental care are essential. Annual vet visits for check-ups and vaccinations are recommended. Due to their social nature, they should not be left alone for long periods; consider a companion pet or interactive toys. Exercise includes climbing structures and cat trees to satisfy their curiosity.",
+      "zh": "色点短毛猫的日常护理适中。短毛需每周梳理一次以去除死毛并保持光泽。它们活跃，每天需要至少30分钟的玩耍时间，如羽毛棒或益智喂食器。定期修剪指甲和牙齿护理必不可少。建议每年进行一次兽医检查和疫苗接种。由于社交性强，不应长时间独处；可考虑养另一只宠物或提供互动玩具。锻炼包括攀爬结构和猫树以满足其好奇心。"
+    },
+    "training": {
+      "en": "Colorpoint Shorthairs are highly intelligent and trainable. They respond well to positive reinforcement techniques like treats and praise. Start training early with basic commands such as 'sit' and 'come'. They can learn tricks like fetch or walking on a leash. Consistency and short sessions (5-10 minutes) work best. Avoid punishment as they are sensitive. Use clicker training for complex behaviors. Their desire to please makes them quick learners. Socialization with people and other pets from kittenhood is crucial for a well-adjusted adult cat.",
+      "zh": "色点短毛猫非常聪明且可训练。它们对积极强化技术如零食和表扬反应良好。从小开始基本指令训练，如‘坐下’和‘过来’。它们能学会捡球或牵绳散步等技巧。保持一致性和短时训练（5-10分钟）效果最佳。避免惩罚，因为它们敏感。可使用响片训练复杂行为。它们取悦主人的欲望使其学习迅速。从小与人和其它宠物进行社会化对成年猫的适应至关重要。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich diet suitable for active cats. Colorpoint Shorthairs have a tendency to overeat, so measure portions to prevent obesity. Divide daily food into two or three meals. Include wet food for hydration and dental health. Avoid excessive carbohydrates. Provide fresh water always. Consult your vet for specific dietary needs based on age, weight, and health. Treats should be limited to 10% of daily calories. Consider a diet with taurine and omega fatty acids for coat and heart health.",
+      "zh": "喂食适合活跃猫的高质量、富含蛋白质的饮食。色点短毛猫有暴食倾向，应控制分量以防肥胖。将每日食物分成两到三餐。包括湿粮以补充水分和牙齿健康。避免过多碳水化合物。始终提供新鲜水。根据年龄、体重和健康状况咨询兽医确定具体饮食需求。零食应限制在每日热量的10%以内。考虑含牛磺酸和欧米伽脂肪酸的饮食，以维护毛发和心脏健康。"
+    },
+    "livingTips": {
+      "en": "Colorpoint Shorthairs adapt well to apartments if provided with vertical spaces like cat trees and shelves. They are social and enjoy interactive play, so a home with a yard or safe outdoor enclosure is a plus. They get along with children and other pets if properly introduced. They thrive on companionship and may suffer from separation anxiety if left alone too long. Provide scratching posts and toys to prevent boredom. Ensure windows are secure as they may try to escape. A calm, stable environment suits them best.",
+      "zh": "色点短毛猫能很好地适应公寓生活，前提是提供猫树和架子等垂直空间。它们社交性强，喜欢互动游戏，有院子或安全户外围栏的家更好。如果适当介绍，它们能与孩子和其他宠物相处。它们依赖陪伴，长时间独处可能产生分离焦虑。提供抓柱和玩具以防无聊。确保窗户安全，因为它们可能试图逃跑。平静稳定的环境最适合它们。"
+    }
+  }
 }

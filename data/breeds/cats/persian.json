@@ -78,5 +78,27 @@
       "en": "Quiet",
       "zh": "安静"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Persian cat is a sweet, gentle, and affectionate breed known for its calm and laid-back demeanor. They are loyal companions who enjoy lounging around the house and are equally content with quiet evenings or playful interactions. Persians are great with families and children, though they may seek solitude when overwhelmed. Their serene personality makes them ideal for households seeking a peaceful and loving pet.",
+      "zh": "波斯猫是一种甜美、温柔且亲人的品种，以其冷静和悠闲的性格而闻名。它们是忠诚的伴侣，喜欢在家中放松，无论是安静的夜晚还是嬉戏互动都能自得其乐。波斯猫非常适合有孩子和宠物的家庭，不过在感到过度刺激时会躲起来独处。它们宁静的个性使它们成为寻求平和与爱宠的家庭的理想选择。"
+    },
+    "care": {
+      "en": "Daily care for a Persian cat requires significant grooming due to their long, luxurious coat. Brush their fur daily to prevent mats and tangles, and bathe them every few weeks. Clean their eyes daily with a damp cloth to remove tear stains. Provide a scratching post and interactive toys for moderate exercise. Schedule annual vet visits for check-ups and vaccinations, and monitor for common health issues like polycystic kidney disease.",
+      "zh": "波斯猫的日常护理因其长而华丽的被毛需要大量梳理。每天梳理毛发以防止打结和缠结，每隔几周洗澡一次。每天用湿布清洁眼睛以去除泪痕。提供猫抓板和互动玩具进行适度运动。每年安排兽医检查并进行疫苗接种，同时监测多囊肾病等常见健康问题。"
+    },
+    "training": {
+      "en": "Persian cats respond best to positive reinforcement training methods. Use treats and praise to encourage desired behaviors. Start training early, focusing on litter box use and scratching post habits. Keep sessions short and fun to maintain their interest. Avoid harsh discipline, as Persians are sensitive. With patience, they can learn simple commands like sit or come, though they may not be as eager to please as some other breeds.",
+      "zh": "波斯猫最适合使用正向强化训练方法。用零食和表扬鼓励期望的行为。尽早开始训练，重点培养猫砂盆使用和猫抓板习惯。保持训练时间短而有趣以维持它们的兴趣。避免严厉的惩罚，因为波斯猫很敏感。耐心训练下，它们可以学会简单的指令如坐或来，但可能不如其他品种那样热衷于讨好主人。"
+    },
+    "diet": {
+      "en": "Feed your Persian cat high-quality commercial cat food, either dry or wet, formulated for their age and health needs. Provide measured meals twice daily to prevent obesity, a common issue due to their sedentary nature. Ensure fresh water is always available. Consider a diet rich in omega-3 fatty acids for coat health. Avoid overfeeding treats. Consult your vet for specific dietary recommendations, especially for kittens or seniors.",
+      "zh": "为您的波斯猫提供优质商业猫粮，干粮或湿粮均可，根据其年龄和健康状况选择配方。每日定时喂食两次，控制分量以防止肥胖，这是它们久坐天性下的常见问题。确保随时提供新鲜饮水。考虑富含Omega-3脂肪酸的饮食以维护毛发健康。避免过量喂食零食。咨询兽医获取具体饮食建议，特别是对于幼猫或老年猫。"
+    },
+    "livingTips": {
+      "en": "Persian cats thrive in calm, stable home environments. They adapt well to apartments and houses, provided they have cozy spots to lounge. They are generally good with children and other pets if introduced properly. Provide vertical spaces like cat trees and hiding spots for when they need solitude. Keep indoor environment safe and comfortable, as they are not suited for outdoor life. Regular veterinary care and a stress-free home ensure their well-being.",
+      "zh": "波斯猫在平静、稳定的家庭环境中茁壮成长。它们能很好地适应公寓和房屋，只要有舒适的休闲角落。如果适当介绍，它们通常与孩子和其他宠物相处融洽。提供猫爬架等垂直空间和藏身之处，以便它们需要独处时使用。保持室内环境安全舒适，因为它们不适合户外生活。定期的兽医护理和无压力的家庭环境确保它们的健康。"
+    }
+  }
 }

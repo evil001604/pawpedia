@@ -94,5 +94,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cretan Hound is an ancient Hellenic breed from Crete, Greece, known for its intelligence, independence, and alertness. As a hound, it is energetic, athletic, and gentle, with a strong prey drive and a deep bond with its family. This breed is naturally reserved with strangers but affectionate with those it trusts. Its history of hunting over rocky terrain has made it agile and resilient, requiring mental and physical stimulation to thrive. While independent, it is not aggressive and responds well to consistent, positive guidance. Owners should expect a loyal companion that excels in outdoor activities and appreciates a structured routine.",
+      "zh": "克里特猎犬是一种源自希腊克里特岛的古老希腊犬种，以聪明、独立和警觉著称。作为猎犬，它精力充沛、运动能力强且性情温和，具有强烈的狩猎本能，并与家人建立深厚的情感纽带。该犬种天生对陌生人保持警惕，但对信任的人充满深情。其历史中在崎岖地形狩猎的经历使其敏捷而坚韧，需要充足的身心刺激才能健康成长。虽然独立，但它不具攻击性，对持续、积极的引导反应良好。主人应期待一个忠诚的伴侣，擅长户外活动，并喜欢有规律的生活。"
+    },
+    "care": {
+      "en": "Daily care for the Cretan Hound includes moderate grooming due to its short, dense coat. Brush once or twice a week to remove loose hair and maintain skin health; bathe only when necessary. Exercise is crucial—this breed needs at least 60–90 minutes of vigorous activity daily, such as running, hiking, or off-leash play in a secure area. Regular vet check-ups every 6–12 months are essential to monitor for common issues like hip dysplasia or ear infections. Nail trimming every few weeks and dental care (brushing 2–3 times per week) complete the routine. Early socialization and exposure to various environments help prevent anxiety.",
+      "zh": "克里特猎犬的日常护理相对简单，因其短而密的被毛只需每周梳理一到两次，以去除死毛并保持皮肤健康；仅在必要时洗澡。运动至关重要——该犬种每天需要至少60至90分钟的剧烈活动，如跑步、远足或在安全区域的无绳玩耍。每6至12个月定期进行兽医检查，以监测常见的健康问题如髋关节发育不良或耳部感染。每隔几周修剪指甲，并每周刷牙2至3次，以完成护理流程。早期社交和接触各种环境有助于预防焦虑。"
+    },
+    "training": {
+      "en": "Training a Cretan Hound requires patience, consistency, and positive reinforcement. This intelligent but independent breed may be stubborn, so harsh methods are ineffective. Start with basic obedience and leash training early, using treats, praise, and play as rewards. Because of its strong prey drive, recall training in a safe, enclosed area is critical. Short, varied sessions (10–15 minutes) keep engagement high. Socialization with other dogs and people from puppyhood reduces wariness. Avoid repetitive drills; instead, incorporate games like scent tracking or agility to channel its natural instincts. A firm but gentle leader earns the dog's respect.",
+      "zh": "训练克里特猎犬需要耐心、一致性和正向强化。这种聪明但独立的犬种可能有些固执，因此严厉的方法无效。尽早开始基础服从和牵引绳训练，使用零食、表扬和玩耍作为奖励。由于其强烈的狩猎本能，在安全封闭区域进行召回训练至关重要。简短多样的训练课程（10至15分钟）能保持其高度参与。从小与其他狗和人进行社交可减少警惕性。避免重复练习；相反，融入气味追踪或敏捷性等游戏来发挥其自然本能。坚定而温和的领导者能赢得犬只的尊重。"
+    },
+    "diet": {
+      "en": "The Cretan Hound thrives on a high-quality diet rich in protein and healthy fats to support its athletic build. Feed 1.5–2.5 cups of premium dry kibble daily, divided into two meals, adjusting based on activity level and age. Include lean meats, fish, and vegetables for balanced nutrition; avoid fillers like corn or soy. Fresh water must always be available. This breed can be prone to bloat, so avoid vigorous exercise immediately after meals. Supplements like glucosamine may benefit joints, especially in older dogs. Consult a vet for portion sizes and dietary changes, particularly for puppies or seniors.",
+      "zh": "克里特猎犬需要富含蛋白质和健康脂肪的高质量饮食，以支持其运动型体格。每天喂食1.5至2.5杯优质干粮，分两餐，并根据活动水平和年龄调整。包括瘦肉、鱼类和蔬菜以均衡营养；避免玉米或大豆等填充物。必须随时提供新鲜饮水。该犬种易患胃胀气，因此餐后避免剧烈运动。补充剂如葡萄糖胺可能有益于关节健康，尤其是老年犬。请咨询兽医以确定份量和饮食调整，特别是对于幼犬或老年犬。"
+    },
+    "livingTips": {
+      "en": "The Cretan Hound is best suited for homes with a securely fenced yard where it can run freely. Apartment living is possible only with ample daily exercise; otherwise, it may become restless or destructive. This breed is gentle with children if raised together, but its prey drive may cause chasing behavior around small pets like cats or rabbits—supervision is needed. It thrives in active families and prefers moderate climates, though it adapts to various conditions. Early socialization ensures harmony with other dogs. Without sufficient activity, it may develop anxiety or excessive barking. A quiet, structured home environment is ideal.",
+      "zh": "克里特猎犬最适合拥有安全围栏院子的家庭，以便自由奔跑。公寓生活仅在每日充分运动的情况下可行；否则可能变得不安或具有破坏性。如果从小一起成长，该犬种对儿童温和，但其狩猎本能可能导致追逐小猫或兔子等小型宠物——需加以监督。它适合活跃的家庭，偏爱温和气候，但也能适应各种条件。早期社交可确保与其他狗和谐相处。缺乏足够活动时，可能产生焦虑或过度吠叫。安静、有规律的家庭环境最为理想。"
+    }
+  }
 }

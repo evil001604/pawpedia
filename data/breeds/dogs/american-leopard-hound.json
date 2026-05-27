@@ -90,5 +90,27 @@
       "en": "athletic",
       "zh": "运动型"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Leopard Hound is a highly intelligent, energetic, and loyal breed, originally developed as a tree hound for hunting a variety of game. They are work-focused and athletic, with a protective nature that makes them excellent watchdogs. This breed is known for its distinctive leopard-like coat patterns and a strong, agile physique. They are independent thinkers but form deep bonds with their families. Their high energy levels require plenty of mental and physical stimulation to prevent boredom and destructive behavior. While they are generally friendly, they can be reserved with strangers, making early socialization crucial. Overall, the American Leopard Hound is a versatile, hardworking companion for an active owner.",
+      "zh": "美国豹犬是一种非常聪明、精力充沛且忠诚的犬种，最初被培育为树猎犬，用于狩猎各种猎物。它们以工作为导向，体格强健，具有保护性，是出色的看门犬。该品种以其独特的豹纹毛色和强壮敏捷的体型而闻名。它们独立思考，但与家庭建立深厚的纽带。高能量水平需要大量的精神和身体刺激，以防止无聊和破坏行为。虽然通常友善，但对陌生人可能有所保留，因此早期社交至关重要。总体而言，美国豹犬是适合活跃主人的全能、勤劳的伴侣。"
+    },
+    "care": {
+      "en": "Daily care for the American Leopard Hound includes moderate grooming: brush their short, dense coat weekly to control shedding. Bathe only when necessary. Their nails should be trimmed monthly, and ears checked weekly for debris or infection. Exercise is critical—they need at least 60–90 minutes of vigorous activity daily, such as running, hiking, or interactive games. Without sufficient exercise, they may become destructive. Veterinary visits should be annual for checkups and vaccinations, with periodic dental cleanings. This breed is generally healthy but prone to hip dysplasia and ear infections; regular vet checks help catch issues early.",
+      "zh": "美国豹犬的日常护理包括适度梳理：每周刷一次短而密的被毛以控制脱毛。仅在必要时洗澡。每月修剪指甲，每周检查耳朵是否有污垢或感染。运动至关重要——每天需要至少60-90分钟的剧烈活动，如跑步、远足或互动游戏。运动不足可能导致破坏行为。兽医检查应每年一次，进行体检和疫苗接种，并定期清洁牙齿。该品种通常健康，但易患髋关节发育不良和耳部感染；定期兽医检查有助于及早发现问题。"
+    },
+    "training": {
+      "en": "Training an American Leopard Hound requires patience, consistency, and positive reinforcement. They are intelligent but independent, so firm yet gentle guidance works best. Start obedience training and socialization early, exposing them to various people, animals, and environments. Use reward-based methods like treats and praise; harsh corrections may lead to stubbornness. Focus on recall training, as their hunting instincts can make them chase scents. Engage them in mentally stimulating activities like scent work or puzzle toys. Short, varied sessions (10–15 minutes) are more effective than long drills. This breed excels in dog sports such as agility or barn hunt, which channel their energy productively.",
+      "zh": "训练美国豹犬需要耐心、一致性和积极强化。它们聪明但独立，因此坚定而温和的指导效果最佳。尽早开始服从训练和社交，让它们接触不同的人、动物和环境。使用基于奖励的方法，如零食和表扬；严厉的纠正可能导致固执。重点训练召回，因为它们的狩猎本能可能使其追逐气味。让它们参与气味工作或益智玩具等精神刺激活动。短而多样化的训练（10-15分钟）比长时间练习更有效。该品种在敏捷性或仓鼠狩猎等犬类运动中表现出色，能有效消耗其精力。"
+    },
+    "diet": {
+      "en": "Feed the American Leopard Hound a high-quality diet appropriate for their age, size, and activity level. Typically, 2–3 cups of dry kibble daily, split into two meals, is suitable for adults. Active dogs may need more. Look for formulas with real meat as the first ingredient and balanced omega fatty acids for coat health. Avoid overfeeding to prevent obesity, which can exacerbate joint issues. Puppies require more frequent meals (3–4 times daily) with a growth-formulated food. Always provide fresh water. Consult your vet for specific recommendations, especially if your dog has allergies or sensitivities. Treats should be limited and used mainly for training.",
+      "zh": "为美国豹犬提供适合其年龄、体型和活动水平的高质量饮食。通常，成年犬每天2-3杯干粮，分两餐喂食。活跃的狗可能需要更多。选择以真实肉类为首要成分、且含有平衡Omega脂肪酸以维护毛发健康的配方。避免过度喂食以防肥胖，肥胖会加剧关节问题。幼犬需要更频繁的喂食（每天3-4次），使用生长配方粮。始终提供新鲜饮水。咨询兽医以获得具体建议，特别是如果您的狗有过敏或敏感问题。零食应限量，主要用于训练。"
+    },
+    "livingTips": {
+      "en": "The American Leopard Hound is best suited for a home with a securely fenced yard where they can run and explore. They are not ideal for apartments due to their high energy and vocal nature (baying). This breed thrives in rural or suburban settings with access to open spaces. They can be good with children if raised together, but their boisterousness may overwhelm very young kids. Early socialization helps them get along with other dogs, but they may chase small pets due to prey drive. They are loyal and protective, making them excellent watchdogs. Provide plenty of interactive toys and mental challenges to prevent boredom.",
+      "zh": "美国豹犬最适合拥有安全围栏院子的家庭，以便它们奔跑和探索。由于高能量和爱吠叫的天性，它们不适合公寓生活。该品种在农村或郊区有开放空间的环境中茁壮成长。如果从小一起长大，它们对孩子友好，但活泼的性格可能让幼童感到不适。早期社交有助于它们与其他狗相处，但由于猎物驱动力，它们可能会追逐小宠物。它们忠诚且保护性强，是出色的看门犬。提供大量互动玩具和精神挑战，以防无聊。"
+    }
+  }
 }

@@ -86,5 +86,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Braque d'Auvergne is a versatile sporting dog known for its gentle, intelligent, and affectionate nature. Bred as a pointing dog, it possesses a strong work ethic and keen hunting instincts, yet at home it is devoted and calm. This breed forms deep bonds with its family and thrives on companionship. With a balanced temperament, it is both energetic in the field and relaxed indoors, making it an excellent choice for active owners who appreciate a loyal and responsive companion.",
+      "zh": "奥弗涅布拉可犬是一种多才多艺的猎犬，以温顺、聪明和深情的天性著称。作为指示犬，它有着强烈的职业道德和敏锐的狩猎本能，但在家中却忠诚而沉稳。该品种与家庭建立深厚的情感纽带，并渴望陪伴。它性情平衡，在野外精力充沛，在室内则放松安静，是喜欢忠诚、反应灵敏伴侣的活跃主人的绝佳选择。"
+    },
+    "care": {
+      "en": "Daily care for a Braque d'Auvergne includes moderate grooming: brush its short coat weekly to remove loose hair. Exercise is crucial—at least 60 minutes of vigorous activity daily, such as running, hiking, or field work. Regular vet check-ups, vaccinations, and parasite prevention are essential. Clean its ears weekly and trim nails monthly. This breed thrives with mental stimulation, so incorporate puzzle toys or scent games into its routine.",
+      "zh": "奥弗涅布拉可犬的日常护理包括适度梳理：每周刷其短毛以去除死毛。运动至关重要——每天至少60分钟的剧烈活动，如跑步、徒步或野外工作。定期兽医检查、疫苗接种和寄生虫预防必不可少。每周清洁耳朵，每月修剪指甲。该品种需要精神刺激，因此日常中加入益智玩具或嗅觉游戏。"
+    },
+    "training": {
+      "en": "Training a Braque d'Auvergne is rewarding due to its intelligence and eagerness to please. Use positive reinforcement methods like treats and praise. Start early with socialization and basic obedience. This breed responds well to consistent, patient guidance. Because it is work-focused, incorporate retrieving or tracking exercises to satisfy its instincts. Avoid harsh corrections; they can damage trust. Keep sessions short and fun to maintain engagement.",
+      "zh": "训练奥弗涅布拉可犬是 rewarding 的，因为它聪明且渴望取悦。使用积极强化方法，如零食和表扬。尽早开始社会化训练和基础服从。该品种对一致、耐心的引导反应良好。由于其工作导向，可加入寻回或追踪练习以满足其本能。避免严厉纠正，以免破坏信任。保持训练简短有趣以维持参与度。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet appropriate for an active, medium-to-large breed. Divide meals into two portions daily to prevent bloat. Protein should come from named animal sources (chicken, fish, lamb). Include healthy fats for coat and skin, and complex carbohydrates for sustained energy. Monitor weight to avoid obesity. Fresh water must always be available. Consult your vet for specific needs based on age, activity level, and health.",
+      "zh": "为活跃的中大型犬提供优质饮食。每日分两餐喂食，以防胃胀气。蛋白质应来自明确的动物来源（鸡肉、鱼、羊肉）。包含健康脂肪以维护皮毛，以及复合碳水化合物以提供持久能量。监测体重以防肥胖。始终提供新鲜饮用水。根据年龄、活动水平和健康状况咨询兽医。"
+    },
+    "livingTips": {
+      "en": "The Braque d'Auvergne adapts well to various homes but thrives with a securely fenced yard for off-leash play. It can live in an apartment if given sufficient exercise, but a house with land is ideal. This breed is gentle with children and gets along with other dogs when properly socialized. It may chase small pets due to prey drive. It prefers to be indoors with its family and should not be left alone for long periods.",
+      "zh": "奥弗涅布拉可犬能适应各种家庭，但最好有安全围栏的院子供其自由玩耍。如果运动充足，也可住公寓，但有庭院的房屋更理想。该品种对孩子温和，若适当社会化，能与其他狗相处。由于猎食本能，可能会追逐小宠物。它喜欢与家人待在室内，不应长时间独处。"
+    }
+  }
 }

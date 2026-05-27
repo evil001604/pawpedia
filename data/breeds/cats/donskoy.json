@@ -78,5 +78,27 @@
       "en": "social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Donskoy, also known as the Don Sphynx, is a hairless cat breed originating from Russia. This breed is known for its playful, affectionate, and loyal nature. Donskoys are highly social and demand lots of attention and interaction. They are intelligent and easy-going, making them wonderful companions. Interestingly, the same gene that causes varying degrees of hairlessness also influences personality, with less hair generally correlating with a calmer demeanor. These cats thrive on human companionship and are known to form strong bonds with their owners.",
+      "zh": "顿斯科伊猫，又称顿河斯芬克斯猫，是一种源自俄罗斯的无毛猫品种。该品种以其活泼、深情和忠诚的性格而闻名。顿斯科伊猫非常社交，需要大量的关注和互动。它们聪明且随和，是极好的伴侣。有趣的是，导致不同程度无毛的基因也会影响性格，通常毛发越少，性格越平静。这些猫依赖人类的陪伴，并与主人建立深厚的情感纽带。"
+    },
+    "care": {
+      "en": "Daily care for a Donskoy includes gentle grooming to remove oils from their skin, as they lack fur to absorb it. Weekly baths with a mild cat shampoo are recommended to keep their skin clean and healthy. They need regular nail trims and ear cleaning to prevent wax buildup. Exercise is important; provide interactive toys and climbing structures. Annual vet visits are essential, and due to their lack of fur, they are sensitive to temperature extremes, so keep them indoors and provide warm bedding.",
+      "zh": "顿斯科伊猫的日常护理包括轻柔地清洁皮肤以去除油脂，因为它们没有毛发来吸收油脂。建议每周用温和的猫用香波洗澡，以保持皮肤清洁健康。需要定期修剪指甲和清洁耳朵，防止耳垢堆积。运动很重要，提供互动玩具和攀爬结构。每年进行一次兽医检查至关重要。由于没有毛发，它们对极端温度敏感，因此应保持室内饲养，并提供温暖的床铺。"
+    },
+    "training": {
+      "en": "Donskoys are intelligent and eager to please, making training relatively easy. Use positive reinforcement techniques like treats and praise. They respond well to clicker training and can learn tricks and commands. Consistency is key. Start training early, including litter box and scratching post use. Socialization is also important; expose them to various people, pets, and environments to ensure they grow into well-adjusted adults. Avoid harsh discipline as they are sensitive.",
+      "zh": "顿斯科伊猫聪明且乐于取悦，因此训练相对容易。使用正面强化技巧，如零食和表扬。它们对响片训练反应良好，能学会技巧和指令。一致性是关键。从小开始训练，包括使用猫砂盆和抓板。社交也很重要，让它们接触不同的人、宠物和环境，以确保成长为适应良好的成年猫。避免严厉的惩罚，因为它们很敏感。"
+    },
+    "diet": {
+      "en": "Feed your Donskoy a high-quality, protein-rich diet. Due to their high metabolism, they may need more food than hairy cats. Consider wet food for hydration and dry food for dental health. Portion control is important to prevent obesity. Consult your vet for specific dietary needs. Some Donskoys may have sensitive stomachs, so introduce new foods gradually. Always provide fresh water. Treats should be given sparingly.",
+      "zh": "为顿斯科伊猫提供高质量、富含蛋白质的饮食。由于新陈代谢较快，它们可能比有毛猫需要更多食物。考虑湿粮以补充水分，干粮以维护牙齿健康。控制食量以防肥胖。咨询兽医了解具体的饮食需求。有些顿斯科伊猫肠胃敏感，因此新食物应逐步引入。始终提供新鲜水。零食应适量给予。"
+    },
+    "livingTips": {
+      "en": "Donskoys are well-suited for apartment living as they are indoor cats. They need a warm environment; provide heated beds or blankets. They get along well with children and other pets if properly socialized. Their playful and affectionate nature makes them great family cats. Provide plenty of toys and climbing opportunities. Due to their lack of fur, they are not suitable for outdoor living. Ensure windows are secure and avoid drafts. They thrive on attention and should not be left alone for long periods.",
+      "zh": "顿斯科伊猫适合公寓生活，因为是室内猫。它们需要温暖的环境，提供加热床或毯子。如果适当社交，它们与孩子和其他宠物相处融洽。它们活泼亲人的性格使其成为优秀的家庭猫。提供大量玩具和攀爬机会。由于没有毛发，不适合户外生活。确保窗户安全，避免穿堂风。它们需要大量关注，不应长时间独处。"
+    }
+  }
 }

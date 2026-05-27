@@ -94,5 +94,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bracco Italiano is a gentle, intelligent, and affectionate sporting breed known for its calm and docile temperament. Originating as one of the oldest pointing dogs in Europe, this breed is loyal, adaptable, and thrives on human companionship. With a noble appearance and a natural aptitude for hunting, the Bracco is equally content as a family pet. They are sensitive and form strong bonds with their owners, making them excellent companions. Their even-tempered nature makes them reliable with children and other pets, though they require consistent socialization. The breed's intelligence and eagerness to please facilitate training, but their sensitive side calls for positive reinforcement methods. Overall, the Bracco Italiano embodies a perfect blend of sporting ability and gentle companionship.",
+      "zh": "意大利布拉可犬是一种温和、聪明且深情的运动犬种，以其冷静和温顺的气质而闻名。作为欧洲最古老的指示犬之一，这个品种忠诚、适应性强，并依赖人类的陪伴。拥有高贵的外表和天生的狩猎能力，布拉可犬同样适合作为家庭宠物。它们敏感，与主人建立牢固的联系，是优秀的伴侣。其平和的天性使它们与儿童和其他宠物相处可靠，但仍需要持续的社会化。该犬种的智慧和取悦主人的愿望有助于训练，但敏感的一面要求使用正向强化方法。总体而言，意大利布拉可犬完美融合了运动能力和温和的伴侣特质。"
+    },
+    "care": {
+      "en": "Daily care for the Bracco Italiano includes moderate grooming: brush their short, dense coat weekly to remove loose hair, and bathe only when necessary to preserve natural oils. Their long, floppy ears require weekly checks and cleaning to prevent infections, and regular nail trimming and dental care are essential. Exercise is crucial—they need at least 60 minutes of vigorous activity daily, such as long walks, runs, or off-leash play in a secure area. They thrive with mental stimulation through nose work or fetch. Routine vet visits for vaccinations, parasite control, and health screenings (hip dysplasia, eye issues) are recommended. Early socialization and consistent routines help them adjust to various environments.",
+      "zh": "意大利布拉可犬的日常护理包括适度梳理：每周刷一次短而密的被毛以去除死毛，只在必要时洗澡以保护天然油脂。它们长而下垂的耳朵需要每周检查和清洁以防止感染，定期修剪指甲和牙齿护理也很重要。运动至关重要——每天至少需要60分钟的剧烈活动，如长距离散步、跑步或在安全区域进行无绳游戏。通过嗅闻游戏或捡球等精神刺激活动，它们会茁壮成长。建议定期进行兽医检查，包括疫苗接种、寄生虫控制和健康筛查（髋关节发育不良、眼部问题）。早期社会化和一致的日常安排有助于它们适应各种环境。"
+    },
+    "training": {
+      "en": "Training a Bracco Italiano should be based on positive reinforcement, as they are sensitive and do not respond well to harsh methods. Use treats, praise, and play to motivate them. Consistency and patience are key, given their independent streak. Start with basic obedience and socialization early, exposing them to different people, animals, and environments. Their hunting instincts make them excellent at scent work and retrieving, so incorporate these activities into training. Keep sessions short and engaging to prevent boredom. They excel in dog sports like agility and obedience. Avoid repetitive drills; instead, vary exercises to maintain their interest. A well-trained Bracco is a happy and balanced companion.",
+      "zh": "训练意大利布拉可犬应基于正向强化，因为它们敏感，对粗暴方法反应不佳。使用零食、赞美和游戏来激励它们。鉴于它们有独立性，一致性和耐心是关键。尽早开始基本服从训练和社会化，让它们接触不同的人、动物和环境。它们的狩猎本能使其擅长嗅觉工作和寻回，因此将这些活动融入训练中。保持训练课程简短有趣，以防止无聊。它们在敏捷性和服从性等犬类运动中表现出色。避免重复练习，而是变化训练内容以保持兴趣。一只训练有素的布拉可犬是快乐而平衡的伴侣。"
+    },
+    "diet": {
+      "en": "Feed the Bracco Italiano a high-quality, balanced diet appropriate for their age, size, and activity level. They typically do well on premium dry kibble formulated for active breeds. Divide meals into two portions per day to reduce bloat risk, as deep-chested breeds are prone to gastric torsion. Ensure fresh water is always available. Monitor weight to prevent obesity, which can strain joints. Consider adding omega-3 supplements for coat health and joint support. Avoid overfeeding and limit treats. Puppies need a growth-formulated diet, while seniors may require lower-calorie options. Consult your vet for specific recommendations, especially if your dog has allergies or sensitivities.",
+      "zh": "为意大利布拉可犬提供适合其年龄、体型和活动水平的高质量均衡饮食。它们通常适合食用专为活跃犬种配制的优质干狗粮。将每日食物分成两餐，以降低腹胀风险，因为深胸犬种易患胃扭转。确保随时提供新鲜饮水。监测体重以防肥胖，肥胖会加重关节负担。考虑添加omega-3补充剂以维护被毛健康和关节支持。避免过量喂食并限制零食。幼犬需要生长配方粮，而老年犬可能需要低热量选项。如有过敏或敏感问题，请咨询兽医获取具体建议。"
+    },
+    "livingTips": {
+      "en": "The Bracco Italiano adapts well to various living situations but thrives in a home with a securely fenced yard where it can run freely. They are not well-suited for apartment living unless given ample daily exercise. This breed is gentle with children and generally good with other dogs and pets if properly socialized. They are indoor dogs that enjoy being close to their family and should not be left alone for long periods. Their calm demeanor makes them suitable for families, but they need mental stimulation to prevent boredom. Early training and socialization are essential to manage their hunting instincts. Overall, they are loyal, affectionate companions that fit best in active households.",
+      "zh": "意大利布拉可犬能适应各种生活环境，但在有安全围栏院子的家中最能茁壮成长，以便自由奔跑。除非每天有充足的运动，否则不太适合公寓生活。这个品种对儿童温和，如果适当社会化，通常与其他狗和宠物相处良好。它们是室内犬，喜欢靠近家人，不应长时间独处。其冷静的气质使其适合家庭，但需要精神刺激以防止无聊。早期训练和社会化对于管理其狩猎本能至关重要。总体而言，它们是忠诚、深情的伴侣，最适合活跃的家庭。"
+    }
+  }
 }

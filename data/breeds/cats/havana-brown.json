@@ -86,5 +86,27 @@
       "en": "Playful",
       "zh": "爱玩"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Havana Brown is a medium-sized, muscular cat with a distinctive rich brown coat and striking green eyes. Known for being affectionate, curious, and intelligent, this breed forms strong bonds with its human family. They are highly social and demand attention, often following their owners around and involving themselves in daily activities. Their playful and inquisitive nature means they love interactive toys and puzzles. Despite their demanding personality, they are gentle and sensitive, often using their paws to gently touch their companions. The Havana Brown thrives on companionship and does best in homes where someone is present most of the time.",
+      "zh": "哈瓦那棕猫是中等体型、肌肉结实的猫，拥有独特的浓郁棕色被毛和醒目的绿色眼睛。以深情、好奇和聪明著称，这个品种与人类家庭建立深厚纽带。它们高度社交，需要关注，经常跟随主人并参与日常活动。它们爱玩且好奇，喜欢互动玩具和谜题。尽管性格有些要求，但它们温柔敏感，常用爪子轻触同伴。哈瓦那棕猫在陪伴中茁壮成长，最适合有人大部分时间在家的家庭。"
+    },
+    "care": {
+      "en": "Daily care for a Havana Brown is relatively low-maintenance. Their short, fine coat requires weekly brushing to remove loose hair and maintain shine. Regular nail trimming, ear cleaning, and dental care are essential. These cats are active and need daily play sessions to satisfy their curiosity and intelligence—interactive toys, puzzle feeders, and climbing trees are ideal. Annual veterinary check-ups and vaccinations are recommended. Spaying or neutering is advised unless breeding. Due to their social nature, consider getting a companion cat if you are away often.",
+      "zh": "哈瓦那棕猫的日常护理相对简单。短而细密的被毛每周梳理一次即可去除死毛并保持光泽。定期修剪指甲、清洁耳朵和牙齿护理是必要的。这种猫活跃，需要每日游戏时间满足其好奇心和智力——互动玩具、益智喂食器和猫爬架是理想选择。建议每年进行兽医体检和疫苗接种。除非用于繁殖，否则建议绝育。由于它们社交性强，如果你经常外出，考虑养另一只猫作伴。"
+    },
+    "training": {
+      "en": "Havana Browns are highly intelligent and trainable. They respond well to positive reinforcement techniques like treats, praise, and clicker training. Start training early, focusing on basic commands like 'sit', 'stay', and 'come'. They can also learn tricks and enjoy puzzle-solving. Use reward-based methods and keep sessions short and fun. Avoid punishment, as they are sensitive. Litter box training is usually straightforward. Harness training is possible for supervised outdoor adventures. Consistency and patience are key.",
+      "zh": "哈瓦那棕猫非常聪明且可训练。它们对积极强化技术如零食、表扬和响片训练反应良好。尽早开始训练，重点教授基本命令如“坐下”、“等待”和“过来”。它们还能学习技巧并喜欢解谜。使用基于奖励的方法，保持训练简短有趣。避免惩罚，因为它们敏感。猫砂盆训练通常很简单。可以训练穿戴胸背带进行有监督的户外冒险。一致性和耐心是关键。"
+    },
+    "diet": {
+      "en": "Feed your Havana Brown high-quality cat food, either commercial or balanced homemade diets approved by a veterinarian. They need a protein-rich diet with moderate fat and low carbohydrates. Provide fresh water at all times. Portion control is important to prevent obesity—follow feeding guidelines based on age, weight, and activity level. Typically, feed 2-3 meals per day. Treats should be limited to 10% of daily intake. Avoid toxic foods like onions, garlic, and chocolate. Consult your vet for specific dietary needs, especially if your cat has health issues.",
+      "zh": "给哈瓦那棕猫喂食高质量猫粮，可以是商业食品或经兽医批准的均衡自制饮食。它们需要高蛋白、中等脂肪和低碳水化合物的饮食。随时提供新鲜水。控制食量以防肥胖——根据年龄、体重和活动水平遵循喂养指南。通常每天喂2-3餐。零食应限制在每日摄入量的10%以内。避免喂食洋葱、大蒜和巧克力等有毒食物。如有健康问题，请咨询兽医以获取特定饮食建议。"
+    },
+    "livingTips": {
+      "en": "Havana Browns adapt well to apartment living as long as they have space to play and climb. They do best with cat trees, shelves, and interactive toys. They are not typically outdoor cats but can enjoy supervised leash walks. They are generally good with children and other pets if properly socialized, but their sensitive nature means they prefer gentle handling. Provide hiding spots and vertical territory to help them feel secure. A home with a secure balcony or catio is ideal. They dislike being left alone for long periods, so consider a pet sitter or companion.",
+      "zh": "哈瓦那棕猫适合公寓生活，只要有空间玩耍和攀爬。它们需要猫爬架、搁板和互动玩具。通常不适合户外饲养，但可以享受有监督的牵绳散步。如果适当社会化，它们通常对孩子和其他宠物友好，但敏感的性格意味着它们喜欢温和的对待。提供隐藏处和垂直领地以增加安全感。有安全阳台或猫笼的家是理想选择。它们不喜欢长时间独处，因此考虑宠物保姆或养另一只猫。"
+    }
+  }
 }

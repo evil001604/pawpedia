@@ -90,5 +90,27 @@
       "en": "devoted",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cantabrian Water Dog is a rare, ancient breed from northern Spain, prized for its intelligence, loyalty, and tireless work ethic. Bred for water tasks, these dogs are energetic, alert, and devoted to their families. They excel in canine sports and thrive on having a job to do. Their double coat is water-resistant and requires regular grooming. While affectionate with loved ones, they can be reserved with strangers, making them excellent watchdogs. This breed is best suited for active owners who can provide ample exercise and mental stimulation.",
+      "zh": "坎塔布里亚水犬是一种来自西班牙北部的稀有古老品种，以其聪明、忠诚和不懈的工作精神而备受推崇。它们为水上工作而培育，精力充沛、警觉且忠于家庭。它们在犬类运动中表现出色，喜欢有任务可做。它们的双层被毛防水，需要定期梳理。虽然对家人充满感情，但对陌生人可能保持警惕，是优秀的看门犬。该品种最适合能提供充足运动和智力刺激的活跃主人。"
+    },
+    "care": {
+      "en": "Daily care for the Cantabrian Water Dog includes moderate to high exercise—at least 60 minutes of activity like swimming, hiking, or fetching. Their water-resistant coat needs brushing 2-3 times weekly to prevent matting, and occasional trimming. Bathing is needed only when dirty. Regular ear checks and cleaning are essential to prevent infections, as floppy ears can trap moisture. Nail trimming every few weeks and dental care are also important. Annual vet visits for check-ups and vaccinations are recommended.",
+      "zh": "坎塔布里亚水犬的日常护理包括中等到高强度的运动——每天至少60分钟的活动，如游泳、远足或捡球。它们的防水被毛需要每周梳理2-3次以防止打结，并偶尔修剪。只有在脏的时候才需要洗澡。定期检查和清洁耳朵至关重要，因为下垂的耳朵容易积水导致感染。每几周修剪指甲和牙齿护理也很重要。建议每年带犬看兽医进行体检和疫苗接种。"
+    },
+    "training": {
+      "en": "Training a Cantabrian Water Dog is rewarding due to their intelligence and eagerness to please. Use positive reinforcement methods like treats, praise, and play. They excel in obedience, agility, and water sports. Start training early, focusing on socialization to curb their natural wariness of strangers. These dogs are sensitive to harsh corrections, so keep sessions fun and consistent. Their working heritage means they enjoy tasks, so incorporate retrieving or puzzle toys. Short, frequent sessions work best.",
+      "zh": "训练坎塔布里亚水犬是很有成就感的，因为它们聪明且渴望取悦。使用正面强化方法，如零食、表扬和玩耍。它们在服从性、敏捷性和水上运动中表现出色。尽早开始训练，重点进行社会化，以抑制它们对陌生人的天然警惕。这些狗对严厉的纠正很敏感，所以要保持训练有趣且一致。它们的工作天性意味着它们喜欢任务，因此可以加入寻回或益智玩具。短而频繁的训练课程效果最佳。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet appropriate for an active, medium-sized breed. A balanced dog food with protein from meat or fish, healthy fats, and complex carbohydrates supports their energy levels. Divide daily food into two meals to maintain stable energy and prevent bloat. Fresh water should always be available. Treats are fine in moderation, especially during training. Monitor weight to avoid obesity, adjusting portions as needed. Consult your vet for specific dietary recommendations.",
+      "zh": "为这种活跃的中型犬提供高质量、适合其能量水平的饮食。均衡的狗粮应包含来自肉类或鱼类的蛋白质、健康脂肪和复合碳水化合物。将每日食物分成两餐，以维持稳定能量并预防胃胀气。始终提供新鲜饮水。零食适量即可，尤其在训练期间。监测体重以避免肥胖，根据需要调整食量。咨询兽医以获取具体的饮食建议。"
+    },
+    "livingTips": {
+      "en": "The Cantabrian Water Dog adapts to various homes but thrives with a securely fenced yard for exercise. They are not ideal for apartments unless owners commit to daily vigorous walks. This breed is good with children if raised together, but their herding/working instincts may lead to nipping; supervision is advised. They can get along with other pets with proper socialization. They are loyal companions who need human interaction and should not be left alone for long periods. A job or sport involvement keeps them happy.",
+      "zh": "坎塔布里亚水犬能适应各种家庭，但最好有一个安全围栏的院子供其运动。它们不太适合公寓生活，除非主人保证每天有剧烈的散步。如果从小一起长大，它们对孩子很好，但它们的牧羊/工作本能可能导致轻咬，建议监督。通过适当的社会化，它们能与其他宠物相处。它们是忠诚的伴侣，需要人类互动，不应长时间独处。给它们安排任务或参与运动能让它们快乐。"
+    }
+  }
 }

@@ -10,6 +10,7 @@ import HealthPanel from "@/components/HealthPanel"
 import ProductRecommend from "@/components/ProductRecommend"
 import ChatPanel from "@/components/ChatPanel"
 import SimilarBreeds from "@/components/SimilarBreeds"
+import CareGuide from "@/components/CareGuide"
 
 export async function generateStaticParams() {
   const locales = ["en", "zh"]
@@ -144,6 +145,10 @@ export default async function BreedDetailPage({
           <p className="mt-3 text-stone-400 italic">{t("noHistory")}</p>
         )}
       </section>
+
+      {breed.careGuide && (
+        <CareGuide careGuide={breed.careGuide} locale={l} title={t("careGuide")} />
+      )}
 
       <section className="mt-10">
         <h2 className="text-xl font-bold text-stone-900">{t("traits")}</h2>

@@ -90,5 +90,27 @@
       "en": "Playful",
       "zh": "爱玩"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Egyptian Mau is a gentle and reserved breed known for its striking spotted coat and graceful, athletic build. These cats are highly intelligent, playful, and loyal to their families but can be wary of strangers. They form strong bonds with their owners and thrive on attention and affection. Socialization from an early age is crucial to prevent shyness and fearfulness. Egyptian Maus are agile and love to climb, jump, and explore. They are also known for their distinctive 'chirping' vocalizations. While independent, they depend on their humans for companionship and can become stressed if left alone for long periods. Overall, they are loving pets for dedicated owners.",
+      "zh": "埃及猫是一种温柔而内敛的品种，以其醒目的斑点被毛和优雅、健美的体型而闻名。这些猫非常聪明、好玩且忠于家庭，但对陌生人保持警惕。它们与主人建立牢固的纽带，渴望关注和关爱。早期持续的社会化至关重要，以防止害羞和胆怯。埃及猫敏捷，喜欢攀爬、跳跃和探索。它们还以其独特的‘啾啾’叫声而闻名。虽然独立，但它们依赖人类的陪伴，长时间独处会感到压力。总之，它们是适合专注主人的可爱宠物。"
+    },
+    "care": {
+      "en": "Daily care for the Egyptian Mau includes regular grooming, exercise, and vet visits. Their short, fine coat requires minimal brushing—once a week with a soft brush or rubber glove to remove loose hair and keep it shiny. They are active cats that need daily play sessions with interactive toys like feather wands, laser pointers, or puzzle feeders to satisfy their hunting instincts. Provide tall cat trees and shelves for climbing. Nail trimming every 2-3 weeks and dental care (brushing or dental treats) are important. Annual vet check-ups and vaccinations are essential. Spay/neuter is recommended. These cats are generally healthy but prone to some genetic issues like hypertrophic cardiomyopathy; regular monitoring is advised.",
+      "zh": "埃及猫的日常护理包括定期梳理、运动和兽医检查。它们短而细的毛发只需每周用软刷或橡胶手套梳理一次，去除死毛并保持光泽。它们活跃，每天需要与互动玩具（如羽毛棒、激光笔或益智喂食器）玩耍，以满足狩猎本能。提供高的猫爬架和搁板供攀爬。每2-3周修剪指甲，注意牙齿护理（刷牙或洁齿零食）。每年兽医体检和疫苗接种必不可少。建议绝育。该品种总体健康，但易患肥厚性心肌病等遗传问题，需定期监测。"
+    },
+    "training": {
+      "en": "Egyptian Maus are highly intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach tricks and desired behaviors. They can learn to fetch, walk on a leash, and perform agility tasks. Keep sessions short (5-10 minutes) and fun to maintain their interest. Socialization training from kittenhood is critical: expose them to different people, sounds, and environments to build confidence. Avoid punishment as it can cause fear and distrust. Consistency and patience yield the best results. These cats are sensitive to tone of voice, so use a calm, encouraging tone. They also enjoy puzzle toys that challenge their minds.",
+      "zh": "埃及猫非常聪明，对正强化训练反应良好。使用零食、表扬和响片训练来教授技巧和期望行为。它们能学会捡球、牵绳散步和敏捷任务。训练时间宜短（5-10分钟）且有趣，以保持兴趣。从小进行社会化训练至关重要：让它们接触不同的人、声音和环境以建立自信。避免惩罚，否则会导致恐惧和不信任。一致性和耐心能带来最佳效果。这类猫对语调敏感，因此要用平静、鼓励的语气。它们也喜欢挑战智力的益智玩具。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich diet suitable for active cats. Egyptian Maus have no special dietary requirements but benefit from wet food for hydration and dental health. Portion control is important to prevent obesity, as they can be food-motivated. Divide meals into 2-3 servings daily. Avoid overfeeding treats. Ensure fresh water is always available. Some Maus may have sensitive stomachs; introduce new foods gradually. Consult your vet for specific recommendations based on age, weight, and activity level. Consider a mix of commercial dry and wet food, or a balanced raw diet if properly formulated. Supplements like taurine are essential for heart health.",
+      "zh": "喂食适合活跃猫咪的高品质、高蛋白饮食。埃及猫没有特殊饮食要求，但湿粮有助于补水和牙齿健康。控制分量以防肥胖，因为它们可能对食物有动力。每日分2-3餐。避免过量喂食零食。始终提供新鲜水。有些埃及猫肠胃敏感，新食物需逐步引入。根据年龄、体重和活动水平咨询兽医建议。可混合商业干湿粮，或均衡的生食（如适当配方）。牛磺酸等补充剂对心脏健康至关重要。"
+    },
+    "livingTips": {
+      "en": "Egyptian Maus adapt well to indoor living but need ample vertical space and enrichment. They are not suited for outdoor roaming due to traffic and predator risks; a secure catio or harness training is safer. They do well in apartments if provided with climbing structures and play areas. They are generally good with respectful children and cat-friendly dogs if properly introduced and socialized. However, they may be timid with very young or boisterous children. Provide hiding spots and high perches for retreat. These cats form strong bonds with their owners and prefer not to be left alone for long; consider a companion pet if you work long hours. Early socialization is key to a well-adjusted adult cat.",
+      "zh": "埃及猫适应室内生活，但需要充足的垂直空间和娱乐。不适合户外游荡（交通和捕食者风险），安全的猫笼或牵绳训练更安全。如有攀爬结构和游戏区，它们适合公寓生活。通常能与尊重它们的儿童和友善的猫狗相处（需适当介绍和社会化），但可能对非常年幼或吵闹的孩子感到害羞。提供隐藏点和高处栖息处。它们与主人关系紧密，不喜欢长时间独处；若工作时间长，可考虑养伴宠。早期社会化是培养适应力强的成年猫的关键。"
+    }
+  }
 }

@@ -94,5 +94,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Coton de Tulear is a small, cheerful dog known for its soft, cotton-like coat and gentle temperament. Originating from Madagascar, this breed was once the royal companion of nobles. Cotons are highly affectionate, playful, and intelligent, making them excellent family pets. They are alert and friendly, often forming strong bonds with their owners. Despite their small size, they are adaptable and thrive in various living situations. Their happy-go-lucky nature and minimal shedding (due to hair-like coat) make them popular among allergy sufferers. However, they can be sensitive and may develop separation anxiety if left alone too long.",
+      "zh": "科顿犬是一种小型、开朗的犬种，以其柔软如棉的毛发和温和的性格而闻名。原产于马达加斯加，曾是贵族的皇家伴侣。科顿犬非常深情、活泼且聪明，是优秀的家庭宠物。它们机警友好，常与主人建立深厚的情感纽带。尽管体型小巧，但它们适应性强，能适应各种生活环境。它们无忧无虑的性格和极少掉毛（因毛发类似人类头发）使其受到过敏人群的喜爱。然而，它们可能较为敏感，长时间独处易产生分离焦虑。"
+    },
+    "care": {
+      "en": "Daily care for a Coton de Tulear includes thorough grooming to prevent matting of its long, silky coat. Brush daily with a pin brush or comb, and bathe every 2-4 weeks. Regular ear cleaning and nail trimming are essential. Exercise needs are moderate: a daily walk and playtime suffice. They enjoy interactive games and can adapt to apartment living if given enough mental stimulation. Veterinary check-ups should be annual, with dental care and vaccinations up to date. Their coat requires professional trimming every 6-8 weeks to maintain a manageable length.",
+      "zh": "科顿犬的日常护理包括彻底梳理其长而丝滑的毛发，以防打结。每天用针梳或梳子梳理，每2-4周洗澡一次。定期清洁耳朵和修剪指甲至关重要。运动需求适中：每日散步和玩耍即可。它们喜欢互动游戏，若给予足够的精神刺激，能适应公寓生活。每年进行兽医检查，保持牙齿护理和疫苗接种最新。毛发需每6-8周由专业人员修剪，以保持易打理的长度。"
+    },
+    "training": {
+      "en": "Coton de Tulears are intelligent and eager to please, making training relatively easy. Use positive reinforcement methods like treats and praise, as harsh corrections can harm their sensitive nature. Start socialization early, exposing them to various people, pets, and environments. They excel in obedience and agility, but can be stubborn at times. Keep sessions short and fun to maintain their interest. Crate training is recommended for housebreaking and providing a safe space. Consistency and patience are key; they respond well to gentle guidance and reward-based learning.",
+      "zh": "科顿犬聪明且渴望取悦主人，因此训练相对容易。使用正面强化方法，如零食和表扬，严厉的纠正可能伤害其敏感天性。从小开始社会化，让它们接触不同的人、宠物和环境。它们在服从性和敏捷性方面表现出色，但有时会固执。保持训练简短有趣以维持其兴趣。建议进行笼内训练，有助于定点排便并提供安全空间。一致性和耐心是关键；它们对温和引导和基于奖励的学习反应良好。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for small breeds, divided into two meals per day. Portion control is important to prevent obesity, as Cotons love food. Look for formulas with real meat as the first ingredient, balanced with healthy grains or vegetables. Avoid overfeeding treats; use them sparingly during training. Fresh water should always be available. Some Cotons may have food sensitivities; monitor for allergies and consult a vet if needed. Puppies require more frequent meals (3-4 times daily) until 6 months old.",
+      "zh": "喂食适合小型犬种的高品质狗粮，每日分两餐。控制份量以防肥胖，因为科顿犬贪吃。选择以真实肉类为首要成分、搭配健康谷物或蔬菜的配方。避免过量喂食零食，训练时少量使用。始终提供新鲜饮用水。部分科顿犬可能有食物敏感，注意观察过敏反应，必要时咨询兽医。幼犬在6个月前需更频繁喂食（每日3-4餐）。"
+    },
+    "livingTips": {
+      "en": "Coton de Tulears adapt well to apartment living due to their small size and moderate energy. They are excellent with children and other pets, especially if raised together. However, they may be too delicate for rough play with very young kids. They enjoy being indoors with their family and dislike being left alone for long periods. A securely fenced yard is nice but not essential; daily walks suffice. They are sensitive to extreme temperatures, so avoid prolonged exposure to heat or cold. Provide interactive toys and puzzle games to keep their mind active.",
+      "zh": "科顿犬体型小巧、精力适中，能很好地适应公寓生活。它们与儿童和其他宠物相处融洽，尤其是一起长大的情况下。但可能过于娇嫩，不适合与非常年幼的孩子进行粗暴玩耍。它们喜欢与家人待在一起，不喜欢长时间独处。有安全围栏的院子很好，但非必需；每日散步即可。它们对极端温度敏感，避免长时间暴露于炎热或寒冷环境。提供互动玩具和益智游戏以保持其思维活跃。"
+    }
+  }
 }

@@ -86,5 +86,27 @@
       "en": "alert",
       "zh": "机警"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Alapaha Blue Blood Bulldog is a rare, powerful working breed known for its loyalty, protective instincts, and intelligence. Bred originally as a catch dog for cattle and hogs, this breed is confident, alert, and fearless when guarding its family. Despite its imposing appearance, it is affectionate and devoted to its owners, forming strong bonds. It thrives on human companionship and requires a firm, consistent leader. Early socialization is essential to manage its natural wariness of strangers and other animals. The breed is not recommended for novice owners due to its strong will and protective nature. With proper upbringing, it makes an excellent family guardian and companion.",
+      "zh": "阿拉帕哈蓝血斗牛犬是一种稀有且强壮的 working 犬种，以忠诚、保护本能和聪明著称。最初培育为捕捉牛和猪的 catch dog，该犬种自信、警惕且无畏地保护家庭。尽管外表威严，它对主人充满感情和奉献精神，形成紧密纽带。它需要人类陪伴和坚定一致的领导。早期社会化至关重要，以管理其对陌生人和动物的天生警惕。由于意志坚强和保护性，不推荐新手饲养。经过适当培养，它是优秀的家庭护卫和伴侣犬。"
+    },
+    "care": {
+      "en": "Daily care for the Alapaha Blue Blood Bulldog includes moderate brushing of its short coat (once or twice a week) to minimize shedding. Bathing only as needed. Clean ears regularly and trim nails. Exercise is crucial: at least 45-60 minutes of vigorous activity daily, such as brisk walks, jogging, or play sessions. This breed can be prone to obesity, so consistent exercise is key. Routine vet visits for vaccinations, dental care, and health screenings are important. Common health concerns include hip dysplasia, allergies, and skin infections. Provide mental stimulation through puzzle toys or training games to prevent boredom.",
+      "zh": "阿拉帕哈蓝血斗牛犬的日常护理包括每周梳理短毛1-2次以减少掉毛，必要时洗澡。定期清洁耳朵和修剪指甲。运动至关重要：每天至少45-60分钟剧烈活动，如快走、慢跑或游戏。该犬种易肥胖，需坚持运动。定期兽医检查包括疫苗接种、牙齿护理和健康筛查。常见健康问题包括髋关节发育不良、过敏和皮肤感染。通过益智玩具或训练游戏提供精神刺激，防止无聊。"
+    },
+    "training": {
+      "en": "Training the Alapaha Blue Blood Bulldog requires a firm, consistent, and positive approach. This intelligent but strong-willed breed responds best to reward-based methods (treats, praise) with clear boundaries. Start obedience training and socialization early, exposing the puppy to various people, animals, and environments. Use short, engaging sessions to maintain focus. Avoid harsh corrections, which can cause defensiveness. Focus on impulse control and reliable recall. This breed excels in protection work and canine sports, but basic obedience is a must. Patience and leadership are key; the owner must be the pack leader.",
+      "zh": "训练阿拉帕哈蓝血斗牛犬需要坚定、一致和积极的方法。这种聪明但意志坚强的犬种对基于奖励的方法（零食、表扬）反应最佳，同时需明确界限。尽早开始服从训练和社会化，让幼犬接触不同的人、动物和环境。使用简短有趣的训练保持专注。避免严厉纠正，以免引发防御心理。重点训练冲动控制和可靠召回。该犬种擅长护卫工作和犬类运动，但基本服从必不可少。耐心和领导力是关键；主人必须成为群体领袖。"
+    },
+    "diet": {
+      "en": "Feed the Alapaha Blue Blood Bulldog a high-quality, protein-rich diet suitable for active working breeds. Portion control is important to prevent obesity. Typically, 2-3 cups of dry kibble daily, divided into two meals, adjusted for activity level and age. Avoid overfeeding and limit treats. Fresh water should always be available. Some dogs may have food allergies; consider grain-free or limited-ingredient diets if issues arise. Consult a veterinarian for specific nutritional needs, especially for puppies and seniors. Include joint supplements (glucosamine, chondroitin) for hip and joint health.",
+      "zh": "为阿拉帕哈蓝血斗牛犬提供高质量、富含蛋白质的饮食，适合活跃的工作犬种。控制分量以防肥胖。通常每天2-3杯干粮，分两餐，根据活动水平和年龄调整。避免过量喂食，限制零食。始终提供新鲜饮用水。部分犬只可能有食物过敏，如有问题可考虑无谷物或有限成分饮食。咨询兽医获取特定营养需求，尤其是幼犬和老年犬。添加关节补充剂（葡萄糖胺、软骨素）以维护髋部和关节健康。"
+    },
+    "livingTips": {
+      "en": "The Alapaha Blue Blood Bulldog is best suited for a home with a securely fenced yard where it can exercise and patrol. It does not adapt well to apartment living due to its size and energy needs. While it can be gentle with children it has been raised with, supervision is necessary due to its strong build and protective nature. It may not tolerate other dogs of the same sex and has a high prey drive, so caution with small pets is advised. Early socialization with cats and other animals is essential. The breed thrives on being part of family activities and should not be left alone for long periods.",
+      "zh": "阿拉帕哈蓝血斗牛犬最适合有安全围栏院子的家庭，以便运动和巡逻。由于体型和精力需求，不适合公寓生活。与从小一起长大的孩子相处温和，但因其强壮体格和保护性，需监督。可能不容忍同性别的其他犬只，且捕猎本能强，与小型宠物相处需谨慎。早期与猫和其他动物社会化至关重要。该犬种喜欢参与家庭活动，不应长时间独处。"
+    }
+  }
 }

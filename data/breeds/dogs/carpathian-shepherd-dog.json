@@ -94,5 +94,27 @@
       "en": "devoted",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Carpathian Shepherd Dog is a large, powerful working breed known for its loyalty, protective instincts, and calm demeanor. Bred for centuries in the Carpathian Mountains to guard flocks against predators, this dog is courageous, alert, and deeply devoted to its family. It is independent and can be reserved with strangers, making early socialization crucial. Despite its size, it is gentle and patient with children when properly raised. This breed thrives on having a job to do and is best suited for experienced owners who can provide consistent leadership.",
+      "zh": "喀尔巴阡牧羊犬是一种体型庞大、力量强大的工作犬，以其忠诚、保护本能和冷静的气质而闻名。几个世纪以来，它们在喀尔巴阡山脉被培育用于保护羊群免受捕食者的侵害，这种犬勇敢、警觉，对家庭非常忠诚。它们独立性强，对陌生人可能保持警惕，因此早期社会化至关重要。尽管体型巨大，但在适当培养下，它们对儿童温柔耐心。该品种需要有工作可做，最适合能够提供持续领导的经验丰富的主人。"
+    },
+    "care": {
+      "en": "Daily care for the Carpathian Shepherd Dog includes moderate exercise such as long walks or a secure yard to patrol. Grooming is minimal; a weekly brush suffices, but shedding increases seasonally. Bathing only when necessary. Regular vet check-ups are important to monitor hip and elbow dysplasia, common in large breeds. Nail trimming, ear cleaning, and dental care should be part of the routine. This breed is generally healthy but may have bloat risk, so avoid exercise after meals.",
+      "zh": "喀尔巴阡牧羊犬的日常护理包括适度运动，例如长时间散步或在安全的院子里巡逻。梳理需求很低，每周刷毛一次即可，但季节性脱毛会增加。只在必要时洗澡。定期兽医检查很重要，以监测大型犬常见的髋关节和肘关节发育不良。修剪指甲、清洁耳朵和牙齿护理应成为日常。该品种通常健康，但可能有胃扭转风险，因此餐后避免运动。"
+    },
+    "training": {
+      "en": "Training a Carpathian Shepherd Dog requires patience, consistency, and a firm but gentle hand. They are intelligent and independent, so positive reinforcement works best. Early socialization and obedience training are essential to manage their protective nature. Use short, varied sessions to keep them engaged. Avoid harsh methods, as they can become stubborn. They excel in tasks that mimic guarding, like scent work or agility. A well-trained Carpathian is a reliable and trustworthy companion.",
+      "zh": "训练喀尔巴阡牧羊犬需要耐心、一致性以及坚定而温和的手段。它们聪明且独立，因此积极强化效果最好。早期社会化和服从训练对于管理其保护天性至关重要。使用短而多样的训练以保持它们的兴趣。避免严厉的方法，否则它们可能变得固执。它们在模仿守卫的任务中表现出色，如气味工作或敏捷性。训练有素的喀尔巴阡犬是可靠且值得信赖的伴侣。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, large-breed dog food appropriate for their age and activity level. Puppies should eat three meals a day; adults can have two. Monitor weight to prevent obesity, which stresses joints. Include glucosamine and chondroitin supplements for joint health. Avoid overfeeding and provide fresh water always. Since this breed is prone to bloat, feed smaller portions and avoid vigorous activity before and after meals. Consult a vet for specific dietary needs.",
+      "zh": "喂食适合其年龄和活动水平的高质量大型犬粮。幼犬每天应喂三顿，成年犬可喂两顿。监测体重以防止肥胖，肥胖会给关节带来压力。添加葡萄糖胺和软骨素补充剂以促进关节健康。避免过度喂食，并始终提供新鲜水。由于该品种易患胃扭转，应少食多餐，并在餐前餐后避免剧烈活动。请咨询兽医以了解特定的饮食需求。"
+    },
+    "livingTips": {
+      "en": "The Carpathian Shepherd Dog is best suited for a home with a large, securely fenced yard. They can live outdoors in temperate climates but prefer being near their family. Apartment living is not ideal due to their size and need for space. They are good with children they are raised with but may be wary of strangers. Early socialization helps them coexist with other pets, though they may view small animals as prey. They are not recommended for first-time dog owners.",
+      "zh": "喀尔巴阡牧羊犬最适合拥有大型、安全围栏院子的家庭。它们可以在温带气候的户外生活，但更愿意靠近家人。公寓生活不理想，因为它们的体型和空间需求。它们与一起长大的孩子相处良好，但可能对陌生人保持警惕。早期社会化有助于它们与其他宠物共存，尽管它们可能将小动物视为猎物。不建议首次养狗的人饲养。"
+    }
+  }
 }

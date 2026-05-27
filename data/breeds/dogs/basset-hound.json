@@ -90,5 +90,27 @@
       "en": "devoted",
       "zh": "奉献"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Basset Hound is a friendly, calm, and gentle breed known for its loyalty and independent nature. Originating from France, these hounds were developed by French aristocrats from hounds bred at the Abbey of St. Hubert for hunting small game in dense cover. Their low-slung body and excellent sense of smell make them exceptional trackers. Despite their stubborn streak, they are devoted companions who get along well with children and other pets. Their soulful eyes and droopy ears give them an endearing appearance, but they require consistent care to stay healthy and happy.",
+      "zh": "巴塞特猎犬是一种友好、冷静且温柔的犬种，以忠诚和独立的性格著称。该犬种起源于法国，由法国贵族从圣休伯特修道院培育的猎犬中选育而成，用于在茂密丛林中狩猎小型猎物。其低矮的身材和出色的嗅觉使它们成为卓越的追踪者。尽管有些固执，但它们是忠诚的伴侣，与儿童和其他宠物相处融洽。它们忧郁的眼睛和下垂的耳朵赋予了迷人的外表，但需要持续的护理才能保持健康和快乐。"
+    },
+    "care": {
+      "en": "Daily care for a Basset Hound includes regular grooming to manage shedding and prevent matting, especially around the ears and wrinkles. Brush their coat at least twice a week and clean their ears weekly to avoid infections. Exercise needs are moderate—about 30-60 minutes of daily walks, but avoid overexertion due to their heavy build. Regular vet visits are crucial for monitoring weight, ear health, and potential hip dysplasia. Nail trimming and dental care should also be part of the routine.",
+      "zh": "巴塞特猎犬的日常护理包括定期梳理毛发以减少脱毛和防止打结，尤其是耳朵和皱纹周围。每周至少刷毛两次，并每周清洁耳朵以避免感染。运动需求适中——每天约30-60分钟的散步，但避免过度劳累，因为它们体型较重。定期兽医检查对于监测体重、耳朵健康和潜在的髋关节发育不良至关重要。修剪指甲和牙齿护理也应成为日常一部分。"
+    },
+    "training": {
+      "en": "Training a Basset Hound requires patience and consistency due to their independent and sometimes stubborn nature. Use positive reinforcement methods like treats and praise, as harsh corrections can be counterproductive. Start training early, focusing on basic commands and leash manners, as they are prone to following scents. Keep sessions short and engaging to maintain their interest. Socialization is also important to prevent shyness or aggression. Their hunting instincts may cause them to wander, so a secure yard or leash is essential.",
+      "zh": "训练巴塞特猎犬需要耐心和一致性，因为它们独立且有时固执。使用积极强化方法，如零食和表扬，严厉的纠正可能适得其反。尽早开始训练，专注于基本命令和牵绳礼仪，因为它们容易跟随气味。保持训练简短有趣以维持它们的兴趣。社交化也很重要，以防止害羞或攻击性。它们的狩猎本能可能导致走失，因此安全的院子或牵绳是必需的。"
+    },
+    "diet": {
+      "en": "Feed your Basset Hound a high-quality, balanced diet suitable for medium-to-large breeds, divided into two meals per day to reduce the risk of bloat. Monitor calorie intake to prevent obesity, which can exacerbate joint issues. Choose formulas with moderate protein and fat, and consider joint-supporting supplements like glucosamine. Avoid overfeeding and limit treats. Fresh water should always be available. Consult your vet for specific dietary recommendations based on age, weight, and activity level.",
+      "zh": "为巴塞特猎犬提供适合中大型犬的高品质均衡饮食，每天分两餐喂食以降低胃扭转风险。监控热量摄入以防止肥胖，肥胖会加剧关节问题。选择蛋白质和脂肪适中的配方，并考虑添加葡萄糖胺等关节支持补充剂。避免过度喂食并限制零食。始终提供新鲜饮用水。根据年龄、体重和活动水平，咨询兽医获取具体的饮食建议。"
+    },
+    "livingTips": {
+      "en": "Basset Hounds adapt well to apartment living if given sufficient daily exercise, but they prefer homes with a securely fenced yard to explore. They are generally quiet indoors but may howl if bored. They are excellent with children and other pets, thanks to their patient and gentle nature. However, supervision is recommended around small animals due to their hunting instincts. Their low-slung body and heavy bones make them prone to joint issues, so provide soft bedding and avoid stairs or jumping. Regular grooming and ear cleaning are musts.",
+      "zh": "巴塞特猎犬如果每天得到足够的运动，可以适应公寓生活，但它们更喜欢有安全围栏院子的家。它们通常在家中安静，但无聊时可能会嚎叫。由于耐心和温柔的天性，它们与儿童和其他宠物相处得很好。但由于狩猎本能，建议在小型动物周围进行监督。它们低矮的身材和沉重的骨骼使它们容易患关节问题，因此提供柔软的床垫，并避免上下楼梯或跳跃。定期梳理和清洁耳朵是必须的。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "playful",
       "zh": "活泼"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Andalusian Terrier is a spirited and versatile working terrier from southern Spain. Bred to hunt vermin in bodegas and fields, this breed is intelligent, energetic, and alert. They form strong bonds with their family and are naturally loyal and courageous, often acting as a vigilant watchdog. Their playful nature makes them delightful companions, but they retain a strong prey drive and independent streak. Socialization from puppyhood is essential to channel their confidence appropriately. While affectionate with their people, they can be reserved with strangers. This breed thrives on mental and physical challenges and is best suited to owners who appreciate a terrier's tenacity and zest for life.",
+      "zh": "安达卢西亚梗是一种充满活力且多才多艺的工作梗，原产于西班牙南部。该品种为在酒窖和田野中捕猎害兽而培育，具有聪明、精力充沛和警觉的特点。它们与家人关系紧密，天生忠诚勇敢，常作为警惕的看门犬。它们顽皮的天性使其成为令人愉快的伴侣，但保留了强烈的捕猎本能和独立性格。从小进行社会化训练至关重要，以正确引导它们的自信。虽然对家人充满感情，但对陌生人可能有所保留。该品种需要精神和身体上的挑战，最适合欣赏梗犬坚韧和热爱生活的主人。"
+    },
+    "care": {
+      "en": "Daily care for the Andalusian Terrier includes moderate grooming—their wiry or smooth coat requires brushing twice a week and occasional hand-stripping to maintain texture. Exercise is vital: they need at least 60 minutes of active play, walks, or off-leash running in a secure area daily. Mental stimulation through puzzle toys or scent games prevents boredom. Veterinary visits should occur annually for check-ups and vaccinations, with dental care and ear cleaning as part of the routine. Nail trimming every few weeks is necessary. This breed is generally healthy but watch for common terrier issues like patellar luxation and allergies.",
+      "zh": "安达卢西亚梗的日常护理包括适度的梳理——其刚毛或光滑的被毛每周需刷毛两次，并偶尔进行手工拔毛以保持质地。运动至关重要：它们每天至少需要60分钟的活跃游戏、散步或在安全区域内的无绳奔跑。通过益智玩具或嗅觉游戏提供精神刺激可防止无聊。每年应进行一次兽医检查及疫苗接种，日常护理包括牙齿清洁和耳朵清理。每隔几周需要修剪指甲。该品种通常健康，但需注意常见的梗犬问题，如髌骨脱位和过敏。"
+    },
+    "training": {
+      "en": "Training an Andalusian Terrier requires patience, consistency, and positive reinforcement. Their intelligence and independent nature mean they respond best to reward-based methods rather than harsh corrections. Early socialization is critical to reduce wariness of strangers and other dogs. Focus on basic obedience, recall, and impulse control, using high-value treats and play as motivators. Keep sessions short and varied to hold their attention. They excel in canine sports like agility, barn hunt, and nose work, which channel their natural drive. Avoid repetitive drills; instead, incorporate problem-solving tasks to engage their sharp mind.",
+      "zh": "训练安达卢西亚梗需要耐心、一致性和正向强化。它们聪明且独立的性格意味着对基于奖励的方法反应最佳，而非严厉的纠正。早期社会化对于减少对陌生人和其它狗的警惕至关重要。重点训练基本服从、召回和冲动控制，使用高价值零食和游戏作为激励。保持训练课程简短多样以吸引它们的注意力。它们在敏捷性、仓鼠猎捕和嗅觉工作等犬类运动中表现出色，这能发挥其天性。避免重复练习，而是融入解决问题的任务来激发其敏锐的思维。"
+    },
+    "diet": {
+      "en": "Feed the Andalusian Terrier a high-quality diet appropriate for its age, size, and activity level. A protein-rich formula supports their energetic lifestyle, with meat as the primary ingredient. Divide daily portions into two meals to maintain stable energy and prevent bloat—a risk in active terriers. Include healthy fats for coat condition and joint support, especially as they age. Avoid overfeeding, as this breed can gain weight if under-exercised. Fresh water must always be available. Treats should be limited and used mainly for training. Consult your vet for specific recommendations, particularly for food allergies or sensitivities.",
+      "zh": "为安达卢西亚梗提供适合其年龄、体型和活动水平的高质量饮食。富含蛋白质的配方以肉类为主要成分，能支持其充满活力的生活方式。将每日份量分为两餐，以维持稳定的能量并防止胃胀气——这是活跃梗犬的风险之一。包含健康脂肪以维护被毛状况和关节健康，尤其是在它们年老时。避免过度喂食，因为如果运动不足，该品种容易发胖。必须始终提供新鲜饮水。零食应有限制，主要用于训练。如有食物过敏或敏感问题，请咨询兽医以获得具体建议。"
+    },
+    "livingTips": {
+      "en": "The Andalusian Terrier adapts well to various homes but thrives with access to a securely fenced yard where it can explore and play. Apartment living is possible if given sufficient daily exercise, but their alert barking may be an issue in close quarters. They are generally good with older children who respect their space, but due to their terrier nature, supervision is needed around younger kids. They may not get along with small pets like rodents or birds due to high prey drive. Early introductions to other dogs can foster harmony. A stimulating environment with toys and activities is essential to prevent destructive behavior.",
+      "zh": "安达卢西亚梗能很好地适应各种家庭，但最好有一个安全围栏的院子供其探索和玩耍。如果每天有足够的运动，公寓生活也是可行的，但它们的警觉吠叫在狭小空间可能成为问题。它们通常与尊重其空间的大龄儿童相处良好，但由于梗犬天性，与幼儿互动时需要监督。由于强烈的捕猎本能，它们可能无法与啮齿动物或鸟类等小型宠物和睦相处。早期与其他狗的接触有助于促进和谐。提供充满玩具和活动的刺激性环境对于防止破坏性行为至关重要。"
+    }
+  }
 }

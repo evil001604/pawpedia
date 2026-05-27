@@ -90,5 +90,27 @@
       "en": "courageous",
       "zh": "勇敢"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Bulldog is a confident, loyal, and protective breed known for its courage and affectionate nature. Originally bred as a working farm dog, it is energetic and requires a job to do. This breed is muscular and athletic, with a strong desire to please its family. They are excellent guardians and are gentle with children when properly socialized. However, their protective instincts require early training to ensure they distinguish between friend and foe. American Bulldogs are intelligent but can be stubborn, so consistent leadership is key. They thrive on human companionship and do best in homes where they are included in daily activities.",
+      "zh": "美国斗牛犬是一种自信、忠诚且具有保护性的犬种，以勇敢和深情的天性著称。最初作为工作农场犬培育，它们精力充沛，需要承担任务。该品种肌肉发达、运动能力强，有强烈的取悦家庭的愿望。它们是优秀的护卫犬，在适当社交后对儿童温顺。然而，其保护本能需要早期训练以确保区分敌友。美国斗牛犬聪明但可能固执，因此持续的领导至关重要。它们依赖人类陪伴，最适合被纳入日常活动的家庭。"
+    },
+    "care": {
+      "en": "Daily care for an American Bulldog includes moderate to high exercise—at least 60 minutes of activity such as brisk walks, jogging, or play sessions. They enjoy interactive games like fetch and agility. Grooming is minimal: brush their short coat weekly to reduce shedding, clean their ears, and trim nails monthly. Regular dental care is important. Veterinary visits should include routine check-ups, vaccinations, and screening for common issues like hip dysplasia, allergies, and skin infections. Due to their brachycephalic (short-nosed) structure, avoid overexertion in hot weather and monitor breathing.",
+      "zh": "美国斗牛犬的日常护理包括中等到高强度的运动——每天至少60分钟的活动，如快走、慢跑或游戏。它们喜欢互动游戏如接球和敏捷训练。美容需求低：每周刷短毛以减少脱毛，清洁耳朵，每月修剪指甲。定期牙齿护理很重要。兽医检查应包括常规体检、疫苗接种以及筛查常见问题如髋关节发育不良、过敏和皮肤感染。由于其短鼻结构，避免在炎热天气过度劳累并监测呼吸。"
+    },
+    "training": {
+      "en": "Training an American Bulldog requires consistency, patience, and positive reinforcement. They respond well to reward-based methods like treats and praise, but can be stubborn. Start early with socialization to expose them to various people, animals, and environments. Obedience training is essential to manage their strong-willed nature. Use firm but gentle leadership; harsh corrections can cause resistance. Focus on commands like sit, stay, and recall. Channel their energy into structured activities like agility, obedience trials, or protection sports. Avoid repetitive drills; keep sessions short and engaging. Crate training can aid in housebreaking and provide a safe space.",
+      "zh": "训练美国斗牛犬需要一致性、耐心和积极强化。它们对基于奖励的方法（如零食和表扬）反应良好，但可能固执。尽早开始社交，让它们接触各种人、动物和环境。服从训练对管理其倔强天性至关重要。采用坚定而温和的领导；严厉的纠正可能导致反抗。重点训练指令如坐下、等待和召回。将精力引导到结构化活动中，如敏捷、服从比赛或护卫运动。避免重复训练；保持课程简短有趣。笼内训练有助于家庭训练并提供安全空间。"
+    },
+    "diet": {
+      "en": "Feed an American Bulldog high-quality dog food appropriate for their age, size, and activity level. Typically, adults need 2-3 cups of dry food per day, split into two meals. Avoid overfeeding to prevent obesity, which stresses joints. Choose a diet rich in protein (20-30%) from sources like chicken, beef, or fish, with moderate fat for energy. Include omega-3 fatty acids for coat and joint health. Avoid grains if the dog has allergies; consult a vet for special diets. Puppies require frequent meals (3-4 times daily) of large-breed puppy formula to control growth. Always provide fresh water.",
+      "zh": "喂食适合美国斗牛犬年龄、体型和活动水平的高品质狗粮。成年犬通常每天需要2-3杯干粮，分两餐喂食。避免过度喂食以防肥胖，这会加重关节负担。选择富含蛋白质（20-30%）的饮食，来源如鸡肉、牛肉或鱼肉，并含适量脂肪提供能量。添加欧米伽-3脂肪酸以促进皮毛和关节健康。如果狗有过敏，避免谷物；咨询兽医制定特殊饮食。幼犬需要更频繁的喂食（每天3-4次），使用大型犬幼犬配方以控制生长。始终提供新鲜饮水。"
+    },
+    "livingTips": {
+      "en": "American Bulldogs adapt best to homes with a securely fenced yard where they can run and play. They can live in apartments if given sufficient exercise, but are not ideal for sedentary lifestyles. This breed is generally good with children if raised together, but supervision is recommended due to their size and strength. They may be aggressive toward other dogs, especially same-sex, so early socialization is critical. They are protective and may not tolerate strangers or other pets without proper introduction. Due to their strong prey drive, caution around small animals is needed. They thrive in a structured environment with clear rules.",
+      "zh": "美国斗牛犬最适合有安全围栏院子的家庭，以便奔跑玩耍。如果运动充足，可以住在公寓，但不适合久坐的生活方式。该品种通常与儿童相处融洽（若一起长大），但由于体型和力量，建议监督。它们可能对其他狗有攻击性，尤其是同性，因此早期社交至关重要。它们具有保护性，未经适当介绍可能无法容忍陌生人或其它宠物。由于强烈的捕猎本能，需小心小型动物。它们在结构清晰、规则明确的环境中茁壮成长。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bulgarian Hound, also known as the Barak or Bulgarsko Gonche, is a traditional scent hound from Bulgaria, bred for centuries to hunt wild boar and other game. This breed is alert, energetic, and highly intelligent, with a strong work ethic and independent nature. Loyal to their family, they can be reserved with strangers. Their keen nose and determination make them excellent hunting companions, but they require an experienced owner who can provide firm, consistent leadership and plenty of physical and mental stimulation.",
+      "zh": "保加利亚猎犬，也被称为Barak或Bulgarsko Gonche，是保加利亚的传统嗅觉猎犬，经过几个世纪的培育用于猎捕野猪和其他猎物。该品种警觉、精力充沛、非常聪明，具有强烈的工作伦理和独立的性格。对家庭忠诚，但对陌生人可能有所保留。它们敏锐的嗅觉和决心使其成为出色的狩猎伙伴，但需要有经验的主人提供坚定、一致的领导以及充足的身体和智力刺激。"
+    },
+    "care": {
+      "en": "Daily care for a Bulgarian Hound includes brushing its short, dense coat once or twice a week to remove loose hair. Bathing is only needed when dirty. Regular ear checks and cleaning are essential due to floppy ears. Nail trimming every few weeks and dental care are also important. Exercise needs are high: at least 60-90 minutes of vigorous activity daily, including long walks, runs, or off-leash time in a safe area. Veterinary check-ups annually, with vaccinations and parasite prevention as recommended.",
+      "zh": "保加利亚猎犬的日常护理包括每周刷毛一到两次，以去除松散的毛发。只有在脏的时候才需要洗澡。由于耳朵下垂，定期检查和清洁耳朵至关重要。每隔几周修剪指甲和牙齿护理也很重要。运动需求高：每天至少60-90分钟的剧烈活动，包括长时间散步、跑步或在安全区域内自由活动。每年进行一次兽医检查，并按建议进行疫苗接种和寄生虫预防。"
+    },
+    "training": {
+      "en": "Training a Bulgarian Hound requires patience, consistency, and positive reinforcement. This intelligent but independent breed can be stubborn, so early socialization and obedience training are crucial. Use reward-based methods like treats and praise. Keep sessions short and varied to maintain interest. Hound instincts can lead to distraction by scents, so training in a controlled environment initially is beneficial. Firm leadership without harshness works best. Engage in scent work or tracking games to channel their natural abilities.",
+      "zh": "训练保加利亚猎犬需要耐心、一致性和积极强化。这种聪明但独立的品种可能固执，因此早期社交和服从训练至关重要。使用基于奖励的方法，如零食和表扬。保持训练课程简短多样以维持兴趣。猎犬的本能可能导致被气味分心，因此最初在受控环境中训练是有益的。坚定而不严厉的领导效果最好。参与气味工作或追踪游戏来引导其自然能力。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. Bulgarian Hounds are active working dogs, so a diet rich in protein and healthy fats supports their energy needs. Divide daily food into two meals to prevent bloating. Avoid overfeeding to maintain a lean body condition. Fresh water should always be available. Treats can be used for training but in moderation. Consult a veterinarian for specific dietary recommendations, especially if the dog is involved in intense hunting activities.",
+      "zh": "喂食适合狗狗年龄、体型和活动水平的高质量狗粮。保加利亚猎犬是活跃的工作犬，因此富含蛋白质和健康脂肪的饮食有助于满足其能量需求。将每日食物分成两餐以防止腹胀。避免过度喂食以保持瘦削的体态。始终提供新鲜水。零食可用于训练，但要适量。咨询兽医以获得具体的饮食建议，特别是如果狗狗参与激烈的狩猎活动。"
+    },
+    "livingTips": {
+      "en": "The Bulgarian Hound is best suited to a home with a large, securely fenced yard where it can run and explore. Apartment living is challenging due to high exercise needs and a tendency to bay or howl. They are not ideal for first-time dog owners. With proper socialization, they can get along with children and other dogs, but their hunting instinct may make them unsuitable for homes with small pets like cats. They thrive in rural or suburban settings where they can engage in scent work and regular exercise.",
+      "zh": "保加利亚猎犬最适合拥有大型安全围栏院子的家庭，以便其奔跑和探索。公寓生活因高运动需求和吠叫倾向而具有挑战性。它们不适合初次养狗的人。通过适当的社交，它们可以与儿童和其他狗相处，但狩猎本能可能使其不适合有小猫等宠物的家庭。它们在乡村或郊区环境中茁壮成长，可以从事气味工作和定期锻炼。"
+    }
+  }
 }

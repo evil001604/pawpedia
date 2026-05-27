@@ -86,5 +86,27 @@
       "en": "eager to please",
       "zh": "渴望取悦"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bordoodle is a cross between a Border Collie and a Standard Poodle, resulting in a highly intelligent, energetic, and loyal companion. These dogs are known for their playful nature and eagerness to please, making them excellent family pets. They typically inherit the Poodle's low-shedding coat and the Border Collie's sharp mind, requiring both physical and mental stimulation. Bordoodles are affectionate and form strong bonds with their owners, but they can be reserved with strangers. Their versatility allows them to excel in various activities, including agility, obedience, and therapy work. As a mixed breed, they often enjoy robust health, though regular vet checkups are essential.",
+      "zh": "博多犬是边境牧羊犬与标准贵宾犬的杂交后代，具有高度智慧、精力充沛和忠诚的性格。它们以顽皮和渴望取悦主人而闻名，是优秀的家庭宠物。通常继承贵宾犬的低脱落被毛和边境牧羊犬的敏锐思维，需要大量的身体和智力刺激。博多犬情感丰富，与主人建立深厚联系，但对陌生人可能保持矜持。其多才多艺使其在敏捷、服从和治疗工作等活动中表现出色。作为混种犬，它们通常拥有强健的体质，但定期兽医检查仍然必要。"
+    },
+    "care": {
+      "en": "Daily care for a Bordoodle includes regular grooming due to their often curly or wavy coat. Brushing 3-4 times a week prevents matting, and professional grooming every 6-8 weeks is recommended. They need at least 60 minutes of vigorous exercise daily, such as running, hiking, or fetch. Mental stimulation is equally important; puzzle toys, training sessions, and interactive games keep them engaged. Regular vet visits for vaccinations, dental care, and health screenings are crucial. Their nails should be trimmed monthly, and ears checked weekly for infections. Bathing every 4-6 weeks or as needed keeps their coat clean.",
+      "zh": "博多犬的日常护理包括定期梳理被毛，因其常具有卷曲或波浪状毛发。每周梳理3-4次可防止打结，建议每6-8周专业美容一次。每天需要至少60分钟的剧烈运动，如跑步、远足或接球游戏。智力刺激同样重要；益智玩具、训练课程和互动游戏可保持其投入。定期兽医检查，包括疫苗接种、牙齿护理和健康筛查至关重要。每月修剪指甲，每周检查耳朵以防感染。每4-6周或根据需要洗澡，保持被毛清洁。"
+    },
+    "training": {
+      "en": "Bordoodles are highly trainable due to their intelligence and eagerness to please. Positive reinforcement methods, such as treats, praise, and play, work best. Early socialization and puppy training classes are recommended to curb potential herding instincts and ensure good behavior. Consistency and patience are key; they thrive on clear commands and routines. Advanced training in agility, obedience, or tricks can channel their energy productively. Avoid harsh corrections, as they can be sensitive. Training sessions should be short and fun to maintain their focus. Mental challenges, like scent work or puzzle games, complement physical exercise.",
+      "zh": "博多犬非常易于训练，因其聪明且渴望取悦主人。正面强化方法，如零食、表扬和游戏，效果最佳。建议早期社交和幼犬训练课程，以抑制潜在的牧羊本能并确保良好行为。一致性和耐心是关键；它们受益于清晰的指令和日常规律。敏捷、服从或技巧等高级训练可有效引导其精力。避免严厉纠正，因为它们可能敏感。训练课程应简短有趣，以保持其注意力。气味工作或益智游戏等智力挑战可补充体能锻炼。"
+    },
+    "diet": {
+      "en": "Feed a Bordoodle high-quality dog food appropriate for their age, size, and activity level. Typically, 2-3 cups of dry food daily, split into two meals, is sufficient. Active dogs may require more calories. Look for foods with real meat as the first ingredient, balanced with vegetables, fruits, and healthy grains. Avoid fillers like corn and soy. Fresh water should always be available. Treats should be limited to 10% of daily intake. Some Bordoodles may have food sensitivities; consult a vet for allergies. Supplements like omega-3 fatty acids can benefit coat health. Monitor weight to prevent obesity, especially in less active periods.",
+      "zh": "为博多犬提供适合其年龄、体型和活动水平的高品质狗粮。通常每天2-3杯干粮，分两餐喂食。活跃的狗可能需要更多卡路里。选择以真实肉类为首要成分，搭配蔬菜、水果和健康谷物的狗粮。避免玉米和大豆等填充物。始终提供新鲜饮水。零食应限制在每日摄入量的10%以内。部分博多犬可能有食物敏感；如有过敏请咨询兽医。欧米伽-3脂肪酸等补充剂有益于被毛健康。监测体重以防肥胖，尤其是在活动较少的时期。"
+    },
+    "livingTips": {
+      "en": "Bordoodles adapt well to various living situations, including apartments, provided they receive sufficient exercise. A securely fenced yard is ideal for off-leash play. They are generally good with children and other pets when properly socialized, but their herding instinct may cause them to chase small animals. Early introduction to cats and other dogs is recommended. They thrive on companionship and should not be left alone for long periods, as they may develop separation anxiety. Provide a comfortable bed, interactive toys, and a designated space. Regular routine and mental stimulation prevent destructive behaviors. They are not suited for sedentary households.",
+      "zh": "博多犬能适应各种生活环境，包括公寓，前提是获得充足运动。有安全围栏的院子非常适合无绳玩耍。经过适当社交，它们通常与儿童和其他宠物相处良好，但牧羊本能可能导致追逐小动物。建议早期引入猫和其他狗。它们需要陪伴，不应长时间独处，否则可能产生分离焦虑。提供舒适的床、互动玩具和专属空间。规律的日常和智力刺激可防止破坏行为。它们不适合久坐的家庭。"
+    }
+  }
 }

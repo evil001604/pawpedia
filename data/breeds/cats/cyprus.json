@@ -70,5 +70,27 @@
       "en": "Social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cyprus cat is an affectionate, social, and inquisitive breed that forms strong bonds with its family. Known for its loving and loyal nature, this cat loves to be involved in all household activities. It is not overly active, making it an ideal companion for those seeking a laid-back, relaxed feline friend. The Cyprus cat is intelligent and curious, often following its owners around the house. It adapts well to various living situations and thrives on human interaction. With a gentle and friendly demeanor, it gets along well with children and other pets, making it a wonderful family pet.",
+      "zh": "塞浦路斯猫是一种深情、社交且好奇的品种，与家人建立牢固的联系。以其充满爱心和忠诚的性格而闻名，这种猫喜欢参与家庭中的所有活动。它不太活跃，是那些想要一个悠闲、放松的猫咪伴侣的人的理想选择。塞浦路斯猫聪明好奇，经常跟随主人在房子里走动。它能很好地适应各种生活环境，并在人类互动中茁壮成长。性格温和友好，与孩子和其他宠物相处融洽，是一个极好的家庭宠物。"
+    },
+    "care": {
+      "en": "Daily care for a Cyprus cat includes regular grooming to keep its coat healthy. Brush it once or twice a week to remove loose hair and prevent matting. Provide interactive toys and engage in play sessions for at least 15-20 minutes daily to stimulate its mind and maintain a healthy weight. Schedule annual veterinary check-ups for vaccinations and health screenings. Dental care is important; brush its teeth several times a week. Trim nails regularly and clean ears as needed. This breed is generally healthy but monitor for common issues like obesity.",
+      "zh": "塞浦路斯猫的日常护理包括定期梳理毛发以保持被毛健康。每周刷毛一到两次，去除死毛并防止打结。提供互动玩具，每天至少进行15-20分钟的玩耍时间，以刺激其智力并保持健康体重。安排年度兽医检查，进行疫苗接种和健康筛查。牙齿护理很重要；每周刷牙几次。定期修剪指甲并根据需要清洁耳朵。这个品种通常健康，但需注意肥胖等常见问题。"
+    },
+    "training": {
+      "en": "Cyprus cats are intelligent and respond well to positive reinforcement training. Use treats and praise to encourage desired behaviors. Start training early, focusing on basic commands like 'sit' and 'come'. Litter box training is usually straightforward. Provide scratching posts to protect furniture. Avoid punishment; instead, redirect unwanted behaviors. Keep training sessions short and fun to maintain engagement. Socialize them gradually to new people and experiences. Their social nature makes them eager to please, so training is often a bonding experience.",
+      "zh": "塞浦路斯猫很聪明，对积极强化训练反应良好。使用零食和表扬来鼓励期望的行为。尽早开始训练，重点放在基本指令如“坐下”和“过来”。猫砂盆训练通常很简单。提供抓板以保护家具。避免惩罚，而是引导不良行为。保持训练课程简短有趣以保持参与度。逐步让它们社交化，接触新的人和经历。它们社交的天性使它们渴望取悦主人，因此训练通常是一种增进感情的经历。"
+    },
+    "diet": {
+      "en": "Feed your Cyprus cat a high-quality, balanced diet appropriate for its age, size, and activity level. Choose a commercial cat food that lists meat as the first ingredient. Provide fresh water at all times. Divide daily food into two or three meals to prevent overeating. Monitor weight and adjust portions as needed. Avoid excessive treats; use them sparingly during training. Consider wet food for hydration. Consult your veterinarian for specific dietary recommendations, especially if your cat has health issues. A healthy diet supports their overall well-being and longevity.",
+      "zh": "为你的塞浦路斯猫提供适合其年龄、体型和活动水平的高质量均衡饮食。选择以肉类为首要成分的商业猫粮。随时提供新鲜饮用水。将每日食物分成两到三餐，防止过量进食。监测体重并根据需要调整份量。避免过多零食；在训练中少量使用。考虑湿粮以增加水分摄入。咨询兽医获取具体的饮食建议，特别是如果你的猫有健康问题。健康的饮食支持其整体健康和长寿。"
+    },
+    "livingTips": {
+      "en": "The Cyprus cat adapts well to apartment living but enjoys having access to vertical spaces like cat trees or shelves. It is not overly active, so a moderate amount of space is sufficient. Provide scratching posts and interactive toys. This breed is very social and thrives on companionship; it does best in homes where someone is present most of the day. It gets along well with children and other pets if properly introduced. Ensure a safe environment by securing windows and removing toxic plants. Cyprus cats are indoor cats to protect them from hazards.",
+      "zh": "塞浦路斯猫适合公寓生活，但喜欢有猫爬架或搁板等垂直空间。它不太活跃，因此适中的空间就足够了。提供抓板和互动玩具。这个品种非常社交，需要陪伴；最好在白天有人陪伴的家庭中生活。如果适当介绍，它能与孩子和其他宠物相处融洽。通过固定窗户和移除有毒植物来确保安全环境。塞浦路斯猫是室内猫，以保护它们免受危险。"
+    }
+  }
 }

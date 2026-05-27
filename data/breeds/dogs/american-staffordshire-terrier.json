@@ -86,5 +86,27 @@
       "en": "smart",
       "zh": "机灵"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Staffordshire Terrier is a confident, courageous, and loyal breed. Known for their intelligence and eagerness to please, they are highly trainable and make excellent family companions. Despite their muscular build and terrier tenacity, they are gentle and affectionate with their owners. Early socialization is crucial to ensure they develop into well-mannered adults. They thrive on human interaction and can be protective, making them good watchdogs. Overall, they are versatile dogs that excel in various activities, from obedience to agility.",
+      "zh": "美国斯塔福德郡梗是一种自信、勇敢且忠诚的犬种。以其聪明和渴望取悦主人而闻名，它们非常易于训练，是优秀的家庭伴侣。尽管体格强壮且具有梗犬的坚韧，但它们对主人温柔且充满感情。早期社会化至关重要，以确保它们成长为举止得体的成年犬。它们喜欢与人互动，并具有保护性，因此是很好的看门犬。总体而言，这是一种多才多艺的犬种，在服从性、敏捷性等各种活动中表现出色。"
+    },
+    "care": {
+      "en": "Daily care for an American Staffordshire Terrier includes moderate grooming: brush their short coat weekly to reduce shedding, bathe only when necessary. Their nails should be trimmed monthly, and ears checked weekly for dirt. Exercise is vital—they need at least 60 minutes of vigorous activity daily, such as brisk walks, running, or play sessions. Mental stimulation through puzzle toys or training is equally important. Regular veterinary check-ups, vaccinations, and parasite prevention are essential. Monitor for common health issues like hip dysplasia and skin allergies.",
+      "zh": "美国斯塔福德郡梗的日常护理包括适度的梳理：每周刷毛一次以减少脱毛，必要时才洗澡。每月修剪指甲，每周检查耳朵是否有污垢。运动至关重要——每天至少需要60分钟的剧烈活动，如快走、跑步或玩耍。通过益智玩具或训练进行精神刺激同样重要。定期兽医检查、疫苗接种和寄生虫预防必不可少。注意常见健康问题，如髋关节发育不良和皮肤过敏。"
+    },
+    "training": {
+      "en": "Training should start early with positive reinforcement methods like treats, praise, and play. This breed is smart and eager to learn, but can be stubborn, so consistency is key. Focus on basic obedience and socialization with people and other animals from puppyhood. Use short, engaging sessions to maintain their attention. Avoid harsh corrections as they can be sensitive. Channel their energy into structured activities like agility, obedience trials, or nose work. A well-trained AmStaff is a confident, reliable companion.",
+      "zh": "训练应尽早开始，采用正面强化方法，如零食、表扬和玩耍。这个品种聪明且渴望学习，但可能固执，因此一致性至关重要。从幼犬时期开始，专注于基本服从性以及与人和其他动物的社会化。使用简短、有趣的训练课程以保持其注意力。避免严厉的纠正，因为它们可能敏感。将它们的精力引导到结构化活动中，如敏捷性、服从性比赛或鼻子工作。训练有素的美国斯塔福德郡梗是自信、可靠的伴侣。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Divide daily intake into two meals to prevent bloat, a risk in deep-chested breeds. Protein should come from animal sources like chicken, beef, or fish. Include healthy fats for coat health and carbohydrates for energy. Avoid fillers like corn and soy. Treats should be given in moderation. Always provide fresh water. Consult your vet for portion sizes and dietary adjustments, especially if your dog has food allergies or sensitivities.",
+      "zh": "喂食适合其年龄、体型和活动水平的高质量狗粮。将每日摄入量分为两餐，以预防胃胀气——这是深胸犬种的风险。蛋白质应来自动物源，如鸡肉、牛肉或鱼。包括健康脂肪以维护毛发健康，以及碳水化合物以提供能量。避免玉米和大豆等填充物。零食应适量给予。始终提供新鲜饮水。咨询兽医以确定份量和饮食调整，特别是如果您的狗有食物过敏或不耐受。"
+    },
+    "livingTips": {
+      "en": "American Staffordshire Terriers can adapt to apartment living if sufficiently exercised, but they do best with a securely fenced yard. They are not suited for outdoor living; they need to be indoors with their family. With proper socialization, they get along well with children and can be good with other pets, though some may have dog aggression. Supervise interactions with small animals. They are sensitive to extreme temperatures. Provide a comfortable bed and plenty of interactive toys to prevent boredom.",
+      "zh": "美国斯塔福德郡梗如果得到充分锻炼，可以适应公寓生活，但最好有一个安全围栏的院子。它们不适合户外生活，需要与家人一起在室内。通过适当的社会化，它们能与孩子相处融洽，并可能与其他宠物友好，但有些可能对狗有攻击性。与小型动物互动时需监督。它们对极端温度敏感。提供舒适的床和大量互动玩具，以防止无聊。"
+    }
+  }
 }

@@ -86,5 +86,27 @@
       "en": "confident",
       "zh": "自信"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Beauceron is a large, intelligent, and loyal herding breed from France, known for its protective nature and confidence. Bred for centuries to herd and guard livestock, this dog is courageous and highly trainable, making it an excellent working dog and family protector. Beaucerons are typically reserved with strangers but deeply devoted to their family. They require an experienced owner who can provide consistent leadership and ample mental and physical stimulation. Their herding instincts may lead them to try to herd children or other pets, but with proper socialization, they can be gentle and reliable companions.",
+      "zh": "波什罗犬是一种大型、聪明且忠诚的牧羊犬种，源自法国，以其保护性和自信著称。几个世纪以来，它们被培育用于放牧和守卫牲畜，这种犬勇敢且训练性极高，是优秀的工作犬和家庭护卫犬。波什罗犬通常对陌生人保持警惕，但对家人极为忠诚。它们需要有经验的主人提供一致的领导以及充足的精神和身体刺激。它们的牧羊本能可能导致它们试图放牧孩子或其他宠物，但通过适当的社交，它们可以成为温和可靠的伴侣。"
+    },
+    "care": {
+      "en": "Beaucerons have a short, dense double coat that sheds moderately year-round and heavily twice a year. Weekly brushing is sufficient most of the time, but daily brushing during shedding seasons helps manage loose hair. Bathing is only needed occasionally. Their nails should be trimmed regularly, and ears checked for debris. Exercise is crucial: they need at least 60-90 minutes of vigorous activity daily, including running, hiking, or agility. Mental stimulation through puzzle toys or training sessions is equally important. Regular veterinary check-ups are essential to monitor for hip dysplasia, eye disorders, and bloat.",
+      "zh": "波什罗犬拥有短而密的双层被毛，全年中等程度脱毛，每年两次大量脱毛。平时每周梳理一次即可，但在换毛季节需要每日梳理以处理脱落的毛发。偶尔洗澡即可。需要定期修剪指甲，并检查耳朵是否有杂物。运动至关重要：它们每天需要至少60-90分钟的剧烈活动，包括跑步、远足或敏捷训练。通过益智玩具或训练进行精神刺激同样重要。定期兽医检查对于监测髋关节发育不良、眼部疾病和胃扭转至关重要。"
+    },
+    "training": {
+      "en": "Beaucerons are highly intelligent and eager to please, but they can be independent and strong-willed. Training should start early with firm, consistent, and positive reinforcement methods. Harsh corrections are counterproductive; instead, use rewards like treats, praise, and play. Socialization from puppyhood is critical to prevent wariness of strangers and aggression toward other dogs. They excel in advanced obedience, agility, and herding trials. Keep training sessions varied and engaging to maintain their interest. A bored Beauceron can become destructive.",
+      "zh": "波什罗犬非常聪明且渴望取悦主人，但它们也可能独立且固执。训练应尽早开始，采用坚定、一致且积极的强化方法。严厉的纠正适得其反；相反，使用零食、表扬和游戏等奖励。从小进行社会化训练至关重要，以防止对陌生人的警惕和对其他狗的 aggression。它们在高级服从、敏捷性和牧羊比赛中表现出色。保持训练多样化且有趣，以维持它们的兴趣。无聊的波什罗犬可能会变得具有破坏性。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. Beaucerons are prone to bloat (gastric dilatation-volvulus), so avoid feeding one large meal daily; instead, divide their daily ration into two or three smaller meals. Avoid vigorous exercise immediately before and after eating. Monitor weight closely to prevent obesity, which can exacerbate joint issues. Supplements like glucosamine and chondroitin may benefit joint health, especially in older dogs. Always provide fresh, clean water.",
+      "zh": "喂食适合犬龄、体型和活动水平的高品质狗粮。波什罗犬易患胃扭转，因此避免每日只喂一顿大餐；应将每日食量分成两到三顿小餐。避免在进食前后立即进行剧烈运动。密切监控体重以防止肥胖，肥胖会加剧关节问题。补充葡萄糖胺和软骨素可能有益于关节健康，尤其是老年犬。始终提供新鲜干净的水。"
+    },
+    "livingTips": {
+      "en": "Beaucerons are not ideal for apartment living due to their high energy and need for space. They thrive in homes with large, securely fenced yards where they can run. They are best suited for active families or individuals who can dedicate time to exercise and training. With proper socialization, they can get along well with children and other pets, but their herding instinct may cause them to nip at heels. Supervision is recommended around small children. They are protective and make excellent watchdogs, but early training is needed to prevent excessive barking.",
+      "zh": "波什罗犬不适合公寓生活，因为它们精力旺盛且需要空间。它们在有大型安全围栏庭院的家中茁壮成长，可以自由奔跑。最适合活跃的家庭或个人，能够投入时间进行锻炼和训练。通过适当的社交，它们可以很好地与孩子和其他宠物相处，但牧羊本能可能导致它们轻咬脚跟。建议在小孩子身边进行监督。它们具有保护性，是优秀的看门犬，但需要早期训练以防止过度吠叫。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Briquet de Provence is a medium-sized scent hound originating from Provence, France, known for its gentle, intelligent, and alert nature. This breed is friendly, devoted, and highly adaptable, making it an excellent companion for active families. With a keen sense of smell and a melodious bark, they excel in hunting small game like hares. Their balanced temperament combines energy with calmness, and they thrive on human companionship. Despite their hunting instincts, they are gentle with children and other dogs when properly socialized. The breed's history includes near extinction after WWII, but dedicated breeders revived it, leading to FCI recognition in 1983.",
+      "zh": "普罗旺斯小猎犬是一种中型嗅觉猎犬，原产于法国普罗旺斯，以温顺、聪明和警觉著称。该品种友善、忠诚且适应性强，是活跃家庭的优秀伴侣。它们嗅觉灵敏，叫声悦耳，擅长狩猎野兔等小型猎物。其平衡的气质结合了活力与冷静，并渴望人类陪伴。尽管有狩猎本能，但经过适当社交后，它们对孩子和其他狗很温和。该品种在二战后几乎灭绝，但通过育种者的努力得以复兴，并于1983年获得FCI认可。"
+    },
+    "care": {
+      "en": "Daily care for the Briquet de Provence includes moderate exercise such as long walks or runs in a secure area, as they have a strong prey drive. Their short, dense coat requires weekly brushing to remove loose hair, with more frequent grooming during shedding seasons. Regular ear cleaning is essential to prevent infections due to their floppy ears. Nail trimming monthly and dental care (brushing 2-3 times per week) are recommended. Annual vet check-ups, vaccinations, and parasite prevention are crucial. They are generally healthy but prone to ear infections and hip dysplasia, so weight management and regular vet visits are important.",
+      "zh": "普罗旺斯小猎犬的日常护理包括适度运动，如长时间散步或在安全区域奔跑，因为它们有强烈的捕猎本能。其短而密的被毛需要每周梳理一次以去除死毛，换毛季需更频繁。定期清洁耳朵对预防感染至关重要，因为它们有垂耳。每月修剪指甲，每周刷牙2-3次。建议每年进行兽医检查、疫苗接种和寄生虫预防。该品种通常健康，但易患耳部感染和髋关节发育不良，因此体重管理和定期兽医检查很重要。"
+    },
+    "training": {
+      "en": "Training a Briquet de Provence requires patience and positive reinforcement methods, as they are sensitive and intelligent. Use treats and praise to motivate, and keep sessions short and engaging to maintain focus. Early socialization is vital to curb their hunting instincts and ensure they are well-mannered around other animals and people. They respond well to consistency and gentle leadership; harsh corrections can cause them to shut down. Scent games and tracking exercises are excellent mental stimulation. Obedience training should begin early, and recall training is especially important given their independent nature.",
+      "zh": "训练普罗旺斯小猎犬需要耐心和积极强化方法，因为它们敏感且聪明。使用零食和表扬来激励，保持训练简短有趣以维持注意力。早期社会化对抑制其狩猎本能、确保它们对其他动物和人举止得体至关重要。它们对一致性和温和的领导反应良好；严厉的纠正可能导致它们退缩。嗅觉游戏和追踪练习是极好的心理刺激。应尽早开始服从训练，鉴于其独立性，召回训练尤为重要。"
+    },
+    "diet": {
+      "en": "Feed the Briquet de Provence a high-quality dog food appropriate for their age, size, and activity level. A diet rich in protein and healthy fats supports their active lifestyle. Divide daily food into two meals to prevent bloat, a risk in deep-chested breeds. Avoid overfeeding and monitor treats to maintain a healthy weight. Fresh water should always be available. Consult your vet for specific dietary needs, especially if your dog is prone to allergies or digestive issues. Some may benefit from joint supplements like glucosamine as they age.",
+      "zh": "为普罗旺斯小猎犬提供适合其年龄、体型和活动水平的高质量狗粮。富含蛋白质和健康脂肪的饮食有助于支持其活跃的生活方式。将每日食物分成两餐以防止胃胀气——这是深胸品种的风险。避免过度喂食并监控零食以保持健康体重。始终提供新鲜饮水。如有特殊饮食需求（如过敏或消化问题），请咨询兽医。随着年龄增长，一些狗可能受益于葡萄糖胺等关节补充剂。"
+    },
+    "livingTips": {
+      "en": "The Briquet de Provence adapts well to various living situations but thrives in homes with a securely fenced yard where they can explore and play. They can live in apartments if given sufficient exercise, but their barking tendency may be an issue in close quarters. They are good with children and other dogs when raised together, but due to their hunting instincts, caution is needed with small pets like cats or rodents. Mental stimulation is essential to prevent boredom. They enjoy being part of family activities and should not be left alone for long periods.",
+      "zh": "普罗旺斯小猎犬能适应各种生活环境，但最好有安全围栏的院子供其探索和玩耍。如果运动充足，它们也能住在公寓，但吠叫倾向可能在近距离成为问题。它们与孩子和其他狗相处良好（若一起长大），但由于狩猎本能，需谨慎对待猫或啮齿动物等小宠物。心理刺激对防止无聊至关重要。它们喜欢参与家庭活动，不应长时间独处。"
+    }
+  }
 }

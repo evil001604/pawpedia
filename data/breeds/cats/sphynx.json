@@ -82,5 +82,27 @@
       "en": "Gentle",
       "zh": "温和"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Sphynx is a loyal, inquisitive, and friendly cat breed known for its hairless appearance and warm, suede-like skin. Despite their serious expression, they possess a playful and humorous personality. They are people-oriented, often greeting their owners at the door with excitement. Sphynx cats are gentle, quiet, and highly intelligent, making them excellent companions. They thrive on human interaction and can be quite affectionate, seeking warmth and cuddles. Their curious nature drives them to explore their surroundings, and they are known for their acrobatic antics. Overall, the Sphynx is a unique and loving breed that bonds deeply with its family.",
+      "zh": "斯芬克斯猫以其无毛的外观和温暖如绒面革的皮肤而闻名，性格忠诚、好奇且友善。尽管表情严肃，它们却拥有顽皮和幽默的个性。这种猫以人为中心，常常兴奋地在门口迎接主人。斯芬克斯猫温柔、安静且非常聪明，是极好的伴侣。它们渴望与人互动，非常亲昵，喜欢寻求温暖和拥抱。好奇的天性驱使它们探索周围环境，并以杂技般的动作著称。总的来说，斯芬克斯猫是一种独特且充满爱心的品种，与家庭建立深厚的情感纽带。"
+    },
+    "care": {
+      "en": "Daily care for a Sphynx includes regular bathing (weekly) to remove oil buildup on their skin, as they lack fur to absorb it. Clean their ears weekly with a gentle solution to prevent wax accumulation. Trim nails every two weeks. Brush their teeth regularly to maintain dental health. Since they have no coat, they are sensitive to temperature changes; keep them warm with sweaters or blankets in cold weather. Provide plenty of interactive toys and climbing structures for exercise. Annual vet visits are essential, with attention to skin and dental checkups. Also, protect them from sunburn by limiting direct sunlight exposure.",
+      "zh": "斯芬克斯猫的日常护理包括每周洗澡以去除皮肤上积聚的油脂，因为它们没有毛发来吸收油脂。每周用温和的清洁液清理耳朵，防止耳垢堆积。每两周修剪指甲。定期刷牙以保持口腔健康。由于没有毛发，它们对温度变化敏感；在寒冷天气里用毛衣或毯子保暖。提供充足的互动玩具和攀爬结构供其运动。每年进行一次兽医检查，重点关注皮肤和牙齿健康。同时，限制直接日晒以防晒伤。"
+    },
+    "training": {
+      "en": "Sphynx cats are intelligent and eager to please, making training relatively easy. Use positive reinforcement techniques like treats, praise, and clicker training. They respond well to short, consistent sessions. Teach basic commands such as 'sit', 'stay', and 'come'. Litter box training is usually straightforward; keep the box clean and in a quiet location. Socialize them early with people and other pets to foster their friendly nature. They can be trained to walk on a leash with patience. Avoid harsh punishment, as it can damage trust. Their playful nature can be channeled into learning tricks like fetching or jumping through hoops.",
+      "zh": "斯芬克斯猫聪明且乐于取悦主人，训练相对容易。使用正面强化技巧，如零食、表扬和响片训练。它们对简短、一致的训练反应良好。教授基本指令如“坐”、“等”和“来”。猫砂盆训练通常简单；保持猫砂盆清洁并放置在安静处。早期与人和其他宠物社交，以培养其友好性格。可以耐心训练它们用牵引绳散步。避免严厉惩罚，以免破坏信任。它们顽皮的天性可引导学习取物或钻圈等把戏。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich diet to support their high metabolism and energy levels. Sphynx cats have a fast metabolism due to their lack of fur, which requires more calories to maintain body heat. Choose wet or dry food with real meat as the first ingredient. Avoid fillers like corn and soy. Provide fresh water at all times. Divide meals into 2-3 portions daily to prevent overeating. Monitor weight closely, as they can become overweight. Consult your vet for specific dietary needs, especially if your cat has skin sensitivities. Supplements like omega-3 fatty acids can promote healthy skin.",
+      "zh": "喂食高质量、富含蛋白质的饮食，以支持其高代谢和能量水平。斯芬克斯猫由于无毛，新陈代谢快，需要更多热量维持体温。选择以真肉为首要成分的湿粮或干粮。避免玉米和大豆等填充物。随时提供新鲜水。每日分2-3餐，防止暴食。密切监测体重，因为它们容易超重。咨询兽医了解特定饮食需求，特别是如果猫有皮肤敏感。补充欧米伽-3脂肪酸有助于皮肤健康。"
+    },
+    "livingTips": {
+      "en": "Sphynx cats are ideal for apartments as they are quiet and adapt well to indoor living. They need a warm environment; provide heated beds or blankets. They get along well with children and other pets if properly socialized. Their friendly nature makes them great family pets. Ensure the home has plenty of vertical space like cat trees for climbing. Sphynx cats are curious and may get into trouble, so secure cabinets and hide electrical cords. They enjoy interactive play and human companionship, so avoid leaving them alone for long periods. A fenced yard is not necessary but can be used under supervision.",
+      "zh": "斯芬克斯猫非常适合公寓生活，因为它们安静且适应室内环境。它们需要温暖的环境；提供加热床或毯子。如果适当社交，它们能与儿童和其他宠物和睦相处。友善的性格使它们成为优秀的家庭宠物。确保家中有足够的垂直空间如猫树供攀爬。斯芬克斯猫好奇，可能惹麻烦，因此锁好橱柜并隐藏电线。它们喜欢互动游戏和人类陪伴，避免长时间独处。有围栏的院子非必需，但可在监护下使用。"
+    }
+  }
 }

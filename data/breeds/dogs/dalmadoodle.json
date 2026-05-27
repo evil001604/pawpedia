@@ -86,5 +86,27 @@
       "en": "alert",
       "zh": "机警"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Dalmadoodle is a designer crossbreed between a Dalmatian and a Standard Poodle, known for its intelligence, energy, and friendly disposition. They are loyal, alert, and highly trainable, making them excellent family companions. Their coat can vary from short and smooth to curly and low-shedding, depending on the dominant genes. They typically inherit the Dalmatian's athletic build and the Poodle's sharp mind, requiring both physical and mental stimulation. This breed is generally good with children and other pets when properly socialized, but their high energy levels demand an active owner. They thrive on human interaction and can become destructive if left alone for long periods.",
+      "zh": "达尔马杜德犬是大麦町犬与标准贵宾犬的混血设计犬种，以聪明、精力充沛和友善的性格著称。它们忠诚、警觉且易于训练，是优秀的家庭伴侣。被毛因显性基因不同而异，可能短而平滑，也可能卷曲且低脱毛。它们通常继承了大麦町犬的运动体格和贵宾犬的敏锐头脑，需要大量身体和智力刺激。该犬种在适当社交下通常对儿童和其他宠物友好，但高能量水平要求主人活跃。它们渴望与人互动，长时间独处可能变得具有破坏性。"
+    },
+    "care": {
+      "en": "Daily care for a Dalmadoodle includes at least 60 minutes of vigorous exercise such as running, hiking, or fetch. Grooming needs vary: if the coat is more Poodle-like, brush daily to prevent matting and schedule professional grooming every 6-8 weeks; if shorter, weekly brushing suffices. Bathe only when necessary using a mild dog shampoo. Clean ears weekly to prevent infections, trim nails monthly, and brush teeth several times a week. Annual vet visits for check-ups and vaccinations are essential. Due to potential Dalmatian health issues like deafness and urinary stones, regular hearing tests and a low-purine diet may be recommended.",
+      "zh": "达尔马杜德犬的日常护理包括至少60分钟的剧烈运动，如跑步、远足或接球游戏。美容需求因被毛类型而异：若更接近贵宾犬，需每日梳理以防打结，每6-8周专业美容一次；若被毛较短，每周梳理即可。必要时使用温和犬用香波洗澡。每周清洁耳朵以防感染，每月修剪指甲，每周刷牙数次。每年带犬进行体检和疫苗接种。鉴于大麦町犬可能遗传耳聋和尿结石，建议定期听力测试并采用低嘌呤饮食。"
+    },
+    "training": {
+      "en": "Dalmadoodles are highly intelligent and eager to please, making training relatively straightforward. Use positive reinforcement techniques like treats, praise, and play. Start socialization and basic obedience early, exposing them to various people, animals, and environments. They can be stubborn at times, so consistency and patience are key. Short, varied sessions (10-15 minutes) prevent boredom. Crate training helps with housebreaking and provides a safe space. Due to their high energy, incorporate mental challenges like puzzle toys or agility training to keep them engaged. Avoid harsh corrections as they may cause fear or resistance.",
+      "zh": "达尔马杜德犬非常聪明且渴望取悦，训练相对容易。采用正向强化方法，如零食、表扬和游戏。尽早开始社交化和基础服从训练，让它们接触不同的人、动物和环境。它们有时会固执，因此一致性和耐心至关重要。简短多样的训练（10-15分钟）可防止厌倦。笼内训练有助于定点排便并提供安全空间。鉴于其高能量，融入智力挑战如益智玩具或敏捷训练以保持参与感。避免严厉纠正，否则可能引起恐惧或抗拒。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their life stage (puppy, adult, senior). Dalmadoodles are prone to obesity, so measure portions and limit treats. Because Dalmatians can have a genetic predisposition to urinary stones (urate stones), a low-purine diet is often recommended. Avoid high-purine foods like organ meats, sardines, and certain fish. Ensure fresh water is always available. Some Dalmadoodles may have food allergies; monitor for signs like itching or digestive upset. Consult your vet for specific dietary recommendations, especially regarding purine levels. Divide daily food into two meals to prevent bloat.",
+      "zh": "喂食适合其生命阶段（幼犬、成犬、老年犬）的高品质狗粮。达尔马杜德犬易肥胖，因此需控制分量并限制零食。由于大麦町犬可能遗传尿酸结石，建议采用低嘌呤饮食。避免高嘌呤食物，如动物内脏、沙丁鱼和某些鱼类。确保随时提供新鲜饮水。部分达尔马杜德犬可能有食物过敏，注意瘙痒或消化不良等症状。咨询兽医获取具体饮食建议，特别是嘌呤含量方面。每日分两餐喂食以防止胃胀气。"
+    },
+    "livingTips": {
+      "en": "Dalmadoodles do best in homes with fenced yards where they can run freely, but they can adapt to apartment living if given sufficient exercise. They are not suited for sedentary households. They are generally good with children, but due to their high energy, they may accidentally knock over small kids. Supervision is recommended. With proper socialization, they get along well with other dogs and pets. They are alert and make good watchdogs, but may bark excessively if not trained. They are sensitive to heat due to their short coat (if Dalmatian-like) and should not be left outside in hot weather. They thrive on companionship and should not be left alone for long hours.",
+      "zh": "达尔马杜德犬最适合有围栏院子的家庭以便自由奔跑，但若给予充分运动也能适应公寓生活。它们不适合久坐不动的家庭。通常对儿童友好，但因精力旺盛可能无意中撞倒幼童，建议监督。适当社交后，它们能与其他狗和宠物和睦相处。它们警觉且是良好的看门犬，但若不训练可能过度吠叫。若被毛偏大麦町犬，则对热敏感，炎热天气不应留在户外。它们渴望陪伴，不宜长时间独处。"
+    }
+  }
 }

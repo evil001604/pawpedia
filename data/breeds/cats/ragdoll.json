@@ -82,5 +82,27 @@
       "en": "Easygoing",
       "zh": "随和"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Ragdoll is a large, semi-longhaired cat breed known for its striking blue eyes, colorpoint coat, and exceptionally docile temperament. True to their name, these cats often go limp with relaxation when picked up, making them a favorite among those who enjoy a truly affectionate lap cat. They are gentle, quiet, and incredibly easygoing, rarely displaying aggression or excessive vocalization. Ragdolls form deep bonds with their human families, often greeting them at the door and following them from room to room. They are social, friendly with strangers, and adapt well to various living situations. While they enjoy interactive play, they are not overly energetic and are content to spend hours cuddling. Their trusting and placid nature makes them wonderful companions for families, seniors, and first-time cat owners alike.",
+      "zh": "布偶猫是一种大型、半长毛猫品种，以其迷人的蓝眼睛、重点色被毛和异常温顺的性格而闻名。顾名思义，这种猫在被抱起时常会全身放松、软绵绵的，是喜爱真正粘人伴侣猫人士的理想选择。它们性格温和、安静，且极其随和，很少表现出攻击性或过度叫唤。布偶猫与人类家庭建立深厚的情感联系，常常在门口迎接主人，并跟随主人从一个房间到另一个房间。它们善于社交，对陌生人友好，并且能很好地适应各种生活环境。虽然它们喜欢互动游戏，但精力并不过剩，很乐意花上几个小时依偎在主人身边。它们信任他人且性格温和，是家庭、老人和初次养猫者的绝佳伴侣。"
+    },
+    "care": {
+      "en": "Ragdolls have a silky, semi-long coat that mats easily if not brushed regularly. Aim to brush your Ragdoll at least three times per week with a stainless steel comb or slicker brush to remove loose hair and prevent tangles. During seasonal shedding, daily brushing is recommended. They are an indoor-only breed due to their trusting nature, so provide a safe indoor environment with cat trees, scratching posts, and interactive toys for daily exercise. While they are not high-energy, they benefit from 15–20 minutes of playtime daily. Nail trimming every two weeks, ear cleaning as needed, and regular dental care are essential. Schedule annual veterinary check-ups and keep vaccinations and parasite prevention up to date. Their calm demeanor makes them easy to handle during grooming and vet visits.",
+      "zh": "布偶猫拥有丝滑的半长毛，如果不定期梳理很容易打结。建议每周至少用不锈钢梳或针梳梳理三次，以去除浮毛并防止毛结。在季节性换毛期，最好每天梳理。由于它们性格过于信任他人，布偶猫必须作为纯室内猫饲养。请提供安全的室内环境，包括猫爬架、抓板和互动玩具，以满足日常运动需求。虽然它们精力不算旺盛，但每天15-20分钟的玩耍时间对它们有益。每两周修剪一次指甲，根据需要清洁耳朵，并坚持定期进行牙齿护理。每年安排一次兽医体检，并确保疫苗接种和驱虫及时更新。它们冷静的性情使得美容和兽医就诊都相对轻松。"
+    },
+    "training": {
+      "en": "Ragdolls are highly intelligent and eager to please, making them responsive to positive reinforcement training. Use treats, praise, and clicker training to teach basic commands like 'sit', 'come', and 'stay'. They can also learn fun tricks such as fetching toys or giving a high-five. Because they are sensitive and gentle, avoid harsh corrections or shouting, which can damage their trust. Litter box training is usually straightforward, as Ragdolls are naturally clean. Introduce a scratching post early and reward them for using it to protect your furniture. Leash training is possible and can be a safe way to explore outdoors. Keep training sessions short (5–10 minutes) and end on a positive note. Their desire for human interaction makes them enthusiastic learners.",
+      "zh": "布偶猫非常聪明且渴望取悦主人，因此对正面强化训练反应良好。使用零食、赞美和响片训练来教授基本指令，如‘坐下’、‘过来’和‘别动’。它们还能学会有趣的把戏，比如捡回玩具或击掌。由于它们敏感而温和，请避免严厉纠正或大声呵斥，这会破坏它们的信任感。布偶猫天生爱干净，因此猫砂盆训练通常很简单。尽早引入猫抓板，并在它们使用时给予奖励，以保护家具。牵引绳训练是可行的，可以作为一种安全的户外探索方式。保持每次训练简短（5-10分钟），并在积极的氛围中结束。它们渴望与人互动的天性使其成为热情的学习者。"
+    },
+    "diet": {
+      "en": "Feed your Ragdoll a high-quality, balanced diet that is rich in animal protein and moderate in fat. Because Ragdolls are prone to obesity due to their relaxed lifestyle, portion control is crucial. Choose cat food formulated for indoor or less active cats to help manage weight. A combination of high-quality dry kibble and wet food provides hydration and dental benefits. Divide their daily portion into two or three meals rather than free-feeding. Fresh, clean water should always be available, and a cat water fountain can encourage drinking. Avoid overfeeding treats; use them sparingly during training. Consult your veterinarian for specific dietary recommendations based on your cat's age, weight, and health status. Some Ragdolls may have sensitive stomachs, so introduce new foods gradually over 7–10 days.",
+      "zh": "为布偶猫提供高质量、均衡的饮食，应以动物蛋白为主，脂肪含量适中。由于布偶猫生活方式较为慵懒，容易肥胖，因此控制食量至关重要。选择专为室内猫或活动量较少的猫咪配制的猫粮，有助于控制体重。优质干粮与湿粮搭配喂养，既能补充水分又有益于牙齿健康。将每日食量分成两到三餐喂食，避免自由采食。始终提供新鲜洁净的饮用水，使用猫用饮水机可以鼓励它们多喝水。避免过量喂食零食，训练时少量给予即可。请根据猫咪的年龄、体重和健康状况咨询兽医，获取具体的饮食建议。部分布偶猫肠胃敏感，因此换粮时应采用7-10天的渐进过渡法。"
+    },
+    "livingTips": {
+      "en": "Ragdolls are ideal for apartment living due to their calm, quiet nature and moderate activity level. They do not require a yard, but they benefit from vertical spaces like cat trees, shelves, and window perches to observe their surroundings. Ensure windows and balconies are securely screened, as their trusting nature makes them unaware of dangers. Ragdolls are excellent with children, often tolerating gentle handling and even being dressed up. They also get along well with other cats and cat-friendly dogs, especially if introduced slowly. Because they crave human companionship, they do not like being left alone for long periods. If you work long hours, consider adopting a pair so they can keep each other company. Their easygoing temperament makes them a perfect fit for multi-pet households.",
+      "zh": "由于布偶猫性格安静温和、活动量适中，它们非常适合公寓生活。它们不需要院子，但需要垂直空间，如猫爬架、搁板和窗台，以便观察周围环境。请确保窗户和阳台装有牢固的纱窗，因为它们过于信任他人，意识不到危险。布偶猫与孩子相处融洽，通常能容忍被温柔地摆弄，甚至被穿上衣服。它们也能与其他猫咪和友善的狗狗和睦相处，尤其是在缓慢引介的情况下。由于它们渴望人类陪伴，因此不喜欢长时间独处。如果你工作时间较长，可以考虑收养两只布偶猫，这样它们可以互相陪伴。它们随和的性格使其成为多宠物家庭的理想选择。"
+    }
+  }
 }

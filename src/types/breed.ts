@@ -39,6 +39,14 @@ export interface BreedHealth {
   careTips: LocalizedArray
 }
 
+export interface BreedCareGuide {
+  overview: LocalizedString
+  care: LocalizedString
+  training: LocalizedString
+  diet: LocalizedString
+  livingTips: LocalizedString
+}
+
 export interface Breed {
   id: string
   type: "dog" | "cat"
@@ -50,6 +58,7 @@ export interface Breed {
   traits: BreedTraits
   health: BreedHealth
   tags: LocalizedString[]
+  careGuide?: BreedCareGuide
 }
 
 export type PetType = "dog" | "cat"

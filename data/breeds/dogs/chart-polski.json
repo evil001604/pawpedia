@@ -98,5 +98,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chart Polski, or Polish Greyhound, is a majestic sighthound breed known for its independence, loyalty, and calm demeanor. Bred for hunting large game like wolves and boar, these dogs are courageous, alert, and protective. They form deep bonds with their family but can be reserved with strangers. Despite their size, they are gentle and composed indoors, yet require ample space to run. Their intelligence and confidence make them dignified companions, but they need an experienced owner who understands their independent nature.",
+      "zh": "波兰灵缇是一种威严的视觉猎犬，以独立、忠诚和冷静的气质著称。它们被培育用于猎狼和野猪等大型猎物，因此勇敢、警觉且具有保护性。它们与家人建立深厚感情，但对陌生人可能保持距离。尽管体型较大，它们在室内温和沉稳，但需要充足空间奔跑。它们的智慧和自信使其成为高贵的伴侣犬，但需要经验丰富的主人理解其独立性格。"
+    },
+    "care": {
+      "en": "Daily care for a Chart Polski includes minimal grooming due to their short coat—weekly brushing suffices, with more during shedding. They need vigorous exercise daily, at least 60-90 minutes of running in a safe, fenced area; they have a high prey drive and should be leashed otherwise. Regular veterinary check-ups are essential, with attention to heart and joint health. Nail trimming and ear cleaning should be done monthly. These dogs thrive with routine and benefit from mental stimulation through puzzle toys or scent work.",
+      "zh": "波兰灵缇的日常护理因短毛而简单，每周梳理一次即可，换毛期需增加频率。它们需要每天至少60-90分钟的剧烈运动，在安全围栏区域奔跑；由于猎性极强，外出必须牵绳。定期兽医检查至关重要，需关注心脏和关节健康。每月修剪指甲和清洁耳朵。它们喜欢规律生活，并通过益智玩具或嗅闻游戏获得精神刺激。"
+    },
+    "training": {
+      "en": "Training a Chart Polski requires patience and consistency, as they are independent and may be stubborn. Positive reinforcement methods work best—use treats and praise to motivate. Early socialization is crucial to temper their protective instincts and wariness of strangers. Keep sessions short and varied to hold their interest. Avoid harsh corrections, which can damage trust. Focus on recall training from puppyhood, as their hunting drive can override commands. They excel in lure coursing and other sighthound sports.",
+      "zh": "训练波兰灵缇需要耐心和一致性，因为它们独立且可能固执。最佳方法是正向强化——用零食和赞美激励。早期社会化至关重要，以缓和其保护本能和对陌生人的警惕。训练时间宜短且多变以保持兴趣。避免严厉纠正，以免破坏信任。从小训练召回指令，因为它们的猎性可能压倒命令。它们在诱饵追逐等视觉猎犬运动中表现出色。"
+    },
+    "diet": {
+      "en": "A Chart Polski's diet should be high-quality, with balanced protein and fat to support their athletic build. Feed a large-breed formula to manage growth and joint health. Portion control is important to prevent obesity; typically 3-4 cups of dry food daily, split into two meals. Include lean meats, fish, and vegetables for variety. Avoid overfeeding and limit treats. Fresh water must always be available. Consult a vet for specific needs, especially if active or pregnant.",
+      "zh": "波兰灵缇的饮食应高质量，均衡蛋白质和脂肪以支持运动体格。使用大型犬配方以控制生长和关节健康。控制食量防止肥胖，通常每天3-4杯干粮，分两次喂食。可添加瘦肉、鱼和蔬菜增加多样性。避免过量喂食，限制零食。始终提供新鲜饮水。如有特殊需求（如活跃或怀孕），请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "Chart Polski are not ideal for apartments due to their size and exercise needs; they thrive in homes with large, securely fenced yards. They are generally good with children if raised with them, but their size and energy may accidentally knock over toddlers. They can coexist with other dogs but may pursue small pets due to prey drive. They prefer moderate climates, as their short coat offers little protection from extreme cold or heat. Provide a comfortable bed and a quiet retreat.",
+      "zh": "波兰灵缇因体型和运动需求不适合公寓；它们在有大型安全围栏院子的家中茁壮成长。如果从小一起长大，通常对孩子友好，但体型和精力可能意外撞倒幼儿。它们能与其他狗共存，但因猎性可能追逐小宠物。偏好温和气候，短毛无法抵御严寒或酷热。提供舒适的床和安静的休息空间。"
+    }
+  }
 }

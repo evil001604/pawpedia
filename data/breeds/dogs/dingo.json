@@ -82,5 +82,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Dingo is a primitive, wild canid that embodies independence, intelligence, and adaptability. Unlike domesticated dogs, Dingos retain strong survival instincts, keen alertness, and a reserved nature. They are highly social within their packs but can be aloof and cautious with humans. Their intelligence and problem-solving skills are remarkable, yet they are not naturally eager to please, making them a challenging companion. Dingos are known for their endurance, agility, and ability to thrive in harsh Australian environments. They are not suited for novice owners and require experienced handlers who understand their wild heritage. Their personality is a blend of curiosity and wariness, and they form strong bonds with their family but may be distrustful of strangers.",
+      "zh": "澳洲野犬是一种原始野生犬科动物，具有独立性、智慧和适应性。与家犬不同，澳洲野犬保留着强烈的生存本能、敏锐的警觉性和内敛的性格。它们在族群内高度社交，但对人类可能冷漠谨慎。其智慧和解决问题的能力非常出色，但并非天生乐于取悦，因此作为伴侣犬颇具挑战性。澳洲野犬以耐力、敏捷性和适应澳大利亚严酷环境的能力而闻名。它们不适合新手主人，需要了解其野生血统的经验丰富的饲养者。它们的性格融合了好奇与警惕，能与家人建立深厚感情，但对陌生人可能不信任。"
+    },
+    "care": {
+      "en": "Caring for a Dingo requires significant commitment. Grooming is minimal: a weekly brush to manage shedding, with more frequent brushing during seasonal coat blows. Bathing is rarely needed due to their clean, odorless coat. Nail trimming and dental care should be performed regularly. Exercise is crucial—Dingos need at least 1-2 hours of vigorous activity daily, including running, hiking, or interactive play. They are escape artists and require secure, high fencing. Veterinary care must include routine vaccinations and parasite prevention, but note that standard dog vaccines may have reduced efficacy; consult a vet experienced with wild canids. Spaying/neutering is recommended to reduce roaming and aggression. Annual health checks are essential to monitor for conditions like hip dysplasia or dental issues.",
+      "zh": "照顾澳洲野犬需要大量投入。美容需求低：每周梳理一次以控制脱毛，换毛季需更频繁。因其被毛干净无味，几乎不需要洗澡。定期修剪指甲和清洁牙齿。运动至关重要——每天至少需要1-2小时的剧烈活动，包括跑步、远足或互动游戏。它们是逃跑专家，需要坚固的高围栏。兽医护理需包括常规疫苗接种和寄生虫预防，但注意标准犬类疫苗可能效果降低；应咨询有野生犬科经验的兽医。建议绝育以减少游荡和攻击性。每年体检以监测髋关节发育不良或牙齿问题等状况。"
+    },
+    "training": {
+      "en": "Training a Dingo is vastly different from training a domestic dog. They are intelligent but independent, and they do not respond well to force or repetition. Positive reinforcement with high-value rewards is essential. Short, engaging sessions work best; long drills cause boredom. Focus on building a relationship based on trust and respect. Early socialization is critical to prevent fearfulness and aggression. Dingos have a strong prey drive and may never be reliable off-leash. They excel at problem-solving tasks but may refuse commands if they see no benefit. Avoid punishment-based methods, which can trigger defensive aggression. Consistency and patience are key. Consider professional help from a trainer experienced with primitive breeds.",
+      "zh": "训练澳洲野犬与训练家犬截然不同。它们聪明但独立，对强迫或重复训练反应不佳。必须使用高价值奖励的积极强化法。短时间、有趣的训练效果最好；长时间操练会导致厌倦。重点建立基于信任和尊重的关系。早期社会化至关重要，以防止恐惧和攻击性。澳洲野犬有强烈的捕猎本能，可能永远无法可靠地松绳散步。它们擅长解决问题，但如果看不到好处可能拒绝指令。避免惩罚性方法，这会引发防御性攻击。一致性和耐心是关键。建议寻求有原始犬种训练经验的专业人士帮助。"
+    },
+    "diet": {
+      "en": "The Dingo's diet should mirror its natural wild intake as much as possible. A raw or high-protein diet is ideal, consisting of raw meat (e.g., chicken, beef, kangaroo), bones, and organ meats to provide balanced nutrition. Commercial high-quality dry food can be used but should be supplemented with fresh meat. Avoid grains and fillers, as Dingos have a short digestive tract adapted for meat. Feed two meals per day to prevent bloating. Always ensure fresh water is available. Treats should be used sparingly and for training. Avoid toxic foods like grapes, raisins, onions, and chocolate. Consult a veterinarian for portion sizes based on activity level and weight. Some Dingos may have food allergies, so monitor for skin or digestive issues.",
+      "zh": "澳洲野犬的饮食应尽可能模仿其自然野生摄入。生食或高蛋白饮食理想，包括生肉（如鸡肉、牛肉、袋鼠肉）、骨头和内脏，以提供均衡营养。可使用优质商业干粮，但应补充新鲜肉类。避免谷物和填充物，因为澳洲野犬的消化道较短，适应肉食。每日喂两餐以防止腹胀。始终确保有新鲜水。零食应少量用于训练。避免有毒食物如葡萄、葡萄干、洋葱和巧克力。根据活动水平和体重咨询兽医确定份量。部分澳洲野犬可能有食物过敏，需观察皮肤或消化问题。"
+    },
+    "livingTips": {
+      "en": "Dingos are not ideal for apartments due to their high energy and need for space. They thrive in large, securely fenced yards where they can roam and explore. The fence must be at least 6 feet high and dig-proof, as they are expert climbers and diggers. Dingos are not recommended for homes with small children or other pets, especially small animals, due to their strong prey drive. They can coexist with dogs of similar size if properly socialized, but same-sex aggression may occur. Dingos need mental stimulation: puzzle toys, scent games, and training sessions. They are sensitive to heat and need shade and cool water in summer. A Dingo is a lifelong commitment (12-15 years) and requires an owner who can meet their physical and psychological needs.",
+      "zh": "澳洲野犬不适合公寓生活，因其精力旺盛且需要空间。它们在大型、安全围栏的院子里茁壮成长，可以漫游探索。围栏至少需6英尺高且防挖，因为它们是攀爬和挖掘专家。不建议有小小孩或其他宠物的家庭饲养，尤其是小动物，因为其捕猎本能强烈。如果适当社会化，它们能与体型相近的狗共存，但可能发生同性攻击。澳洲野犬需要精神刺激：益智玩具、嗅觉游戏和训练课程。它们对热敏感，夏季需遮阴和凉水。饲养澳洲野犬是终身承诺（12-15年），需要能满足其身心需求的主人。"
+    }
+  }
 }

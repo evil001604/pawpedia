@@ -94,5 +94,27 @@
       "en": "protective",
       "zh": "保护欲"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Belgian Malinois is a highly intelligent, confident, and energetic herding breed from Belgium. Known for its unwavering loyalty, alertness, and strong work ethic, this dog thrives on having a job to do. It is protective and can be reserved with strangers, making it an excellent guard dog. The breed requires an experienced owner who can provide firm, consistent leadership and plenty of mental and physical stimulation. Without proper outlets, it may develop destructive behaviors. Its short coat is low-maintenance, but its intense drive means it is not a couch potato.",
+      "zh": "比利时马林诺斯犬是一种非常聪明、自信且精力充沛的牧羊犬，原产于比利时。以其坚定的忠诚、警觉性和强烈的工作热情而闻名，这种狗需要有任务才能茁壮成长。它保护性强，对陌生人可能有所保留，是优秀的护卫犬。该品种需要有经验的主人，提供坚定一致的领导，以及充足的精神和身体刺激。如果没有适当的发泄渠道，可能会出现破坏性行为。它的短毛易于打理，但强烈的驱动力意味着它不适合做沙发土豆。"
+    },
+    "care": {
+      "en": "Daily care for a Belgian Malinois includes at least 1-2 hours of vigorous exercise such as running, fetch, or agility training. Brushing twice a week with a rubber curry brush helps remove loose hair; more frequent during shedding seasons. Nail trimming every 3-4 weeks, ear cleaning weekly, and dental care are essential. Routine vet visits for vaccinations, parasite prevention, and health checks are crucial. This breed is prone to hip dysplasia, elbow dysplasia, and eye issues like progressive retinal atrophy, so genetic testing and regular screenings are recommended.",
+      "zh": "比利时马林诺斯犬的日常护理包括每天至少1-2小时的剧烈运动，如跑步、接球或敏捷训练。每周用橡胶刷梳毛两次有助于去除死毛；换毛季需更频繁。每3-4周修剪指甲，每周清洁耳朵，并注意牙齿护理。定期兽医检查，包括疫苗接种、寄生虫预防和健康评估至关重要。该品种易患髋关节发育不良、肘关节发育不良和进行性视网膜萎缩等眼部问题，因此建议进行基因检测和定期筛查。"
+    },
+    "training": {
+      "en": "Training a Belgian Malinois requires consistency, positive reinforcement, and early socialization. This breed excels in obedience, agility, and protection sports. Start with basic commands like sit, stay, and heel, using treats or toys as rewards. Keep sessions short (10-15 minutes) but frequent. Mental stimulation is as important as physical exercise; puzzle toys and scent work are excellent. Avoid harsh corrections as they can damage trust. Enroll in puppy classes to build confidence and reduce wariness. This dog is highly biddable and will thrive with a job, such as search and rescue or competitive dog sports.",
+      "zh": "训练比利时马林诺斯犬需要一致性、正面强化和早期社会化。该品种在服从、敏捷和护卫运动中表现出色。从基本命令如坐下、等待和随行开始，使用零食或玩具作为奖励。保持训练简短（10-15分钟）但频繁。精神刺激与身体锻炼同样重要；益智玩具和嗅觉工作效果很好。避免严厉纠正，以免破坏信任。参加幼犬课程以建立信心并减少警惕性。这种狗非常听话，有任务时（如搜救或竞技犬运动）会茁壮成长。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich diet suitable for active working breeds. Divide daily food into two meals to reduce bloat risk (common in deep-chested dogs). Portion sizes depend on age, weight, and activity level; an adult Malinois typically needs 2-3 cups of dry food per day. Avoid overfeeding to prevent obesity. Supplement with omega-3 fatty acids for coat health and joint supplements if prone to dysplasia. Always provide fresh water. Consult a vet for specific dietary needs, especially for puppies or seniors.",
+      "zh": "喂食适合活跃工作犬的高质量、高蛋白饮食。将每日食物分成两餐，以降低胃扭转风险（深胸犬常见）。份量取决于年龄、体重和活动水平；成年马林诺斯通常每天需要2-3杯干粮。避免过量喂食导致肥胖。补充Omega-3脂肪酸以促进皮毛健康，有关节发育不良倾向时添加关节补充剂。始终提供新鲜饮水。咨询兽医了解特定饮食需求，特别是幼犬或老年犬。"
+    },
+    "livingTips": {
+      "en": "The Belgian Malinois is best suited for a home with a securely fenced yard where it can run and play. Apartment living is possible only if given extensive daily exercise. This breed is not recommended for first-time owners due to its high drive and need for structure. With proper socialization, it can coexist with children and other pets, but its herding instinct may lead to nipping at heels. Supervision is needed around small animals. It thrives in an active family that includes it in daily activities and provides a clear leadership role.",
+      "zh": "比利时马林诺斯犬最适合有安全围栏院子的家庭，可以奔跑玩耍。公寓生活仅在每天提供大量运动的情况下才可能。由于其高驱动力和对结构的需求，不建议新手主人饲养。通过适当社会化，它可以与儿童和其他宠物共存，但其牧羊本能可能导致咬脚跟。在小动物周围需要监督。它在活跃的家庭中茁壮成长，家庭应将其纳入日常活动并提供明确的领导角色。"
+    }
+  }
 }

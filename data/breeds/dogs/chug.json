@@ -86,5 +86,27 @@
       "en": "confident",
       "zh": "自信"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chug is a delightful hybrid breed that combines the best traits of the Pug and Chihuahua. These small dogs are known for their playful, affectionate, and loyal nature. They are alert and confident, often displaying a big-dog attitude in a compact body. Chugs are highly social and thrive on human companionship, making them excellent lap dogs. They can be a bit stubborn at times, but their charming personality more than makes up for it. Overall, the Chug is a spirited, loving companion that brings joy to any household.",
+      "zh": "查格犬是一种迷人的杂交犬种，结合了巴哥犬和吉娃娃的优点。这种小型犬以其活泼、深情和忠诚的性格而闻名。它们警觉而自信，常常在紧凑的身体中展现出大狗的姿态。查格犬非常社会化，喜欢与人类为伴，是极好的伴侣犬。它们有时会有点固执，但迷人的个性足以弥补这一点。总的来说，查格犬是一种活泼、充满爱心的伴侣犬，能给任何家庭带来欢乐。"
+    },
+    "care": {
+      "en": "Daily care for a Chug includes moderate exercise like short walks and playtime; about 30 minutes per day is sufficient. Grooming is minimal due to their short coat—brush weekly and bathe monthly. Their facial wrinkles need regular cleaning to prevent infections. Dental hygiene is crucial; brush teeth several times a week. Trim nails monthly. Vet visits should be annual for check-ups and vaccinations. Watch for breathing issues common in brachycephalic breeds, especially in hot weather. Keep them at a healthy weight to avoid joint problems.",
+      "zh": "查格犬的日常护理包括适度的运动，如短途散步和玩耍，每天约30分钟即可。由于毛发短，美容需求低，每周梳理一次，每月洗澡一次。面部褶皱需要定期清洁以防感染。牙齿卫生很重要，每周刷牙数次。每月修剪指甲。每年带它去看兽医进行体检和疫苗接种。注意呼吸问题，这是短头颅犬种的常见问题，尤其在炎热天气。保持健康体重以避免关节问题。"
+    },
+    "training": {
+      "en": "Training a Chug requires patience and positive reinforcement. They are intelligent but can be stubborn, so use treats and praise to motivate them. Start socialization early to prevent small dog syndrome. Keep sessions short and fun—5 to 10 minutes each. Consistency is key; use the same commands and rules. Crate training can help with housebreaking. Avoid harsh corrections, as they can be sensitive. Basic obedience and leash training are essential. Their alertness makes them good watchdogs, but excessive barking should be curbed with training.",
+      "zh": "训练查格犬需要耐心和积极强化。它们聪明但可能固执，所以要用零食和表扬来激励。早期社会化很重要，以防止小型犬综合征。训练时间短而有趣，每次5到10分钟。一致性是关键，使用相同的指令和规则。笼内训练有助于如厕训练。避免严厉纠正，因为它们可能敏感。基本服从和牵绳训练是必要的。它们的警觉性使它们成为好的看门犬，但过度吠叫应通过训练加以控制。"
+    },
+    "diet": {
+      "en": "Feed a Chug high-quality small-breed dog food formulated for their energy level. Divide daily food into two meals to prevent obesity and reduce bloat risk. Portion control is crucial—typically 1/2 to 1 cup per day depending on size and activity. Avoid overfeeding treats. Ensure fresh water is always available. Some Chugs may have food allergies; watch for skin or digestive issues. Consult your vet for specific dietary needs, especially for weight management or dental health.",
+      "zh": "给查格犬喂食适合其能量水平的高品质小型犬粮。将每日食物分成两餐，以防止肥胖并降低胀气风险。控制食量很重要，通常每天半杯到一杯，取决于体型和活动量。避免过量喂食零食。确保随时有新鲜饮水。一些查格犬可能有食物过敏，注意皮肤或消化问题。咨询兽医以了解特定饮食需求，特别是体重管理或牙齿健康。"
+    },
+    "livingTips": {
+      "en": "Chugs are ideal for apartment living due to their small size and moderate exercise needs. They adapt well to various homes but prefer a cozy indoor environment. They are sensitive to extreme temperatures—keep them cool in summer and warm in winter. A securely fenced yard is nice but not necessary. They generally get along with children if raised together, but supervision is recommended due to their small size. They can coexist with other pets but may be possessive of their owner. Early socialization helps.",
+      "zh": "查格犬体型小且运动需求适中，非常适合公寓生活。它们能适应各种家庭，但更喜欢舒适的室内环境。对极端温度敏感，夏天保持凉爽，冬天保暖。有围栏的院子很好，但不是必需的。如果从小一起养，它们通常能与孩子相处，但由于体型小，建议监督。它们能与其他宠物共存，但可能对主人有占有欲。早期社会化有助于此。"
+    }
+  }
 }

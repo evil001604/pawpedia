@@ -82,5 +82,27 @@
       "en": "Active",
       "zh": "活跃"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Aegean cat is a natural breed from Greece, known for its affectionate, social, and intelligent nature. These medium-sized cats are playful and active, making them excellent companions for families. They have a semi-long coat that is water-resistant, often seen in white with patches of black, red, or blue. Aegeans are highly adaptable and form strong bonds with their owners. They are curious and enjoy interactive play, but also appreciate quiet moments. Their friendly demeanor extends to children and other pets, making them a harmonious addition to any household.",
+      "zh": "爱琴猫是源自希腊的自然品种，以其深情、社交和聪明的天性而闻名。这些中型猫活泼好动，是家庭的绝佳伴侣。它们拥有半长防水被毛，常见白色带黑色、红色或蓝色斑块。爱琴猫适应性强，与主人建立深厚感情。它们好奇且喜欢互动游戏，但也享受安静时光。其友善性格延伸至儿童和其他宠物，使其成为任何家庭的和谐成员。"
+    },
+    "care": {
+      "en": "Aegean cats have a semi-long coat that requires weekly brushing to prevent mats and reduce shedding. They are active cats that need daily exercise through interactive toys, climbing trees, or puzzle feeders. Regular veterinary check-ups are important to monitor their health. Nail trimming every two weeks and dental care (brushing teeth or dental treats) are recommended. Since they are natural cats, they are generally healthy, but maintaining a routine ensures their well-being.",
+      "zh": "爱琴猫有半长被毛，需每周梳理一次以防打结和减少掉毛。它们活跃，需要每日通过互动玩具、爬树或益智喂食器锻炼。定期兽医检查对监测健康很重要。建议每两周修剪指甲并进行牙齿护理（刷牙或洁齿零食）。作为自然品种，它们通常健康，但保持日常护理可确保其福祉。"
+    },
+    "training": {
+      "en": "Aegean cats are intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach commands or tricks. They are quick learners and enjoy mental stimulation. Start training early and keep sessions short (5-10 minutes). Consistency is key. They can be taught to walk on a leash with patience. Avoid punishment as it may damage trust. Socialization from kittenhood helps them become well-adjusted adults.",
+      "zh": "爱琴猫聪明，对正强化训练反应良好。使用零食、表扬和响片训练教授指令或技巧。它们学得快且喜欢精神刺激。尽早开始训练，保持每次5-10分钟。一致性是关键。耐心可教会它们用牵引绳散步。避免惩罚以免破坏信任。幼年期的社会化有助于它们成为适应良好的成年猫。"
+    },
+    "diet": {
+      "en": "Feed Aegean cats high-quality cat food, preferably wet food for hydration, with dry food as supplement. Their diet should be rich in animal protein and low in carbohydrates. Portion control is essential to prevent obesity. Provide fresh water at all times. Treats should be limited to 10% of daily calories. Consult a vet for specific dietary needs based on age, weight, and activity level. Avoid feeding human food, especially toxic items like onions, garlic, and chocolate.",
+      "zh": "喂食高品质猫粮，最好以湿粮补水，干粮作为补充。饮食应富含动物蛋白，低碳水化合物。控制份量以防肥胖。随时提供新鲜饮水。零食不超过每日热量的10%。根据年龄、体重和活动水平咨询兽医确定具体饮食需求。避免喂食人类食物，尤其是有毒物品如洋葱、大蒜和巧克力。"
+    },
+    "livingTips": {
+      "en": "Aegean cats adapt well to apartments if provided with vertical space (cat trees, shelves) and enrichment. They enjoy access to outdoor enclosures or supervised balcony time. They are excellent with children and other pets due to their social nature. Provide scratching posts and interactive toys to keep them engaged. They are not high-maintenance but need attention and playtime. A calm environment with hiding spots helps them feel secure.",
+      "zh": "爱琴猫适应公寓生活，只要提供垂直空间（猫爬架、搁板）和丰富环境。它们喜欢进入户外围栏或有监督的阳台时间。由于社交性强，它们对儿童和其他宠物非常友好。提供抓柱和互动玩具以保持其参与度。它们不需要高维护，但需要关注和游戏时间。有藏身处的安静环境有助于它们感到安全。"
+    }
+  }
 }

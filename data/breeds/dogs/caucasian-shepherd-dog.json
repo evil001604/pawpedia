@@ -86,5 +86,27 @@
       "en": "alert",
       "zh": "警觉"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Caucasian Shepherd Dog is a massive, powerful working breed from the Caucasus Mountains, known for its protective instincts, independence, and courage. Bred to guard livestock against wolves and bears, this breed is naturally suspicious of strangers and highly territorial. They are confident, alert, and deeply loyal to their family, but require an experienced owner who can provide firm, consistent leadership. Their thick double coat and imposing stature make them well-suited for cold climates. While they can be gentle with their own family, they are not recommended for first-time dog owners due to their strong-willed nature and need for socialization.",
+      "zh": "高加索牧羊犬是一种体型巨大、力量强大的工作犬种，源自高加索山脉，以其保护本能、独立性和勇气而闻名。该犬种被培育用于保护羊群免受狼和熊等大型捕食者的侵害，天生对陌生人持怀疑态度且领地意识极强。它们自信、警觉，对家庭极为忠诚，但需要经验丰富的主人提供坚定、一致的领导。厚实的双层被毛和威严的体态使其非常适合寒冷气候。虽然对家人温和，但由于其倔强的天性和对社交化的需求，不建议新手饲养。"
+    },
+    "care": {
+      "en": "Daily care for a Caucasian Shepherd Dog includes brushing their thick coat 2-3 times a week to reduce shedding and prevent mats, with more frequent brushing during shedding seasons. They are moderate shedders year-round and heavy shedders seasonally. Exercise needs are moderate; they require daily walks and a securely fenced yard to patrol. Avoid excessive running or jumping while growing to protect joints. Nail trimming every 3-4 weeks, ear cleaning weekly, and dental care are essential. Regular vet visits for vaccinations, parasite control, and joint health monitoring are crucial. They are generally healthy but prone to hip dysplasia and obesity.",
+      "zh": "高加索牧羊犬的日常护理包括每周梳理厚实的被毛2-3次以减少脱毛和防止打结，换毛季需更频繁梳理。它们全年中度脱毛，季节性大量脱毛。运动需求适中，需要每日散步和一个安全围栏的院子供其巡逻。生长期避免过度奔跑和跳跃以保护关节。每3-4周修剪指甲，每周清洁耳朵，并注意牙齿护理。定期兽医检查以接种疫苗、驱虫和监测关节健康至关重要。它们通常健康，但易患髋关节发育不良和肥胖。"
+    },
+    "training": {
+      "en": "Training a Caucasian Shepherd Dog requires an experienced handler who uses calm, assertive, and consistent methods. Early socialization and obedience training are critical, starting from puppyhood. Positive reinforcement works best, but the owner must establish clear boundaries and leadership. This breed is intelligent but independent, often challenging commands. Use short, engaging sessions and avoid harsh corrections which can provoke aggression. Focus on recall, leash manners, and impulse control. They are not suited for competitive obedience but excel in protection sports. Professional training classes are highly recommended.",
+      "zh": "训练高加索牧羊犬需要经验丰富的主人，采用冷静、坚定且一致的方法。早期社会化和服从训练至关重要，应从幼犬期开始。正向强化效果最好，但主人必须建立清晰的界限和领导地位。该犬种聪明但独立，常会挑战指令。训练时间宜短而有趣，避免严厉纠正，以免引发攻击性。重点训练召回、牵绳礼仪和冲动控制。它们不适合竞技服从，但在护卫运动方面表现出色。强烈建议参加专业训练课程。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, large-breed dog food appropriate for their age, size, and activity level. Puppies need a controlled growth diet to prevent skeletal issues. Adults typically require 4-6 cups of dry food daily, divided into two meals, but amounts vary based on metabolism and exercise. Avoid overfeeding to prevent obesity, which stresses joints. Include joint supplements like glucosamine and chondroitin. Fresh water should always be available. Raw diets can be considered but require veterinary guidance to ensure balance. Treats should be limited and used mainly for training.",
+      "zh": "喂食适合其年龄、体型和活动水平的高品质大型犬狗粮。幼犬需要控制生长的饮食以防止骨骼问题。成年犬通常每天需要4-6杯干粮，分两餐喂食，但具体量根据新陈代谢和运动量调整。避免过量喂食以防肥胖，肥胖会增加关节负担。可添加葡萄糖胺和软骨素等关节补充剂。始终提供新鲜饮水。可考虑生食，但需兽医指导以确保营养均衡。零食应限量，主要用于训练。"
+    },
+    "livingTips": {
+      "en": "Caucasian Shepherd Dogs are not suitable for apartments due to their size and need for space. They thrive in a home with a large, securely fenced yard, preferably in a rural or suburban setting. They are not recommended for homes with small children, as their size and protective nature can be overwhelming, though they can be gentle if raised with them. They may not tolerate other dogs, especially same-sex ones, and have a high prey drive towards cats and small animals. Early socialization is crucial for multi-pet households. They are excellent watchdogs and will bark to alert.",
+      "zh": "高加索牧羊犬因其体型和空间需求不适合公寓生活。它们最适合拥有大型安全围栏院子的家庭，最好是乡村或郊区环境。不建议有小孩的家庭饲养，因为其体型和保护本能可能造成压力，但若从小一起长大可以温和相处。它们可能不容忍其他狗，尤其是同性，并且对猫和小动物有高捕猎本能。多宠物家庭必须早期社会化。它们是出色的看门犬，会吠叫示警。"
+    }
+  }
 }

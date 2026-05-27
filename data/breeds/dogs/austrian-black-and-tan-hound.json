@@ -90,5 +90,27 @@
       "en": "loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Austrian Black and Tan Hound is a medium-sized, robust scenthound known for its intelligence, loyalty, and energetic nature. Bred for tracking game in the Alps, this breed is independent yet friendly, forming strong bonds with its family. They are work-focused and require a job to do, making them excellent companions for active owners. Their keen nose and determination make them tenacious trackers, but they are also gentle and good-natured at home. With proper socialization, they get along well with children and other dogs, though their hunting instincts may be strong around small pets. They thrive on mental and physical challenges and are happiest when given a purpose.",
+      "zh": "奥地利黑褐猎犬是一种中型、结实的嗅觉猎犬，以聪明、忠诚和精力充沛著称。该品种为在阿尔卑斯山追踪猎物而培育，独立但友善，与家庭建立牢固的情感纽带。它们以工作为导向，需要任务来保持满足，是活跃主人的绝佳伴侣。敏锐的嗅觉和决心使它们成为顽强的追踪犬，但在家中温顺且性情良好。通过适当的社会化，它们能与儿童和其他犬只友好相处，但狩猎本能可能对小宠物较强。它们喜欢心理和身体上的挑战，有明确目标时最快乐。"
+    },
+    "care": {
+      "en": "Daily care for an Austrian Black and Tan Hound includes at least 60-90 minutes of vigorous exercise, such as long walks, runs, or hiking in safe areas where they can use their nose. Due to their hunting instincts, they should be kept on a leash or in a securely fenced area. Grooming is straightforward: brush their short, dense coat weekly to remove loose hair, and bathe only when necessary. Check ears regularly for debris and clean teeth to prevent tartar. Nail trimming every few weeks is essential. Annual vet visits for vaccinations and health check-ups are recommended, with attention to hip dysplasia and ear infections common in the breed.",
+      "zh": "奥地利黑褐猎犬的日常护理包括每天至少60-90分钟的剧烈运动，如长距离散步、跑步或在安全区域徒步，以便它们能使用嗅觉。由于狩猎本能，应始终用牵引绳或待在安全围栏内。梳理简单：每周刷毛一次以去除死毛，必要时才洗澡。定期检查耳朵是否有杂物，清洁牙齿以防牙结石。每几周修剪指甲。建议每年进行兽医检查和疫苗接种，注意该品种易患的髋关节发育不良和耳朵感染。"
+    },
+    "training": {
+      "en": "Training an Austrian Black and Tan Hound requires patience and consistency, as they are intelligent but independent-minded. Use positive reinforcement methods like treats, praise, and play, avoiding harsh corrections which can cause stubbornness. Early socialization is crucial to curb hunting instincts and ensure good behavior around other animals. Focus on recall training in a controlled environment, as their tracking drive can override commands. Keep sessions short and engaging, incorporating scent games to satisfy their natural instincts. They excel in scent work, tracking, and obedience trials, making training a rewarding bonding experience.",
+      "zh": "训练奥地利黑褐猎犬需要耐心和一致性，因为它们聪明但独立。使用零食、表扬和游戏等积极强化方法，避免严厉纠正，否则可能导致固执。早期社会化至关重要，以抑制狩猎本能并确保在其他动物周围表现良好。在受控环境中专注于召回训练，因为它们的追踪驱力可能压倒指令。保持训练简短有趣，加入嗅觉游戏以满足其天性。它们在嗅觉工作、追踪和服从赛中表现出色，训练成为有益的情感纽带。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the breed's age, size, and activity level. As an energetic working breed, they may require a diet higher in protein and fat to maintain muscle mass and energy. Divide daily food into two meals to prevent bloat, a risk in deep-chested dogs. Monitor weight to avoid obesity, especially if exercise is reduced. Include joint supplements like glucosamine and chondroitin to support hip and elbow health. Fresh water should always be available. Treats for training should be limited to avoid overfeeding.",
+      "zh": "喂食适合该品种年龄、体型和活动水平的高质量狗粮。作为精力充沛的工作犬，它们可能需要高蛋白和高脂肪的饮食以维持肌肉和能量。每日分两餐喂食以防胃扭转，这是深胸犬的风险。监测体重以避免肥胖，尤其在运动减少时。添加关节补充剂如葡萄糖胺和软骨素以支持髋部和肘部健康。始终提供新鲜饮水。训练零食应限量以防过量喂食。"
+    },
+    "livingTips": {
+      "en": "The Austrian Black and Tan Hound is best suited for a home with a securely fenced yard where they can run and explore. They are not ideal for apartments due to their high energy and vocal nature. This breed thrives in rural or suburban settings with access to open spaces. They are generally good with children if raised together, but supervision is recommended due to their boisterous play. They can coexist with other dogs but may chase small pets like cats or rabbits. Mental stimulation through puzzle toys and scent games is essential to prevent boredom and destructive behavior.",
+      "zh": "奥地利黑褐猎犬最适合有安全围栏院子的家庭，以便它们奔跑探索。由于精力旺盛和爱叫，不适合公寓生活。该品种在乡村或郊区有开放空间的环境中茁壮成长。如果与儿童一起长大，通常对儿童友善，但建议监督以避免过于兴奋的玩耍。它们能与其他犬只共存，但可能追逐猫或兔子等小宠物。通过益智玩具和嗅觉游戏进行心理刺激至关重要，以防无聊和破坏行为。"
+    }
+  }
 }

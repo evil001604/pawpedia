@@ -86,5 +86,27 @@
       "en": "courageous",
       "zh": "勇敢"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Australian Cattle Dog, also known as the Blue Heeler or Queensland Heeler, is a highly intelligent, energetic, and loyal herding breed developed in 19th-century Australia for driving cattle over rough terrain. Bred from British herding dogs, Dingo, Dalmatian, and Kelpie, this breed is alert, courageous, and fiercely devoted to its family. They possess a strong work ethic and require a job to do, or they may become destructive. Their independent yet loyal nature makes them excellent watchdogs, but they can be wary of strangers. With a sturdy, muscular build and a weather-resistant double coat, they thrive on physical challenges and mental stimulation. This breed is best suited for active owners who can provide ample exercise and consistent leadership.",
+      "zh": "澳大利亚牧牛犬，又称蓝色赫勒犬或昆士兰赫勒犬，是一种非常聪明、精力充沛且忠诚的牧牛犬种。它于19世纪在澳大利亚培育，由英国牧羊犬、澳洲野狗、大麦町犬和凯尔皮犬杂交而成，用于在崎岖地形中驱赶牛群。该犬种警觉、勇敢，对家庭极为忠诚。它们有强烈的工作欲望，需要有事可做，否则容易变得具有破坏性。独立而忠诚的性格使它们成为优秀的看门犬，但可能对陌生人保持警惕。它们体格结实、肌肉发达，拥有耐候的双层被毛，喜欢身体挑战和精神刺激。这一犬种最适合能提供充足运动和持续领导的活跃主人。"
+    },
+    "care": {
+      "en": "Daily care for an Australian Cattle Dog requires substantial physical and mental exercise—at least 1-2 hours of vigorous activity such as running, hiking, or agility training. Grooming is minimal: brush their short double coat weekly, more often during shedding seasons. Bathe only when necessary. Trim nails regularly, check ears for debris, and brush teeth several times a week. Veterinary visits should occur annually for check-ups and vaccinations; they are generally healthy but prone to conditions like hip dysplasia, progressive retinal atrophy, and deafness. Early health screening is recommended. Provide plenty of interactive toys to prevent boredom, as this breed can become destructive if under-stimulated.",
+      "zh": "澳大利亚牧牛犬的日常护理需要大量的身体和精神锻炼——每天至少1-2小时的剧烈活动，如跑步、远足或敏捷训练。梳理毛发需求较少：每周梳理一次短双层被毛，换毛季节需更频繁。仅在必要时洗澡。定期修剪指甲，检查耳朵是否有杂物，每周刷牙数次。每年应进行一次兽医检查和疫苗接种；它们通常健康，但易患髋关节发育不良、进行性视网膜萎缩和耳聋。建议进行早期健康筛查。提供充足的互动玩具以防止无聊，因为该犬种若刺激不足可能会变得具有破坏性。"
+    },
+    "training": {
+      "en": "Training an Australian Cattle Dog requires patience, consistency, and positive reinforcement techniques. This intelligent breed learns quickly but can be stubborn and independent-minded. Start socialization and basic obedience early, exposing them to various people, animals, and environments. Use reward-based methods with treats, praise, and play; harsh corrections may cause distrust or resistance. They excel in herding trials, agility, obedience, and trick training due to their high drive. Keep sessions short and varied to maintain engagement. Establish clear rules and boundaries from the start—this breed respects a confident, fair leader. Mental challenges like puzzle toys and nose work are essential to channel their intelligence.",
+      "zh": "训练澳大利亚牧牛犬需要耐心、一致性和正面强化技巧。这一聪明犬种学习迅速，但可能固执且独立。早期进行社会化训练和基本服从训练，让它们接触不同的人、动物和环境。使用奖励式方法，如零食、表扬和游戏；严厉的纠正可能导致不信任或抗拒。由于它们驱动力强，在牧牛比赛、敏捷性、服从性和技巧训练中表现出色。保持训练时间短且多样化以维持兴趣。从一开始就建立明确的规则和界限——该犬种尊重自信、公平的领导者。拼图玩具和嗅觉工作等精神挑战对于发挥其智力至关重要。"
+    },
+    "diet": {
+      "en": "Feed an Australian Cattle Dog a high-quality diet formulated for active, medium-sized breeds. Portion sizes depend on age, weight, and activity level—typically 1.5 to 2.5 cups of dry food per day, split into two meals. Puppies need more frequent, smaller meals. Avoid overfeeding to prevent obesity, which can strain joints. Include lean protein sources like chicken, beef, or fish, and healthy fats for energy. Some owners incorporate raw or homemade diets under veterinary guidance. Always provide fresh water. Treats should be limited and used mainly for training. Supplement with omega-3 fatty acids for coat health and joint supplements if recommended by your vet, especially for older dogs.",
+      "zh": "为澳大利亚牧牛犬提供专为活跃中型犬设计的高品质犬粮。喂食量取决于年龄、体重和活动水平——通常每天1.5至2.5杯干粮，分两餐喂食。幼犬需要更频繁的小餐。避免过度喂食以防止肥胖，肥胖会加重关节负担。包括瘦蛋白来源，如鸡肉、牛肉或鱼肉，以及健康脂肪以提供能量。一些主人会在兽医指导下采用生食或自制饮食。始终提供新鲜饮用水。零食应限量，主要用于训练。可补充Omega-3脂肪酸以促进被毛健康，并根据兽医建议添加关节补充剂，尤其对老年犬。"
+    },
+    "livingTips": {
+      "en": "The Australian Cattle Dog is not ideal for apartment living due to its high energy and need for space. A home with a securely fenced yard is best, but they can adapt to smaller spaces if given ample daily exercise. They are not suited for sedentary lifestyles. With proper socialization, they can be good with children, but their herding instinct may cause them to nip at heels. Supervise interactions with young kids. They may be aggressive toward unfamiliar dogs and have a strong prey drive toward small pets like cats or rodents. Early and ongoing socialization is crucial. This breed thrives with a job, such as participating in dog sports or farm work, and needs a consistent routine.",
+      "zh": "由于精力旺盛且需要空间，澳大利亚牧牛犬不适合公寓生活。有安全围栏院子的房屋最为理想，但如果能保证充足的日常锻炼，它们也能适应较小空间。它们不适合久坐的生活方式。通过适当的社会化训练，它们能与孩子相处融洽，但其牧牛本能可能导致它们咬脚跟。需监督与幼儿的互动。它们可能对陌生犬具有攻击性，并对猫或啮齿类等小宠物有强烈的捕猎欲。早期和持续的社会化训练至关重要。该犬种需要有工作可做，例如参与犬类运动或农场工作，并需要一致的日常规律。"
+    }
+  }
 }

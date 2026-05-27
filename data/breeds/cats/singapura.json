@@ -90,5 +90,27 @@
       "en": "Loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Singapura is a small but mighty cat, known for its affectionate, curious, and lively personality. Despite its petite size, it exudes confidence and often takes charge of the household. This breed is highly interactive and intelligent, forming strong bonds with its family. Singapuras are easy-going yet demand attention, sometimes following their owners around persistently. They are loyal and thrive on human interaction, making them excellent companions. Their curious nature means they love exploring every nook and cranny, and they remain playful well into adulthood. While cautious with strangers, they warm up quickly with gentle introductions. Overall, the Singapura is a loving, energetic, and engaging cat that brings joy and liveliness to any home.",
+      "zh": "新加坡猫体型小巧但个性强大，以深情、好奇和活泼著称。尽管身材娇小，它们却充满自信，常常掌控家庭。这个品种非常善于互动且聪明，与家人建立深厚的情感纽带。新加坡猫随和但需要关注，有时会执着地跟随主人。它们忠诚，依赖人类互动，是绝佳的伴侣。好奇心驱使它们探索每个角落，并且成年后仍保持玩乐心态。虽然对陌生人谨慎，但通过温和介绍能快速适应。总之，新加坡猫是一种充满爱意、活力四射且引人入胜的猫，为任何家庭带来欢乐与生机。"
+    },
+    "care": {
+      "en": "Daily care for a Singapura is relatively low-maintenance. Their short, fine coat requires minimal grooming—a weekly brush with a soft bristle brush or rubber mitt to remove loose hair and distribute skin oils. Bathing is rarely needed. As an active breed, they need daily play sessions of at least 15-20 minutes with interactive toys like feather wands or puzzle feeders to satisfy their curiosity and exercise needs. Provide climbing structures like cat trees or shelves. Regular vet check-ups (at least annually) are important to monitor for common issues like dental disease or obesity. Keep their litter box clean and provide fresh water daily. Nail trimming every 2-3 weeks and ear cleaning as needed complete the routine.",
+      "zh": "新加坡猫的日常护理相对简单。短而细腻的被毛只需每周用软毛刷或橡胶手套梳理一次，去除死毛并分布油脂。很少需要洗澡。作为活跃品种，每天需要至少15-20分钟的互动游戏，如羽毛棒或益智喂食器，以满足其好奇心和运动需求。提供猫爬架或搁板等攀爬设施。定期兽医检查（至少每年一次）以监测牙病或肥胖等常见问题。保持猫砂盆清洁，每天提供新鲜饮水。每2-3周修剪指甲，按需清洁耳朵，完成日常护理。"
+    },
+    "training": {
+      "en": "Singapuras are highly intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach commands like 'sit', 'come', or 'high five'. Keep sessions short (5-10 minutes) and fun to maintain their interest. They can learn tricks and even enjoy puzzle toys that challenge their minds. Consistency is key—use the same cues and rewards. Because they are people-oriented, they are eager to please, but avoid harsh corrections as they may become stressed. Leash training is possible with patience, as they are curious about the outdoors. Early socialization with new people, sounds, and experiences helps them become well-adjusted adults. Training also strengthens your bond and provides mental stimulation.",
+      "zh": "新加坡猫非常聪明，对正向强化训练反应良好。使用零食、表扬和响片训练教授“坐下”、“过来”或“击掌”等指令。保持训练简短（5-10分钟）且有趣以维持其兴趣。它们能学会小把戏，甚至喜欢挑战思维的益智玩具。一致性是关键——使用相同的提示和奖励。由于它们以人为中心，渴望取悦主人，但应避免严厉纠正，以免造成压力。牵引绳训练可能可行，需要耐心，因为它们对外界好奇。早期社会化接触新人、声音和经历有助于它们成为适应良好的成年猫。训练也能加强你们之间的纽带并提供精神刺激。"
+    },
+    "diet": {
+      "en": "Feed your Singapura a high-quality, protein-rich diet appropriate for their life stage (kitten, adult, senior). As an active breed, they need adequate calories, but portion control is important to prevent obesity. A mix of wet and dry food ensures hydration and dental health. Adult Singapuras typically eat 1/4 to 1/3 cup of dry food per day, divided into two meals, plus wet food as recommended. Always provide fresh water. Treats should be limited to 10% of daily calories. Consult your vet for specific dietary needs, especially if your cat has allergies or sensitivities. Avoid overfeeding and monitor body condition regularly. Some Singapuras may enjoy puzzle feeders to slow down eating and provide mental enrichment.",
+      "zh": "为新加坡猫提供适合其生命阶段（幼猫、成猫、老年猫）的高品质、高蛋白饮食。作为活跃品种，它们需要充足热量，但控制分量以防肥胖很重要。湿粮和干粮混合喂养可确保水分摄入和牙齿健康。成年新加坡猫通常每天吃1/4至1/3杯干粮，分两餐，外加推荐量的湿粮。始终提供新鲜饮水。零食应限制在每日热量的10%以内。咨询兽医了解特定饮食需求，尤其是如果您的猫有过敏或敏感问题。避免过度喂食，定期监测体况。一些新加坡猫可能喜欢益智喂食器，以减缓进食速度并提供精神充实。"
+    },
+    "livingTips": {
+      "en": "The Singapura adapts well to both apartments and houses, as long as they have enough vertical space and interactive toys. They are active indoors and do not require outdoor access, but a secure balcony or catio can be a bonus. This breed is generally good with children if properly socialized, but due to their small size, supervise interactions with very young kids to prevent accidental injury. They usually get along with other cats and cat-friendly dogs, especially if introduced gradually. Provide multiple scratching posts and cozy hiding spots. Because they are social, avoid leaving them alone for long hours; consider a companion pet if you're away frequently. Overall, a stimulating environment with plenty of human interaction is ideal.",
+      "zh": "新加坡猫能很好适应公寓和房屋，只要有足够的垂直空间和互动玩具。它们室内活动活跃，不需要户外活动，但安全的阳台或猫笼是加分项。这个品种通常与儿童相处良好，前提是适当社会化，但由于体型小，需监督与非常年幼孩子的互动以防意外伤害。它们通常与其他猫和友善的狗相处融洽，尤其是逐步介绍时。提供多个抓挠柱和舒适的藏身处。由于它们喜欢社交，避免长时间独处；如果经常外出，考虑养一个伴侣宠物。总之，一个充满刺激且有许多人类互动的环境是理想的。"
+    }
+  }
 }

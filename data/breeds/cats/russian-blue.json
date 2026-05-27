@@ -94,5 +94,27 @@
       "en": "Quiet",
       "zh": "安静"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Russian Blue is a strikingly beautiful cat with a plush, silver-blue coat and vivid green eyes. Known for their gentle, intelligent, and loyal nature, they form deep bonds with their owners while being reserved around strangers. They are playful and active outdoors yet quiet and easy-going indoors, making them ideal for calm households. Despite their dependent streak, they respect personal space and are not overly demanding. Their affectionate but dignified demeanor suits owners seeking a devoted companion. They thrive on routine and can be sensitive to loud environments, preferring serene homes where they can express their curious, playful side without disruption.",
+      "zh": "俄罗斯蓝猫是一种拥有华丽银蓝色被毛和翠绿色眼睛的美丽猫种。它们以温顺、聪明和忠诚著称，与主人建立深厚情感纽带，但对陌生人保持矜持。它们户外时活泼好动，室内却安静随和，非常适合宁静的家庭。尽管有些依赖主人，但尊重个人空间，不会过分黏人。它们深情而优雅的气质适合寻求忠诚伴侣的主人。它们喜欢规律的生活，对嘈杂环境敏感，更偏爱平和的家居氛围，以便展现好奇和爱玩的一面。"
+    },
+    "care": {
+      "en": "Daily care for a Russian Blue is straightforward. Their short, dense coat requires minimal grooming—weekly brushing with a soft bristle brush or rubber mitt removes loose hair and maintains its silky sheen. They are fastidious self-groomers, so baths are rarely needed. Exercise needs are moderate: provide interactive toys like feather wands, puzzle feeders, or laser pointers for daily play sessions of 15–20 minutes. A cat tree or window perch satisfies their climbing and observation instincts. Annual veterinary check-ups are essential, along with routine dental care, nail trimming every two weeks, and ear cleaning as needed. Keep vaccinations and parasite prevention up to date. Their calm nature makes them easy to handle during vet visits.",
+      "zh": "俄罗斯蓝猫的日常护理很简单。它们短而密的被毛只需每周用软毛刷或橡胶手套梳理一次，以去除浮毛并保持丝滑光泽。它们非常爱干净，很少需要洗澡。运动需求适中：提供羽毛棒、益智喂食器或激光笔等互动玩具，每天玩耍15–20分钟。猫爬架或窗台满足攀爬和观察天性。每年需进行兽医体检，并定期进行牙齿护理、每两周修剪指甲，以及必要时清洁耳朵。确保疫苗和驱虫及时更新。它们性格温和，在就诊时容易配合。"
+    },
+    "training": {
+      "en": "Russian Blues are highly intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach basic commands like 'sit', 'stay', or 'come'. They quickly learn to use scratching posts and litter boxes with minimal guidance. Keep sessions short (5–10 minutes) and engaging to hold their attention. Avoid punishment—they are sensitive and may become anxious. Puzzle toys and treat-dispensing games challenge their problem-solving skills. Training can also strengthen your bond; they thrive on mental stimulation and enjoy learning tricks. Consistency and patience yield the best results, and they often surprise owners with their ability to pick up routines and cues quickly.",
+      "zh": "俄罗斯蓝猫非常聪明，对正向强化训练反应良好。使用零食、表扬和响片训练教它们基本指令，如“坐下”、“等待”或“过来”。它们能迅速学会使用猫抓板和猫砂盆，几乎无需额外指导。训练时间宜短（5–10分钟），并保持趣味性以吸引注意力。避免惩罚——它们敏感，可能因此焦虑。益智玩具和零食分发游戏能锻炼它们解决问题的能力。训练还能增进你们之间的纽带；它们喜欢智力挑战，乐于学习小技巧。坚持和耐心会带来最佳效果，它们常让主人惊讶于快速掌握日常规律和指令的能力。"
+    },
+    "diet": {
+      "en": "Feed your Russian Blue a high-quality, protein-rich diet. As an active breed, they benefit from balanced nutrition with animal-based proteins (chicken, fish, or turkey) and moderate healthy fats. Portion control is important to prevent obesity—follow package guidelines for weight and activity level, typically 1/3 to 1/2 cup of dry food daily, split into two meals. Wet food can supplement for hydration and variety. Ensure fresh water is always available. Avoid overfeeding treats; use them sparingly during training. Consult your vet for specific dietary needs, especially if your cat is spayed/neutered or has sensitivities. Russian Blues can be picky eaters, so introduce new foods gradually. Omega-3 and -6 fatty acids support their coat health.",
+      "zh": "为俄罗斯蓝猫提供高质量、富含蛋白质的饮食。作为活泼的品种，它们需要以动物蛋白（鸡肉、鱼或火鸡）为基础的均衡营养，并搭配适量健康脂肪。控制食量以防肥胖——根据体重和活动量遵循包装指南，通常每天干粮1/3到1/2杯，分两餐喂食。可辅以湿粮补充水分和丰富口感。确保随时有新鲜饮用水。避免过量零食，仅在训练时少量奖励。咨询兽医获取特定饮食建议，尤其对绝育猫或敏感个体。俄罗斯蓝猫可能挑食，因此新食物需逐渐引入。Omega-3和Omega-6脂肪酸有助于维护被毛健康。"
+    },
+    "livingTips": {
+      "en": "The Russian Blue is well-suited to apartment living due to its quiet, clean nature. They are not overly destructive and adapt to smaller spaces as long as they have vertical territory (cat trees, shelves) and windows for bird-watching. They prefer calm, predictable households and may feel stressed in noisy, chaotic environments. They are excellent with other pets, including cat-friendly dogs, if introduced gradually. They bond deeply with adults and older children who respect their boundaries, but may be wary of very young, rambunctious kids. Provide hiding spots and quiet zones. A securely enclosed balcony or harness training for outdoor walks can satisfy their active side. They thrive on routine and owner interaction, so avoid long absences.",
+      "zh": "俄罗斯蓝猫安静爱干净，非常适合公寓生活。只要提供垂直空间（猫爬架、搁板）和观鸟窗户，它们就能适应较小环境，不会过度破坏。它们偏爱平静、有规律的家庭，在嘈杂混乱的环境中可能感到压力。如果逐步介绍，它们能与其他宠物（包括对猫友善的狗）和睦相处。它们与尊重其边界的成人和大龄儿童建立深厚情感，但对过于年幼好动的孩子保持警惕。提供藏身之处和安静区域。安全封闭的阳台或穿戴胸背带进行户外散步可满足其好动天性。它们依赖日常规律和主人互动，因此应避免长时间离家。"
+    }
+  }
 }

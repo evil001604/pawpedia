@@ -90,5 +90,27 @@
       "en": "confident",
       "zh": "自信"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bullmastiff is a large, powerful working breed known for its loyalty, protective nature, and calm demeanor. Developed in 19th-century England to guard estates and track poachers, they combine the strength of the English Mastiff with the tenacity of the Old English Bulldog. Despite their imposing size, Bullmastiffs are affectionate and gentle with their families, making them excellent companions. They are confident and courageous, yet not aggressive without reason. Their natural guarding instincts make them wary of strangers, but they are typically quiet and patient. Early socialization is key to ensuring they are well-adjusted. Bullmastiffs thrive on human companionship and are best suited for experienced owners who can provide consistent leadership.",
+      "zh": "斗牛獒是一种大型、强壮的犬种，以忠诚、保护性和冷静的性格而闻名。它们起源于19世纪的英格兰，被培育来守卫庄园和追踪偷猎者，结合了英国獒犬的力量和古老英国斗牛犬的坚韧。尽管体型庞大，斗牛獒对家人充满深情和温柔，是优秀的伴侣犬。它们自信勇敢，但不会无故攻击。天生的守护本能使其对陌生人保持警惕，但通常安静且有耐心。早期社会化对于确保它们适应良好至关重要。斗牛獒依赖人类陪伴，最适合有经验的主人，能够提供一致的领导。"
+    },
+    "care": {
+      "en": "Daily care for a Bullmastiff includes moderate exercise—about 30-60 minutes of walking or playtime daily—to maintain muscle tone without overexertion, especially in hot weather. Their short coat requires minimal grooming: weekly brushing with a rubber curry comb to remove loose hair and occasional baths. Clean their ears regularly and trim nails monthly. Due to their size, Bullmastiffs are prone to joint issues; provide a supportive bed and avoid excessive jumping. Regular vet check-ups every 6-12 months are essential to monitor for common health problems like hip dysplasia, bloat, and heart conditions. Daily teeth brushing and proper dental care are also recommended.",
+      "zh": "斗牛獒的日常护理包括适度运动——每天约30-60分钟的散步或玩耍，以保持肌肉张力，但避免过度劳累，尤其在炎热天气。它们短毛需要最少的梳理：每周用橡胶刷梳理一次以去除死毛，偶尔洗澡。定期清洁耳朵，每月修剪指甲。由于体型大，斗牛獒易患关节问题；提供支撑性床垫，避免过度跳跃。每6-12个月定期进行兽医检查，监测常见健康问题如髋关节发育不良、胃扭转和心脏疾病。建议每天刷牙并注意牙齿护理。"
+    },
+    "training": {
+      "en": "Training a Bullmastiff requires patience, consistency, and positive reinforcement. They are intelligent but can be stubborn, so early socialization and obedience training are crucial. Start training as a puppy, focusing on basic commands like sit, stay, and come. Use reward-based methods with treats and praise; harsh corrections can cause them to shut down. Because of their protective instincts, they need to learn proper greeting behavior and calmness around strangers. Crate training can help with housebreaking and provide a safe space. Keep sessions short and engaging to maintain their interest. A well-trained Bullmastiff is a reliable and trustworthy companion.",
+      "zh": "训练斗牛獒需要耐心、一致性和积极强化。它们聪明但可能固执，因此早期社交和服从训练至关重要。从幼犬开始训练，专注于基本指令如坐、停留和过来。使用基于奖励的方法，给予零食和表扬；严厉的纠正可能导致它们退缩。由于保护本能，它们需要学习正确的问候行为和陌生人面前的冷静。笼内训练有助于家庭训练并提供安全空间。保持训练简短有趣以维持兴趣。训练有素的斗牛獒是可靠且值得信赖的伴侣。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, large-breed dog food formulated for their life stage (puppy, adult, senior). Bullmastiffs have a tendency to gain weight, so monitor portions and avoid overfeeding. Divide daily food into two or three meals to reduce the risk of bloat (gastric dilatation-volvulus), a life-threatening condition common in deep-chested breeds. Provide fresh water at all times. Consider supplements like glucosamine and chondroitin for joint health, especially as they age. Avoid high-fat treats and table scraps. Consult your veterinarian for specific dietary recommendations based on your dog's health and activity level.",
+      "zh": "喂食高品质的大型犬粮，根据生命阶段（幼犬、成犬、老年犬）选择配方。斗牛獒容易发胖，因此要控制份量，避免过量喂食。将每日食物分成两到三餐，以降低胃扭转（一种深胸犬常见的致命疾病）的风险。始终提供新鲜饮水。考虑添加葡萄糖胺和软骨素等补充剂以支持关节健康，尤其是在老年期。避免高脂肪零食和人类食物。根据狗狗的健康和活动水平咨询兽医获取具体饮食建议。"
+    },
+    "livingTips": {
+      "en": "Bullmastiffs adapt well to various living situations, including apartments, provided they get sufficient daily exercise. However, they do best in homes with a securely fenced yard where they can roam. They are generally calm indoors and are not excessive barkers. With proper socialization, they can be good with children and other pets, but their large size and protective nature require supervision around small kids. They may be wary of unfamiliar dogs. Bullmastiffs are sensitive to extreme temperatures; provide a cool environment in summer and warmth in winter. They thrive on human companionship and should not be left alone for long periods.",
+      "zh": "斗牛獒能适应各种生活环境，包括公寓，但需要每天充足的运动。不过，它们在有安全围栏的院子里表现最佳，可以自由活动。它们通常室内安静，不会过度吠叫。通过适当社交，它们能与孩子和其他宠物相处良好，但由于体型大且具有保护性，与小孩互动时需监督。它们可能对陌生狗保持警惕。斗牛獒对极端温度敏感；夏季提供凉爽环境，冬季注意保暖。它们依赖人类陪伴，不应长时间独处。"
+    }
+  }
 }

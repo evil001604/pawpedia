@@ -90,5 +90,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chinese Shar-Pei is a distinctive and ancient breed known for its deep wrinkles, blue-black tongue, and calm, independent nature. They are loyal and protective of their family, yet reserved with strangers. Despite their somewhat aloof demeanor, they are intelligent and can be stubborn. Shar-Peis are generally quiet and make excellent watchdogs. They require a confident owner who can provide consistent leadership. Early socialization is crucial to prevent aggression or fearfulness. Their unique appearance and dignified personality make them a fascinating companion for experienced dog owners.",
+      "zh": "中国沙皮犬是一种独特而古老的犬种，以其深深的皱纹、蓝黑色舌头以及冷静、独立的性格而闻名。它们对家庭忠诚且保护性强，但对陌生人保持警惕。尽管外表有些冷漠，但它们聪明且可能固执。沙皮犬通常安静，是优秀的看门犬。它们需要自信的主人，能够提供一致的领导。早期社会化至关重要，以防止攻击性或胆怯。它们独特的外表和庄重的个性使其成为经验丰富的犬主人的迷人伴侣。"
+    },
+    "care": {
+      "en": "Daily care for a Shar-Pei involves moderate exercise, such as a 30-45 minute walk or play session. They are prone to overheating, so avoid vigorous activity in hot weather. Grooming is minimal – a weekly brushing with a rubber curry comb or hound glove to remove dead hair and distribute skin oils. Bathe only when necessary as frequent bathing can strip natural oils and worsen skin issues. Their wrinkles must be cleaned and dried thoroughly to prevent infections. Regular ear cleaning, nail trimming, and dental care are essential. Annual vet visits for health screenings, including hip and elbow evaluations, eye exams, and thyroid tests, are recommended due to breed-specific health concerns like entropion and skin allergies.",
+      "zh": "沙皮犬的日常护理包括适度运动，如30-45分钟的散步或游戏。它们容易过热，因此在炎热天气避免剧烈活动。美容需求较少——每周用橡胶梳或猎犬手套梳理一次，去除死毛并分布皮肤油脂。仅在必要时洗澡，频繁洗澡会剥夺天然油脂并加重皮肤问题。必须彻底清洁并擦干皱纹以防止感染。定期清洁耳朵、修剪指甲和牙齿护理至关重要。由于品种特有的健康问题如眼睑内翻和皮肤过敏，建议每年进行一次健康检查，包括髋关节和肘关节评估、眼科检查和甲状腺测试。"
+    },
+    "training": {
+      "en": "Training a Shar-Pei requires patience, consistency, and positive reinforcement. They are intelligent but can be stubborn and independent, so firm but gentle handling is key. Start obedience training and socialization early, exposing them to various people, animals, and environments to prevent fear-based aggression. Use reward-based methods like treats and praise; harsh corrections can cause resentment. Keep training sessions short and engaging to hold their interest. They excel in activities like obedience, rally, and scent work. A confident owner who establishes clear boundaries and respects the breed's independent nature will find success.",
+      "zh": "训练沙皮犬需要耐心、一致性和积极强化。它们聪明但可能固执和独立，因此坚定而温和的处理是关键。尽早开始服从训练和社交化，让它们接触各种人、动物和环境，以防止基于恐惧的攻击性。使用基于奖励的方法，如零食和表扬；严厉的纠正可能会引起怨恨。保持训练课程简短且有趣，以维持它们的兴趣。它们在服从、 rally 和气味工作中表现出色。自信的主人，能建立明确的界限并尊重该品种的独立天性，将取得成功。"
+    },
+    "diet": {
+      "en": "Feed a high-quality diet appropriate for the Shar-Pei's age, size, and activity level. Due to their sensitivity to food allergies and skin issues, consider a limited ingredient diet or novel protein sources like fish or lamb. Avoid foods with artificial additives, corn, wheat, or soy. Portion control is crucial to prevent obesity, which can exacerbate joint problems. Typically, an adult Shar-Pei needs 2-3 cups of dry food per day, split into two meals. Always provide fresh water. Consult your veterinarian for specific dietary recommendations, especially if your dog has known allergies or health conditions. Some owners opt for raw or home-cooked diets under veterinary guidance.",
+      "zh": "根据沙皮犬的年龄、体型和活动水平，喂食高质量的食物。由于它们对食物过敏和皮肤问题敏感，考虑使用有限成分饮食或新颖蛋白质来源，如鱼或羊肉。避免含有人工添加剂、玉米、小麦或大豆的食物。控制份量至关重要，以防止肥胖，肥胖会加剧关节问题。通常，成年沙皮犬每天需要2-3杯干粮，分两次喂食。始终提供新鲜水。咨询兽医以获取具体饮食建议，特别是如果您的狗已知有过敏或健康问题。一些主人选择在兽医指导下进行生食或自制饮食。"
+    },
+    "livingTips": {
+      "en": "Shar-Peis adapt well to apartment living if they get enough daily exercise. They are relatively low-energy indoors and are not excessive barkers. A securely fenced yard is ideal for safe play, but they should not be left alone outside for long periods. They are generally good with children if raised with them, but due to their protective nature, supervision is recommended. They may be aggressive toward unfamiliar dogs and cats, so early socialization is critical. They thrive in a calm, structured home environment with a confident owner. They do not tolerate heat well and need air conditioning or cooling mats in warm climates.",
+      "zh": "沙皮犬如果每天得到足够运动，能很好地适应公寓生活。它们在室内相对低能量，且不经常吠叫。有安全围栏的院子是理想的安全玩耍场所，但不应长时间单独留在外面。如果与孩子一起长大，它们通常对孩子友好，但由于其保护性，建议进行监督。它们可能对不熟悉的狗和猫有攻击性，因此早期社交至关重要。它们在平静、有结构的家庭环境中茁壮成长，需要自信的主人。它们不耐热，在温暖气候下需要空调或冷却垫。"
+    }
+  }
 }

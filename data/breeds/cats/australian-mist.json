@@ -82,5 +82,27 @@
       "en": "Affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Australian Mist is a lively, social, and fun-loving breed that thrives on human companionship. Known for its relaxed and affectionate nature, this cat is tolerant of children and enjoys being part of a busy household. With a short, easy-care coat and a playful demeanor, the Australian Mist makes an excellent indoor companion for people of all ages. They are happy to remain indoors between dusk and dawn or be wholly indoor pets, adapting well to apartment living.",
+      "zh": "澳大利亚雾猫是一种活泼、社交、爱玩的品种，依赖人类的陪伴。以其放松和亲密的性格著称，这种猫对儿童宽容，喜欢成为忙碌家庭的一部分。短而易于打理的被毛和顽皮的天性使得澳大利亚雾猫成为各个年龄段人群的绝佳室内伴侣。它们乐意在黄昏到黎明之间待在室内，或完全作为室内宠物，很好地适应公寓生活。"
+    },
+    "care": {
+      "en": "Daily care for the Australian Mist is low-maintenance. Their short coat requires weekly brushing to remove loose hair and reduce shedding. They are active and playful, so daily interactive play sessions (at least 15-20 minutes) are essential to keep them mentally and physically stimulated. Regular vet check-ups (at least annually) and vaccinations are important. Dental hygiene, nail trimming every two weeks, and ear cleaning as needed should be part of the routine.",
+      "zh": "澳大利亚雾猫的日常护理很省心。短毛只需每周梳理一次，去除死毛并减少掉毛。它们活跃爱玩，每天至少15-20分钟的互动游戏对于保持其身心刺激至关重要。定期兽医检查（至少每年一次）和疫苗接种很重要。日常护理应包括牙齿卫生、每两周剪一次指甲，以及根据需要清洁耳朵。"
+    },
+    "training": {
+      "en": "Australian Mists are intelligent and eager to please, making training a positive experience. Use reward-based methods with treats and praise. They can learn tricks, fetch, and walking on a leash. Start training early and keep sessions short (5-10 minutes) to maintain interest. Because they are social, they respond well to clicker training. Avoid punishment; instead, redirect unwanted behaviors with toys or scratching posts.",
+      "zh": "澳大利亚雾猫聪明且乐于取悦，使训练成为积极的体验。使用基于奖励的方法，搭配零食和表扬。它们可以学习技巧、捡球和牵绳散步。尽早开始训练，保持每次5-10分钟的短时训练以维持兴趣。由于它们善于社交，对响片训练反应良好。避免惩罚；相反，用玩具或抓柱转移不良行为。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich cat food appropriate for their age and activity level. Australian Mists are prone to obesity, so measure portions and avoid free-feeding. Provide fresh water at all times. A mix of wet and dry food can support urinary health. Treats should not exceed 10% of daily calories. Consult your vet for specific dietary needs, especially if they have any health conditions.",
+      "zh": "喂食适合其年龄和活动水平的高质量、高蛋白猫粮。澳大利亚雾猫易肥胖，因此要测量分量，避免自由采食。随时提供新鲜饮水。湿粮和干粮混合有助于泌尿系统健康。零食不应超过每日热量的10%。如有特殊健康问题，请咨询兽医制定饮食方案。"
+    },
+    "livingTips": {
+      "en": "Australian Mists adapt well to apartments and houses with or without a yard. They are social and get along well with children, other cats, and cat-friendly dogs. Provide vertical space like cat trees and shelves, and interactive toys to prevent boredom. They are safe to be indoor-only cats, but if allowed outside, ensure a secure enclosure or supervised access. Their tolerant nature makes them ideal for families.",
+      "zh": "澳大利亚雾猫能很好地适应公寓或有/无庭院的房屋。它们善于社交，与儿童、其他猫以及友善的狗相处融洽。提供猫爬架和搁板等垂直空间，以及互动玩具以防无聊。它们适合完全室内饲养，若允许外出，需确保有安全的围栏或有人看管。宽容的天性使其成为家庭理想之选。"
+    }
+  }
 }

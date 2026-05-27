@@ -90,5 +90,27 @@
       "en": "Affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Siberian cat is a curious, intelligent, and loyal breed with a sweet, affectionate nature. Known for its dog-like temperament, this agile and powerful feline forms strong bonds with its family and thrives on companionship. Siberians are playful and enjoy interactive games, yet they are equally content as lap cats. Their thick, semi-long coat comes in various colors and patterns, and they are often hypoallergenic due to lower Fel d 1 levels. Originating from Russia, they are adaptable, social, and get along well with children and other pets. Their inquisitive nature means they love exploring high places, so cat trees and shelves are a must.",
+      "zh": "西伯利亚猫是一种充满好奇心、聪明且忠诚的品种，性格甜美、深情。以其类似狗的性格而闻名，这种敏捷而强壮的猫与家人建立深厚的情感纽带，并享受陪伴。西伯利亚猫喜欢玩耍，乐于参与互动游戏，但也同样满足于做一只膝上猫。它们厚实的半长毛有多种颜色和图案，并且由于较低的Fel d 1水平，通常具有低过敏性。原产于俄罗斯，它们适应性强、善于社交，与儿童和其他宠物相处融洽。它们好奇的天性意味着喜欢探索高处，因此猫爬架和架子是必备的。"
+    },
+    "care": {
+      "en": "Daily care for a Siberian cat includes regular grooming to prevent mats, especially during seasonal shedding. Brush their thick coat 2-3 times a week with a metal comb or slicker brush. They are active and need daily play sessions to satisfy their agility and curiosity; interactive toys like wand toys and puzzle feeders are ideal. Weekly nail trimming, ear cleaning, and dental care are recommended. Annual vet visits for vaccinations and health checks are essential. Siberians are generally healthy but can be prone to hypertrophic cardiomyopathy (HCM), so regular monitoring is wise. Provide scratching posts and perches for exercise and mental stimulation.",
+      "zh": "西伯利亚猫的日常护理包括定期梳理毛发以防止打结，尤其是在季节换毛期。每周用金属梳或针梳梳理厚实的被毛2-3次。它们活跃，需要每日的玩耍时间以满足其敏捷性和好奇心；逗猫棒和益智喂食器等互动玩具是理想选择。建议每周修剪指甲、清洁耳朵和牙齿护理。每年带猫去兽医处接种疫苗和健康检查至关重要。西伯利亚猫通常健康，但可能易患肥厚性心肌病（HCM），因此定期监测是明智的。提供抓柱和栖木以供锻炼和精神刺激。"
+    },
+    "training": {
+      "en": "Siberian cats are intelligent and eager to please, making training relatively easy. Use positive reinforcement with treats, praise, and clicker training. They can learn tricks like sit, high-five, and fetch. Start training early and keep sessions short (5-10 minutes). Consistency and patience are key. They respond well to puzzle toys that challenge their minds. Litter box training is usually straightforward; keep the box clean and in a quiet location. Discourage unwanted behaviors like jumping on counters by providing alternative high perches. Socialization from kittenhood ensures they are comfortable with new people and experiences.",
+      "zh": "西伯利亚猫聪明且乐于取悦，因此训练相对容易。使用零食、表扬和响片训练等正向强化方法。它们可以学习坐下、击掌和捡球等技巧。尽早开始训练，并保持每次训练时间短（5-10分钟）。一致性和耐心是关键。它们对挑战思维的益智玩具反应良好。猫砂盆训练通常很简单；保持猫砂盆清洁并放置在安静的位置。通过提供替代的高处栖木来阻止跳上柜台等不良行为。从小进行社会化训练，确保它们适应新的人和经历。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich diet suitable for their life stage (kitten, adult, senior). Siberians are active and may require more calories, but monitor weight to prevent obesity. Provide a mix of wet and dry food for hydration and dental health. Fresh water should always be available. Some Siberians may have food sensitivities, so introduce new foods gradually. Avoid overfeeding treats; use them for training. Consult your vet for portion sizes, typically around 1/2 to 1 cup of dry food daily, adjusted for wet food. Consider a diet with taurine for heart health.",
+      "zh": "喂食适合其生命阶段（幼猫、成猫、老年猫）的高质量、富含蛋白质的猫粮。西伯利亚猫活跃，可能需要更多卡路里，但需监测体重以防肥胖。提供湿粮和干粮的组合，以保持水分和牙齿健康。应随时提供新鲜饮水。有些西伯利亚猫可能有食物敏感，因此新食物应逐渐引入。避免过度喂食零食；可将其用于训练。咨询兽医每餐份量，通常每天约1/2到1杯干粮，并根据湿粮调整。考虑含有牛磺酸的饮食以维护心脏健康。"
+    },
+    "livingTips": {
+      "en": "Siberians adapt well to apartments and houses, provided they have vertical space and enrichment. They love high perches, cat trees, and window shelves to observe their surroundings. They are excellent jumpers, so secure high shelves and avoid breakable items. They get along well with children and other pets, including cat-friendly dogs, due to their social nature. Interactive toys and puzzle feeders keep them mentally stimulated. They are indoor cats but can enjoy a secure catio or harness walks. Provide scratching posts to protect furniture. Regular playtime prevents boredom and destructive behavior.",
+      "zh": "西伯利亚猫能很好地适应公寓和房屋，只要有垂直空间和丰富环境。它们喜欢高处栖木、猫爬架和窗台以观察周围环境。它们是出色的跳跃者，因此固定好高处的架子并避免易碎物品。它们与儿童和其他宠物（包括对猫友好的狗）相处融洽，这得益于它们的社交天性。互动玩具和益智喂食器能保持它们的精神刺激。它们是室内猫，但可以享受安全的猫笼或牵绳散步。提供抓柱以保护家具。定期玩耍可以防止无聊和破坏行为。"
+    }
+  }
 }

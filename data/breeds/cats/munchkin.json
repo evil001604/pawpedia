@@ -78,5 +78,27 @@
       "en": "Playful",
       "zh": "爱玩"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Munchkin is a playful, intelligent, and outgoing cat breed known for its short legs, but that doesn't hinder its agility or speed. They are easygoing, social, and enjoy being handled, making them excellent companions. Despite their unique appearance, they are active and love to run, jump, and explore. Their affectionate nature and adaptability make them ideal for families and individuals alike.",
+      "zh": "曼基康猫是一种活泼、聪明且外向的猫品种，以其短腿而闻名，但这并不影响它们的敏捷性和速度。它们性格随和、善于社交，喜欢被抚摸，是极佳的伴侣。尽管外表独特，它们精力充沛，喜欢奔跑、跳跃和探索。它们深情的性格和适应能力使其成为家庭和个人的理想选择。"
+    },
+    "care": {
+      "en": "Daily care for a Munchkin includes brushing their short coat once or twice a week to minimize shedding. They are active cats, so provide interactive toys and climbing structures to keep them exercised. Regular vet visits are essential for vaccinations and health checks. Keep their ears clean and trim nails monthly. Dental hygiene is important; brush their teeth regularly.",
+      "zh": "曼基康猫的日常护理包括每周梳理短毛一到两次以减少掉毛。它们很活跃，因此提供互动玩具和攀爬结构以保持运动。定期兽医检查对于疫苗接种和健康检查至关重要。保持耳朵清洁，每月修剪指甲。口腔卫生很重要，定期刷牙。"
+    },
+    "training": {
+      "en": "Munchkins are intelligent and eager to please, making training relatively easy. Use positive reinforcement techniques like treats and praise. They can learn tricks, fetch, and even walking on a leash. Start training early and keep sessions short to maintain their interest. Consistency and patience are key. Avoid punishment; instead, redirect unwanted behaviors.",
+      "zh": "曼基康猫聪明且乐于取悦，因此训练相对容易。使用正面强化技术，如零食和表扬。它们可以学习技巧、捡球，甚至牵绳散步。尽早开始训练，保持短时间以维持兴趣。一致性和耐心是关键。避免惩罚，而是引导不良行为。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, balanced diet appropriate for their age, size, and activity level. Munchkins can be prone to obesity due to their short stature, so monitor portions and avoid free-feeding. Provide fresh water at all times. Consult your vet for specific dietary recommendations, including wet vs. dry food. Treats should be given sparingly.",
+      "zh": "喂食适合其年龄、体型和活动水平的高质量均衡饮食。曼基康猫因腿短易肥胖，因此注意分量，避免自由采食。随时提供新鲜水。咨询兽医关于具体饮食建议，包括湿粮与干粮。零食应适量给予。"
+    },
+    "livingTips": {
+      "en": "Munchkins adapt well to apartment living as long as they have vertical spaces like cat trees and shelves. They get along with children and other pets when properly introduced. Their short legs don't prevent them from jumping, but provide ramps or steps for easier access to high surfaces. Keep windows and balconies secure to prevent falls.",
+      "zh": "曼基康猫能很好地适应公寓生活，只要有猫爬架和架子等垂直空间。当适当介绍后，它们能与孩子和其他宠物相处。短腿并不妨碍跳跃，但提供斜坡或台阶以便更容易到达高处。确保窗户和阳台安全以防坠落。"
+    }
+  }
 }

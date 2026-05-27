@@ -86,5 +86,27 @@
       "en": "calm",
       "zh": "冷静"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The British Shorthair is a calm, affectionate, and easygoing breed known for its dense plush coat and round face. They are loyal and loving, forming strong bonds with all family members. While they enjoy playtime, they are independent and do not demand constant attention. They are patient and gentle, making them excellent companions for families, singles, and seniors alike. Their placid nature and adaptability make them well-suited to various living environments.",
+      "zh": "英国短毛猫是一种性格平静、深情且随和的品种，以其浓密的绒毛和圆脸著称。它们忠诚而充满爱心，与所有家庭成员建立牢固的联系。虽然喜欢玩耍，但它们很独立，不需要持续的关注。它们耐心而温和，是家庭、单身人士和老年人的绝佳伴侣。它们平静的天性和适应能力使其适合各种生活环境。"
+    },
+    "care": {
+      "en": "Daily care for British Shorthairs is relatively low-maintenance. Their dense coat requires brushing once or twice a week to reduce shedding and prevent mats. They are moderately active; provide interactive toys and a scratching post for daily exercise. Regular vet check-ups are important for monitoring weight and dental health. Nail trimming every two weeks and ear cleaning as needed complete the routine. They are healthy overall but prone to obesity, so monitor food intake and encourage activity.",
+      "zh": "英国短毛猫的日常护理相对简单。其浓密的被毛需要每周梳理一到两次，以减少掉毛和防止毛结。它们活动量适中，提供互动玩具和抓柱进行日常锻炼。定期兽医检查对监测体重和牙齿健康很重要。每两周修剪指甲，根据需要清洁耳朵，即可完成护理。它们总体健康，但易肥胖，因此需监控食物摄入并鼓励活动。"
+    },
+    "training": {
+      "en": "British Shorthairs are intelligent and respond well to positive reinforcement training. Use treats and praise to teach basic commands and tricks. They are not hyperactive, so training sessions should be short and engaging. Litter box training is usually straightforward. Discourage unwanted behaviors by redirecting to appropriate alternatives. They can be trained to walk on a harness with patience. Consistency and patience are key, as they may be somewhat stubborn but are eager to please.",
+      "zh": "英国短毛猫聪明，对积极强化训练反应良好。使用零食和表扬来教授基本命令和技巧。它们不太活跃，所以训练课程应简短且有趣。猫砂盆训练通常很简单。通过将不良行为引导至适当替代品来阻止。它们可以耐心地学会用牵引绳行走。一致性和耐心是关键，因为它们可能有些固执，但乐于取悦。"
+    },
+    "diet": {
+      "en": "Feed a high-quality balanced diet formulated for cats. British Shorthairs are prone to obesity, so measure portions and avoid free-feeding. Provide a mix of wet and dry food to ensure hydration and dental health. Treats should be limited. Adult cats typically need two meals per day. Consult your vet for specific dietary needs based on age, weight, and health. Fresh water should always be available. Avoid overfeeding and monitor body condition regularly.",
+      "zh": "喂食专为猫配制的高质量均衡饮食。英国短毛猫易肥胖，因此需测量份量并避免自由采食。提供湿粮和干粮混合，以确保水分摄入和牙齿健康。零食应限量。成年猫通常每天两餐。根据年龄、体重和健康状况咨询兽医以确定具体饮食需求。始终提供新鲜水。避免过度喂食，并定期监测身体状况。"
+    },
+    "livingTips": {
+      "en": "British Shorthairs adapt well to apartment living as they are not overly active. They enjoy a cozy home with perches and hiding spots. They are generally good with children and other pets due to their patient and gentle nature. They appreciate a safe outdoor enclosure or supervised time on a balcony. Provide scratching posts and interactive toys. They thrive in a stable, calm environment and do not like frequent changes. Their independent nature makes them suitable for owners with busy schedules.",
+      "zh": "英国短毛猫适应公寓生活，因为它们不太活跃。它们喜欢有栖架和藏身处的舒适家居。由于耐心温和的天性，它们通常对孩子和其他宠物友好。它们喜欢安全的户外围栏或在阳台上的监督时间。提供抓柱和互动玩具。它们在稳定、平静的环境中茁壮成长，不喜欢频繁变化。其独立的天性使其适合忙碌的主人。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chiweenie is a lively, affectionate hybrid breed that combines the Chihuahua's alertness and the Dachshund's playful confidence. These small dogs are known for their big personalities, often displaying loyalty and devotion to their owners. They are energetic and curious, making them excellent companions for active individuals or families. Chiweenies are typically alert and make good watchdogs, though they can be wary of strangers. Their intelligence and eagerness to please make them trainable, but they may inherit the Dachshund's stubborn streak. Overall, the Chiweenie is a charming, adaptable dog that thrives on attention and companionship.",
+      "zh": "奇维尼犬是一种活泼、亲和的杂交品种，融合了吉娃娃的警觉性和腊肠犬的顽皮自信。这些小型犬以其鲜明的个性著称，常对主人表现出忠诚和深情。它们精力充沛、好奇心强，是活跃的个人或家庭的优秀伴侣。奇维尼犬通常很警觉，是很好的看门犬，但可能对陌生人保持警惕。它们聪明且渴望取悦，易于训练，但也可能继承腊肠犬的固执。总的来说，奇维尼犬是一种迷人、适应性强的狗，喜欢关注和陪伴。"
+    },
+    "care": {
+      "en": "Chiweenies have a short, smooth coat that requires minimal grooming—weekly brushing with a soft bristle brush or rubber mitt to remove loose hair. Bathe only when necessary, typically every 4-6 weeks. Clean ears weekly to prevent infections, and brush teeth daily. Trim nails monthly. Exercise needs are moderate: daily walks of 20-30 minutes plus indoor play. They are prone to obesity, so regular activity is important. Annual vet checkups, vaccinations, and dental cleanings are essential. Watch for dental issues (common in small breeds) and back problems (inherited from Dachshund). Spay/neuter as recommended by your vet.",
+      "zh": "奇维尼犬的毛发短而光滑，只需少量梳理——每周用软毛刷或橡胶手套梳理一次，去除死毛。仅在必要时洗澡，通常每4-6周一次。每周清洁耳朵以防感染，每天刷牙。每月修剪指甲。运动需求适中：每天散步20-30分钟，加上室内玩耍。它们易肥胖，因此定期活动很重要。每年进行兽医检查、接种疫苗和牙齿清洁。注意牙齿问题（小型犬常见）和背部问题（从腊肠犬遗传）。按照兽医建议进行绝育。"
+    },
+    "training": {
+      "en": "Chiweenies are intelligent but can be stubborn, so positive reinforcement methods work best. Use treats, praise, and play as rewards. Start training early, focusing on basic commands like sit, stay, and come. Socialization is crucial: expose your Chiweenie to various people, dogs, and environments from puppyhood to prevent fearfulness or aggression. Keep training sessions short (5-10 minutes) to hold their attention. Consistency is key; use the same cues and rules. Crate training can aid in housebreaking and provide a safe space. Avoid harsh corrections, as they can cause anxiety. Patience and gentle guidance yield the best results.",
+      "zh": "奇维尼犬聪明但可能固执，因此正面强化方法最有效。使用零食、表扬和玩耍作为奖励。尽早开始训练，专注于基本命令如坐、停留和过来。社会化至关重要：从小让奇维尼犬接触不同的人、狗和环境，以防止胆怯或攻击性。保持训练时间短（5-10分钟）以维持其注意力。一致性是关键；使用相同的指令和规则。笼内训练有助于家庭训练并提供安全空间。避免严厉纠正，因为可能引起焦虑。耐心和温和的引导能带来最佳效果。"
+    },
+    "diet": {
+      "en": "Feed a high-quality small-breed dog food appropriate for their age (puppy, adult, senior). Chiweenies are prone to obesity, so measure portions and limit treats to 10% of daily calories. Divide daily food into two meals to prevent hypoglycemia (common in small breeds). Avoid overfeeding and table scraps. Some Chiweenies may have food allergies; monitor for skin or digestive issues. Provide fresh water at all times. Consult your vet for specific dietary needs, especially if your dog has dental or back problems. Omega-3 supplements can support joint and coat health.",
+      "zh": "喂食适合其年龄（幼犬、成犬、老年犬）的高质量小型犬粮。奇维尼犬易肥胖，因此要测量份量，零食限制在每日热量的10%以内。将每日食物分成两餐，以防低血糖（小型犬常见）。避免过量喂食和餐桌残渣。有些奇维尼犬可能有食物过敏；注意皮肤或消化问题。随时提供新鲜饮水。咨询兽医了解特定饮食需求，尤其如果您的狗有牙齿或背部问题。Omega-3补充剂可支持关节和皮毛健康。"
+    },
+    "livingTips": {
+      "en": "Chiweenies adapt well to apartment living due to their small size, but they need daily exercise. A small yard is fine, but they can thrive without one if walked regularly. They are sensitive to cold and may need a sweater in winter. Chiweenies can be good with children if raised together, but due to their small size, they are better suited to families with older, gentle children. They may be territorial with other dogs and may chase small pets due to their Dachshund heritage. Early socialization helps. Provide cozy bedding and a safe space. They are prone to separation anxiety, so avoid leaving them alone for long periods.",
+      "zh": "奇维尼犬体型小，能很好地适应公寓生活，但需要每日运动。有小院子很好，但如果没有，定期散步也能满足需求。它们对寒冷敏感，冬季可能需要穿毛衣。如果从小一起养，奇维尼犬能与孩子相处融洽，但由于体型小，更适合有较大、温和孩子的家庭。它们可能对其他狗有领地意识，并因腊肠犬血统而追逐小宠物。早期社会化有帮助。提供舒适的床铺和安全空间。它们容易有分离焦虑，避免长时间独处。"
+    }
+  }
 }

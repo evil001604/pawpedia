@@ -86,5 +86,27 @@
       "en": "loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chien Français Blanc et Noir is a large, powerful hound known for its courage, intelligence, and unwavering work ethic. Bred for hunting large game like roe deer, this breed is independent and determined, yet loyal to its pack and family. They have a deep, melodious bark and an excellent sense of smell. While affectionate with their owners, they can be reserved with strangers. Their high energy and strong prey drive require an active, experienced owner who can provide firm, consistent leadership and plenty of mental and physical stimulation.",
+      "zh": "法国黑白猎犬是一种大型、强壮的猎犬，以勇敢、聪明和坚定不移的工作精神著称。该犬种专为猎捕狍子等大型猎物而培育，性格独立且果断，但对群体和家庭忠诚。它们拥有深沉悦耳的吠叫和出色的嗅觉。虽然对主人充满感情，但对陌生人可能保持保留态度。其高能量和强烈的猎物驱力需要活跃且有经验的主人提供坚定、一致的领导以及充足的身心刺激。"
+    },
+    "care": {
+      "en": "Daily care for the Chien Français Blanc et Noir includes a short, weekly brushing with a hound glove or rubber curry brush to remove dead hair and distribute oils. Bathe only when necessary. Exercise is crucial: at least 1-2 hours of vigorous activity daily, such as long walks, jogs, or off-leash running in a secure area. They thrive on having a job or participating in dog sports like tracking or scent work. Regular vet check-ups, vaccinations, and parasite prevention are essential. Their floppy ears should be checked and cleaned weekly to prevent infections. Nail trimming and dental care should be part of the routine.",
+      "zh": "法国黑白猎犬的日常护理包括每周用猎犬手套或橡胶梳子短时间梳理，去除死毛并分布油脂。仅在必要时洗澡。运动至关重要：每天至少1-2小时的剧烈活动，如长距离散步、慢跑或在安全区域无绳奔跑。它们喜欢有任务或参与追踪、嗅闻等犬类运动。定期兽医检查、疫苗接种和寄生虫预防必不可少。下垂的耳朵应每周检查和清洁以防感染。修剪指甲和牙齿护理应成为日常习惯。"
+    },
+    "training": {
+      "en": "Training a Chien Français Blanc et Noir requires patience, consistency, and positive reinforcement methods. They are intelligent but independent, so early socialization and obedience training are vital. Use reward-based techniques with treats, praise, and play. Harsh corrections can damage trust. Keep sessions short and engaging to hold their interest. Because they are scent-driven, incorporate tracking games to channel their instincts. Recall training is critical, as they may follow a scent and ignore commands. A secure fenced yard is essential for off-leash practice. Crate training can provide a safe den-like space.",
+      "zh": "训练法国黑白猎犬需要耐心、一致性和积极强化方法。它们聪明但独立，因此早期社会化和服从训练至关重要。使用基于奖励的技巧，如零食、表扬和游戏。严厉的纠正可能破坏信任。保持训练简短有趣以吸引注意力。由于它们受气味驱动，可加入追踪游戏来引导本能。召回训练非常关键，因为它们可能追随气味而忽略指令。一个安全的围栏院子对于无绳练习必不可少。笼内训练可提供一个安全的巢穴空间。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the breed's size, age, and activity level. A large-breed formula with optimal protein and fat supports muscle maintenance and energy. Portion control is important to prevent obesity, especially if exercise is reduced. Consider splitting meals into two daily feedings to reduce bloat risk. Fresh water should always be available. Supplements like glucosamine and omega-3 fatty acids may benefit joints and coat health, but consult a vet before adding. Avoid overfeeding and limit treats. Monitor body condition and adjust portions as needed.",
+      "zh": "喂食适合该犬种体型、年龄和活动水平的高质量狗粮。大型犬配方含有最佳蛋白质和脂肪，有助于维持肌肉和能量。控制分量以防肥胖，尤其在运动减少时。考虑每天分两次喂食以降低胃胀气风险。始终提供新鲜饮水。葡萄糖胺和Omega-3脂肪酸等补充剂可能有益于关节和皮毛健康，但添加前请咨询兽医。避免过量喂食并限制零食。监测体况并相应调整分量。"
+    },
+    "livingTips": {
+      "en": "The Chien Français Blanc et Noir is not ideal for apartment living due to its size and exercise needs. A home with a large, securely fenced yard is best. They are generally good with children if raised together, but their boisterous nature may accidentally knock over small kids. They can coexist with other dogs, especially if socialized early, but have a strong prey drive and should not be trusted with small pets like cats or rabbits. They are pack-oriented and prefer not to be left alone for long periods; mental stimulation and companionship are key. A quiet, rural environment suits them best.",
+      "zh": "法国黑白猎犬因其体型和运动需求不适合公寓生活。最好有带大型安全围栏院子的房屋。如果从小一起成长，通常与孩子相处良好，但其喧闹的天性可能意外撞倒小孩。它们能与其他狗共存，尤其是早期社会化后，但具有强烈的猎物驱力，不应与猫或兔子等小宠物相处。它们是群体导向的，不喜欢长时间独处；精神刺激和陪伴至关重要。安静的乡村环境最适合它们。"
+    }
+  }
 }

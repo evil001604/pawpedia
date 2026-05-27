@@ -1,4 +1,10 @@
 import Link from 'next/link'
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: '404 — Page Not Found | PetPedia',
+  description: 'The page you are looking for does not exist. Browse our pet breed encyclopedia instead.',
+}
 
 export default function NotFound() {
   return (

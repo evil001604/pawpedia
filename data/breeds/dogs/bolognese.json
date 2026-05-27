@@ -90,5 +90,27 @@
       "en": "loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bolognese is a small, toy breed known for its calm, devoted, and intelligent personality. They are playful yet gentle, making them excellent companions. Their distinctive white, fluffy coat requires regular grooming. They are loyal to their families and can be reserved with strangers. As a member of the Bichon family, they have a long history as palace companions. Their small size and moderate energy levels make them adaptable to various living situations, but they thrive on human interaction and can suffer from separation anxiety if left alone too often.",
+      "zh": "博洛尼亚犬是一种小型玩具犬，以冷静、忠诚和聪明的性格著称。它们既活泼又温柔，是极佳的伴侣犬。其独特的白色蓬松毛发需要定期梳理。它们对家庭忠诚，对陌生人可能有所保留。作为比熊家族的一员，它们有着悠久的宫廷伴侣历史。体型小巧且精力适中，使它们能适应各种生活环境，但非常依赖人类互动，若长时间独处可能会产生分离焦虑。"
+    },
+    "care": {
+      "en": "Daily care for a Bolognese includes thorough grooming due to their single-layer, non-shedding coat. Brush daily to prevent mats and tangles, and bathe every 2-3 weeks. Their eyes and ears need regular cleaning to avoid infections. Exercise needs are moderate: a daily 20-30 minute walk plus indoor play suffices. Vet visits should be annual for check-ups and vaccinations, with dental care done regularly. Nails should be trimmed monthly. They are sensitive to heat, so avoid excessive sun exposure.",
+      "zh": "博洛尼亚犬的日常护理包括彻底的毛发梳理，因为它们的单层被毛不易掉毛。每天梳理以防止打结，每2-3周洗澡一次。眼睛和耳朵需要定期清洁以防感染。运动需求适中：每天20-30分钟的散步加上室内玩耍即可。每年进行一次兽医检查和疫苗接种，并定期进行牙齿护理。每月修剪指甲。它们对热敏感，应避免过度日晒。"
+    },
+    "training": {
+      "en": "Bolognese are intelligent and eager to please, making them responsive to positive reinforcement training methods such as treats and praise. Start early with socialization to prevent shyness or fearfulness. Keep training sessions short and fun to maintain their attention. They can be stubborn at times, so patience is key. Crate training is recommended for housebreaking. Avoid harsh corrections as they are sensitive. Basic obedience and tricks are easily learned, and they excel in canine sports like agility and rally.",
+      "zh": "博洛尼亚犬聪明且乐于取悦主人，因此对正面强化训练方法（如零食和表扬）反应良好。尽早开始社会化训练，以防止害羞或胆怯。训练时间应短而有趣，以保持它们的注意力。它们有时会固执，因此耐心是关键。推荐使用笼内训练进行如厕训练。避免严厉的纠正，因为它们很敏感。基础服从和技巧容易学会，它们在敏捷性和拉力赛等犬类运动中表现出色。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, small-breed dog food appropriate for their age, size, and activity level. Portion control is important to prevent obesity. Typically, 1/2 to 1 cup of dry food daily, divided into two meals, is sufficient. Avoid overfeeding and limit treats to 10% of daily calories. Fresh water should always be available. Some Bolognese may have sensitive stomachs, so introduce new foods gradually. Consult your vet for specific dietary needs, especially if they have allergies.",
+      "zh": "喂食适合其年龄、体型和活动水平的高质量小型犬犬粮。控制食量以防止肥胖。通常每天半杯到一杯干粮，分两餐喂食即可。避免过度喂食，零食限制在每日热量的10%以内。始终保持新鲜饮水。部分博洛尼亚犬肠胃敏感，因此新食物应逐步引入。如有过敏等特殊饮食需求，请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "Bolognese adapt well to apartment living due to their small size and moderate energy. They are indoor dogs and should not live outside. A small yard is nice but not necessary. They are generally good with children if raised together, but supervision is needed due to their fragile build. They get along with other dogs and cats with proper socialization. They are sensitive to noise and chaos, so a calm home environment is ideal. They dislike being left alone for long hours and may develop separation anxiety.",
+      "zh": "博洛尼亚犬体型小巧、精力适中，非常适合公寓生活。它们是室内犬，不应在户外生活。有小院子很好，但不是必须。若与孩子一起长大，通常相处良好，但由于体型脆弱，需要监督。通过适当的社会化训练，它们能与其他狗和猫和睦相处。它们对噪音和混乱敏感，因此安静的家庭环境最为理想。它们不喜欢长时间独处，可能会产生分离焦虑。"
+    }
+  }
 }

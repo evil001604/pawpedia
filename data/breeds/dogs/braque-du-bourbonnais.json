@@ -90,5 +90,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Braque du Bourbonnais is a gentle, intelligent, and affectionate sporting breed known for its calm demeanor and loyalty. Originating from the Bourbonnais region of France, this ancient pointing dog is highly adaptable, making it an excellent companion for both active families and hunters. With a balanced personality, it is neither overly energetic nor lethargic, displaying a natural eagerness to please. Its short, speckled coat adds to its rustic charm, and its patient nature makes it a wonderful family pet. Despite its hunting background, the Braque du Bourbonnais is remarkably gentle and thrives on human companionship, forming strong bonds with its owners.",
+      "zh": "波旁布拉可犬是一种温柔、聪明且深情的运动犬种，以其冷静的气质和忠诚而闻名。源自法国波旁地区，这种古老的指示犬适应性极强，是活跃家庭和猎人的绝佳伴侣。其性格平衡，既不过分精力充沛也不懒散，天生渴望取悦主人。短而有斑点的被毛增添了其质朴的魅力，耐心的天性使其成为极佳的家庭宠物。尽管有狩猎背景，波旁布拉可犬非常温和，喜欢人类陪伴，与主人建立牢固的联系。"
+    },
+    "care": {
+      "en": "The Braque du Bourbonnais has minimal grooming needs due to its short, dense coat. Weekly brushing with a soft bristle brush or rubber mitt helps remove loose hair and maintain skin health. Bathing should be done only when necessary to preserve natural oils. Exercise requirements are moderate; at least 30-60 minutes of daily activity such as walks, runs, or off-leash play in a secure area is essential. This breed thrives on mental stimulation, so incorporate interactive games. Regular vet check-ups, ear cleaning, nail trimming, and dental care are important. As a sporting breed, it benefits from activities like hiking or swimming.",
+      "zh": "波旁布拉可犬由于被毛短而密，梳理需求极低。每周用软毛刷或橡胶手套刷毛一次，可去除死毛并保持皮肤健康。仅在必要时洗澡，以保护天然油脂。运动需求适中，每天至少30-60分钟的活动，如散步、跑步或在安全区域无绳玩耍。该犬种需要精神刺激，可加入互动游戏。定期兽医检查、耳朵清洁、指甲修剪和牙齿护理很重要。作为运动犬种，它喜欢远足或游泳等活动。"
+    },
+    "training": {
+      "en": "Training a Braque du Bourbonnais is a rewarding experience due to its intelligence and eagerness to please. Use positive reinforcement methods like treats, praise, and play. This breed is sensitive, so harsh corrections can be counterproductive. Early socialization is crucial to develop a well-rounded dog; expose it to various people, animals, and environments. Basic obedience training should start early. Consistent, patient, and gentle leadership works best. They excel in hunting and field trials, but also enjoy canine sports like agility. Short, engaging sessions prevent boredom. Their natural pointing instinct can be nurtured with appropriate training.",
+      "zh": "训练波旁布拉可犬是一种愉快的经历，因为它们聪明且乐于取悦。使用积极强化方法，如零食、表扬和游戏。该犬种敏感，严厉的纠正可能适得其反。早期社会化至关重要，让它们接触不同的人、动物和环境。基本服从训练应尽早开始。一致、耐心和温和的领导最有效。它们在狩猎和野外测试中表现出色，也喜欢敏捷等犬类运动。短而有趣的训练能防止厌倦。其天生的指示本能可通过适当训练加以培养。"
+    },
+    "diet": {
+      "en": "Feed the Braque du Bourbonnais a high-quality diet appropriate for its age, size, and activity level. A balanced diet with protein from meat, fish, or poultry, healthy fats, and carbohydrates is essential. Portion control is important to prevent obesity, as this breed can be prone to weight gain if overfed. Typically, 1.5 to 2.5 cups of dry food per day, split into two meals, is suitable. Avoid over-supplementation unless advised by a vet. Fresh water should always be available. Treats can be given in moderation during training. Monitor body condition and adjust food accordingly. Consult a vet for specific dietary needs.",
+      "zh": "为波旁布拉可犬提供适合其年龄、体型和活动水平的高质量饮食。均衡的饮食应包括肉类、鱼类或家禽中的蛋白质、健康脂肪和碳水化合物。控制份量以防止肥胖，因为该犬种容易因过度喂食而体重增加。通常每天1.5到2.5杯干粮，分两餐喂食。除非兽医建议，否则避免过度补充营养。始终提供新鲜水。训练期间可适度给予零食。监测身体状况并相应调整食物。具体饮食需求请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "The Braque du Bourbonnais adapts well to various living situations, including apartments, provided it gets sufficient daily exercise. A securely fenced yard is ideal for off-leash play. This breed is excellent with children, displaying patience and gentleness, and generally gets along with other dogs and pets when properly socialized. It thrives on human companionship and should not be left alone for long periods, as it may develop separation anxiety. Indoor living is fine as long as it has a comfortable space. Its calm nature makes it a good fit for families, but it still requires regular mental and physical stimulation to stay happy.",
+      "zh": "波旁布拉可犬适应多种生活环境，包括公寓，前提是每天有足够的运动。有安全围栏的院子是理想的无绳玩耍场所。该犬种对孩子极好，表现出耐心和温柔，若适当社会化，通常能与其他狗和宠物相处。它喜欢人类陪伴，不应长时间独处，否则可能产生分离焦虑。室内生活没问题，只要有舒适的空间。其冷静的天性使其适合家庭，但仍需要定期的精神和身体刺激以保持快乐。"
+    }
+  }
 }

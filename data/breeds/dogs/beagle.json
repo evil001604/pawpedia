@@ -90,5 +90,27 @@
       "en": "energetic",
       "zh": "精力充沛"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Beagle is a small to medium-sized hound breed known for its friendly, gentle, and curious nature. They are outgoing and alert, making them excellent family companions. Beagles are energetic and love to explore, often following their noses. Their merry temperament and lack of aggression make them great with children and other dogs. However, their independent streak and strong prey drive can pose challenges. Beagles are vocal and may howl or bark, especially when bored. They thrive on companionship and can suffer from separation anxiety. With proper socialization, they are adaptable and cheerful pets. Originating from England as hare-hunting 'foot hounds', Beagles retain a strong instinct to track scents. Their signature floppy ears, expressive eyes, and wagging tails make them one of the most recognizable and beloved breeds worldwide.",
+      "zh": "比格犬是一种小型到中型猎犬，以其友好、温和和好奇的性格而闻名。它们外向且机警，是优秀的家庭伴侣。比格犬精力充沛，喜欢探索，常常追随气味。它们快乐的性情和不具攻击性，使其与儿童和其他狗相处融洽。然而，它们的独立性和强烈的捕猎本能可能带来挑战。比格犬爱叫，无聊时会嚎叫或吠叫。它们渴望陪伴，容易患上分离焦虑。通过适当的社会化，它们能成为适应性强、快乐的宠物。比格犬起源于英格兰，作为徒步猎兔的猎犬，它们保留着强烈的追踪本能。标志性的垂耳、富有表情的眼睛和摇摆的尾巴，使它们成为全球最知名和最受欢迎的犬种之一。"
+    },
+    "care": {
+      "en": "Beagles have a short, dense double coat that sheds moderately year-round and heavily during seasonal changes. Weekly brushing with a rubber curry brush or hound glove removes loose hair and distributes oils. Bathe every 2-3 months or when dirty. Clean their floppy ears weekly to prevent infections, and trim nails monthly. Beagles are high-energy dogs needing at least 1 hour of daily exercise, including walks, runs, or play in a secure fenced area. They love to sniff, so incorporate scent games or tracking activities. Without enough exercise, they may become overweight or destructive. Regular vet check-ups are essential; Beagles are prone to obesity, ear infections, hip dysplasia, and epilepsy. Keep vaccinations and parasite prevention up to date. Dental care (brushing 2-3 times per week) helps prevent periodontal disease.",
+      "zh": "比格犬有短而密的双层被毛，全年中度脱毛，换季时脱毛严重。每周用橡胶刷或猎犬手套梳理一次，去除死毛并分布油脂。每2-3个月或脏时洗澡。每周清洁垂耳以防感染，每月修剪指甲。比格犬精力充沛，每天至少需要1小时运动，包括散步、跑步或在安全围栏内玩耍。它们喜欢嗅闻，可加入气味游戏或追踪活动。运动不足易导致肥胖或破坏行为。定期兽医检查至关重要；比格犬易患肥胖、耳部感染、髋关节发育不良和癫痫。保持疫苗接种和寄生虫预防。每周刷牙2-3次以预防牙周病。"
+    },
+    "training": {
+      "en": "Beagles are intelligent but independent and easily distracted by scents, making training a challenge. Use positive reinforcement with high-value treats and keep sessions short (5-10 minutes) to maintain focus. Start obedience training early, including recall, as Beagles may ignore commands when following a scent. Crate training helps with housebreaking and provides a safe den. Socialization from puppyhood is crucial to prevent timidity or reactivity. Avoid harsh corrections; Beagles respond poorly to punishment. Incorporate nose work or tracking games to harness their natural abilities. Consistency and patience are key. Beagles excel in scent work and can participate in barn hunt, rally, or obedience trials. Their food motivation makes treat-based training effective, but monitor portions to avoid obesity.",
+      "zh": "比格犬聪明但独立，易被气味分心，训练有挑战。使用高价值零食的正向强化，保持短时间（5-10分钟）训练以维持专注。尽早开始服从训练，包括召回，因为比格犬追踪气味时会忽略指令。笼内训练有助于如厕训练并提供安全窝点。幼年社会化至关重要，以防胆怯或反应过度。避免严厉纠正；比格犬对惩罚反应差。结合嗅觉工作或追踪游戏发挥其天赋。一致性和耐心是关键。比格犬擅长嗅觉工作，可参与寻踪、敏捷或服从比赛。食物动机强使基于零食的训练有效，但需监控分量以防肥胖。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, age-appropriate dog food formulated for active breeds. Beagles are prone to obesity, so measure meals and limit treats to 10% of daily calories. Divide daily food into two meals to prevent bloat and maintain steady energy. Adjust portions based on activity level and body condition. Avoid free-feeding. Provide fresh water at all times. Beagles may have food allergies; watch for skin or digestive issues and consult a vet if needed. Supplement with omega-3 fatty acids for coat health, and glucosamine for joint support in older dogs. Treats can include small pieces of fruits (like apple without seeds) or vegetables (carrots, green beans) as low-calorie options. Never feed grapes, raisins, onions, garlic, chocolate, or xylitol.",
+      "zh": "喂食适合活跃犬种的高质量、年龄适宜的狗粮。比格犬易肥胖，需测量每餐分量，零食限制在每日热量的10%以内。每日分两餐喂食，以防胃胀气并维持稳定能量。根据活动量和体况调整分量。避免自由采食。随时提供新鲜饮水。比格犬可能有食物过敏；注意皮肤或消化问题，必要时咨询兽医。可补充Omega-3脂肪酸促进皮毛健康，老年犬补充葡萄糖胺保护关节。零食可选小块水果（如去籽苹果）或蔬菜（胡萝卜、青豆）等低热量选项。切勿喂食葡萄、葡萄干、洋葱、大蒜、巧克力和木糖醇。"
+    },
+    "livingTips": {
+      "en": "Beagles adapt to various living situations but do best in homes with secure, fenced yards where they can safely explore. They can live in apartments if given sufficient exercise and mental stimulation, but their barking may disturb neighbors. Beagles are pack animals and suffer if left alone for long periods; consider doggy daycare or a companion pet. They are excellent with children and generally get along with other dogs, but their prey drive may make them unsafe around small pets like cats, rabbits, or hamsters unless raised together. Beagles need a comfortable bed and a quiet retreat. They are escape artists — ensure fences are high and secure, and never leave them unsupervised outdoors. Provide interactive toys and puzzle feeders to prevent boredom.",
+      "zh": "比格犬适应多种居住环境，但最好有安全围栏的院子供其探索。公寓饲养需保证充足运动和精神刺激，但吠叫可能扰邻。比格犬是群居动物，长时间独处会痛苦；可考虑狗狗日托或养另一只宠物。它们与儿童相处融洽，通常与其他狗合得来，但捕猎本能可能使其对小宠物（猫、兔、仓鼠）不安全，除非从小一起养。比格犬需要舒适的床和安静角落。它们是逃跑大师——确保围栏高而牢固，绝不要在无人看管时留在室外。提供互动玩具和益智喂食器以防无聊。"
+    }
+  }
 }

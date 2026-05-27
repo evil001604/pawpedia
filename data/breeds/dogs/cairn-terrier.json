@@ -90,5 +90,27 @@
       "en": "energetic",
       "zh": "精力充沛"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cairn Terrier is a small, sturdy, and alert breed known for its confident, friendly, and intelligent nature. Originating from Scotland, these dogs are courageous and energetic, making them excellent companions for active families. They have a distinctive shaggy coat and a happy, inquisitive expression. Cairns are natural hunters, so they may chase small animals, but they are also affectionate and loyal to their owners. They are independent thinkers and can be stubborn, but their playful and spirited personality makes them a joy to have around. Despite their small size, they are robust and enjoy outdoor activities.",
+      "zh": "凯恩梗是一种小型、结实且警觉的犬种，以其自信、友善和聪明的天性而闻名。起源于苏格兰，这些狗勇敢而精力充沛，是活跃家庭的绝佳伴侣。它们有独特的毛茸茸的被毛和快乐、好奇的表情。凯恩梗是天生的猎手，可能会追逐小动物，但它们对主人充满深情和忠诚。它们是独立思考者，有时会固执，但顽皮和活泼的性格使它们成为身边的快乐源泉。尽管体型小，但它们体格强健，喜欢户外活动。"
+    },
+    "care": {
+      "en": "Cairn Terriers have a double coat that requires regular grooming: brush 2-3 times per week to prevent mats, and hand-strip or clip every 3-4 months. Bathe only when needed. They are active dogs needing at least 30-60 minutes of exercise daily, including walks, play, or off-leash time in a secure area. Regular vet check-ups, vaccinations, and dental care are essential. Nail trimming monthly and ear cleaning weekly help maintain health. Keep them mentally stimulated with puzzle toys or training sessions to prevent boredom.",
+      "zh": "凯恩梗有双层被毛，需要定期梳理：每周刷毛2-3次以防止打结，每3-4个月进行手工拔毛或修剪。仅在必要时洗澡。它们是活跃的狗，每天至少需要30-60分钟的运动，包括散步、玩耍或在安全区域的无绳活动。定期兽医检查、疫苗接种和牙齿护理至关重要。每月修剪指甲和每周清洁耳朵有助于保持健康。用益智玩具或训练课程保持其精神刺激，防止无聊。"
+    },
+    "training": {
+      "en": "Cairn Terriers are intelligent but can be stubborn, so positive reinforcement methods work best. Use treats, praise, and play as rewards. Keep training sessions short (5-10 minutes) and fun to maintain their interest. Early socialization is crucial to prevent aggression toward other dogs or small animals. They respond well to clicker training and consistency. Avoid harsh corrections as they can become resistant. Teach basic commands like sit, stay, and come, and progress to tricks to challenge their mind. Crate training can aid in housebreaking and provide a safe space.",
+      "zh": "凯恩梗聪明但可能固执，因此正强化方法最有效。使用零食、表扬和玩耍作为奖励。保持训练课程简短（5-10分钟）且有趣，以维持它们的兴趣。早期社会化至关重要，以防止对其他狗或小动物的攻击性。它们对响片训练和一致性反应良好。避免严厉纠正，因为它们可能变得抗拒。教授基本命令如坐、等待和来，然后进阶到技巧以挑战它们的思维。笼内训练有助于家庭训练并提供安全空间。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Cairn Terriers can be prone to obesity, so measure meals and limit treats. Divide daily food into two meals to prevent bloating. Ensure fresh water is always available. Consider foods with omega fatty acids for coat health. Avoid table scraps and human foods that are toxic to dogs. Puppies need 3-4 meals per day, transitioning to two meals as adults. Consult your vet for specific dietary needs, especially if your dog has allergies or sensitivities.",
+      "zh": "喂食适合其年龄、体型和活动水平的高质量狗粮。凯恩梗容易肥胖，因此要测量餐量并限制零食。将每日食物分成两餐以防止腹胀。确保随时有新鲜水。考虑含有欧米茄脂肪酸的食物以促进被毛健康。避免剩饭和对狗有毒的人类食物。幼犬每天需要3-4餐，成年后过渡到两餐。咨询兽医了解特定的饮食需求，特别是如果您的狗有过敏或敏感问题。"
+    },
+    "livingTips": {
+      "en": "Cairn Terriers adapt well to apartment living if given enough exercise, but they thrive with a securely fenced yard. They are curious and may dig or escape, so ensure fences are secure. They are good with children if raised together, but may be too feisty for very young kids. They can live with other dogs and cats if socialized early, but have a strong prey drive toward small animals. They are alert watchdogs and will bark at strangers. Provide plenty of toys and mental stimulation. They do not like being left alone for long periods; consider doggy daycare or a pet sitter.",
+      "zh": "如果给予足够的运动，凯恩梗能很好地适应公寓生活，但有安全围栏的院子更佳。它们好奇，可能挖洞或逃跑，因此确保围栏牢固。如果从小一起长大，它们对孩子友好，但对非常年幼的孩子可能过于活泼。如果早期社会化，它们可以与其他狗和猫相处，但对小动物有强烈的捕猎本能。它们是警觉的看门狗，会对陌生人吠叫。提供大量玩具和精神刺激。它们不喜欢长时间独处；考虑狗狗日托或宠物保姆。"
+    }
+  }
 }

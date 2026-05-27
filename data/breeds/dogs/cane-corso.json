@@ -86,5 +86,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cane Corso is a powerful, confident, and intelligent working breed known for its loyalty and protective nature. Originating from Italy as a farm guardian and hunter, this breed is affectionate with family but reserved with strangers. They require an experienced owner who can provide firm, consistent leadership. Their imposing stature and deep bark make them excellent watchdogs, but they are not aggressive without cause. With proper socialization, they are calm and even-tempered indoors, yet alert and courageous when needed. This breed thrives on having a job to do and bonds deeply with its human pack.",
+      "zh": "卡斯罗犬是一种强壮、自信且聪慧的工作犬种，以忠诚和保护性著称。原产于意大利，曾作为农场护卫和猎犬，对家人充满感情，但对陌生人保持警惕。它们需要有经验的主人提供坚定、一致的领导。其威严的外形和低沉的吠声使其成为优秀的看门犬，但并非无故攻击。通过适当的社会化训练，它们在室内安静沉稳，但在需要时警觉勇敢。该犬种喜欢有任务在身，并与人类家庭建立深厚纽带。"
+    },
+    "care": {
+      "en": "Daily care for a Cane Corso includes at least 1-2 hours of exercise such as brisk walks, jogging, or play sessions in a securely fenced area. Grooming is minimal: brush their short coat weekly to remove loose hair, and bathe only when necessary. Clean their ears regularly to prevent infections, and trim nails monthly. Due to their size, joint health is crucial—avoid excessive jumping until fully grown. Regular veterinary check-ups, including hip and elbow evaluations, are recommended. They are moderate shedders and generally healthy, but prone to bloat, so feed multiple small meals daily and avoid exercise right after eating.",
+      "zh": "卡斯罗犬的日常护理包括每天至少1-2小时的运动，如快走、慢跑或在安全围栏区域内玩耍。梳理需求低：每周刷毛一次去除死毛，必要时才洗澡。定期清洁耳朵以防感染，每月修剪指甲。由于其体型，关节健康至关重要——在完全发育前避免过度跳跃。建议定期进行兽医检查，包括髋关节和肘关节评估。它们掉毛适中，总体健康，但易患胃扭转，因此每日分多餐喂食，避免饭后立即运动。"
+    },
+    "training": {
+      "en": "Training a Cane Corso requires a confident, consistent, and positive approach. Early socialization is critical—expose them to various people, animals, and environments from puppyhood to prevent overprotectiveness. They are intelligent and eager to please, but can be stubborn; use reward-based methods with firm boundaries. Avoid harsh corrections as they can damage trust. Basic obedience (sit, stay, recall) is essential, and advanced training like controlled walking or protection work can channel their drive. Enroll in puppy classes and continue training throughout life. They respond best to a calm, assertive leader who sets clear rules.",
+      "zh": "训练卡斯罗犬需要自信、一致且积极的方法。早期社会化至关重要——从幼犬期开始接触各种人、动物和环境，以防止过度保护。它们聪明且渴望取悦，但可能固执；使用基于奖励的方法并设定明确界限。避免严厉纠正，以免破坏信任。基本服从（坐、等、召回）必不可少，进阶训练如受控行走或护卫工作可引导其动力。参加幼犬课程并持续训练终身。它们对冷静、坚定且设定清晰规则的领导者反应最佳。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, large-breed dog food appropriate for their age and activity level. Cane Corsos have a tendency to gain weight, so monitor portions and avoid free-feeding. Protein should come from animal sources, and the diet should include balanced fats, carbs, vitamins, and minerals. Consider joint supplements like glucosamine and chondroitin for hip and elbow health. Because of bloat risk, divide daily food into 2-3 meals, use slow-feed bowls, and avoid exercise for at least an hour after eating. Fresh water must always be available. Consult your vet for specific dietary needs, especially for puppies and seniors.",
+      "zh": "喂食适合其年龄和活动水平的高质量大型犬粮。卡斯罗犬易发胖，因此需控制食量，避免自由采食。蛋白质应来自动物源，饮食需包含均衡的脂肪、碳水化合物、维生素和矿物质。考虑添加葡萄糖胺和软骨素等关节补充剂以保护髋关节和肘关节。由于胃扭转风险，每日分2-3餐喂食，使用慢食碗，并在饭后至少一小时内避免运动。随时提供新鲜饮水。具体饮食需求请咨询兽医，尤其是幼犬和老年犬。"
+    },
+    "livingTips": {
+      "en": "The Cane Corso can adapt to apartment living if given sufficient exercise, but a house with a securely fenced yard is ideal. They are not suited for hot climates due to their short coat and brachycephalic traits; provide cool shade and avoid strenuous activity in heat. Early socialization with children and other pets is essential; they can be gentle with family kids but may be too boisterous for toddlers. They are generally dominant with other dogs of the same sex, so careful introductions are needed. This breed is not recommended for first-time owners; they require an experienced handler who can provide structure and leadership.",
+      "zh": "卡斯罗犬若能获得充足运动，可适应公寓生活，但有安全围栏院子的房屋更为理想。由于短毛和短头特征，它们不适合炎热气候；需提供阴凉处并避免高温下剧烈活动。与儿童及其他宠物的早期社会化至关重要；它们对家庭儿童可能温柔，但对幼儿可能过于粗鲁。通常对同性别犬只具有支配性，因此需谨慎介绍。不推荐新手饲养；该犬种需要有经验、能提供结构和领导力的主人。"
+    }
+  }
 }

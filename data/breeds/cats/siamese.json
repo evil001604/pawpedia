@@ -86,5 +86,27 @@
       "en": "Energetic",
       "zh": "精力充沛"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Siamese cat is one of the most recognizable and beloved breeds, originating from Thailand. Known for their striking blue almond-shaped eyes, short coat with color points on the ears, face, paws, and tail, they are highly active, agile, and clever. Siamese cats are extremely sociable and loving, forming deep bonds with their human companions. They are talkative and opinionated, often following you around the house and supervising your every move. This breed demands attention and interaction; they are not suited for owners who are away from home for long periods. Their energetic and playful nature makes them a joy for families, but they can become destructive or anxious if left alone too often. Overall, the Siamese is a loyal, vocal, and intelligent companion that thrives on companionship and mental stimulation.",
+      "zh": "暹罗猫是最具辨识度和备受喜爱的猫品种之一，原产于泰国。它们以引人注目的蓝色杏仁形眼睛、短毛以及耳朵、面部、爪子和尾巴上的重点色而闻名。暹罗猫非常活跃、敏捷且聪明。它们极具社交性且充满爱心，与人类伴侣建立深厚的情感纽带。它们爱说话且固执己见，常常跟随你满屋子走动，监督你的一举一动。这个品种需要关注和互动，不适合长时间不在家的主人。它们精力充沛、爱玩的天性使其成为家庭的乐趣，但如果长时间独处，可能会变得具有破坏性或焦虑。总的来说，暹罗猫是一种忠诚、爱叫且聪明的伴侣，喜欢陪伴和精神刺激。"
+    },
+    "care": {
+      "en": "Daily care for a Siamese cat is relatively low-maintenance but requires consistency. Their short, fine coat needs only weekly brushing to remove loose hair and maintain shine. Nail trimming every two weeks, regular ear cleaning, and dental care (brushing teeth a few times a week) are essential. Siamese cats are highly energetic and need at least 20–30 minutes of interactive play daily, such as chasing toys or puzzle games, to prevent boredom. Annual veterinary check-ups are vital to monitor for common issues like respiratory problems or dental disease. They also benefit from a scratching post and cat trees to satisfy their climbing instincts. Because they are social, ensure they have plenty of human interaction or a feline companion if you work long hours.",
+      "zh": "暹罗猫的日常护理相对简单但需要持之以恒。它们短而细密的毛发只需每周梳理一次，以去除死毛并保持光泽。每两周修剪指甲、定期清洁耳朵和牙齿护理（每周刷牙几次）是必要的。暹罗猫精力充沛，每天需要至少20–30分钟的互动游戏，如追逐玩具或益智游戏，以防止无聊。年度兽医检查对于监测常见问题（如呼吸道疾病或牙齿问题）至关重要。它们还需要猫抓板和猫爬架来满足攀爬本能。由于它们非常社交化，如果你长时间工作，请确保它们有足够的人类互动或猫伴侣。"
+    },
+    "training": {
+      "en": "Siamese cats are exceptionally intelligent and trainable, responding well to positive reinforcement techniques like treats, praise, and clicker training. Start with basic commands such as 'sit' or 'come' using short, consistent sessions (5–10 minutes). They can learn tricks like fetch, high-five, or even walking on a leash with patience. Because they are vocal, you can also train them to use a specific meow for requests. Avoid punishment, as it can damage trust. Provide puzzle toys and interactive feeders to channel their cleverness. Early socialization with people and other pets is crucial to prevent shyness or aggression. Consistency and rewards are key—they thrive on mental challenges and will eagerly participate if training is fun and engaging.",
+      "zh": "暹罗猫非常聪明且易于训练，对正面强化技巧（如零食、赞美和响片训练）反应良好。从基本命令如“坐下”或“过来”开始，使用简短且一致的训练时段（5–10分钟）。它们可以学习接物、击掌甚至在有耐心的情况下用牵引绳散步。由于它们爱叫，你还可以训练它们用特定的叫声提出请求。避免惩罚，因为这会破坏信任。提供益智玩具和互动喂食器来引导它们的聪明才智。早期与人和宠物的社交至关重要，以防止害羞或攻击性。一致性和奖励是关键——它们喜欢精神挑战，如果训练有趣且吸引人，它们会积极参与。"
+    },
+    "diet": {
+      "en": "A balanced diet is crucial for the Siamese cat's health and energy levels. Feed high-quality commercial cat food (wet or dry) that lists meat as the first ingredient, with adequate protein and moderate fat. Kittens need more frequent meals (3–4 times daily), while adults can be fed twice a day. Portion control is important to prevent obesity, as Siamese cats can be food-motivated. Fresh water should always be available. Consider incorporating occasional treats for training, but keep them under 10% of total calories. Some Siamese may have sensitive stomachs, so introduce new foods gradually. Consult your vet for specific dietary needs, especially if your cat has allergies or dental issues. Omega-3 supplements can support their coat and joint health.",
+      "zh": "均衡的饮食对暹罗猫的健康和能量水平至关重要。喂食高质量的商业猫粮（湿粮或干粮），确保肉类是首要成分，含有充足的蛋白质和适量脂肪。幼猫需要更频繁的喂食（每天3–4次），而成年猫一天两次即可。控制食量很重要，以防肥胖，因为暹罗猫可能对食物有很高的动机。应始终提供新鲜饮水。偶尔可以用零食进行训练，但零食量不要超过总热量的10%。有些暹罗猫肠胃敏感，因此新食物应逐步引入。请咨询兽医了解特定的饮食需求，特别是如果您的猫有过敏或牙齿问题。Omega-3补充剂可以支持它们的毛发和关节健康。"
+    },
+    "livingTips": {
+      "en": "Siamese cats are best suited for homes where they receive ample attention and interaction. They adapt well to apartment living if provided with vertical spaces like cat trees, shelves, and window perches for climbing and bird-watching. A fenced yard can be a bonus but is not essential, as they are primarily indoor cats to protect them from traffic and predators. They are generally excellent with children who respect their boundaries, and they often get along with other cats and cat-friendly dogs, especially if introduced gradually. However, they can be territorial and may not tolerate small pets like rodents or birds. Avoid leaving them alone for more than 8 hours regularly; consider a pet sitter or a second cat for companionship. Their vocal nature may be a concern in noise-sensitive apartments.",
+      "zh": "暹罗猫最适合那些能给予它们大量关注和互动的家庭。它们能很好地适应公寓生活，只要提供垂直空间如猫爬架、搁板和窗台供其攀爬和观鸟。有围栏的院子是加分项但不是必需的，因为它们主要是室内猫，以保护它们免受车辆和捕食者的伤害。它们通常与尊重它们界限的孩子相处得很好，并且经常能与其他猫和友善的狗融洽相处，尤其是逐步引入时。然而，它们可能有领地意识，可能无法容忍小型宠物如啮齿动物或鸟类。避免让它们单独待超过8小时；考虑请宠物保姆或再养一只猫作为陪伴。它们爱叫的特性可能在噪音敏感的公寓中是个问题。"
+    }
+  }
 }

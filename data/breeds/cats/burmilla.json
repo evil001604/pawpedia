@@ -86,5 +86,27 @@
       "en": "Social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Burmilla is a delightful cat breed known for its easygoing and friendly nature. Originating from the United Kingdom, this breed is a cross between the Burmese and Chinchilla Persian. Burmillas are intelligent, lively, and playful, yet they possess a placid temperament that makes them easy to get along with. They are affectionate and sweet, forming strong bonds with their owners. Their loyal and devoted nature means they enjoy companionship and will often stay close by, making them ideal for those seeking a loving feline friend. With minimal care requirements, the Burmilla is a low-maintenance breed that thrives on attention and interaction.",
+      "zh": "伯米拉猫是一种令人愉悦的猫品种，以其随和友好的性格而闻名。该品种起源于英国，是缅甸猫和金吉拉波斯猫的杂交品种。伯米拉猫聪明、活泼、爱玩，但又具有平和的性情，容易相处。它们深情而甜美，与主人建立牢固的情感纽带。忠诚、奉献且充满感情，这种猫会一直陪伴在主人身边，是寻求充满爱意的猫伴侣的理想选择。由于护理需求极低，伯米拉猫是一种低维护的品种，喜欢关注和互动。"
+    },
+    "care": {
+      "en": "Burmillas have a short, dense coat that requires minimal grooming. Weekly brushing with a soft bristle brush or rubber grooming mitt will remove loose hair and keep the coat shiny. They are moderate shedders. Regular nail trimming, ear cleaning, and dental care should be part of the routine. Burmillas are active and playful, so provide interactive toys and daily play sessions to keep them mentally and physically stimulated. They enjoy climbing, so a cat tree is beneficial. Annual vet check-ups, vaccinations, and parasite prevention are essential. Spaying or neutering is recommended unless breeding.",
+      "zh": "伯米拉猫的毛发短而密，护理需求极低。每周用软毛刷或橡胶梳理手套梳理一次即可去除浮毛，保持毛发亮泽。它们掉毛量适中。定期修剪指甲、清洁耳朵和牙齿护理应成为日常习惯。伯米拉猫活跃爱玩，因此提供互动玩具和每日游戏时间以保持其身心刺激。它们喜欢攀爬，猫爬架很有用。每年进行一次兽医体检、疫苗接种和寄生虫预防至关重要。除非用于繁殖，否则建议绝育。"
+    },
+    "training": {
+      "en": "Burmillas are intelligent and eager to please, making training relatively easy. Use positive reinforcement techniques such as treats, praise, and clicker training. They can learn basic commands like sit, stay, and come, as well as tricks like fetching. Litter box training is usually straightforward; keep the box clean and accessible. Discourage unwanted behaviors by redirecting to appropriate alternatives. Consistency and patience are key. Training sessions should be short (5-10 minutes) and fun to maintain their interest. Socialization from kittenhood helps them become well-adjusted adults.",
+      "zh": "伯米拉猫聪明且乐于取悦主人，因此训练相对容易。使用正面强化技巧，如零食、表扬和响片训练。它们可以学习基本命令，如坐下、等待和过来，以及捡球等小把戏。猫砂盆训练通常很简单；保持猫砂盆清洁且易于进入。通过将不良行为引导到适当的替代行为来纠正。一致性和耐心是关键。训练时间应短（5-10分钟）且有趣，以保持它们的兴趣。从小进行社会化有助于它们成为适应良好的成年猫。"
+    },
+    "diet": {
+      "en": "Feed your Burmilla a balanced diet of high-quality commercial cat food, either wet or dry, that meets AAFCO standards. Protein should be the primary ingredient. Portion control is important to prevent obesity, as Burmillas can be prone to weight gain. Typically, an adult Burmilla needs about 1/3 to 1/2 cup of dry food per day, divided into two meals, or the equivalent in wet food. Always provide fresh water. Treats should be given sparingly. Consult your veterinarian for specific dietary recommendations based on age, weight, and health status.",
+      "zh": "给伯米拉猫喂食符合AAFCO标准的高质量商业猫粮，包括湿粮或干粮，确保营养均衡。蛋白质应为主要成分。控制食量很重要，以防肥胖，因为伯米拉猫容易体重增加。通常，成年伯米拉猫每天需要约1/3到1/2杯干粮，分两餐喂食，或等量的湿粮。始终提供新鲜饮水。零食应适量给予。根据年龄、体重和健康状况咨询兽医获取具体的饮食建议。"
+    },
+    "livingTips": {
+      "en": "Burmillas adapt well to various living environments, including apartments and houses. They are generally quiet and not overly demanding, making them suitable for apartment living. They enjoy having vertical spaces like cat trees or shelves to climb. Burmillas are social and get along well with children and other pets, including dogs, if properly introduced. They thrive on companionship and should not be left alone for long periods; consider a second pet if you are away often. Provide scratching posts and toys to keep them entertained. They are indoor cats to protect them from dangers outdoors.",
+      "zh": "伯米拉猫能很好地适应各种生活环境，包括公寓和住宅。它们通常安静且不过分苛求，适合公寓生活。它们喜欢有垂直空间，如猫爬架或架子供攀爬。伯米拉猫社交性强，如果适当介绍，能与儿童和其他宠物（包括狗）相处融洽。它们需要陪伴，不应长时间独处；如果经常外出，考虑养第二只宠物。提供猫抓板和玩具以保持其娱乐。它们适合室内饲养，以保护它们免受户外危险。"
+    }
+  }
 }

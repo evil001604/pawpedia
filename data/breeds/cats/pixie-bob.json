@@ -78,5 +78,27 @@
       "en": "Loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Pixie-bob is a medium to large-sized cat breed known for its wild appearance resembling a bobcat, but with a gentle and affectionate temperament. They are highly social, intelligent, and loyal, forming strong bonds with their families. Pixie-bobs are often described as dog-like due to their tendency to follow their owners around, play fetch, and enjoy interactive games. They are patient and good with children, making them excellent family pets. Despite their wild looks, they are domestic cats with a loving nature, thriving on human companionship and attention.",
+      "zh": "精灵猫是一种中到大型猫品种，以其类似短尾猫的野性外观而闻名，但性格温柔、深情。它们非常社交、聪明且忠诚，与家人建立牢固的纽带。精灵猫常被描述为像狗一样，因为它们喜欢跟随主人、玩接物游戏并享受互动游戏。它们耐心且对孩子友好，是优秀的家庭宠物。尽管外表野性，它们是家猫，充满爱心，依赖人类的陪伴和关注。"
+    },
+    "care": {
+      "en": "Daily care for a Pixie-bob includes regular grooming due to their semi-long coat; brushing once or twice a week helps reduce shedding and prevents mats. They are moderately active and require daily play sessions with interactive toys to satisfy their intelligence and exercise needs. Regular veterinary check-ups are essential to monitor for common feline health issues. Their nails should be trimmed every few weeks, and dental hygiene maintained with tooth brushing or dental treats. Pixie-bobs adapt well to routine, so consistent care schedules help them feel secure.",
+      "zh": "精灵猫的日常护理包括定期梳理毛发，因为它们有半长毛；每周刷毛一到两次有助于减少掉毛并防止打结。它们活动量适中，需要每天与互动玩具玩耍，以满足其智力需求和运动量。定期兽医检查对监测常见猫科健康问题至关重要。每隔几周需修剪指甲，并通过刷牙或洁牙零食保持口腔卫生。精灵猫适应规律生活，因此一致的护理时间表有助于它们感到安全。"
+    },
+    "training": {
+      "en": "Pixie-bobs are highly intelligent and eager to please, making training relatively easy. Use positive reinforcement techniques such as treats, praise, and clicker training. They can learn tricks, walking on a leash, and even playing fetch. Start training early to establish good behaviors and socialize them with people and other pets. Consistency is key, as they respond well to routine. Avoid punishment, as it can damage the bond; instead, redirect unwanted behaviors to appropriate activities. Their problem-solving skills make puzzle toys an excellent training tool.",
+      "zh": "精灵猫非常聪明且渴望取悦主人，因此训练相对容易。使用积极强化技术，如零食、表扬和响片训练。它们可以学习技巧、牵引绳行走，甚至玩接物游戏。尽早开始训练以建立良好行为，并让它们与人和其他宠物社会化。一致性是关键，因为它们对规律反应良好。避免惩罚，因为这会损害关系；相反，将不良行为引导到合适的活动上。它们解决问题的技能使益智玩具成为极好的训练工具。"
+    },
+    "diet": {
+      "en": "A Pixie-bob's diet should consist of high-quality commercial cat food, either wet or dry, formulated for their life stage (kitten, adult, senior). Protein-rich food is important to support their muscular build. Portion control is necessary to prevent obesity, as they can be food-motivated. Provide fresh water at all times. Some owners opt for a raw or homemade diet, but this should be done under veterinary guidance to ensure nutritional balance. Treats should be given in moderation. Regular feeding schedules help maintain digestive health.",
+      "zh": "精灵猫的饮食应包括高质量的商业猫粮，湿粮或干粮，根据其生命阶段（幼猫、成猫、老年猫）配制。富含蛋白质的食物对支持其肌肉结构很重要。需要控制份量以防止肥胖，因为它们可能对食物有强烈动机。随时提供新鲜水。一些主人选择生食或自制饮食，但这应在兽医指导下进行，以确保营养均衡。零食应适量给予。规律的喂食时间表有助于维持消化健康。"
+    },
+    "livingTips": {
+      "en": "Pixie-bobs adapt well to various living environments, including apartments and houses with yards, as long as they have space to play and explore. They are social and do best when not left alone for long periods; consider a companion pet if you're away often. They get along well with children and other pets, including dogs, due to their patient and friendly nature. Provide cat trees, scratching posts, and interactive toys to keep them mentally stimulated. Secure windows and balconies to prevent accidents, as they are curious and may try to explore outdoors.",
+      "zh": "精灵猫能很好地适应各种生活环境，包括公寓和有院子的房子，只要它们有空间玩耍和探索。它们社交性强，不宜长时间独处；如果经常外出，考虑养一只伴侣宠物。由于它们耐心友好的天性，它们与孩子和其他宠物（包括狗）相处融洽。提供猫树、抓柱和互动玩具以保持其智力刺激。确保窗户和阳台安全，防止意外，因为它们好奇且可能试图探索户外。"
+    }
+  }
 }

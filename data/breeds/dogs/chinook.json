@@ -86,5 +86,27 @@
       "en": "eager to please",
       "zh": "乐于取悦"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chinook is a rare, working breed known for its intelligence, calm demeanor, and eagerness to please. Developed as a sled dog, it is friendly, devoted, and gentle with family. This breed is highly trainable but can be independent at times. Chinooks are excellent with children and other dogs, making them ideal family companions. They have a moderate energy level and thrive on human companionship, often forming strong bonds. Their patient and tolerant nature makes them suitable for various roles, including therapy work. However, they can be reserved with strangers, requiring early socialization.",
+      "zh": "奇努克犬是一种稀有的工作犬种，以其聪明、冷静的性格和乐于服从而闻名。作为雪橇犬培育，它们友好、忠诚，对家人温柔。该犬种易训练，但有时会表现出独立性。奇努克犬对孩子和其他狗非常友善，是理想的家庭伴侣。它们精力适中，需要人类陪伴，常形成深厚的情感纽带。耐心和宽容的性格使其适合治疗犬等工作。不过，它们对陌生人可能有所保留，需要早期社会化。"
+    },
+    "care": {
+      "en": "Daily care for a Chinook includes moderate exercise, such as a 30-60 minute walk or jog, plus playtime in a secure yard. They enjoy pulling activities like carting or skijoring, which satisfy their working instincts. Grooming is moderate: brush their thick double coat 2-3 times weekly, more during shedding seasons. Bathe only when necessary. Regular nail trimming, ear cleaning, and dental care are essential. Vet visits should be annual for check-ups and vaccinations; hip and elbow evaluations are recommended due to potential joint issues. Chinooks are generally healthy but may be prone to hip dysplasia, elbow dysplasia, and eye conditions.",
+      "zh": "奇努克犬的日常护理包括适度运动，如每天30-60分钟的散步或慢跑，以及在安全庭院中的游戏时间。它们喜欢拉拽活动如拉车或雪橇滑雪，这能满足其工作本能。梳理毛发方面，每周刷毛2-3次，换毛季需更频繁。仅在必要时洗澡。定期修剪指甲、清洁耳朵和牙齿护理至关重要。每年应进行一次兽医体检和疫苗接种；建议进行髋肘关节评估，因为它们易患关节问题。奇努克犬总体健康，但可能易患髋关节发育不良、肘关节发育不良和眼部疾病。"
+    },
+    "training": {
+      "en": "Training a Chinook requires consistency, patience, and positive reinforcement. They are intelligent and eager to please, responding well to reward-based methods like treats and praise. Harsh corrections can damage their trust. Start socialization and basic obedience early. Chinooks excel in dog sports like agility, obedience, and carting. They have a moderate independent streak, so keep sessions varied and engaging. Use short, frequent training sessions to maintain interest. Crate training is recommended for housebreaking. Due to their sensitive nature, avoid loud or sudden reprimands. Advanced training can include sledding or therapy work.",
+      "zh": "训练奇努克犬需要一致性、耐心和积极强化。它们聪明且乐于取悦，对奖励式方法（如零食和表扬）反应良好。严厉的纠正会损害它们的信任。早期进行社会化和基本服从训练。奇努克犬在敏捷性、服从性和拉车等犬类运动中表现出色。它们有一定独立性，因此训练应多样化且有趣。采用短时频繁的训练以保持兴趣。建议使用笼内训练进行如厕训练。由于敏感性格，避免大声或突然的斥责。高级训练可包括雪橇或治疗工作。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the Chinook's age, size, and activity level. A working breed formula with balanced protein and fat supports their energy needs. Divide daily food into two meals to prevent bloat, a risk for deep-chested breeds. Monitor weight to avoid obesity, which stresses joints. Include omega-3 fatty acids for coat health (fish oil). Fresh water should always be available. Treats should be limited and used for training. Consult a vet for specific dietary needs, especially for puppies or seniors. Avoid foods with excessive fillers or artificial additives.",
+      "zh": "选择适合奇努克犬年龄、体型和活动水平的高品质狗粮。工作犬配方含均衡蛋白质和脂肪，满足其能量需求。每日分两餐喂食，以防胃扭转（深胸犬种的风险）。监控体重避免肥胖，以免加重关节负担。添加Omega-3脂肪酸（鱼油）促进皮毛健康。始终提供新鲜饮水。零食应限量并用于训练。幼犬或老年犬需咨询兽医制定特定饮食。避免含有过多填充剂或人工添加剂的食物。"
+    },
+    "livingTips": {
+      "en": "Chinooks adapt well to various homes but prefer a house with a securely fenced yard for play. They can live in apartments if given sufficient daily exercise. They are excellent with children and other pets, especially when raised together. Their calm nature makes them good for therapy work. Chinooks are sensitive to heat due to their thick coat; provide shade and avoid strenuous activity in hot weather. They are not excessive barkers but will alert to strangers. Early socialization helps them accept guests. They thrive on human company and should not be left alone for long periods, as they may develop separation anxiety.",
+      "zh": "奇努克犬适应多种家庭环境，但最好有带安全围栏的庭院供其玩耍。如果保证每日充足运动，也可适应公寓生活。它们对孩子和其他宠物非常友善，尤其是一起长大的情况。冷静的性格使其适合治疗犬工作。由于厚实的被毛，奇努克犬对热敏感；需提供阴凉处，避免炎热天气下剧烈运动。它们不会过度吠叫，但会警惕陌生人。早期社会化有助于它们接纳访客。它们需要人类陪伴，不应长时间独处，否则可能产生分离焦虑。"
+    }
+  }
 }

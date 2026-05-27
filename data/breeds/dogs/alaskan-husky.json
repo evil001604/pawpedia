@@ -90,5 +90,27 @@
       "en": "independent",
       "zh": "独立"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Alaskan Husky is a mixed-breed sled dog developed in Alaska for racing, not a purebred. Known for its athleticism, intelligence, and strong work ethic, this breed is energetic, friendly, and independent. They thrive on having a job and excel in canine sports like skijoring, bikejoring, and agility. Their temperament is typically social with people and other dogs, though their high prey drive may be an issue with small animals. Alaskan Huskies are not recommended for first-time owners due to their intense exercise needs and independent nature. They are loyal and affectionate with their family but can be stubborn. Proper socialization and training are essential to channel their energy positively.",
+      "zh": "阿拉斯加哈士奇是一种混血雪橇犬，为竞赛而培育于阿拉斯加，并非纯种犬。以运动能力、智力和强烈的工作热情著称，精力充沛、友善且独立。它们需要有任务可做，擅长雪橇骑行、自行车骑行和敏捷性等犬类运动。性格通常对人和其他狗友善，但高捕猎本能可能对小动物构成问题。阿拉斯加哈士奇不适合新手主人，因为它们需要大量运动且个性独立。它们对家庭忠诚亲昵，但有时固执。适当的社会化和训练对引导其精力至关重要。"
+    },
+    "care": {
+      "en": "Daily care for an Alaskan Husky requires substantial commitment. They need at least 1-2 hours of vigorous exercise daily, such as running, biking, or pulling activities. Grooming is moderate: brush their thick double coat 2-3 times per week, and daily during shedding seasons. Bathe only when necessary. Nail trimming, ear cleaning, and dental care should be routine. Vet visits for vaccinations, parasite prevention, and annual check-ups are essential. This breed is prone to hip dysplasia and eye issues, so regular screening is recommended. They are generally healthy but require a diet to maintain lean muscle mass. Provide plenty of fresh water, especially after exercise.",
+      "zh": "阿拉斯加哈士奇的日常护理需要很大投入。每天至少需要1-2小时剧烈运动，如跑步、骑行或拉拽活动。梳理毛发适中：每周刷毛2-3次，换毛季需每日梳理。仅在必要时洗澡。定期修剪指甲、清洁耳朵和牙齿护理。定期兽医检查、疫苗接种和驱虫必不可少。该品种易患髋关节发育不良和眼部问题，建议定期筛查。它们通常健康，但需饮食维持精瘦肌肉。运动后提供充足清水。"
+    },
+    "training": {
+      "en": "Training an Alaskan Husky requires patience, consistency, and positive reinforcement. They are intelligent but independent, so harsh methods backfire. Start with basic obedience and socialization early. Use high-value rewards like treats or play. Keep sessions short and engaging. Focus on reliable recall, as their prey drive can override commands. Incorporate activities that challenge them mentally, such as puzzle toys or scent games. This breed excels in sledding and mushing, so if possible, provide a pulling outlet. Avoid repetitive drills; vary training to maintain interest. A tired husky is a good husky—exercise before training improves focus.",
+      "zh": "训练阿拉斯加哈士奇需要耐心、一致性和正向强化。它们聪明但独立，严厉方法适得其反。尽早开始基础服从和社会化。使用高价值奖励如零食或游戏。保持训练简短有趣。重点训练可靠的召回，因为捕猎本能可能压倒指令。融入挑战心理的活动，如益智玩具或嗅觉游戏。该品种擅长雪橇拉拽，如可能提供拉拽活动。避免重复练习；变化训练以保持兴趣。累了的哈士奇是好哈士奇——训练前运动可提高专注力。"
+    },
+    "diet": {
+      "en": "Feed an Alaskan Husky a high-quality diet appropriate for their life stage and activity level. They are working dogs and may need more calories than average, especially during racing season. A balanced diet with protein from meat, fish, or poultry, healthy fats, and carbohydrates is ideal. Consider a raw or high-protein kibble. Monitor weight to avoid obesity, as they can gain weight if under-exercised. Divide meals into two servings per day to reduce bloat risk. Ensure access to fresh water at all times. Supplements like glucosamine for joint health and omega-3s for coat may be beneficial. Consult a vet for specific recommendations.",
+      "zh": "为阿拉斯加哈士奇提供适合其生命阶段和活动水平的高质量饮食。作为工作犬，它们可能需要比平均更高的热量，尤其在比赛季节。均衡饮食应包括肉类、鱼或禽肉中的蛋白质、健康脂肪和碳水化合物。可考虑生食或高蛋白狗粮。监测体重以防肥胖，运动不足时易发胖。每日分两餐以减少胃扭转风险。随时提供新鲜饮水。可补充葡萄糖胺保护关节、Omega-3改善毛发。请咨询兽医获取具体建议。"
+    },
+    "livingTips": {
+      "en": "Alaskan Huskies are not ideal apartment dogs due to their high energy and need for space. A fenced yard is essential, as they are escape artists and will roam. They thrive in homes with active owners who can provide ample exercise. They are generally good with children if raised together, but their boisterousness may overwhelm toddlers. They get along with other dogs but may chase small pets like cats or rabbits due to prey drive. Mental stimulation is crucial; without it, they may become destructive. They are pack-oriented and prefer not to be left alone for long periods. Early socialization is key to a well-adjusted dog.",
+      "zh": "阿拉斯加哈士奇因精力旺盛且需要空间，不适合公寓生活。有围栏的院子必不可少，因为它们擅长逃跑且会游荡。它们适合有活跃主人的家庭，能提供充足运动。若与孩子一起长大，通常对孩子友善，但喧闹可能吓到幼儿。它们与其他狗相处融洽，但可能追逐猫或兔子等小动物（捕猎本能）。精神刺激至关重要，否则可能具有破坏性。它们有群体意识，不喜欢长时间独处。早期社会化是培养适应力强的狗的关键。"
+    }
+  }
 }

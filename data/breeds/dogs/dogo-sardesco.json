@@ -90,5 +90,27 @@
       "en": "independent",
       "zh": "独立"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Dogo Sardesco is a powerful and ancient working breed from Sardinia, Italy. Known for its fierce loyalty, courage, and protective instincts, this dog was historically used to guard flocks and property against predators and thieves. They are intelligent, confident, and independent, making them excellent guardians but also challenging for novice owners. While deeply devoted to their family, they are wary of strangers and require early socialization. Their high energy and strong will demand an experienced handler who can provide firm, consistent leadership. This breed is not for everyone, but for the right owner, they are a loyal and formidable companion.",
+      "zh": "萨丁尼亚杜高犬是一种来自意大利撒丁岛的古老而强大的工作犬种。以其强烈的忠诚、勇敢和保护本能而闻名，历史上被用于保护羊群和财产免受掠食者和盗贼的侵害。它们聪明、自信且独立，是优秀的护卫犬，但对新手主人来说具有挑战性。尽管对家人忠诚，但它们对陌生人保持警惕，需要早期社会化。其高能量和坚强的意志要求有经验的主人提供坚定、一致的领导。这个品种不适合所有人，但对于合适的主人来说，它们是忠诚而强大的伴侣。"
+    },
+    "care": {
+      "en": "Daily care for the Dogo Sardesco includes moderate grooming: brush their short, dense coat weekly to remove loose hair and keep skin healthy. Bathe only when necessary. Exercise is crucial—they need at least 60-90 minutes of vigorous activity daily, such as long walks, jogging, or interactive play. Mental stimulation is equally important; provide puzzle toys or training sessions. Regular vet visits are essential for vaccinations, parasite control, and health screenings. Due to their protective nature, secure fencing is a must. Nail trimming and dental care should be part of the routine.",
+      "zh": "萨丁尼亚杜高犬的日常护理包括适度梳理：每周刷毛一次，去除死毛并保持皮肤健康。仅在必要时洗澡。运动至关重要——每天至少需要60-90分钟的剧烈活动，如长距离散步、慢跑或互动游戏。精神刺激同样重要；提供益智玩具或训练课程。定期兽医检查必不可少，用于疫苗接种、寄生虫控制和健康筛查。由于其保护天性，必须使用安全的围栏。修剪指甲和牙齿护理应纳入日常。"
+    },
+    "training": {
+      "en": "Training a Dogo Sardesco requires patience, consistency, and positive reinforcement. Start socialization and obedience training early, exposing them to various people, animals, and environments. This breed is intelligent but independent, so training sessions should be engaging and varied to hold their attention. Use reward-based methods—treats, praise, and play—rather than harsh corrections, which can lead to resistance. Focus on building a strong bond and establishing clear leadership. Crate training can help with management. Avoid repetitive drills; instead, incorporate real-world scenarios to reinforce commands. Professional help is recommended for first-time owners.",
+      "zh": "训练萨丁尼亚杜高犬需要耐心、一致性和积极强化。早期开始社交和服从训练，让它们接触不同的人、动物和环境。该品种聪明但独立，因此训练课程应有趣且多样化以保持注意力。使用基于奖励的方法——零食、表扬和游戏——而不是严厉的纠正，这可能导致反抗。专注于建立牢固的联系和明确的领导地位。笼内训练有助于管理。避免重复练习；相反，结合现实场景来强化指令。建议初次饲养者寻求专业帮助。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, protein-rich diet suitable for an active, working breed. Divide daily food into two meals to reduce bloating risk. Portion size depends on age, weight, and activity level; consult your vet for precise amounts. Include lean meats, fish, and healthy fats, along with vegetables and grains for balance. Avoid fillers and artificial additives. Fresh water must always be available. Treats should be given in moderation. Puppies need a growth-formulated diet, while seniors may require joint-supporting nutrients. Monitor weight to prevent obesity, which can strain joints.",
+      "zh": "喂食适合活跃工作犬的高质量、高蛋白饮食。将每日食物分成两餐以降低腹胀风险。份量取决于年龄、体重和活动水平；请咨询兽医以确定精确数量。包括瘦肉、鱼类和健康脂肪，以及蔬菜和谷物以保持平衡。避免填充物和人工添加剂。始终提供新鲜水。零食应适量给予。幼犬需要成长配方饮食，而老年犬可能需要关节支持营养素。监测体重以防止肥胖，肥胖会增加关节负担。"
+    },
+    "livingTips": {
+      "en": "The Dogo Sardesco is best suited for a home with a large, securely fenced yard. Apartment living is not ideal due to their size and energy needs. They thrive in rural or suburban settings where they can patrol and guard. Early socialization helps them coexist with children, but supervision is necessary due to their protective instincts. They may not tolerate other dogs of the same sex and have a high prey drive, so caution with small pets is advised. This breed is not recommended for first-time owners. Provide plenty of mental and physical outlets to prevent destructive behavior.",
+      "zh": "萨丁尼亚杜高犬最适合拥有大型安全围栏庭院的家庭。公寓生活不理想，因为它们的体型和能量需求。它们在可以巡逻和守卫的乡村或郊区环境中茁壮成长。早期社会化有助于它们与儿童共存，但由于其保护本能，需要监督。它们可能无法容忍同性别的其他狗，并且具有高猎物驱动力，因此建议谨慎对待小型宠物。不建议初次养狗者饲养。提供充足的精神和身体出口以防止破坏性行为。"
+    }
+  }
 }

@@ -86,5 +86,27 @@
       "en": "intelligent",
       "zh": "聪明"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bully Kutta is a large, powerful working dog known for its protective, loyal, and courageous temperament. Originating from the Indian subcontinent, this ancient landrace breed was historically used for hunting large game and estate protection. They are independent and intelligent, but can be stubborn and dominant. Proper socialization from an early age is crucial to manage their guarding instincts. They are not recommended for novice owners due to their strong will and need for consistent leadership. With the right handler, they are devoted family guardians.",
+      "zh": "布尔库塔犬是一种大型、强健的工作犬，以其保护性、忠诚和勇敢的气质而闻名。起源于印度次大陆，这种古老的地方品种历史上被用于狩猎大型猎物和庄园保护。它们独立且聪明，但可能固执且具有支配性。从小进行适当的社会化对于管理其护卫本能至关重要。由于意志坚强且需要一致的领导，不建议新手饲养。在合适的主人手中，它们是忠诚的家庭护卫犬。"
+    },
+    "care": {
+      "en": "Daily care for a Bully Kutta includes minimal grooming—weekly brushing to remove loose hair, with more frequent brushing during shedding seasons. Bathe only when necessary to preserve skin oils. Nail trimming and ear cleaning should be done monthly. Exercise is essential: at least 60–90 minutes of vigorous activity daily, such as long walks or supervised running in a secure area. They do not do well in apartments and need a large, fenced yard. Regular vet check-ups are important to monitor for hip dysplasia, bloat, and skin issues. Avoid overexertion in hot weather due to brachycephalic-like tendencies.",
+      "zh": "布尔库塔犬的日常护理包括最低限度的梳理——每周刷毛以去除死毛，换毛季需增加频率。仅在必要时洗澡以保护皮肤油脂。每月修剪指甲和清洁耳朵。运动至关重要：每天至少60-90分钟的剧烈活动，如长时间散步或在安全区域监督下奔跑。它们不适合公寓生活，需要大型围栏庭院。定期兽医检查很重要，以监测髋关节发育不良、胃扭转和皮肤问题。由于有类似短头颅犬的倾向，避免在炎热天气过度运动。"
+    },
+    "training": {
+      "en": "Training a Bully Kutta requires an experienced, confident handler who can establish calm-assertive leadership. Use positive reinforcement methods like treats and praise, but be firm and consistent. Early socialization is critical—expose them to various people, animals, and environments from puppyhood. Keep training sessions short (10–15 minutes) to maintain focus. Focus on basic obedience, impulse control, and recall. Avoid harsh corrections, as they can cause resentment. They excel in protection sports but need a clear structure. Never use aversive tools; instead, build trust through routine and respect.",
+      "zh": "训练布尔库塔犬需要有经验、自信的驯养者，能够建立冷静而果断的领导地位。使用积极的强化方法，如零食和表扬，但要坚定且一致。早期社会化至关重要——从幼犬期开始让它们接触不同的人、动物和环境。训练时间应简短（10-15分钟）以保持注意力集中。专注于基本服从、冲动控制和召回训练。避免严厉的纠正，因为这可能引起抵触。它们在护卫运动中表现出色，但需要明确的结构。切勿使用厌恶工具，而是通过日常规律和尊重建立信任。"
+    },
+    "diet": {
+      "en": "Feed a high-quality, large-breed dog food formulated for active dogs. Divide daily intake into two meals to reduce bloat risk. Protein should be from animal sources (chicken, beef, fish) with moderate fat. Supplement with glucosamine and chondroitin for joint health. Avoid overfeeding; Bully Kuttas are prone to obesity if under-exercised. Fresh water must always be available. Treats should be limited and used for training. Consult a vet for portion sizes based on age, weight, and activity level. Raw diets may be suitable but require careful balance.",
+      "zh": "喂食专为活跃犬种配制的优质大型犬粮。每日分两餐喂食以减少胃扭转风险。蛋白质应来自动物源（鸡肉、牛肉、鱼类），脂肪含量适中。补充葡萄糖胺和软骨素以维护关节健康。避免过量喂食；运动不足时布尔库塔犬容易肥胖。始终提供新鲜饮水。零食应限量并用于训练。根据年龄、体重和活动水平咨询兽医确定份量。生食可能适合，但需谨慎平衡。"
+    },
+    "livingTips": {
+      "en": "Bully Kuttas are not suited for apartment living; they need a spacious home with a securely fenced yard. They thrive in cooler climates and should have shade and water in hot weather. They are generally good with children if raised with them, but supervision is needed due to their size and protective nature. They may be aggressive toward other dogs, especially same-sex, and have a high prey drive towards small animals. Early socialization can help, but they are best as only pets or with opposite-sex dogs. A firm, experienced owner is essential.",
+      "zh": "布尔库塔犬不适合公寓生活；它们需要带安全围栏庭院的宽敞住宅。在凉爽气候下更适应，炎热天气需提供阴凉和水。如果与孩子一起长大，通常对孩子友好，但由于体型和护卫天性，需要监督。它们可能对其他犬有攻击性，尤其是同性，并对小动物有高捕猎欲望。早期社会化有帮助，但最好作为唯一宠物或与异性犬相处。坚定的、有经验的主人至关重要。"
+    }
+  }
 }

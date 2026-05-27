@@ -86,5 +86,27 @@
       "en": "loyal",
       "zh": "忠诚"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Danish Spitz is a friendly, alert, intelligent, and energetic breed, known for its loyalty and versatility. Originally a farm dog in Denmark, it serves as an excellent companion, watchdog, and vermin catcher. With a sturdy build and a thick double coat, this breed is both hardy and agile. Danish Spitz dogs are highly social and thrive on human interaction, making them great family pets. They are naturally curious and possess a strong prey drive, so early socialization is key. Their intelligence and eagerness to please make them responsive to training, but they can be independent at times. Overall, the Danish Spitz is a lively, affectionate, and devoted breed that brings joy to active households.",
+      "zh": "丹麦斯皮茨犬是一种友好、警觉、聪明且精力充沛的品种，以其忠诚和多才多艺而闻名。作为丹麦的农场犬，它既是优秀的伴侣犬、看门犬，也是出色的捕鼠犬。该品种体格健壮，拥有厚厚的双层被毛，既耐寒又灵活。丹麦斯皮茨犬非常社会化，喜欢与人互动，是出色的家庭宠物。它们天生好奇，捕猎欲望强，因此早期社会化至关重要。它们的智慧和取悦主人的意愿使其易于训练，但有时也会表现出独立性。总的来说，丹麦斯皮茨犬是一种活泼、深情且忠诚的品种，能为活跃的家庭带来欢乐。"
+    },
+    "care": {
+      "en": "Daily care for the Danish Spitz includes moderate exercise, such as brisk walks or play sessions, to burn off energy. Grooming needs are moderate: brush the thick double coat weekly, more often during shedding seasons. Bathing is only necessary when dirty. Regular ear cleaning, nail trimming, and dental care are essential. Veterinary visits should be annual for check-ups and vaccinations, with attention to hip dysplasia and eye conditions common in the breed. Provide mental stimulation through puzzle toys or training games to prevent boredom.",
+      "zh": "丹麦斯皮茨犬的日常护理包括适度的运动，如快走或玩耍，以消耗精力。美容需求适中：每周梳理厚实的双层被毛，换毛季需更频繁。仅在脏污时洗澡。定期清洁耳朵、修剪指甲和牙齿护理必不可少。每年带犬进行健康检查和疫苗接种，注意该品种常见的髋关节发育不良和眼部问题。通过益智玩具或训练游戏提供精神刺激，防止无聊。"
+    },
+    "training": {
+      "en": "Training a Danish Spitz requires patience, consistency, and positive reinforcement. They are intelligent but can be stubborn, so use rewards like treats and praise. Start socialization and obedience training early. Keep sessions short and engaging to hold their attention. Avoid harsh corrections, as they are sensitive. Channel their energy into structured activities like agility or scent work. Crate training is beneficial for housebreaking. Their alert nature makes them good watchdogs, but teach them to control barking.",
+      "zh": "训练丹麦斯皮茨犬需要耐心、一致性和积极强化。它们聪明但可能固执，因此使用零食和表扬等奖励。尽早开始社会化及服从训练。保持训练简短有趣，以吸引其注意力。避免严厉纠正，它们很敏感。将它们的精力引导至敏捷性或嗅觉工作等结构化活动中。笼内训练有助于室内如厕训练。它们的警觉天性使其成为优秀的看门犬，但需教导控制吠叫。"
+    },
+    "diet": {
+      "en": "Feed the Danish Spitz a high-quality dog food appropriate for their age, size, and activity level. Typically, 1.5 to 2.5 cups of dry food daily, split into two meals. Avoid overfeeding to prevent obesity, which stresses joints. Include lean protein, healthy fats, and carbohydrates. Fresh water should always be available. Treats should be limited to 10% of daily calories. Consult your vet for specific dietary needs, especially if the dog has allergies or sensitivities.",
+      "zh": "为丹麦斯皮茨犬提供适合其年龄、体型和活动水平的高质量狗粮。通常每天1.5至2.5杯干粮，分两餐喂食。避免过量喂食以防肥胖，肥胖会加重关节负担。饮食应包括瘦肉蛋白、健康脂肪和碳水化合物。始终提供新鲜饮水。零食应限制在每日热量的10%以内。如有过敏或敏感情况，请咨询兽医制定特殊饮食方案。"
+    },
+    "livingTips": {
+      "en": "The Danish Spitz adapts well to apartment living if given enough exercise, but a fenced yard is ideal. They are active indoors but need daily outdoor time. They are generally good with children and other pets if socialized early, but their herding instincts may lead to nipping. Supervise interactions with small animals due to prey drive. They are alert and may bark at strangers, making them good watchdogs. Provide a comfortable bed and toys to prevent boredom. They thrive in homes where they are part of the family activities.",
+      "zh": "丹麦斯皮茨犬在得到足够运动的情况下能适应公寓生活，但有围栏的院子更理想。它们室内活跃，但每日需户外时间。若早期社会化，通常与儿童及其他宠物相处良好，但牧羊本能可能导致轻咬。由于捕猎欲望，需监督与小动物的互动。它们警觉，可能对陌生人吠叫，是优秀的看门犬。提供舒适的床和玩具以防无聊。它们在家中有家庭活动参与时表现最佳。"
+    }
+  }
 }

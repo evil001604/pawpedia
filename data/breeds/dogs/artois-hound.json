@@ -90,5 +90,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Artois Hound is an ancient French scent hound known for its energetic, loyal, and alert nature. Courageous yet calm, this breed is affectionate with family and exhibits a strong hunting instinct. Originally bred for hunting in packs, they are social dogs that thrive on companionship. Their balanced temperament makes them excellent family dogs, though they require ample exercise to channel their energy.",
+      "zh": "阿图瓦猎犬是一种古老的法国嗅觉猎犬，以精力充沛、忠诚和警觉著称。它们勇敢而冷静，对家人充满感情，并具有强烈的狩猎本能。最初为群猎而培育，它们善于社交，需要陪伴。平衡的气质使它们成为优秀的家庭犬，但需要充足的运动来释放能量。"
+    },
+    "care": {
+      "en": "Daily care for the Artois Hound includes moderate grooming—brush their short coat weekly and bathe as needed. They need at least 60 minutes of vigorous exercise daily, such as long walks or runs in a secure area. Regular vet check-ups are essential to monitor for hip dysplasia and ear infections, common in hounds. Clean ears weekly and trim nails monthly.",
+      "zh": "阿图瓦猎犬的日常护理包括适度的梳理——每周刷一次短毛，必要时洗澡。每天需要至少60分钟的剧烈运动，如在安全区域长时间散步或跑步。定期兽医检查至关重要，以监测髋关节发育不良和耳部感染（猎犬常见问题）。每周清洁耳朵，每月修剪指甲。"
+    },
+    "training": {
+      "en": "Training an Artois Hound requires patience and consistency due to their independent nature. Use positive reinforcement methods like treats and praise. Early socialization is crucial to curb their hunting drive and ensure good behavior around other pets. Keep training sessions short and engaging, and incorporate scent games to satisfy their tracking instincts.",
+      "zh": "训练阿图瓦猎犬需要耐心和一致性，因为它们性格独立。使用积极强化方法，如零食和表扬。早期社会化至关重要，以控制狩猎本能并确保对其他宠物行为良好。训练时间应短而有趣，并加入气味游戏来满足追踪本能。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food formulated for active breeds. Divide daily portions into two meals to prevent bloat. Monitor weight closely as hounds can be prone to obesity. Include joint-supporting supplements like glucosamine if recommended by a vet. Always provide fresh water.",
+      "zh": "喂食专为活跃品种配制的高品质狗粮。将每日份量分成两餐，以预防胃扭转。密切监测体重，因为猎犬容易肥胖。如果兽医建议，可添加关节支持补充剂如葡萄糖胺。始终提供新鲜饮水。"
+    },
+    "livingTips": {
+      "en": "The Artois Hound is not ideal for apartments due to high energy; a fenced yard is preferable. They are generally good with children and other dogs if raised together, but may chase small pets due to prey drive. Provide plenty of mental stimulation and avoid leaving them alone for long periods to prevent destructive behavior.",
+      "zh": "阿图瓦猎犬精力充沛，不适合公寓生活；有围栏的院子更佳。如果从小一起养，通常对孩子和其他狗友好，但由于猎物本能可能会追逐小宠物。提供充足的精神刺激，避免长时间独处，以防破坏行为。"
+    }
+  }
 }

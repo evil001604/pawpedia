@@ -90,5 +90,27 @@
       "en": "energetic",
       "zh": "精力充沛"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bulloxer is a designer crossbreed between the Boxer and the English Bulldog, known for its loyal, protective, and affectionate nature. This energetic and playful dog combines the athleticism of the Boxer with the courage of the Bulldog, making it an excellent family companion. Bulloxers are typically medium to large in size, with a muscular build and a short, smooth coat. They are intelligent and eager to please, but can be stubborn at times. Their protective instincts make them good watchdogs, yet they are generally friendly with familiar people. Early socialization is important to ensure they are well-adjusted. This breed thrives on human interaction and may develop separation anxiety if left alone for long periods.",
+      "zh": "斗牛拳师犬是拳师犬与英国斗牛犬的杂交设计犬种，以其忠诚、保护性和深情的天性而闻名。这种精力充沛、爱玩的狗结合了拳师犬的运动能力和斗牛犬的勇气，是极佳的家庭伴侣。斗牛拳师犬通常为中型到大型，肌肉发达，被毛短而光滑。它们聪明且渴望取悦，但有时也会固执。它们的保护本能使其成为优秀的看门犬，但对熟悉的人通常友好。早期社会化对于确保它们适应良好至关重要。这个品种渴望与人互动，如果长时间独处可能会产生分离焦虑。"
+    },
+    "care": {
+      "en": "Daily care for a Bulloxer includes moderate exercise such as brisk walks, play sessions, or jogging for at least 30-60 minutes. Their short coat requires minimal grooming—weekly brushing with a rubber curry brush to remove loose hair and occasional baths. Check and clean their ears weekly to prevent infections, and brush their teeth several times a week. Due to their brachycephalic (flat-faced) heritage, avoid excessive exercise in hot weather and monitor for breathing difficulties. Regular vet visits are essential to monitor for common issues like hip dysplasia, skin allergies, and eye problems. Nail trimming should be done monthly.",
+      "zh": "斗牛拳师犬的日常护理包括适度运动，如快走、玩耍或慢跑，每天至少30-60分钟。它们的短毛只需少量梳理——每周用橡胶梳子刷毛以去除死毛，偶尔洗澡。每周检查并清洁耳朵以防感染，每周刷牙数次。由于它们有短头颅（扁脸）血统，避免在炎热天气下过度运动，并注意呼吸困难的迹象。定期兽医检查至关重要，以监测髋关节发育不良、皮肤过敏和眼部问题等常见疾病。每月修剪指甲。"
+    },
+    "training": {
+      "en": "Bulloxers are intelligent but can be stubborn, so consistent, positive reinforcement training works best. Use rewards like treats, praise, and play to motivate them. Start training early, focusing on basic commands and leash manners. Socialization from puppyhood is crucial to prevent aggression or fearfulness. Keep training sessions short (10-15 minutes) to maintain their attention. Avoid harsh corrections as they can be sensitive. Crate training can help with housebreaking and provide a safe space. Their protective nature may require extra training to curb excessive barking or guarding behaviors. Patience and consistency are key.",
+      "zh": "斗牛拳师犬聪明但可能固执，因此一致的正向强化训练效果最佳。使用奖励如零食、表扬和玩耍来激励它们。尽早开始训练，专注于基本命令和牵绳礼仪。从小进行社会化以防止攻击性或恐惧。保持训练时间短（10-15分钟）以维持注意力。避免严厉的纠正，因为它们可能敏感。笼内训练有助于家庭训练并提供安全空间。它们的保护天性可能需要额外训练以控制过度吠叫或护卫行为。耐心和一致性是关键。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Bulloxers can be prone to obesity, so measure portions and limit treats. A diet rich in protein and healthy fats supports their energy needs. Some may have food allergies; consult your vet if you notice skin or digestive issues. Avoid foods with fillers like corn and wheat. Provide fresh water at all times. Consider splitting daily food into two meals to reduce bloat risk, especially in deep-chested dogs. Supplements like glucosamine may benefit joint health, but consult your vet first.",
+      "zh": "喂食适合其年龄、体型和活动水平的高品质狗粮。斗牛拳师犬容易肥胖，因此要测量份量并限制零食。富含蛋白质和健康脂肪的饮食有助于满足其能量需求。有些可能有食物过敏；如果发现皮肤或消化问题，请咨询兽医。避免含有玉米和小麦等填充物的食物。随时提供新鲜水。考虑将每日食物分成两餐以减少胃胀气风险，特别是对于胸深的狗。补充剂如葡萄糖胺可能有益于关节健康，但请先咨询兽医。"
+    },
+    "livingTips": {
+      "en": "Bulloxers adapt well to various living situations, including apartments, if given enough exercise. They are moderate barkers and can be good watchdogs. A securely fenced yard is ideal for play, but they should not be left alone outside for long. They thrive on human companionship and do best in homes where someone is around most of the day. They generally get along with children and other pets if socialized early, but their boisterous play may be too rough for very young kids. Supervision is recommended. They are sensitive to extreme temperatures, so provide climate-controlled indoor living.",
+      "zh": "斗牛拳师犬能适应各种生活环境，包括公寓，只要给予足够运动。它们吠叫适中，是优秀的看门犬。有围栏的院子是理想的玩耍场所，但不应长时间单独留在户外。它们渴望人类陪伴，最适合白天大部分时间有人在家的情况。如果早期社会化，它们通常能与儿童和其他宠物相处，但喧闹的玩耍可能对幼童来说过于粗暴。建议监督。它们对极端温度敏感，因此应提供温度可控的室内环境。"
+    }
+  }
 }

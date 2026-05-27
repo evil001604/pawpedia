@@ -90,5 +90,27 @@
       "en": "eager to please",
       "zh": "渴望取悦"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Eskimo Dog is a highly intelligent, alert, and friendly breed that thrives on human companionship. Known for their playful and energetic nature, they are eager to please and excel in obedience and agility. Despite their fluffy white coat, they are robust and versatile, originally bred as watchdogs and circus performers. They are excellent family dogs but can be reserved with strangers, making early socialization crucial. Their cheerful disposition and loyalty make them a joy to have, but they require mental stimulation to prevent boredom.",
+      "zh": "美国爱斯基摩犬是一种非常聪明、警觉且友善的品种，热衷于与人类为伴。它们以活泼好动、精力充沛著称，渴望取悦主人，在服从性和敏捷性方面表现出色。尽管拥有一身蓬松的白毛，但它们体格强健、多才多艺，最初被培育为看门犬和马戏团表演犬。它们是优秀的家庭犬，但对陌生人可能有所保留，因此早期社会化至关重要。它们性格开朗、忠诚，是令人愉悦的伴侣，但需要足够的精神刺激以防无聊。"
+    },
+    "care": {
+      "en": "Daily care for an American Eskimo Dog includes brushing their thick double coat 2-3 times a week to prevent matting, with more frequent brushing during shedding seasons. They need at least 30-60 minutes of exercise daily, such as brisk walks, play sessions, or agility training. Regular veterinary check-ups are essential, including vaccinations, dental care, and parasite prevention. Their nails should be trimmed monthly, and ears checked weekly for debris. Bathing is only needed when necessary to preserve natural coat oils.",
+      "zh": "美国爱斯基摩犬的日常护理包括每周刷毛2-3次以防止打结，换毛期需更频繁。每天需要至少30-60分钟的运动，如快走、玩耍或敏捷训练。定期兽医检查至关重要，包括疫苗接种、牙齿护理和寄生虫预防。每月修剪指甲，每周检查耳朵是否有污垢。仅在必要时洗澡，以保护被毛的天然油脂。"
+    },
+    "training": {
+      "en": "Training an American Eskimo Dog requires positive reinforcement methods such as treats, praise, and play. They are highly intelligent and eager to please, but can be stubborn, so consistency and patience are key. Early socialization with people, dogs, and various environments is crucial to prevent shyness or aggression. They excel in obedience, agility, and trick training. Keep sessions short and fun to maintain their interest. Avoid harsh corrections, as they are sensitive and may become distrustful.",
+      "zh": "训练美国爱斯基摩犬应采用积极强化法，如零食、表扬和游戏。它们非常聪明且渴望取悦，但可能固执，因此一致性和耐心至关重要。早期与人、狗及各种环境的社会化对于防止害羞或攻击性至关重要。它们在服从、敏捷和技巧训练中表现出色。保持训练简短有趣以维持其兴趣。避免严厉纠正，因为它们敏感，可能会变得不信任。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. American Eskimo Dogs can be prone to obesity, so measure portions and limit treats. Divide daily food into two meals to prevent bloat, a risk in deep-chested breeds. Ensure fresh water is always available. Consider foods with omega-3 fatty acids for coat health. Consult your vet for specific dietary needs, especially if they have allergies or sensitivities.",
+      "zh": "喂食适合其年龄、体型和活动水平的高质量狗粮。美国爱斯基摩犬容易肥胖，因此要测量分量并限制零食。每日分两餐喂食，以预防胃胀气（深胸品种的风险）。确保随时有新鲜饮水。考虑含有Omega-3脂肪酸的食物以促进被毛健康。如有过敏或敏感，请咨询兽医以获得特定饮食建议。"
+    },
+    "livingTips": {
+      "en": "American Eskimo Dogs adapt well to apartment living if given sufficient exercise, but they do best with a fenced yard. They are sensitive to heat, so avoid excessive exercise in hot weather. They are generally good with children and other pets if raised together, but supervision is recommended due to their herding instincts. They bark frequently and make excellent watchdogs. Provide mental stimulation through puzzle toys and interactive games to prevent destructive behavior.",
+      "zh": "美国爱斯基摩犬如果得到足够运动，能适应公寓生活，但有围栏的院子更佳。它们对热敏感，炎热天气避免过度运动。如果从小一起养，它们通常对孩子和其他宠物友好，但由于有牧羊本能，建议监督。它们经常吠叫，是优秀的看门犬。通过益智玩具和互动游戏提供精神刺激，以防破坏行为。"
+    }
+  }
 }

@@ -90,5 +90,27 @@
       "en": "devoted",
       "zh": "奉献"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Cesky Terrier is a calm, gentle, and playful breed known for its intelligence and loyalty. Developed in the Czech Republic as a hunting terrier, it retains tenacity but is more tractable than many terriers. With a soft, wavy coat and a friendly expression, this breed is devoted to its family and adapts well to various living situations. Cesky Terriers are alert but not overly yappy, making them good watchdogs. They are playful yet easygoing, enjoying both active play and quiet time. Their hunting heritage means they may have a prey drive, but early socialization helps them coexist peacefully with other pets. Overall, they are affectionate companions that thrive on human interaction.",
+      "zh": "捷克梗是一种冷静、温和且爱玩的犬种，以聪明和忠诚著称。它起源于捷克共和国，最初作为猎犬培育，保留了坚韧的特性，但比许多梗犬更易驯服。柔软的波浪状被毛和友善的表情使其备受喜爱。该犬种对家庭忠诚，能适应多种生活环境。它们警觉但不过度吠叫，是优秀的看门犬。既喜欢活跃的游戏，也享受安静的时光。由于狩猎本能，它们可能有追逐小动物的倾向，但早期社会化有助于与其他宠物和平共处。总体而言，它们是深情伴侣，渴望与人互动。"
+    },
+    "care": {
+      "en": "Daily care for a Cesky Terrier includes moderate exercise—about 30-60 minutes of walks and playtime. They enjoy mental stimulation, so puzzle toys and training games are beneficial. Grooming requires weekly brushing to prevent mats, and professional trimming every 8-12 weeks to maintain the coat's texture. Bathing is needed only when dirty. Regular ear cleaning, nail trimming, and dental care are essential. Veterinary check-ups should occur annually or as recommended. Despite their terrier heritage, they are not high-energy and adapt well to apartment living if exercised adequately. They thrive on routine and should not be left alone for long periods, as they are prone to separation anxiety.",
+      "zh": "捷克梗的日常护理包括适度的运动——每天30-60分钟的散步和玩耍。它们喜欢智力刺激，益智玩具和训练游戏很有益。每周梳理被毛一次以防止打结，每8-12周专业修剪以保持毛发质地。仅在脏污时洗澡。定期清洁耳朵、修剪指甲和牙齿护理至关重要。每年或按建议进行兽医检查。尽管是梗犬，它们精力不算旺盛，若运动充足，适合公寓生活。它们喜欢规律，不宜长时间独处，否则易患分离焦虑。"
+    },
+    "training": {
+      "en": "Cesky Terriers are intelligent and eager to please, making training relatively straightforward. However, they can be stubborn, so consistent, positive reinforcement methods work best. Use treats, praise, and play as rewards. Early socialization is crucial to reduce their natural wariness of strangers and to ensure good behavior around other animals. Keep training sessions short and varied to hold their interest. They respond well to clicker training and enjoy learning tricks. Harsh corrections are counterproductive; patience and kindness yield the best results. Basic obedience and recall training are essential, as their hunting instincts may tempt them to chase small animals.",
+      "zh": "捷克梗聪明且乐于取悦，训练相对容易。但它们可能固执，因此一致的正强化方法最有效。使用零食、表扬和游戏作为奖励。早期社会化至关重要，以减少对陌生人的警惕，并确保与其他动物友好相处。训练时间要短而多变以保持兴趣。它们对响片训练反应良好，喜欢学习技巧。严厉的纠正适得其反；耐心和善意效果最佳。基础服从和召回训练必不可少，因为狩猎本能可能诱使其追逐小动物。"
+    },
+    "diet": {
+      "en": "Feed a Cesky Terrier high-quality dog food appropriate for their age, size, and activity level. Typically, 1-1.5 cups of dry food per day, split into two meals, is sufficient. Avoid overfeeding to prevent obesity, a common issue in the breed. Treats should be limited and used primarily for training. Fresh water must always be available. Some Cesky Terriers may have food allergies or sensitivities; monitor for skin or digestive issues and adjust diet accordingly. Consult a veterinarian for specific nutritional needs, especially for puppies and seniors. A balanced diet with proper protein and fat levels supports their coat health and energy.",
+      "zh": "为捷克梗提供适合其年龄、体型和活动水平的高质量狗粮。通常每天1-1.5杯干粮，分两次喂食即可。避免过度喂食以防肥胖，这是该品种的常见问题。零食应限制，主要用于训练。始终提供新鲜饮水。部分捷克梗可能有食物过敏或敏感；注意皮肤或消化问题并相应调整饮食。咨询兽医获取特定营养需求，尤其是幼犬和老年犬。均衡的蛋白质和脂肪水平有助于被毛健康和能量维持。"
+    },
+    "livingTips": {
+      "en": "Cesky Terriers adapt well to apartment living if given daily walks and playtime. They are generally quiet indoors and not prone to excessive barking. A securely fenced yard is ideal for safe exploration, but they can also thrive without one. They are good with children, especially when raised together, but supervision is recommended due to their terrier nature. They can coexist with other dogs and cats if properly socialized, though their prey drive may be triggered by small pets like hamsters. They prefer moderate climates and may be sensitive to extreme heat or cold. Provide a comfortable bed and a designated space for them to retreat.",
+      "zh": "捷克梗如果每天有散步和玩耍时间，能很好地适应公寓生活。它们通常室内安静，不易过度吠叫。有安全围栏的院子是理想选择，但无院子也可。它们与孩子相处良好，尤其是一起长大时，但因其梗犬天性，建议监督。若适当社会化，可与其他狗和猫共存，但可能追逐仓鼠等小宠物。它们喜欢温和气候，对极端冷热敏感。提供舒适的床和专属空间供其休息。"
+    }
+  }
 }

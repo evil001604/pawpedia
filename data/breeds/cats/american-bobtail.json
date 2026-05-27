@@ -82,5 +82,27 @@
       "en": "Sensitive",
       "zh": "敏感"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The American Bobtail is a striking, intelligent, and interactive breed known for its distinctive short tail and wild appearance. These cats are highly playful, lively, and sensitive, forming deep bonds with their human families. They are curious and enjoy interactive play, often following their owners around the house. Despite their wild look, they are gentle and affectionate, making them excellent companions. Their intelligence means they need mental stimulation to prevent boredom. They are generally healthy and adaptable, thriving in various home environments. Overall, the American Bobtail combines a unique appearance with a loving, engaging personality that makes them a wonderful addition to any household.",
+      "zh": "美国短尾猫是一种引人注目、聪明且互动性强的品种，以其独特的短尾巴和野性外貌而闻名。它们非常爱玩、活泼且敏感，与人类家庭建立深厚的情感纽带。它们好奇心强，喜欢互动游戏，经常跟随主人在家里走动。尽管外表野性，但它们温柔亲切，是极好的伴侣。它们的聪明意味着需要精神刺激以避免无聊。总体而言，美国短尾猫将独特的外表与充满爱心、引人入胜的性格相结合，使其成为任何家庭的绝佳补充。"
+    },
+    "care": {
+      "en": "Daily care for an American Bobtail includes regular grooming to maintain their semi-long to long coat. Brush them 2-3 times a week to prevent matting and reduce shedding. They are active cats, so provide daily interactive play sessions (at least 15-20 minutes) with toys like wands, puzzle feeders, or fetch games to satisfy their hunting instincts. Regular vet check-ups (at least once a year) are essential to monitor their health. Keep their litter box clean and provide scratching posts. Nail trimming every 2-3 weeks and dental care (brushing teeth weekly) are also recommended. These cats thrive on routine and attention, so consistent daily interaction is key.",
+      "zh": "美国短尾猫的日常护理包括定期梳理其半长至长毛。每周刷毛2-3次，防止打结并减少掉毛。它们很活跃，因此每天提供至少15-20分钟的互动游戏，使用逗猫棒、益智喂食器或寻回游戏来满足其狩猎本能。定期兽医检查（每年至少一次）对监测健康至关重要。保持猫砂盆清洁，提供抓柱。每2-3周修剪指甲，每周刷牙进行牙齿护理。这些猫喜欢规律和关注，因此持续的日常互动是关键。"
+    },
+    "training": {
+      "en": "American Bobtails are highly intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach commands like sit, stay, or fetch. They enjoy interactive games and can learn to walk on a leash if introduced gradually. Start training early, keeping sessions short (5-10 minutes) and fun. Because they are sensitive, avoid harsh corrections; instead, redirect unwanted behaviors with toys or scratching posts. They can also learn tricks and puzzles, which provide mental stimulation. Consistency and patience are important, as these cats thrive on routine and clear expectations.",
+      "zh": "美国短尾猫非常聪明，对正强化训练反应良好。使用零食、表扬和响片训练来教授如坐下、等待或寻回等命令。它们喜欢互动游戏，如果逐步引导，可以学会用牵引绳散步。尽早开始训练，保持课程简短（5-10分钟）且有趣。由于它们敏感，避免严厉纠正；相反，用玩具或抓柱引导不良行为。它们还能学习技巧和谜题，这提供了精神刺激。一致性和耐心很重要，因为这些猫在规律和明确期望下茁壮成长。"
+    },
+    "diet": {
+      "en": "Feed your American Bobtail a high-quality, balanced diet appropriate for their age, size, and activity level. A combination of wet and dry food is ideal to ensure hydration and dental health. Look for foods with real meat as the first ingredient and avoid fillers like corn or wheat. Portion control is important to prevent obesity; follow feeding guidelines on the package and adjust based on your cat's condition. Provide fresh water daily. Treats should be given sparingly. Consult your vet for specific dietary needs, especially if your cat has health issues. Some American Bobtails may have food sensitivities, so monitor for any adverse reactions.",
+      "zh": "为您的美国短尾猫提供适合其年龄、体型和活动水平的高质量均衡饮食。湿粮和干粮的组合是理想的，以确保水分摄入和牙齿健康。寻找以真正肉类为首要成分的猫粮，避免玉米或小麦等填充物。控制份量以防止肥胖；遵循包装上的喂养指南并根据猫的状况调整。每天提供新鲜水。零食应适量给予。如有特殊饮食需求，特别是健康问题，请咨询兽医。一些美国短尾猫可能有食物敏感，注意观察任何不良反应。"
+    },
+    "livingTips": {
+      "en": "American Bobtails are adaptable and can live in apartments or houses with or without yards. They are active but not hyperactive, so they do well in various spaces as long as they have enrichment like cat trees, toys, and window perches. They are generally good with children and other pets if properly socialized from kittenhood. Their interactive nature means they need companionship; they don't like being left alone for long periods. Provide vertical space for climbing and hiding spots. Secure windows and balconies to prevent escapes. These cats are sensitive to stress, so maintain a calm, predictable environment. Overall, they thrive in homes where they receive love, attention, and stimulation.",
+      "zh": "美国短尾猫适应性强，可以住在公寓或有院子的房子里。它们活跃但不过度，只要提供猫树、玩具和窗台等丰富环境，就能适应各种空间。如果从小适当社交，它们通常对儿童和其他宠物友好。它们喜欢互动，需要陪伴，不喜欢长时间独处。提供垂直空间供攀爬和藏身之处。固定窗户和阳台以防逃跑。这些猫对压力敏感，因此保持平静、可预测的环境。总体而言，它们在充满爱、关注和刺激的家庭中茁壮成长。"
+    }
+  }
 }

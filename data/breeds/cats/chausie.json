@@ -78,5 +78,27 @@
       "en": "Social",
       "zh": "社交"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Chausie is a striking hybrid cat that blends the wild appearance of its jungle cat ancestry with the affectionate and social nature of a domestic feline. Intelligent, playful, and highly active, this breed thrives on interaction and mental stimulation. Chausies form strong bonds with their families and are known for their dog-like loyalty and love of fetch. They are curious and adventurous, requiring plenty of space to explore and climb. Despite their wild looks, they are gentle and friendly, making them excellent companions for experienced cat owners who can meet their high energy needs.",
+      "zh": "乔西猫是一种引人注目的杂交猫，融合了其丛林猫祖先的野性外观和家猫的深情与社交天性。这种猫聪明、爱玩且高度活跃，喜欢互动和精神刺激。乔西猫与家人建立深厚感情，以像狗一样的忠诚和喜欢捡球游戏而闻名。它们好奇且爱冒险，需要大量空间来探索和攀爬。尽管外表野性，但它们温柔友好，是经验丰富的猫主人满足其高能量需求的绝佳伴侣。"
+    },
+    "care": {
+      "en": "Daily care for a Chausie includes brushing its short coat once a week to remove loose hair. They are active cats that need at least 30-60 minutes of vigorous exercise daily, including interactive play, climbing structures, and puzzle toys. Regular veterinary check-ups (at least annually) are essential to monitor for common health issues like hip dysplasia or dental problems. Nail trimming every 2-3 weeks and ear cleaning as needed complete the routine. Chausies enjoy water, so a cat fountain can encourage hydration.",
+      "zh": "乔西猫的日常护理包括每周梳理一次短毛以去除脱落的毛发。它们活跃，每天需要至少30-60分钟的高强度运动，包括互动游戏、攀爬结构和益智玩具。定期兽医检查（至少每年一次）对于监测髋关节发育不良或牙齿问题等常见健康问题至关重要。每2-3周修剪指甲，根据需要清洁耳朵，完成护理程序。乔西猫喜欢水，因此猫喷泉可以鼓励它们多喝水。"
+    },
+    "training": {
+      "en": "Chausies are highly intelligent and respond well to positive reinforcement training. Use treats, praise, and clicker training to teach commands like 'sit', 'stay', and 'fetch'. They enjoy learning tricks and can be trained to walk on a leash. Early socialization is crucial to ensure they are comfortable with various people and environments. Provide plenty of mental stimulation through puzzle feeders and interactive toys to prevent boredom. Training sessions should be short (5-10 minutes) but frequent to maintain their interest.",
+      "zh": "乔西猫非常聪明，对正向强化训练反应良好。使用零食、表扬和响片训练来教授“坐下”、“等待”和“捡球”等命令。它们喜欢学习技巧，可以训练用牵引绳散步。早期社会化至关重要，以确保它们适应不同的人和环境。通过益智喂食器和互动玩具提供充足的精神刺激，防止无聊。训练时间应短（5-10分钟）但频繁，以保持它们的兴趣。"
+    },
+    "diet": {
+      "en": "Feed a high-protein, low-carbohydrate diet suitable for active cats. Chausies thrive on a combination of high-quality wet food and dry kibble, with occasional raw or cooked meat treats. Ensure fresh water is always available; a cat fountain is recommended. Adult Chausies typically need 2-3 meals per day. Monitor portion sizes to prevent obesity, as their high energy levels can drop with age. Consult your veterinarian for specific dietary recommendations, especially for any food allergies or sensitivities.",
+      "zh": "喂食适合活跃猫的高蛋白、低碳水化合物饮食。乔西猫喜欢高质量湿粮和干粮的组合，偶尔搭配生肉或熟肉零食。确保随时提供新鲜水；建议使用猫喷泉。成年乔西猫通常每天需要2-3餐。监控份量以防止肥胖，因为随着年龄增长，它们的高能量水平可能会下降。咨询兽医以获得具体的饮食建议，特别是对于食物过敏或敏感的情况。"
+    },
+    "livingTips": {
+      "en": "Chausies require a spacious home with vertical spaces like cat trees or shelves for climbing. They are not ideal for small apartments unless ample exercise is provided. A securely fenced yard or catio is beneficial for supervised outdoor time. They generally get along well with children and other pets if properly socialized, but their high prey drive may not suit small animals like rodents or birds. Chausies are social and dislike being left alone for long periods; consider a second cat for companionship.",
+      "zh": "乔西猫需要宽敞的家，配有猫树或架子等垂直空间用于攀爬。它们不太适合小公寓，除非提供充足的锻炼。有安全围栏的院子或猫笼有助于监督下的户外活动。如果适当社会化，它们通常与孩子和其他宠物相处融洽，但它们的捕猎本能可能不适合小型动物如啮齿类或鸟类。乔西猫喜欢社交，不喜欢长时间独处；考虑养第二只猫作为伴侣。"
+    }
+  }
 }

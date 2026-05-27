@@ -86,5 +86,27 @@
       "en": "affectionate",
       "zh": "深情"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Biewer Terrier is a friendly, intelligent, and playful toy breed known for its devoted and affectionate nature. Originating from Germany in 1984, this tri-colored dog was developed by Werner and Gertrud Biewer from a piebald mutation in Yorkshire Terriers. They are small, elegant, and full of personality, making them excellent companions. Biewers are alert and curious, often forming strong bonds with their owners. Their gentle demeanor suits families, but they can be reserved with strangers. Despite their toy size, they have a lively spirit and enjoy interactive play. Recognized by the AKC in 2021, the Biewer Terrier combines charm with intelligence, thriving on human companionship and positive attention.",
+      "zh": "比弗梗是一种友好、聪明且爱玩的玩具犬，以其忠诚和深情的天性而闻名。该品种起源于1984年的德国，由沃纳和格特鲁德·比弗通过约克夏梗的斑驳基因突变培育而成。这种三色犬体型小巧、优雅，个性鲜明，是极佳的伴侣犬。比弗梗机警好奇，常与主人建立深厚情感。它们性格温和，适合家庭饲养，但对陌生人可能有所保留。尽管体型小巧，它们充满活力，热爱互动游戏。2021年获得AKC认可，比弗梗兼具魅力与智慧，在人类陪伴和积极关注中茁壮成长。"
+    },
+    "care": {
+      "en": "Daily care for a Biewer Terrier includes regular grooming to maintain their silky, long coat. Brush daily to prevent tangles and mats, and bathe every 2-4 weeks. Trim hair around eyes and ears, and brush teeth regularly. Exercise needs are moderate: 20-30 minutes of play or walks daily. They enjoy indoor games and short outdoor adventures. Vet visits should occur annually for check-ups and vaccinations. Keep nails trimmed monthly. Due to their small size, handle them gently to avoid injury. Monitor for dental issues and patellar luxation, common in toy breeds. Clean ears weekly to prevent infections.",
+      "zh": "比弗梗的日常护理包括定期梳理其丝滑长毛。每日梳毛以防打结，每2-4周洗澡一次。修剪眼周和耳部毛发，定期刷牙。运动需求适中：每天20-30分钟玩耍或散步。它们喜欢室内游戏和短途户外探险。每年带狗狗进行兽医体检和疫苗接种。每月修剪指甲。由于体型小巧，需轻柔处理以防受伤。注意牙齿问题和髌骨脱位，这在玩具犬中常见。每周清洁耳朵以防感染。"
+    },
+    "training": {
+      "en": "Training a Biewer Terrier requires patience, consistency, and positive reinforcement. They are intelligent but can be stubborn, so use treats and praise to motivate. Start early with socialization and basic obedience. Keep sessions short (5-10 minutes) to maintain their attention. Avoid harsh corrections; they respond best to gentle guidance. Housebreaking can be challenging; use a consistent schedule and crate training. They excel in trick training and canine sports like agility. Early socialization with people and other dogs helps prevent shyness or excessive barking. Their playful nature makes training fun if approached with creativity.",
+      "zh": "训练比弗梗需要耐心、一致性和积极强化。它们聪明但可能固执，因此用零食和表扬来激励。尽早开始社交化和基础服从训练。保持训练时间短（5-10分钟）以维持注意力。避免严厉纠正；它们对温和引导反应最佳。定点大小便可能有挑战；使用固定时间表和笼内训练。它们擅长技巧训练和敏捷性等犬类运动。早期与人和其它狗社交有助于防止害羞或过度吠叫。它们爱玩的天性使得训练充满乐趣，只要方法有创意。"
+    },
+    "diet": {
+      "en": "Feed a Biewer Terrier high-quality small-breed dog food, formulated for toy breeds. Divide daily portion into 2-3 meals to prevent hypoglycemia, common in small dogs. Portion size depends on age, weight, and activity level; typically 1/4 to 1/2 cup per day. Avoid overfeeding to prevent obesity. Include lean proteins, healthy fats, and carbohydrates. Fresh water should always be available. Treats should be limited and used for training. Consult your vet for specific dietary needs, especially for puppies and seniors. Avoid human foods like chocolate, grapes, and onions.",
+      "zh": "为比弗梗提供优质小型犬狗粮，专为玩具犬设计。将每日份量分成2-3餐，以防低血糖（小型犬常见）。份量取决于年龄、体重和活动水平；通常每天1/4到1/2杯。避免过度喂食以防肥胖。食物应包含瘦肉蛋白、健康脂肪和碳水化合物。始终提供新鲜饮水。零食应限量并用于训练。咨询兽医了解特定饮食需求，尤其是幼犬和老年犬。避免喂食巧克力、葡萄和洋葱等人类食物。"
+    },
+    "livingTips": {
+      "en": "Biewer Terriers adapt well to apartment living due to their small size and moderate exercise needs. They enjoy indoor play and are generally quiet, though they may alert bark. A securely fenced yard is nice but not essential. They are good with children if raised together, but supervise interactions due to their fragility. They get along with other pets if properly socialized. Biewers thrive on companionship and should not be left alone for long periods; they may develop separation anxiety. Provide cozy beds, interactive toys, and a safe environment. They are sensitive to extreme temperatures, so keep them indoors.",
+      "zh": "比弗梗体型小巧、运动需求适中，非常适合公寓生活。它们喜欢室内玩耍，通常安静，但可能会警惕吠叫。有安全围栏的院子不错，但非必需。若与孩子一起成长，它们对孩子友善，但因脆弱需监督互动。若适当社交，它们能与其他宠物和睦相处。比弗梗需要陪伴，不应长时间独处，否则可能产生分离焦虑。提供舒适的床、互动玩具和安全环境。它们对极端温度敏感，应养在室内。"
+    }
+  }
 }

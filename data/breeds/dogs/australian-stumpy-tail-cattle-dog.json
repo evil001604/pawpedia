@@ -94,5 +94,27 @@
       "en": "work-focused",
       "zh": "专注工作"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Australian Stumpy Tail Cattle Dog is a highly intelligent, energetic, and loyal herding breed developed in Australia. Known for its natural bobtail, this dog is alert, courageous, and independent, with a strong work drive. Stumpies are devoted to their family but can be reserved with strangers. They thrive on having a job to do and require plenty of mental and physical stimulation. Their herding instincts may lead them to chase or nip at children or other pets if not properly trained. Overall, they are best suited for active owners who can provide structure and purpose.",
+      "zh": "澳大利亚短尾牧牛犬是一种非常聪明、精力充沛且忠诚的牧牛犬品种，起源于澳大利亚。以其自然的短尾而闻名，这种犬警惕、勇敢、独立，工作驱动力强。短尾牧牛犬对家庭忠诚，但对陌生人可能保持距离。它们需要有任务可做，需要大量的精神和身体刺激。如果训练不当，其牧牛本能可能导致它们追逐或轻咬儿童或其他宠物。总的来说，它们最适合能够提供结构和目标的活跃主人。"
+    },
+    "care": {
+      "en": "Daily care for a Stumpy includes a brisk walk or jog, plus off-leash play in a secure area, totaling at least 60 minutes of exercise. Their short double coat requires weekly brushing to control shedding, with more frequent brushing during seasonal changes. Bathing is needed only occasionally. Nail trimming every 3-4 weeks, regular ear checks, and dental care are essential. Annual vet visits for vaccinations and health screenings are recommended. Because of their high energy, mental enrichment like puzzle toys or training sessions should be part of their daily routine.",
+      "zh": "短尾牧牛犬的日常护理包括每天至少60分钟的快步走或慢跑，以及在安全区域内的无绳玩耍。它们的短双层被毛需要每周梳理以控制掉毛，换毛季节需更频繁。偶尔洗澡即可。每3-4周剪一次指甲，定期检查耳朵和牙齿护理必不可少。建议每年进行疫苗接种和健康检查。由于精力充沛，应每天提供益智玩具或训练等精神刺激。"
+    },
+    "training": {
+      "en": "Training should start early with firm, consistent, and positive methods. Stumpies are intelligent but can be stubborn, so patience is key. Use reward-based training with treats and praise to motivate. Focus on basic obedience, impulse control, and socialization to prevent herding behaviors. They excel in dog sports like agility, obedience, and herding trials. Avoid harsh corrections as they can become defensive. Short, varied sessions keep their interest. Early socialization with people, dogs, and different environments is crucial for a well-rounded adult.",
+      "zh": "训练应从幼犬开始，采用坚定、一致且正向的方法。短尾牧牛犬聪明但可能固执，因此耐心是关键。使用零食和表扬进行奖励式训练以激发动力。重点训练基本服从、冲动控制和社交化，以防止牧牛行为。它们擅长敏捷、服从和牧牛比赛等犬类运动。避免严厉纠正，否则它们可能变得防御。短而多样化的训练能保持其兴趣。早期与人类、其他犬只及不同环境的社交对于培养全面发展的成年犬至关重要。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their life stage (puppy, adult, senior). Active Stumpies may need a higher protein diet to support muscle maintenance. Portion control is important to prevent obesity, as they can be food-driven. Divide meals into two per day. Avoid overfeeding treats. Fresh water should always be available. Some may have food allergies; consult a vet if skin or digestive issues arise. Consider joint supplements for older dogs to support mobility.",
+      "zh": "喂食符合其生命阶段（幼犬、成犬、老年犬）的高品质狗粮。活跃的短尾牧牛犬可能需要更高蛋白质的饮食来维持肌肉。注意控制食量以防肥胖，因为它们可能对食物驱动力强。每日分两餐喂食。避免过量喂食零食。始终提供新鲜饮水。部分犬只可能有食物过敏，如出现皮肤或消化问题请咨询兽医。对于老年犬，可考虑关节保健品以支持活动能力。"
+    },
+    "livingTips": {
+      "en": "Stumpies are not ideal for apartment living due to their high energy and need for space. A home with a securely fenced yard is best. They can be good with children if raised with them, but herding instincts may cause nipping; supervise interactions. They may not get along with other dogs of the same sex and have a strong prey drive towards small animals. Early socialization helps. They are independent and can be left alone for moderate periods if exercised beforehand, but boredom leads to destructive behavior. Mental stimulation is essential.",
+      "zh": "短尾牧牛犬精力旺盛且需要空间，不适合公寓生活。有安全围栏院子的房屋最为理想。如果与儿童一起成长，它们可以相处融洽，但牧牛本能可能导致轻咬，需监督互动。它们可能对同性别的其他犬只不友好，并对小动物有强烈捕猎驱动力。早期社交化有助于改善。它们独立，如果事先运动充分，可以独自待中等时间，但无聊会导致破坏行为。精神刺激至关重要。"
+    }
+  }
 }

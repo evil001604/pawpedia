@@ -98,5 +98,27 @@
       "en": "adaptable",
       "zh": "适应性强"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Bohemian Shepherd, also known as Chodský pes, is an ancient herding breed from the Czech Republic. This medium-sized dog is intelligent, loyal, calm, and confident, with a gentle and adaptable nature. Bred for herding and guarding, they are energetic and eager to please, making them excellent companions for active families. Their herding instinct remains strong, and they are known for their even temperament and devotion to their owners.",
+      "zh": "波西米亚牧羊犬，又称乔德犬，是来自捷克共和国的古老牧羊犬种。这种中型犬聪明、忠诚、冷静、自信，性格温和且适应性强。它们被培育用于放牧和护卫，精力充沛且乐于取悦主人，是活跃家庭的绝佳伴侣。它们的牧羊本能依然强烈，以平和的性情和对主人的忠诚而闻名。"
+    },
+    "care": {
+      "en": "Daily care for a Bohemian Shepherd includes moderate exercise such as long walks, jogging, or play sessions in a secure area. Their thick double coat requires weekly brushing, more frequently during shedding seasons. Regular vet visits are essential for vaccinations, dental health, and parasite prevention. Mental stimulation through puzzle toys or herding activities is recommended to prevent boredom.",
+      "zh": "波西米亚牧羊犬的日常护理包括适度的运动，如长距离散步、慢跑或在安全区域玩耍。它们浓密的双层被毛需要每周梳理，换毛季节需更频繁。定期兽医检查对于疫苗接种、牙齿健康和寄生虫预防至关重要。建议通过益智玩具或牧羊活动提供精神刺激，以防无聊。"
+    },
+    "training": {
+      "en": "Training should be positive and consistent, using reward-based methods. Bohemian Shepherds are intelligent and eager to please, so they respond well to praise and treats. Early socialization and basic obedience training are crucial. They excel in dog sports like agility, obedience, and herding trials. Avoid harsh corrections as they are sensitive to tone. Keep sessions short and varied to maintain interest.",
+      "zh": "训练应采用积极一致的方法，以奖励为基础。波西米亚牧羊犬聪明且乐于取悦，因此对表扬和零食反应良好。早期社会化和基本服从训练至关重要。它们在敏捷、服从和牧羊比赛等犬类运动中表现出色。避免严厉的纠正，因为它们对语气敏感。保持训练时间短且多样化，以维持兴趣。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for the dog's age, size, and activity level. Bohemian Shepherds are active and may require a diet rich in protein and healthy fats. Divide meals into two portions daily to prevent bloating. Ensure fresh water is always available. Treats should be given in moderation during training. Consult a veterinarian for specific dietary needs or allergies.",
+      "zh": "喂食适合年龄、体型和活动水平的高质量狗粮。波西米亚牧羊犬活跃，可能需要富含蛋白质和健康脂肪的饮食。每日分两餐喂食，以防腹胀。确保随时有新鲜饮水。训练期间适量给予零食。如有特殊饮食需求或过敏，请咨询兽医。"
+    },
+    "livingTips": {
+      "en": "Bohemian Shepherds adapt well to various living environments, including apartments if provided sufficient exercise. They thrive in homes with a securely fenced yard. They are good with children and other pets when properly socialized. However, their herding instinct may cause them to chase or nip at running children, so supervision is recommended. They prefer to be with their family and may become anxious if left alone for long periods.",
+      "zh": "波西米亚牧羊犬能适应各种生活环境，包括公寓，前提是获得充足运动。它们在有安全围栏的庭院中茁壮成长。经过适当社会化，它们能与儿童和其他宠物友好相处。然而，它们的牧羊本能可能导致追逐或轻咬奔跑的孩子，因此建议监督。它们喜欢与家人在一起，长时间独处可能产生焦虑。"
+    }
+  }
 }

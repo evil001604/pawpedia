@@ -90,5 +90,27 @@
       "en": "easygoing",
       "zh": "随和"
     }
-  ]
+  ],
+  "careGuide": {
+    "overview": {
+      "en": "The Black and Tan Coonhound is a friendly, outgoing, and intelligent breed known for its keen hunting instincts and adaptability. Originally bred in the American South for raccoon hunting, this hound is alert, easygoing, and makes a loyal family companion. They are known for their distinctive baying bark and strong tracking abilities. While affectionate with their families, they can be reserved with strangers. Their even temperament and patience make them good with children, though their hunting drive may lead them to chase small animals. Overall, they are a low-maintenance breed in terms of grooming but require ample exercise and mental stimulation.",
+      "zh": "黑褐猎浣熊犬是一种友好、外向且聪明的犬种，以其敏锐的狩猎本能和适应性而闻名。该犬种最初在美国南部培育用于浣熊狩猎，这种猎犬警觉、随和，是忠诚的家庭伴侣。它们以独特的吠叫和强大的追踪能力著称。虽然对家人充满感情，但对陌生人可能有所保留。它们平和的性情和耐心使它们适合与儿童相处，但它们的狩猎本能可能导致追逐小动物。总体而言，它们在美容方面维护成本低，但需要大量的运动和智力刺激。"
+    },
+    "care": {
+      "en": "Daily care for a Black and Tan Coonhound includes moderate grooming: brush their short coat weekly to minimize shedding, and clean their long, droopy ears regularly to prevent infections. They need at least 60 minutes of vigorous exercise daily, such as long walks, runs, or hikes, ideally in a secure area where they can safely explore scents. Regular vet visits are essential for vaccinations, heartworm prevention, and joint health monitoring, as the breed can be prone to hip dysplasia. Nail trimming every few weeks and dental care are also important for overall health.",
+      "zh": "黑褐猎浣熊犬的日常护理包括适度的美容：每周梳理短毛以减少脱毛，并定期清洁其长而下垂的耳朵以防感染。它们每天需要至少60分钟的剧烈运动，如长距离散步、跑步或远足，最好在安全的区域让它们自由探索气味。定期兽医检查对于疫苗接种、心丝虫预防和关节健康监测至关重要，因为该品种易患髋关节发育不良。每隔几周修剪指甲和牙齿护理也对整体健康很重要。"
+    },
+    "training": {
+      "en": "Training a Black and Tan Coonhound requires patience and consistency, as they can be independent and stubborn due to their hound instincts. Use positive reinforcement methods like treats and praise, and keep sessions short and engaging to hold their attention. Early socialization is crucial to prevent shyness or aggression. They respond well to scent-based games and tracking exercises, which tap into their natural abilities. Avoid harsh corrections, as they can be sensitive. Crate training can help with housebreaking, but never leave them alone for long periods as they may become destructive from boredom.",
+      "zh": "训练黑褐猎浣熊犬需要耐心和一致性，因为它们具有猎犬的独立性，可能固执。使用正面强化方法，如零食和表扬，并保持训练简短有趣以吸引它们的注意力。早期社会化对防止害羞或攻击性至关重要。它们对基于气味的游戏和追踪练习反应良好，这利用了它们的自然能力。避免严厉的纠正，因为它们可能敏感。笼内训练有助于家庭排便，但不要长时间单独留它们，否则可能因无聊而破坏物品。"
+    },
+    "diet": {
+      "en": "Feed a high-quality dog food appropriate for their age, size, and activity level. Black and Tan Coonhounds are prone to obesity, so measure portions and limit treats. A diet rich in protein and healthy fats supports their energy needs. Consider foods with glucosamine and chondroitin for joint health, especially as they age. Divide daily food into two meals to prevent bloat, a risk in deep-chested breeds. Always provide fresh water. Consult your vet for specific dietary recommendations, especially if your dog has allergies or sensitivities.",
+      "zh": "喂食适合其年龄、体型和活动水平的高品质狗粮。黑褐猎浣熊犬容易肥胖，因此要测量份量并限制零食。富含蛋白质和健康脂肪的饮食支持其能量需求。考虑含有葡萄糖胺和软骨素的食物以促进关节健康，特别是随着年龄增长。将每日食物分为两餐以防止腹胀，这是深胸品种的风险。始终提供新鲜水。咨询兽医以获得具体饮食建议，特别是如果您的狗有过敏或敏感问题。"
+    },
+    "livingTips": {
+      "en": "Black and Tan Coonhounds adapt well to various living situations but do best in homes with a securely fenced yard where they can roam and sniff. They are not ideal for apartments due to their size and exercise needs, and their loud baying may disturb neighbors. They are generally good with children and other dogs if socialized early, but their strong prey drive makes them unsuitable for homes with small pets like cats or rabbits. They thrive on companionship and should not be left alone for long hours, as they can become anxious and destructive.",
+      "zh": "黑褐猎浣熊犬能适应各种生活环境，但最好在有安全围栏的院子里生活，让它们可以漫步和嗅闻。由于其体型和运动需求，它们不适合公寓生活，而且响亮的吠叫可能打扰邻居。如果早期社会化，它们通常与儿童和其他狗相处良好，但强烈的捕猎本能使它们不适合与猫或兔子等小宠物同住。它们需要陪伴，不应长时间独处，否则可能变得焦虑和具有破坏性。"
+    }
+  }
 }

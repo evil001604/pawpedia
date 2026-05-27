@@ -1,6 +1,21 @@
 import { getTranslations } from "next-intl/server"
 import { loadBreeds } from "@/lib/breeds"
 import Link from "next/link"
+import type { Metadata } from "next"
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params
+  const l = locale as "en" | "zh"
+  const title = l === "en" ? "PetPedia — AI Pet Breed Encyclopedia" : "PetPedia — AI宠物品种百科"
+  const description = l === "en"
+    ? "Explore 266+ dog and cat breeds with radar charts, health guides, AI diagnosis, and product picks. Bilingual EN/ZH."
+    : "探索266+犬猫品种，包含雷达图、健康指南、AI诊断和用品推荐。中英双语。"
+  return {
+    title,
+    description,
+    openGraph: { title, description },
+  }
+}
 
 const features = [
   { key: "traits", color: "bg-amber-50 border-amber-200" },

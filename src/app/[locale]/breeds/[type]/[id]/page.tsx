@@ -37,10 +37,19 @@ export async function generateMetadata({
   const breed = loadBreed(type as PetType, id)
   if (!breed) return {}
   const l = locale as "en" | "zh"
+  const speciesLabel = breed.type === "dog" ? (l === "en" ? "Dog" : "犬") : (l === "en" ? "Cat" : "猫")
+  const tagList = breed.tags.map(t => t[l]).slice(0, 3).join(", ")
+  const description = l === "en"
+    ? `${breed.name[l]} is a ${speciesLabel} breed from ${breed.origin[l]}. ${tagList ? `Key traits: ${tagList}. ` : ""}View radar charts, health guides, and care tips.`
+    : `${breed.name[l]}是一种来自${breed.origin[l]}的${speciesLabel}。${tagList ? `主要特点：${tagList}。 ` : ""}查看雷达图、健康指南和护理建议。`
   return {
-    title: `${breed.name[l]} - PetPedia`,
-    description: `${breed.name[l]} - ${breed.type === "dog" ? "Dog" : "Cat"} breed information`,
-    openGraph: { title: breed.name[l] },
+    title: `${breed.name[l]} - ${speciesLabel} Breed | PetPedia`,
+    description,
+    openGraph: {
+      title: `${breed.name[l]} - ${speciesLabel} Breed`,
+      description,
+      images: breed.images?.[0] ? [{ url: breed.images[0], width: 600, height: 400 }] : [],
+    },
   }
 }
 
@@ -64,6 +73,18 @@ export default async function BreedDetailPage({
   const pt = await getTranslations("products")
   const l = locale as "en" | "zh"
 
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://pawpedia.xyz"
+  const speciesLabel = l === "en" ? (type === "dog" ? "Dogs" : "Cats") : (type === "dog" ? "狗" : "猫")
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": `${baseUrl}/${locale}` },
+      { "@type": "ListItem", "position": 2, "name": speciesLabel, "item": `${baseUrl}/${locale}/breeds/${type}` },
+      { "@type": "ListItem", "position": 3, "name": breed.name[l], "item": `${baseUrl}/${locale}/breeds/${type}/${id}` },
+    ],
+  }
+
   const imageUrl = breed.images?.[0]
   const isExternal = imageUrl?.startsWith("http")
   const weightStr = breed.stats.weight.male === breed.stats.weight.female
@@ -72,6 +93,10 @@ export default async function BreedDetailPage({
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Link href={`/${locale}/breeds/${type}`} className="text-sm text-amber-600 hover:underline">
         &larr; {type === "dog" ? t("allDogs") : t("allCats")}
       </Link>

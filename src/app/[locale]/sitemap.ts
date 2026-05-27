@@ -11,7 +11,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entries.push({ url: `${baseUrl}/${locale}`, lastModified: new Date(), changeFrequency: "weekly", priority: 1 })
     entries.push({ url: `${baseUrl}/${locale}/breeds/dog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.9 })
     entries.push({ url: `${baseUrl}/${locale}/breeds/cat`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.9 })
-    entries.push({ url: `${baseUrl}/${locale}/health`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 })
     entries.push({ url: `${baseUrl}/${locale}/diagnose`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 })
     entries.push({ url: `${baseUrl}/${locale}/about`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 })
     entries.push({ url: `${baseUrl}/${locale}/privacy`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.5 })

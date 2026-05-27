@@ -10,15 +10,47 @@ export const metadata: Metadata = {
     description: "Explore 266+ dog and cat breeds with radar charts, health guides, and AI diagnosis.",
     siteName: "PetPedia",
     type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    locale: "en_US",
   },
-  robots: "index, follow",
+  twitter: {
+    card: "summary_large_image",
+    title: "PetPedia — AI Pet Breed Encyclopedia",
+    description: "Explore 266+ dog and cat breeds with radar charts, health guides, and AI diagnosis.",
+    images: ["/og-image.png"],
+  },
+  alternates: {
+    canonical: "/",
+    languages: { en: "/en", zh: "/zh" },
+  },
+  robots: { index: true, follow: true },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "PetPedia",
+    "url": process.env.NEXT_PUBLIC_BASE_URL || "https://pawpedia.xyz",
+    "description": "Explore 266+ dog and cat breeds with radar charts, health guides, AI diagnosis, and product picks. Bilingual EN/ZH.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": (process.env.NEXT_PUBLIC_BASE_URL || "https://pawpedia.xyz") + "/en/breeds/dog?search={search_term_string}",
+      },
+      "query-input": "required name=search_term_string",
+    },
+  }
+
   return (
     <html lang="en">
       <head>
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8406737735428048"

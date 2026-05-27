@@ -29,6 +29,7 @@ export default function SimilarBreeds({
                 <img
                   src={breed.images[0]}
                   alt={breed.name[locale]}
+                  loading="lazy"
                   className="h-full w-full object-cover transition-transform group-hover:scale-105"
                 />
               ) : (
